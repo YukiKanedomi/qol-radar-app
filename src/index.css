@@ -304,11 +304,54 @@ body {
   border-bottom: 1px solid var(--line);
   padding: 14px 0;
 }
+.filter-head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.filter-actions {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
 .chips {
   display: flex;
   gap: 0;
   flex-wrap: wrap;
   align-items: center;
+}
+/* 絞り込みトグル：モバイルのみ表示 */
+.filter-toggle {
+  display: none;
+  align-items: center;
+  gap: 7px;
+  font: inherit;
+  font-size: 13px;
+  color: var(--sub);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.filter-toggle .chev {
+  transition: transform 0.2s ease;
+}
+.filter-toggle[aria-expanded="true"] .chev {
+  transform: rotate(180deg);
+}
+.filter-badge {
+  display: inline-grid;
+  place-items: center;
+  min-width: 17px;
+  height: 17px;
+  padding: 0 4px;
+  border-radius: 999px;
+  background: var(--vermil);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
 }
 .chip {
   font-size: 13px;
@@ -331,7 +374,6 @@ body {
   font-weight: 700;
 }
 .search {
-  margin-left: auto;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -635,14 +677,35 @@ body {
   .hmeta .sep-hide {
     display: none;
   }
-  .search {
-    margin-left: 0;
-    width: 100%;
-    flex: 1 0 100%;
-    order: 3;
+  /* モバイル：フィルターは sticky 解除（スクロールで流す→カードが全画面に） */
+  .filters {
+    position: static;
+    padding: 12px 0;
   }
+  .filter-head {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+  .filter-actions {
+    margin-left: 0;
+  }
+  .search {
+    flex: 1;
+    min-width: 0;
+  }
+  .filter-toggle {
+    display: inline-flex;
+    flex: 0 0 auto;
+  }
+  /* 二次フィルターは既定で閉じる。トグルで開く */
   .refine {
+    display: none;
+    margin-top: 12px;
     gap: 12px 16px;
+  }
+  .refine.open {
+    display: flex;
   }
   .refine-right {
     margin-left: 0;

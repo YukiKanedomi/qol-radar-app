@@ -1,4 +1,5 @@
-import { Search, Heart } from "lucide-react";
+import { useState } from "react";
+import { Search, Heart, SlidersHorizontal, ChevronDown } from "lucide-react";
 import type { PicksMeta, Status } from "@/types";
 import { shortLabel } from "@/lib/picks";
 import type { FilterState, SortKey } from "@/lib/filtering";
@@ -23,10 +24,22 @@ const SORT_OPTS: { value: SortKey; label: string }[] = [
   { value: "price", label: "価格安い順" },
 ];
 
+/** 二次フィルターの適用数（モバイルの「絞り込み」バッジ用） */
+function activeRefineCount(s: FilterState): number {
+  return (
+    (s.minTrust > 0 ? 1 : 0) +
+    (s.prices.length > 0 ? 1 : 0) +
+    (s.statuses.length > 0 ? 1 : 0) +
+    (s.favoritesOnly ? 1 : 0)
+  );
+}
+
 export function FilterBar({ meta, state, patch, resultCount }: Props) {
+  const [open, setOpen] = useState(false);
   const genres = Object.keys(meta.genres);
   const prices = Object.keys(meta.priceLegend).map(Number).sort();
   const statusKeys = Object.keys(meta.statusLegend) as Status[];
+  const refineCount = activeRefineCount(state);
 
   const togglePrice = (tier: number) =>
     patch({
@@ -45,40 +58,58 @@ export function FilterBar({ meta, state, patch, resultCount }: Props) {
   return (
     <div className="filters">
       <div className="wrap">
-        {/* row 1: ジャンル + 検索 */}
-        <div className="chips">
-          <button
-            className={"chip" + (state.genre === "all" ? " on" : "")}
-            type="button"
-            onClick={() => patch({ genre: "all" })}
-          >
-            全て
-          </button>
-          {genres.map((key) => (
+        {/* ジャンル + 検索 + （モバイル）絞り込みトグル */}
+        <div className="filter-head">
+          <div className="chips">
             <button
-              className={"chip" + (state.genre === key ? " on" : "")}
+              className={"chip" + (state.genre === "all" ? " on" : "")}
               type="button"
-              key={key}
-              title={meta.genres[key]}
-              onClick={() => patch({ genre: key })}
+              onClick={() => patch({ genre: "all" })}
             >
-              {shortLabel(meta.genres[key])}
+              全て
             </button>
-          ))}
-          <label className="search">
-            <Search size={14} strokeWidth={2} />
-            <input
-              className="search-input"
-              type="search"
-              value={state.query}
-              placeholder="名称・タグで検索"
-              onChange={(e) => patch({ query: e.target.value })}
-            />
-          </label>
+            {genres.map((key) => (
+              <button
+                className={"chip" + (state.genre === key ? " on" : "")}
+                type="button"
+                key={key}
+                title={meta.genres[key]}
+                onClick={() => patch({ genre: key })}
+              >
+                {shortLabel(meta.genres[key])}
+              </button>
+            ))}
+          </div>
+
+          <div className="filter-actions">
+            <label className="search">
+              <Search size={14} strokeWidth={2} />
+              <input
+                className="search-input"
+                type="search"
+                value={state.query}
+                placeholder="名称・タグで検索"
+                onChange={(e) => patch({ query: e.target.value })}
+              />
+            </label>
+            <button
+              type="button"
+              className="filter-toggle"
+              aria-expanded={open}
+              onClick={() => setOpen((o) => !o)}
+            >
+              <SlidersHorizontal size={14} strokeWidth={2} />
+              絞り込み
+              {refineCount > 0 ? (
+                <span className="filter-badge num">{refineCount}</span>
+              ) : null}
+              <ChevronDown size={14} strokeWidth={2} className="chev" />
+            </button>
+          </div>
         </div>
 
-        {/* row 2: 信頼度 / 価格 / 状態 / お気に入り / 並び替え */}
-        <div className="refine">
+        {/* 信頼度 / 価格 / 状態 / お気に入り / 並び替え（モバイルは折りたたみ） */}
+        <div className={"refine" + (open ? " open" : "")}>
           <div className="fg">
             <span className="fg-label">信頼度</span>
             {TRUST_OPTS.map((o) => (
