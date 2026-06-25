@@ -565,8 +565,33 @@ body {
 .card .blurb {
   font-size: 13px;
   color: var(--sub);
-  flex: 1;
   margin: 0;
+}
+/* 推しポイント（なぜ良いか） */
+.points {
+  list-style: none;
+  margin: 1px 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.points li {
+  font-size: 12px;
+  color: var(--sub);
+  line-height: 1.45;
+  padding-left: 15px;
+  position: relative;
+}
+.points li::before {
+  content: "";
+  position: absolute;
+  left: 1px;
+  top: 7px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--gc, var(--accent));
 }
 .tags {
   display: flex;
@@ -597,7 +622,8 @@ body {
   gap: 12px;
   padding-top: 13px;
   border-top: 1px solid var(--line);
-  margin-top: 3px;
+  /* カード高さが揃うよう meta+操作を下端に寄せる */
+  margin-top: auto;
 }
 .src {
   font-family: "Inter", sans-serif;

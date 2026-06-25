@@ -91,6 +91,7 @@ for (const c of candidates) {
     trust: clampInt(c.trust, 1, 3, 1),
     priceTier: clampInt(c.priceTier, 1, 3, 2),
     blurb: c.blurb || "",
+    points: Array.isArray(c.points) ? c.points.slice(0, 3) : [],
     tags: Array.isArray(c.tags) ? c.tags : [],
     dateAdded: c.dateAdded || today,
     status: "new",

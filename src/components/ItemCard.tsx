@@ -48,6 +48,14 @@ export function ItemCard({
       <h4 className="mincho">{pick.name}</h4>
       <p className="blurb">{pick.blurb}</p>
 
+      {pick.points && pick.points.length > 0 ? (
+        <ul className="points">
+          {pick.points.map((pt) => (
+            <li key={pt}>{pt}</li>
+          ))}
+        </ul>
+      ) : null}
+
       <div className="tags">
         {pick.tags.map((t) => (
           <button

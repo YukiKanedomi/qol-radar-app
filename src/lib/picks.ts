@@ -12,6 +12,7 @@ export async function loadPicks(): Promise<PicksData> {
     ...p,
     tags: Array.isArray(p.tags) ? p.tags : [],
     sources: Array.isArray(p.sources) ? p.sources : [],
+    points: Array.isArray(p.points) ? p.points : [],
   }));
   return data;
 }

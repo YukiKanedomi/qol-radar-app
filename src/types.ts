@@ -10,6 +10,8 @@ export interface Pick {
   /** 価格帯 1=〜数千円, 2=1〜3万, 3=3万〜 */
   priceTier: number;
   blurb: string;
+  /** 推しポイント（なぜ良いか・2〜3点）。任意 */
+  points?: string[];
   tags: string[];
   dateAdded: string;
   status: Status;
