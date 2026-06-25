@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-06-24",
+    "lastUpdated": "2026-06-25",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10,30 +10,581 @@
       "health": "健康・睡眠・食",
       "service": "時短サービス・サブスク"
     },
-    "trustLegend": { "3": "多数のまとめで定番", "2": "複数で言及", "1": "注目株" },
-    "priceLegend": { "1": "〜数千円", "2": "1〜3万円", "3": "3万円〜" },
-    "statusLegend": { "new": "新着", "interested": "気になる", "bought": "買った", "skip": "スルー" }
+    "trustLegend": {
+      "1": "注目株",
+      "2": "複数で言及",
+      "3": "多数のまとめで定番"
+    },
+    "priceLegend": {
+      "1": "〜数千円",
+      "2": "1〜3万円",
+      "3": "3万円〜"
+    },
+    "statusLegend": {
+      "new": "新着",
+      "interested": "気になる",
+      "bought": "買った",
+      "skip": "スルー"
+    }
   },
   "picks": [
-    { "id": "plaud-note", "name": "PLAUD NOTE", "genre": "gadget", "trust": 3, "priceTier": 2, "blurb": "録音→AIで文字起こし＆要約。会議・取材の神器", "tags": ["AI","仕事効率"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://sakidori.co/article/1273225","https://digital-style.jp/best-buy-items"] },
-    { "id": "time-timer", "name": "TIME TIMER（アナログタイマー）", "genre": "gadget", "trust": 2, "priceTier": 1, "blurb": "残り時間が面積で一目。集中・ダラダラ防止", "tags": ["集中","時間管理"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://sakidori.co/article/1273225"] },
-    { "id": "power-station-desk", "name": "卓上電源ステーション（7ポート/USB-C対応）", "genre": "gadget", "trust": 2, "priceTier": 1, "blurb": "充電ケーブルのごちゃつきを1台で解消", "tags": ["充電","整理"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://sakidori.co/article/1273225"] },
-    { "id": "anker-tracker", "name": "Anker 紛失防止トラッカー", "genre": "gadget", "trust": 2, "priceTier": 1, "blurb": "鍵・財布をスマホで発見。探し物の時間を削る", "tags": ["紛失防止"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://note.com/dd_qol/n/n4ffe8c566d33"] },
-    { "id": "drum-washer-dryer", "name": "ドラム式洗濯乾燥機（洗剤自動投入）", "genre": "housework", "trust": 3, "priceTier": 3, "blurb": "「干す・取り込む」が消える。時短の本丸", "tags": ["洗濯","共働き"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://jp.narwal.com/blogs/homecare/home-appliances-for-working-couples","https://my-best.com/30875"] },
-    { "id": "dishwasher", "name": "食洗機（設置型・ミニ）", "genre": "housework", "trust": 3, "priceTier": 2, "blurb": "入れて押すだけ。手荒れ防止・節水も", "tags": ["キッチン","共働き"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://my-best.com/30875","https://jp.narwal.com/blogs/homecare/home-appliances-for-working-couples"] },
-    { "id": "floor-mop-robot", "name": "床拭きロボット（Narwal等・乾湿両用）", "genre": "housework", "trust": 3, "priceTier": 3, "blurb": "掃除機がけ＋水拭きを自動で", "tags": ["掃除","自動化"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://jp.narwal.com/blogs/homecare/home-appliances-for-working-couples"] },
-    { "id": "electric-pressure-cooker", "name": "電気圧力鍋（1台多役）", "genre": "housework", "trust": 2, "priceTier": 2, "blurb": "材料入れて放置で煮込み完成", "tags": ["調理","ほったらかし"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://www.biccamera.com/bc/i/topics/osusume_household_appliances/index.jsp"] },
-    { "id": "veg-chopper", "name": "野菜みじん切りカッター", "genre": "housework", "trust": 2, "priceTier": 1, "blurb": "包丁いらずで下ごしらえ短縮", "tags": ["調理","時短"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://support.kirari.co.jp/miso-shiru/3151/"] },
-    { "id": "standing-desk", "name": "電動昇降デスク", "genre": "work", "trust": 3, "priceTier": 3, "blurb": "立ち座り切替で集中持続・腰痛対策。在宅の定番化", "tags": ["デスク","健康"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://www.yamada-denkiweb.com/media/46713/","https://desk-hack-lab.com/remote-work-gadget-recommend-10/"] },
-    { "id": "monitor-arm", "name": "モニターアーム", "genre": "work", "trust": 2, "priceTier": 1, "blurb": "机が広く、姿勢も改善。費用対効果が高い", "tags": ["デスク","姿勢"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://www.yamada-denkiweb.com/media/46713/"] },
-    { "id": "monitor-light", "name": "モニターライト（Quntis等）", "genre": "work", "trust": 2, "priceTier": 1, "blurb": "目に優しく省スペース。夜作業が快適に", "tags": ["照明","目"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://gadgerba.com/work-home-from-gadget/"] },
-    { "id": "docking-station", "name": "ドッキングステーション", "genre": "work", "trust": 2, "priceTier": 2, "blurb": "ケーブル1本でPCと周辺機器を一括接続", "tags": ["PC周辺","整理"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://ryo-simplelife.com/working-from-home-gadget/"] },
-    { "id": "hitsuji-pillow", "name": "ヒツジのいらない枕", "genre": "health", "trust": 3, "priceTier": 2, "blurb": "低反発×高反発・丸洗い可。睡眠系の鉄板", "tags": ["睡眠","枕"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://my-best.com/30923","https://mitsublog.net/qol-list2021/"] },
-    { "id": "sleep-tracker", "name": "睡眠トラッキング（Apple Watch / Fitbit Charge 6）", "genre": "health", "trust": 2, "priceTier": 2, "blurb": "眠りの質を数値で可視化。改善の起点に", "tags": ["睡眠","ウェアラブル"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://www.yamada-denkiweb.com/media/24258/"] },
-    { "id": "mytrex-eye", "name": "MYTREX アイリズム（アイピロー）", "genre": "health", "trust": 2, "priceTier": 2, "blurb": "就寝前の目元リラックス。寝つき改善", "tags": ["睡眠","リラックス"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://note.com/aries_1818/n/n5854a0915ca3"] },
-    { "id": "recovery-wear", "name": "リカバリーウェア", "genre": "health", "trust": 1, "priceTier": 2, "blurb": "着て寝るだけ。締めつけない素材で回復をサポート", "tags": ["睡眠","ウェア"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://my-best.com/30923"] },
-    { "id": "housekeeping-sub", "name": "家事代行サブスク", "genre": "service", "trust": 2, "priceTier": 3, "blurb": "掃除・料理を定期で外注。時間をお金で買う最右翼", "tags": ["外注","時短"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://clas.style/article/1794"] },
-    { "id": "furniture-sub", "name": "家具・家電サブスク（CLAS等）", "genre": "service", "trust": 2, "priceTier": 2, "blurb": "「必要な期間だけ」レンタル。買わない身軽さ", "tags": ["レンタル"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://clas.style/article/1794"] },
-    { "id": "online-english", "name": "オンライン英会話（ネイティブキャンプ）", "genre": "service", "trust": 1, "priceTier": 1, "blurb": "回数無制限。スキマ時間の自己投資", "tags": ["学習"], "dateAdded": "2026-06-24", "status": "new", "sources": ["https://clas.style/article/1794"] }
+    {
+      "id": "plaud-note",
+      "name": "PLAUD NOTE",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "録音→AIで文字起こし＆要約。会議・取材の神器",
+      "tags": [
+        "AI",
+        "仕事効率"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://sakidori.co/article/1273225",
+        "https://digital-style.jp/best-buy-items"
+      ]
+    },
+    {
+      "id": "time-timer",
+      "name": "TIME TIMER（アナログタイマー）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "残り時間が面積で一目。集中・ダラダラ防止",
+      "tags": [
+        "集中",
+        "時間管理"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://sakidori.co/article/1273225"
+      ]
+    },
+    {
+      "id": "power-station-desk",
+      "name": "卓上電源ステーション（7ポート/USB-C対応）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "充電ケーブルのごちゃつきを1台で解消",
+      "tags": [
+        "充電",
+        "整理"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://sakidori.co/article/1273225"
+      ]
+    },
+    {
+      "id": "anker-tracker",
+      "name": "Anker 紛失防止トラッカー",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "鍵・財布をスマホで発見。探し物の時間を削る",
+      "tags": [
+        "紛失防止"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://note.com/dd_qol/n/n4ffe8c566d33"
+      ]
+    },
+    {
+      "id": "drum-washer-dryer",
+      "name": "ドラム式洗濯乾燥機（洗剤自動投入）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "「干す・取り込む」が消える。時短の本丸",
+      "tags": [
+        "洗濯",
+        "共働き"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://jp.narwal.com/blogs/homecare/home-appliances-for-working-couples",
+        "https://my-best.com/30875"
+      ]
+    },
+    {
+      "id": "dishwasher",
+      "name": "食洗機（設置型・ミニ）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "入れて押すだけ。手荒れ防止・節水も",
+      "tags": [
+        "キッチン",
+        "共働き"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/30875",
+        "https://jp.narwal.com/blogs/homecare/home-appliances-for-working-couples"
+      ]
+    },
+    {
+      "id": "floor-mop-robot",
+      "name": "床拭きロボット（Narwal等・乾湿両用）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "掃除機がけ＋水拭きを自動で",
+      "tags": [
+        "掃除",
+        "自動化"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://jp.narwal.com/blogs/homecare/home-appliances-for-working-couples"
+      ]
+    },
+    {
+      "id": "electric-pressure-cooker",
+      "name": "電気圧力鍋（1台多役）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "材料入れて放置で煮込み完成",
+      "tags": [
+        "調理",
+        "ほったらかし"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://www.biccamera.com/bc/i/topics/osusume_household_appliances/index.jsp"
+      ]
+    },
+    {
+      "id": "veg-chopper",
+      "name": "野菜みじん切りカッター",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "包丁いらずで下ごしらえ短縮",
+      "tags": [
+        "調理",
+        "時短"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://support.kirari.co.jp/miso-shiru/3151/"
+      ]
+    },
+    {
+      "id": "standing-desk",
+      "name": "電動昇降デスク",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "立ち座り切替で集中持続・腰痛対策。在宅の定番化",
+      "tags": [
+        "デスク",
+        "健康"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://www.yamada-denkiweb.com/media/46713/",
+        "https://desk-hack-lab.com/remote-work-gadget-recommend-10/"
+      ]
+    },
+    {
+      "id": "monitor-arm",
+      "name": "モニターアーム",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "机が広く、姿勢も改善。費用対効果が高い",
+      "tags": [
+        "デスク",
+        "姿勢"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://www.yamada-denkiweb.com/media/46713/"
+      ]
+    },
+    {
+      "id": "monitor-light",
+      "name": "モニターライト（Quntis等）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "目に優しく省スペース。夜作業が快適に",
+      "tags": [
+        "照明",
+        "目"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://gadgerba.com/work-home-from-gadget/"
+      ]
+    },
+    {
+      "id": "docking-station",
+      "name": "ドッキングステーション",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "ケーブル1本でPCと周辺機器を一括接続",
+      "tags": [
+        "PC周辺",
+        "整理"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://ryo-simplelife.com/working-from-home-gadget/"
+      ]
+    },
+    {
+      "id": "hitsuji-pillow",
+      "name": "ヒツジのいらない枕",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "低反発×高反発・丸洗い可。睡眠系の鉄板",
+      "tags": [
+        "睡眠",
+        "枕"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/30923",
+        "https://mitsublog.net/qol-list2021/"
+      ]
+    },
+    {
+      "id": "sleep-tracker",
+      "name": "睡眠トラッキング（Apple Watch / Fitbit Charge 6）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "眠りの質を数値で可視化。改善の起点に",
+      "tags": [
+        "睡眠",
+        "ウェアラブル"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://www.yamada-denkiweb.com/media/24258/"
+      ]
+    },
+    {
+      "id": "mytrex-eye",
+      "name": "MYTREX アイリズム（アイピロー）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "就寝前の目元リラックス。寝つき改善",
+      "tags": [
+        "睡眠",
+        "リラックス"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://note.com/aries_1818/n/n5854a0915ca3"
+      ]
+    },
+    {
+      "id": "recovery-wear",
+      "name": "リカバリーウェア",
+      "genre": "health",
+      "trust": 1,
+      "priceTier": 2,
+      "blurb": "着て寝るだけ。締めつけない素材で回復をサポート",
+      "tags": [
+        "睡眠",
+        "ウェア"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/30923"
+      ]
+    },
+    {
+      "id": "housekeeping-sub",
+      "name": "家事代行サブスク",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "掃除・料理を定期で外注。時間をお金で買う最右翼",
+      "tags": [
+        "外注",
+        "時短"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://clas.style/article/1794"
+      ]
+    },
+    {
+      "id": "furniture-sub",
+      "name": "家具・家電サブスク（CLAS等）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "「必要な期間だけ」レンタル。買わない身軽さ",
+      "tags": [
+        "レンタル"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://clas.style/article/1794"
+      ]
+    },
+    {
+      "id": "online-english",
+      "name": "オンライン英会話（ネイティブキャンプ）",
+      "genre": "service",
+      "trust": 1,
+      "priceTier": 1,
+      "blurb": "回数無制限。スキマ時間の自己投資",
+      "tags": [
+        "学習"
+      ],
+      "dateAdded": "2026-06-24",
+      "status": "new",
+      "sources": [
+        "https://clas.style/article/1794"
+      ]
+    },
+    {
+      "id": "mx-master-mouse",
+      "name": "ロジクール MX Master（高機能ワイヤレスマウス）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "高速スクロールとショートカットで操作が激変。定番の作業効率マウス",
+      "tags": [
+        "マウス",
+        "仕事効率"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/amazon-sale-26-sugimoto/",
+        "https://mitsublog.net/desk-gadgets/"
+      ]
+    },
+    {
+      "id": "switchbot-hub",
+      "name": "SwitchBot ハブ2（スマートリモコン）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "家電のリモコンを1台に集約し、スマホ・音声で自動化。スマートホーム入門の定番",
+      "tags": [
+        "スマートホーム",
+        "自動化"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/18139",
+        "https://www.yamada-denkiweb.com/media/1909/"
+      ]
+    },
+    {
+      "id": "hot-cook",
+      "name": "ホットクック（自動調理鍋）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "材料を入れて予約。かき混ぜまで自動で、帰宅時に温かい料理が完成",
+      "tags": [
+        "調理",
+        "ほったらかし",
+        "共働き"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://www.biccamera.com/bc/i/topics/osusume_household_appliances/index.jsp",
+        "https://jp.narwal.com/blogs/homecare/home-appliances-for-working-couples"
+      ]
+    },
+    {
+      "id": "cordless-vacuum",
+      "name": "コードレススティック掃除機",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "気づいた時にサッと。掃除のハードルが下がって部屋が片付く",
+      "tags": [
+        "掃除",
+        "時短"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://jp.narwal.com/blogs/homecare/home-appliances-for-working-couples",
+        "https://clas.style/article/2021"
+      ]
+    },
+    {
+      "id": "mobile-monitor",
+      "name": "モバイルモニター（持ち運び外部ディスプレイ）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "画面を増やすだけで作業効率が一段アップ。在宅・出先の二画面化",
+      "tags": [
+        "デスク",
+        "画面拡張"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://workgadgetlab.com/2026gadget/",
+        "https://digital-style.jp/desk-gadget"
+      ]
+    },
+    {
+      "id": "laptop-stand",
+      "name": "ノートPCスタンド",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "目線が上がり姿勢が改善。安価で効果を体感しやすい入門ガジェット",
+      "tags": [
+        "デスク",
+        "姿勢"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://gadgerba.com/work-home-from-gadget/",
+        "https://digital-style.jp/desk-gadget"
+      ]
+    },
+    {
+      "id": "ergonomic-chair",
+      "name": "エルゴノミクスチェア（人間工学チェア）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "腰・背中の負担を軽減。長時間でも集中が続く座り心地",
+      "tags": [
+        "椅子",
+        "腰",
+        "姿勢"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://gadgerba.com/work-home-from-gadget/"
+      ]
+    },
+    {
+      "id": "keychron-keyboard",
+      "name": "Keychron メカニカルキーボード",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "打鍵感が格別で、文字を打つのが楽しくなる",
+      "tags": [
+        "キーボード",
+        "打鍵感"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/amazon-sale-26-sugimoto/"
+      ]
+    },
+    {
+      "id": "sleep-earbuds",
+      "name": "Anker Soundcore Sleep A20（睡眠用イヤホン）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "就寝特化設計で寝つきをサポート。睡眠の質をアプリで記録",
+      "tags": [
+        "睡眠",
+        "イヤホン"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://note.com/aries_1818/n/n5854a0915ca3",
+        "https://ascii.jp/elem/000/004/363/4363818/"
+      ]
+    },
+    {
+      "id": "smart-scale",
+      "name": "スマート体重計（Eufy 等）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "乗るだけでアプリに自動記録。体組成を可視化して習慣化",
+      "tags": [
+        "体重",
+        "可視化"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/amazon-sale-26-sugimoto/"
+      ]
+    },
+    {
+      "id": "meal-kit",
+      "name": "ミールキット（Kit Oisix 等）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "下ごしらえ済みで10〜20分。献立決め・買い出しから解放",
+      "tags": [
+        "時短",
+        "料理",
+        "食材宅配"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://www.oisix.com/shop.kounyuu--oic_intro_shinki_kit__html.htm",
+        "https://www.foodsupply.co.jp/media/meal-kit"
+      ]
+    },
+    {
+      "id": "cooked-meal-sub",
+      "name": "手料理サブスク（つくりおき.jp / Tsuklio）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "管理栄養士監修の手料理を冷蔵で。平日の調理をまるごと外注",
+      "tags": [
+        "作り置き",
+        "時短"
+      ],
+      "dateAdded": "2026-06-25",
+      "status": "new",
+      "sources": [
+        "https://www.foodsupply.co.jp/media/meal-kit",
+        "https://subsc-style.jp/mealkit-sabusuku/"
+      ]
+    }
   ]
 }
