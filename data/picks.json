@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-06-25",
+    "lastUpdated": "2026-06-26",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -744,6 +744,99 @@
         "管理栄養士監修の手料理を冷蔵で",
         "平日の調理をまるごと外注",
         "レンチンで食卓が整う"
+      ]
+    },
+    {
+      "id": "electric-toothbrush",
+      "name": "電動歯ブラシ（ブラウン / フィリップス 等）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "手磨きより効率よく歯垢を除去。オーラルケアの底上げ",
+      "points": [
+        "手磨きより歯垢を効率よく除去",
+        "タイマーで磨き残しを防ぐ",
+        "歯科トラブルの予防・コスト減に"
+      ],
+      "tags": [
+        "オーラルケア",
+        "予防"
+      ],
+      "dateAdded": "2026-06-26",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/216",
+        "https://kakaku.com/kaden/tooth-brush-electric/ranking_2190/"
+      ]
+    },
+    {
+      "id": "nc-earbuds",
+      "name": "ノイズキャンセリングイヤホン（AirPods Pro / Anker 等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "騒音を消して移動も作業も集中モードに",
+      "points": [
+        "騒音を消して移動・作業に集中",
+        "通話品質も高く在宅会議に",
+        "装着感が軽く長時間でも快適"
+      ],
+      "tags": [
+        "イヤホン",
+        "集中"
+      ],
+      "dateAdded": "2026-06-26",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/12465",
+        "https://www.biccamera.com/bc/i/topics/osusume_noise_canceling_earphones/index.jsp"
+      ]
+    },
+    {
+      "id": "fast-hair-dryer",
+      "name": "高速・大風量ヘアドライヤー（SALONIA / Panasonic 等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "大風量でドライ時間を大幅短縮。髪も傷みにくい",
+      "points": [
+        "大風量でドライ時間を大幅短縮",
+        "熱を抑え髪へのダメージ軽減",
+        "朝・夜の身支度がスムーズに"
+      ],
+      "tags": [
+        "ヘアケア",
+        "時短"
+      ],
+      "dateAdded": "2026-06-26",
+      "status": "new",
+      "sources": [
+        "https://www.youtube.com/watch?v=FTTEdA5hjM4",
+        "https://my-best.com/12294",
+        "https://www.yamada-denkiweb.com/media/33842/"
+      ]
+    },
+    {
+      "id": "clothes-steamer",
+      "name": "衣類スチーマー（パナソニック / T-fal 等）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ハンガーにかけたままシワ伸ばし。朝の身支度を時短",
+      "points": [
+        "ハンガーにかけたままシワ伸ばし",
+        "アイロン台不要で朝の時短",
+        "立ち上がりが速くサッと使える"
+      ],
+      "tags": [
+        "衣類",
+        "時短"
+      ],
+      "dateAdded": "2026-06-26",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/1049",
+        "https://sakidori.co/article/84158"
       ]
     }
   ]
