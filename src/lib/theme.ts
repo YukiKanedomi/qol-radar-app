@@ -26,6 +26,10 @@ export function useTheme() {
 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme", theme);
+    const meta = document.getElementById("theme-color-meta");
+    if (meta) {
+      meta.setAttribute("content", theme === "dark" ? "#15140f" : "#fcfbf8");
+    }
   }, [theme]);
 
   const toggleTheme = useCallback(() => {

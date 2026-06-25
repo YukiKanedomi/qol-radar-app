@@ -3,11 +3,36 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#fcfbf8" />
+    <meta name="theme-color" id="theme-color-meta" content="#fcfbf8" />
+    <meta
+      name="description"
+      content="買ってよかった・時短・効率化の良品を信頼度つきで蓄積。スマホで気持ちよく閲覧・お気に入り管理。"
+    />
     <link
       rel="icon"
       href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='88'%3E%F0%9F%93%A1%3C/text%3E%3C/svg%3E"
     />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="QOLレーダー" />
+
+    <!-- 共有（OGP / Twitter） -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="QOLレーダー — 暮らしの質を上げる良品の控え" />
+    <meta
+      property="og:description"
+      content="買ってよかった・時短・効率化の良品を信頼度つきで蓄積。スマホで気持ちよく閲覧・お気に入り管理。"
+    />
+    <meta property="og:url" content="https://yukikanedomi.github.io/qol-radar-app/" />
+    <meta
+      property="og:image"
+      content="https://yukikanedomi.github.io/qol-radar-app/icon-512.png"
+    />
+    <meta name="twitter:card" content="summary" />
+
     <title>QOLレーダー — 暮らしの質を上げる良品の控え</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -29,6 +54,8 @@
               : "light";
           }
           document.documentElement.setAttribute("data-theme", t);
+          var m = document.getElementById("theme-color-meta");
+          if (m) m.setAttribute("content", t === "dark" ? "#15140f" : "#fcfbf8");
         } catch (e) {}
       })();
     </script>
