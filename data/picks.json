@@ -838,6 +838,76 @@
         "https://my-best.com/1049",
         "https://sakidori.co/article/84158"
       ]
+    },
+    {
+      "id": "net-supermarket",
+      "name": "ネットスーパー（Green Beans / パルシステム 等）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "重い買い物を運ぶ負担ゼロ。買い物時間をまるごと節約",
+      "points": [
+        "重い荷物を運ぶ負担をゼロに",
+        "最短当日・時間指定で受け取り",
+        "買い物に行く時間をまるごと節約"
+      ],
+      "tags": [
+        "食材宅配",
+        "時短",
+        "共働き"
+      ],
+      "dateAdded": "2026-06-26",
+      "status": "new",
+      "sources": [
+        "https://gyro.holdings/articles/netsuper/",
+        "https://choice.ameba.jp/net-supermarket/"
+      ]
+    },
+    {
+      "id": "delivery-cleaning",
+      "name": "宅配クリーニング（リネット / リナビス 等）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "集荷・配達で店に行く手間ゼロ。衣替えの保管も解決",
+      "points": [
+        "集荷・配達で店に行く手間ゼロ",
+        "最短2日のスピード対応も",
+        "長期保管で衣替えの収納も解決"
+      ],
+      "tags": [
+        "外注",
+        "時短"
+      ],
+      "dateAdded": "2026-06-26",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/4952",
+        "https://kurashi-toku.com/article/783/"
+      ]
+    },
+    {
+      "id": "humidifier",
+      "name": "加湿器（お手入れ簡単モデル）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "乾燥対策で喉・肌・睡眠が快適に。冬の必需品",
+      "points": [
+        "乾燥対策で喉・肌・睡眠が快適に",
+        "ウイルス対策にも有効",
+        "給水・手入れが楽なモデルが人気"
+      ],
+      "tags": [
+        "乾燥対策",
+        "快眠"
+      ],
+      "dateAdded": "2026-06-26",
+      "status": "new",
+      "sources": [
+        "https://www.yamada-denkiweb.com/media/25310/",
+        "https://choice.ameba.jp/item/qol/"
+      ]
     }
   ]
 }
