@@ -4,6 +4,9 @@ dist-ssr
 *.local
 *.tsbuildinfo
 
+# 生成物：data/picks.json から sync-picks.mjs が自動生成（正本は data/）
+public/data/picks.json
+
 # editor / os
 .vscode/*
 !.vscode/extensions.json
