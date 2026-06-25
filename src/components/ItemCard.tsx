@@ -11,6 +11,7 @@ interface Props {
   status: Status;
   onToggleFavorite: (id: string) => void;
   onSetStatus: (id: string, status: Status | null) => void;
+  onSelectTag: (tag: string) => void;
 }
 
 /** カードで切替できるステータス（new は「未設定」扱いなので除外） */
@@ -23,6 +24,7 @@ export function ItemCard({
   status,
   onToggleFavorite,
   onSetStatus,
+  onSelectTag,
 }: Props) {
   const sources = pick.sources ?? [];
 
@@ -48,9 +50,15 @@ export function ItemCard({
 
       <div className="tags">
         {pick.tags.map((t) => (
-          <span className="tag" key={t}>
+          <button
+            className="tag"
+            key={t}
+            type="button"
+            title={`「${t}」で絞り込み`}
+            onClick={() => onSelectTag(t)}
+          >
             {t}
-          </span>
+          </button>
         ))}
       </div>
 

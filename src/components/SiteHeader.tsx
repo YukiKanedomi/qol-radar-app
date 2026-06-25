@@ -1,3 +1,4 @@
+import { Heart } from "lucide-react";
 import type { PicksMeta } from "@/types";
 import { formatDateDot } from "@/lib/picks";
 import type { Theme } from "@/lib/theme";
@@ -8,11 +9,15 @@ export function SiteHeader({
   count,
   theme,
   onToggleTheme,
+  favoritesOnly,
+  onToggleFavoritesOnly,
 }: {
   meta: PicksMeta;
   count: number;
   theme: Theme;
   onToggleTheme: () => void;
+  favoritesOnly: boolean;
+  onToggleFavoritesOnly: () => void;
 }) {
   return (
     <header className="site-header">
@@ -29,6 +34,20 @@ export function SiteHeader({
           <span className="sep-hide">
             更新 <b className="num">{formatDateDot(meta.lastUpdated)}</b>
           </span>
+          <button
+            type="button"
+            className={"theme-toggle" + (favoritesOnly ? " on" : "")}
+            onClick={onToggleFavoritesOnly}
+            aria-pressed={favoritesOnly}
+            aria-label={favoritesOnly ? "すべて表示" : "お気に入りのみ表示"}
+            title={favoritesOnly ? "すべて表示" : "お気に入りのみ"}
+          >
+            <Heart
+              size={16}
+              strokeWidth={1.8}
+              fill={favoritesOnly ? "currentColor" : "none"}
+            />
+          </button>
           <ThemeToggle theme={theme} onToggle={onToggleTheme} />
         </div>
       </div>

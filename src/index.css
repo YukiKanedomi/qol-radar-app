@@ -146,6 +146,11 @@ body {
   color: var(--accent);
   border-color: var(--line-2);
 }
+/* ヘッダーのお気に入りショートカット（有効時は朱） */
+.theme-toggle.on {
+  color: var(--vermil);
+  border-color: var(--vermil);
+}
 
 /* ---------- masthead ---------- */
 .mast {
@@ -573,6 +578,14 @@ body {
   font-size: 10px;
   color: var(--faint);
   letter-spacing: 0.05em;
+  background: none;
+  border: none;
+  padding: 2px 2px;
+  margin: -2px 0;
+  cursor: pointer;
+}
+.tag:hover {
+  color: var(--accent);
 }
 .tag::before {
   content: "#";

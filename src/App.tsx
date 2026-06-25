@@ -57,6 +57,10 @@ export default function App() {
         count={picks.length}
         theme={theme}
         onToggleTheme={toggleTheme}
+        favoritesOnly={filters.favoritesOnly}
+        onToggleFavoritesOnly={() =>
+          patch({ favoritesOnly: !filters.favoritesOnly })
+        }
       />
       <Masthead />
       <main>
@@ -77,6 +81,7 @@ export default function App() {
           statuses={statuses}
           onToggleFavorite={toggleFavorite}
           onSetStatus={setStatus}
+          onSelectTag={(t) => patch({ query: t })}
           onClearFilters={() => setFilters(defaultFilterState)}
         />
       </main>

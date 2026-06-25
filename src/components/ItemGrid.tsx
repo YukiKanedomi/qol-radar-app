@@ -11,6 +11,7 @@ interface Props {
   statuses: Record<string, Status>;
   onToggleFavorite: (id: string) => void;
   onSetStatus: (id: string, status: Status | null) => void;
+  onSelectTag: (tag: string) => void;
   onClearFilters: () => void;
 }
 
@@ -22,6 +23,7 @@ export function ItemGrid({
   statuses,
   onToggleFavorite,
   onSetStatus,
+  onSelectTag,
   onClearFilters,
 }: Props) {
   return (
@@ -55,6 +57,7 @@ export function ItemGrid({
               status={effectiveStatus(p, statuses)}
               onToggleFavorite={onToggleFavorite}
               onSetStatus={onSetStatus}
+              onSelectTag={onSelectTag}
             />
           ))}
         </div>

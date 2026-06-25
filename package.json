@@ -8,6 +8,7 @@
     "dev": "vite",
     "prebuild": "node scripts/sync-picks.mjs",
     "build": "tsc -b && vite build",
+    "postbuild": "node scripts/inject-sw-precache.mjs",
     "preview": "vite preview",
     "add-picks": "node scripts/add-picks.mjs"
   },
