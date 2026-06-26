@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-06-26",
+    "lastUpdated": "2026-06-27",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -916,6 +916,144 @@
       "sources": [
         "https://www.yamada-denkiweb.com/media/25310/",
         "https://choice.ameba.jp/item/qol/"
+      ]
+    },
+    {
+      "id": "light-alarm-clock",
+      "name": "光目覚まし時計（トトノエライト 等）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "光で自然な目覚め。寝起きのつらさを軽くする",
+      "points": [
+        "光で自然に目覚め、寝起きのつらさを軽減",
+        "太陽光に近い強い光でスッキリ起床",
+        "設定時刻前から徐々に明るくなる"
+      ],
+      "tags": [
+        "睡眠",
+        "目覚め"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/263",
+        "https://www.yamada-denkiweb.com/media/28360/"
+      ]
+    },
+    {
+      "id": "massage-gun",
+      "name": "マッサージガン（MYTREX / uFit 等）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "深部のこりを手軽にほぐすセルフケアの定番",
+      "points": [
+        "深部の筋肉のこりを手軽にほぐす",
+        "デスクワーク疲れ・運動後のケアに",
+        "アタッチメントで部位ごとに対応"
+      ],
+      "tags": [
+        "ケア",
+        "肩こり"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://gymcloud.jp/media/archives/3888",
+        "https://ufit.co.jp/blogs/traininggoods/massage-gun"
+      ]
+    },
+    {
+      "id": "air-purifier",
+      "name": "空気清浄機",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "花粉・ホコリ・ニオイを除去。一年中の必需品",
+      "points": [
+        "花粉・ホコリ・ニオイを除去",
+        "静音モデルは寝室にも置ける",
+        "プレフィルター掃除で手入れ簡単"
+      ],
+      "tags": [
+        "花粉",
+        "空気"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/kaden/air-purifier/ranking_2160/",
+        "https://www.biccamera.com/bc/i/topics/osusume_air_cleaner/index.jsp"
+      ]
+    },
+    {
+      "id": "coffee-maker",
+      "name": "全自動コーヒーメーカー（パナソニック / シロカ 等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "豆を入れてボタンで挽きたて。朝の一杯が楽に",
+      "points": [
+        "豆挽きから抽出まで全自動",
+        "毎朝の淹れたてを手間なく",
+        "ミル一体で香りが段違い"
+      ],
+      "tags": [
+        "コーヒー",
+        "時短"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/kaden/coffee-maker/ranking_2128/",
+        "https://my-best.com/13102"
+      ]
+    },
+    {
+      "id": "ring-light",
+      "name": "リングライト（Web会議・配信用）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "顔の映りが明るく好印象。在宅会議の必需品",
+      "points": [
+        "影が出にくく顔色が明るく映る",
+        "Web会議や配信の印象アップ",
+        "色温度・調光で昼夜に対応"
+      ],
+      "tags": [
+        "照明",
+        "在宅会議"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://direct.sanwa.co.jp/contents/sp/howtouse/how-ringlight.html",
+        "https://www.yamada-denkiweb.com/media/35756/"
+      ]
+    },
+    {
+      "id": "futon-dryer",
+      "name": "布団乾燥機（象印 / アイリスオーヤマ 等）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "布団がいつもフカフカ。ダニ対策・梅雨も安心",
+      "points": [
+        "布団をふっくら乾燥して寝心地UP",
+        "ダニ対策の高温モードも",
+        "梅雨や冬の冷えた布団を温める"
+      ],
+      "tags": [
+        "寝具",
+        "ダニ対策"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/kaden/bedcloth-dryer/ranking_2131/",
+        "https://sakidori.co/article/73939"
       ]
     }
   ]
