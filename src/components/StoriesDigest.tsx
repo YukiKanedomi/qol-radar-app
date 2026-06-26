@@ -308,7 +308,7 @@ function StoryCard({
             続きは本体で。気になるものは <b>♡</b>、買ったら <b>✓</b>。
           </p>
           <p className="stories-credit">
-            写真: Wikimedia Commons（Shixart1985 ほか・CC BY / CC0）
+            写真: Wikimedia Commons（Shixart1985 ほか・CC BY / CC0 / PD）
           </p>
         </div>
       </div>

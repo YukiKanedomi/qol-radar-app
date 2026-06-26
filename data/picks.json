@@ -183,7 +183,8 @@
         "掃除機がけ＋水拭きを自動化",
         "乾湿両用で床のベタつきまで",
         "外出中に勝手にきれいになる"
-      ]
+      ],
+      "image": "img/robotvac.jpg"
     },
     {
       "id": "electric-pressure-cooker",
@@ -587,7 +588,8 @@
         "持ち運べる2画面で作業効率UP",
         "出先のノートPC作業が一気に快適",
         "USB-C1本で接続できる機種も"
-      ]
+      ],
+      "image": "img/monitor.jpg"
     },
     {
       "id": "laptop-stand",
@@ -724,7 +726,8 @@
         "下ごしらえ済みで10〜20分",
         "献立決め・買い出しから解放",
         "栄養バランスも考えられている"
-      ]
+      ],
+      "image": "img/mealkit.jpg"
     },
     {
       "id": "cooked-meal-sub",
@@ -793,7 +796,8 @@
       "sources": [
         "https://my-best.com/12465",
         "https://www.biccamera.com/bc/i/topics/osusume_noise_canceling_earphones/index.jsp"
-      ]
+      ],
+      "image": "img/earbuds.jpg"
     },
     {
       "id": "fast-hair-dryer",
@@ -817,7 +821,8 @@
         "https://www.youtube.com/watch?v=FTTEdA5hjM4",
         "https://my-best.com/12294",
         "https://www.yamada-denkiweb.com/media/33842/"
-      ]
+      ],
+      "image": "img/dryer.jpg"
     },
     {
       "id": "clothes-steamer",
