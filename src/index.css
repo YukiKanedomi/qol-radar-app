@@ -151,6 +151,15 @@ body {
   color: var(--vermil);
   border-color: var(--vermil);
 }
+/* 同期トグル：接続中は松葉色、エラーは朱 */
+.sync-toggle.on {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+.sync-toggle.err {
+  color: var(--vermil);
+  border-color: var(--vermil);
+}
 
 /* ---------- masthead ---------- */
 .mast {

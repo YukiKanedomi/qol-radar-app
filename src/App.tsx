@@ -6,7 +6,7 @@ import {
   defaultFilterState,
   type FilterState,
 } from "@/lib/filtering";
-import { useFavorites, useStatuses } from "@/lib/storage";
+import { useCollection } from "@/lib/useCollection";
 import { useTheme } from "@/lib/theme";
 import { SiteHeader } from "@/components/SiteHeader";
 import { Masthead } from "@/components/Masthead";
@@ -19,8 +19,8 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [filters, setFilters] = useState<FilterState>(defaultFilterState);
 
-  const { favorites, toggleFavorite } = useFavorites();
-  const { statuses, setStatus } = useStatuses();
+  const { favorites, statuses, toggleFavorite, setStatus, sync } =
+    useCollection();
   const { theme, toggleTheme } = useTheme();
 
   useEffect(() => {
@@ -61,6 +61,7 @@ export default function App() {
         onToggleFavoritesOnly={() =>
           patch({ favoritesOnly: !filters.favoritesOnly })
         }
+        sync={sync}
       />
       <Masthead />
       <main>

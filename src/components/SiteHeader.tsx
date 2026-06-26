@@ -2,7 +2,16 @@ import { Heart } from "lucide-react";
 import type { PicksMeta } from "@/types";
 import { formatDateDot } from "@/lib/picks";
 import type { Theme } from "@/lib/theme";
+import type { SyncStatus } from "@/lib/useCollection";
 import { ThemeToggle } from "./ThemeToggle";
+import { SyncToggle } from "./SyncToggle";
+
+interface SyncProps {
+  configured: boolean;
+  on: boolean;
+  status: SyncStatus;
+  toggle: () => void;
+}
 
 export function SiteHeader({
   meta,
@@ -11,6 +20,7 @@ export function SiteHeader({
   onToggleTheme,
   favoritesOnly,
   onToggleFavoritesOnly,
+  sync,
 }: {
   meta: PicksMeta;
   count: number;
@@ -18,6 +28,7 @@ export function SiteHeader({
   onToggleTheme: () => void;
   favoritesOnly: boolean;
   onToggleFavoritesOnly: () => void;
+  sync: SyncProps;
 }) {
   return (
     <header className="site-header">
@@ -34,6 +45,9 @@ export function SiteHeader({
           <span className="sep-hide">
             更新 <b className="num">{formatDateDot(meta.lastUpdated)}</b>
           </span>
+          {sync.configured ? (
+            <SyncToggle status={sync.status} on={sync.on} onToggle={sync.toggle} />
+          ) : null}
           <button
             type="button"
             className={"theme-toggle" + (favoritesOnly ? " on" : "")}
