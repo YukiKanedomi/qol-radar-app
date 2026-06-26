@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <defs>
-    <radialGradient id="bg" cx="36%" cy="30%" r="85%">
-      <stop offset="0" stop-color="#2a4a40"/>
-      <stop offset="0.62" stop-color="#193029"/>
-      <stop offset="1" stop-color="#0d1714"/>
+    <radialGradient id="bg" cx="38%" cy="32%" r="82%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.7" stop-color="#f7f4ec"/>
+      <stop offset="1" stop-color="#ece8de"/>
     </radialGradient>
     <radialGradient id="sweep" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#9fe6c8" stop-opacity="0.30"/>
-      <stop offset="1" stop-color="#9fe6c8" stop-opacity="0"/>
+      <stop offset="0" stop-color="#1f3d3a" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#1f3d3a" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#ffb38f" stop-opacity="0.95"/>
-      <stop offset="38%" stop-color="#d75f38" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#d75f38" stop-opacity="0"/>
+      <stop offset="0" stop-color="#d75f38" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#b6452f" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#b6452f" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
@@ -21,21 +21,21 @@
   <!-- sweep sector -->
   <path d="M256 256 L256 92 A164 164 0 0 1 397 174 Z" fill="url(#sweep)"/>
 
-  <!-- concentric radar rings -->
-  <g fill="none" stroke="#ffffff" stroke-linecap="round">
-    <circle cx="256" cy="256" r="62" stroke-opacity="0.24" stroke-width="5"/>
-    <circle cx="256" cy="256" r="120" stroke-opacity="0.17" stroke-width="4.5"/>
+  <!-- concentric radar rings (松葉) -->
+  <g fill="none" stroke="#1f3d3a" stroke-linecap="round">
+    <circle cx="256" cy="256" r="62" stroke-opacity="0.26" stroke-width="5"/>
+    <circle cx="256" cy="256" r="120" stroke-opacity="0.18" stroke-width="4.5"/>
     <circle cx="256" cy="256" r="178" stroke-opacity="0.12" stroke-width="4"/>
   </g>
 
   <!-- radar arm to the blip -->
-  <line x1="256" y1="256" x2="362" y2="181" stroke="#eaf3ee" stroke-opacity="0.5" stroke-width="5" stroke-linecap="round"/>
+  <line x1="256" y1="256" x2="362" y2="181" stroke="#1f3d3a" stroke-opacity="0.5" stroke-width="5" stroke-linecap="round"/>
 
   <!-- center hub -->
-  <circle cx="256" cy="256" r="9" fill="#eaf3ee" fill-opacity="0.85"/>
+  <circle cx="256" cy="256" r="9" fill="#1f3d3a"/>
 
-  <!-- the "good signal" blip -->
-  <circle cx="362" cy="181" r="52" fill="url(#glow)"/>
-  <circle cx="362" cy="181" r="16" fill="#f4ede1"/>
-  <circle cx="362" cy="181" r="9" fill="#d75f38"/>
+  <!-- the "good signal" blip (朱) -->
+  <circle cx="362" cy="181" r="54" fill="url(#glow)"/>
+  <circle cx="362" cy="181" r="18" fill="#ffffff"/>
+  <circle cx="362" cy="181" r="11.5" fill="#b6452f"/>
 </svg>

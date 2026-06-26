@@ -178,7 +178,13 @@ export function StoriesDigest({
               className={"seg" + (i < index ? " done" : "")}
               aria-hidden="true"
             >
-              <i style={{ width: i < index ? "100%" : i === index ? `${progress * 100}%` : "0%" }} />
+              <i
+                style={{
+                  transform: `scaleX(${
+                    i < index ? 1 : i === index ? progress : 0
+                  })`,
+                }}
+              />
             </div>
           ))}
         </div>

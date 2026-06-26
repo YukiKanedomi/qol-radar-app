@@ -976,6 +976,7 @@ body {
   padding: max(12px, calc(env(safe-area-inset-top) + 8px)) 12px 0;
 }
 .stories-bars .seg {
+  position: relative;
   flex: 1;
   height: 3.5px;
   border-radius: 3px;
@@ -983,12 +984,15 @@ body {
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
   overflow: hidden;
 }
+/* 塗りは絶対配置のフルバーを scaleX で伸ばす（%幅解決の不具合を回避） */
 .stories-bars .seg > i {
-  display: block;
-  height: 100%;
-  width: 0;
+  position: absolute;
+  inset: 0;
+  width: 100%;
   background: #fff;
   border-radius: 3px;
+  transform-origin: left center;
+  transform: scaleX(0);
 }
 
 .stories-hd {
