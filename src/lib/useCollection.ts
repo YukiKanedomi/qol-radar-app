@@ -29,8 +29,9 @@ export function useCollection() {
   const [statuses, setStatuses] = useState<Record<string, Status>>(() =>
     readJSON<Record<string, Status>>(STATUS_KEY, {}),
   );
+  // 既定ON：設定済みなら、明示的にOFF("0")にした人以外は同期する
   const [syncOn, setSyncOn] = useState<boolean>(
-    () => isSyncConfigured() && localStorage.getItem(SYNC_KEY) === "1",
+    () => isSyncConfigured() && localStorage.getItem(SYNC_KEY) !== "0",
   );
   const [syncStatus, setSyncStatus] = useState<SyncStatus>("off");
 
