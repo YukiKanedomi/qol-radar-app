@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="36%" cy="30%" r="85%">
+      <stop offset="0" stop-color="#2a4a40"/>
+      <stop offset="0.62" stop-color="#193029"/>
+      <stop offset="1" stop-color="#0d1714"/>
+    </radialGradient>
+    <radialGradient id="sweep" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#9fe6c8" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#9fe6c8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffb38f" stop-opacity="0.95"/>
+      <stop offset="38%" stop-color="#d75f38" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#d75f38" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)"/>
+
+  <!-- sweep sector -->
+  <path d="M256 256 L256 92 A164 164 0 0 1 397 174 Z" fill="url(#sweep)"/>
+
+  <!-- concentric radar rings -->
+  <g fill="none" stroke="#ffffff" stroke-linecap="round">
+    <circle cx="256" cy="256" r="62" stroke-opacity="0.24" stroke-width="5"/>
+    <circle cx="256" cy="256" r="120" stroke-opacity="0.17" stroke-width="4.5"/>
+    <circle cx="256" cy="256" r="178" stroke-opacity="0.12" stroke-width="4"/>
+  </g>
+
+  <!-- radar arm to the blip -->
+  <line x1="256" y1="256" x2="362" y2="181" stroke="#eaf3ee" stroke-opacity="0.5" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- center hub -->
+  <circle cx="256" cy="256" r="9" fill="#eaf3ee" fill-opacity="0.85"/>
+
+  <!-- the "good signal" blip -->
+  <circle cx="362" cy="181" r="52" fill="url(#glow)"/>
+  <circle cx="362" cy="181" r="16" fill="#f4ede1"/>
+  <circle cx="362" cy="181" r="9" fill="#d75f38"/>
+</svg>

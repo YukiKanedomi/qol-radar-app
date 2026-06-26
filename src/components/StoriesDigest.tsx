@@ -4,7 +4,7 @@ import type { Pick, PicksMeta } from "@/types";
 import { genreGradient, genrePhotoOverlay, resolveImage, shortLabel } from "@/lib/picks";
 import { buildDigest } from "@/lib/digest";
 
-const DUR = 6000;
+const DUR = 4500;
 const BRAND_BG = "linear-gradient(160deg, #21413d 0%, #0e1a18 100%)";
 
 type Slide =
