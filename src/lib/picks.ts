@@ -30,6 +30,24 @@ export function genreColor(genre: string): string {
   return GENRE_COLORS[genre as Genre] ?? "#5C584F";
 }
 
+function mix(hex: string, toward: string, amt: number): string {
+  const a = hex.replace("#", "");
+  const b = toward.replace("#", "");
+  const ch = (s: string, i: number) => parseInt(s.slice(i, i + 2), 16);
+  const r = Math.round(ch(a, 0) + (ch(b, 0) - ch(a, 0)) * amt);
+  const g = Math.round(ch(a, 2) + (ch(b, 2) - ch(a, 2)) * amt);
+  const bl = Math.round(ch(a, 4) + (ch(b, 4) - ch(a, 4)) * amt);
+  return "#" + [r, g, bl].map((v) => v.toString(16).padStart(2, "0")).join("");
+}
+
+/** ジャンル識別色から、ストーリーズ用の全面グラデを生成（ブランド色準拠） */
+export function genreGradient(genre: string): string {
+  const c = genreColor(genre);
+  const top = mix(c, "#ffffff", 0.12);
+  const bottom = mix(c, "#000000", 0.34);
+  return `linear-gradient(160deg, ${top} 0%, ${bottom} 100%)`;
+}
+
 /** meta のジャンル名から短い見出し用ラベルを導く（"ガジェット・便利家電" → "ガジェット"）。ハードコードはしない。 */
 export function shortLabel(fullLabel: string): string {
   return fullLabel.split("・")[0];

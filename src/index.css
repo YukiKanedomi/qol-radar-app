@@ -838,3 +838,337 @@ body {
     --i: 2;
   }
 }
+
+/* ============================================================
+   ストーリーズ・ダイジェスト（全画面スワイプ）
+   ============================================================ */
+.digest-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid color-mix(in srgb, var(--accent) 26%, transparent);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.digest-cta:hover {
+  background: color-mix(in srgb, var(--accent) 16%, var(--card));
+}
+
+.stories {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: #05060a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stories-phone {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 460px;
+  max-height: 980px;
+  background: #0c0e16;
+  overflow: hidden;
+}
+@media (min-width: 480px) {
+  .stories-phone {
+    border-radius: 22px;
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
+  }
+}
+
+.stories-bars {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 30;
+  display: flex;
+  gap: 4px;
+  padding: 10px 10px 0;
+}
+.stories-bars .seg {
+  flex: 1;
+  height: 3px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.28);
+  overflow: hidden;
+}
+.stories-bars .seg > i {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: #fff;
+  border-radius: 3px;
+}
+
+.stories-hd {
+  position: absolute;
+  top: 18px;
+  left: 14px;
+  right: 14px;
+  z-index: 31;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+.stories-hd .logo {
+  font-weight: 700;
+}
+.stories-close {
+  margin-left: auto;
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(0, 0, 0, 0.32);
+  color: #fff;
+  cursor: pointer;
+}
+.stories-close:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.stories-card {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 70px 26px 92px;
+  color: #fff;
+  overflow: hidden;
+}
+.stories-card.center {
+  justify-content: center;
+  align-items: flex-start;
+}
+.stories-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.36), transparent 46%);
+  pointer-events: none;
+}
+.stories-card .inner {
+  position: relative;
+  z-index: 2;
+}
+.stories-card .bgnum {
+  position: absolute;
+  right: -8px;
+  top: 44px;
+  z-index: 0;
+  font-family: "Inter", sans-serif;
+  font-size: 12rem;
+  font-weight: 800;
+  line-height: 0.8;
+  opacity: 0.13;
+  color: #fff;
+}
+.stories-card .gchip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 5px 13px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(4px);
+  margin-bottom: 14px;
+}
+.stories-card .name {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+  margin: 0;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+}
+.stories-card .blurb {
+  margin: 12px 0 0;
+  font-size: 1rem;
+  line-height: 1.55;
+  opacity: 0.95;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.3);
+}
+.stories-card .pts {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+.stories-card .pt {
+  display: flex;
+  gap: 9px;
+  align-items: flex-start;
+  font-size: 0.92rem;
+  line-height: 1.4;
+  opacity: 0.97;
+}
+.stories-card .pt .ck {
+  flex: 0 0 auto;
+  width: 19px;
+  height: 19px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.24);
+  display: grid;
+  place-items: center;
+  font-size: 0.68rem;
+  margin-top: 1px;
+}
+.stories-card .smeta {
+  margin-top: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.stories-card .smeta .m {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 4px 11px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.26);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+.stories-card .smeta .stag {
+  font-size: 12px;
+  padding: 4px 11px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.15);
+}
+.stories-card .kicker {
+  font-family: "Inter", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+.stories-card .big {
+  font-family: "Shippori Mincho", serif;
+  font-weight: 800;
+  font-size: 2.6rem;
+  line-height: 1.12;
+  margin-top: 12px;
+}
+.stories-card .big.small {
+  font-size: 2rem;
+}
+.stories-card .sub {
+  margin-top: 16px;
+  font-size: 1rem;
+  line-height: 1.6;
+  opacity: 0.92;
+}
+.stories-hint {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 30px;
+  z-index: 3;
+  text-align: center;
+  font-size: 13px;
+  opacity: 0.8;
+}
+.statrow {
+  margin-top: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+}
+.stat .lab {
+  font-size: 13px;
+  opacity: 0.9;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.stat .barbg {
+  height: 9px;
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.16);
+  overflow: hidden;
+}
+.stat .barfg {
+  height: 100%;
+  border-radius: 9px;
+  background: #fff;
+}
+.stories-zone {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 20;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+.stories-zone-prev {
+  left: 0;
+  width: 38%;
+}
+.stories-zone-next {
+  left: 38%;
+  right: 0;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .stories-card .inner,
+  .stories-card .bgnum {
+    animation: storyIn 0.42s ease both;
+  }
+  @keyframes storyIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+  .stories-hint {
+    animation: storyPulse 1.8s ease-in-out infinite;
+  }
+  @keyframes storyPulse {
+    0%,
+    100% {
+      opacity: 0.45;
+    }
+    50% {
+      opacity: 0.95;
+    }
+  }
+}
+@media (max-width: 560px) {
+  .digest-cta-label {
+    display: none;
+  }
+  .digest-cta {
+    padding: 7px 9px;
+  }
+}

@@ -1,4 +1,4 @@
-import { Heart } from "lucide-react";
+import { Heart, Sparkles } from "lucide-react";
 import type { PicksMeta } from "@/types";
 import { formatDateDot } from "@/lib/picks";
 import type { Theme } from "@/lib/theme";
@@ -21,6 +21,7 @@ export function SiteHeader({
   favoritesOnly,
   onToggleFavoritesOnly,
   sync,
+  onOpenDigest,
 }: {
   meta: PicksMeta;
   count: number;
@@ -29,6 +30,7 @@ export function SiteHeader({
   favoritesOnly: boolean;
   onToggleFavoritesOnly: () => void;
   sync: SyncProps;
+  onOpenDigest: () => void;
 }) {
   return (
     <header className="site-header">
@@ -39,6 +41,15 @@ export function SiteHeader({
           <span className="en">Quality Goods Index</span>
         </div>
         <div className="hmeta">
+          <button
+            type="button"
+            className="digest-cta"
+            onClick={onOpenDigest}
+            aria-label="今週のダイジェストを見る"
+          >
+            <Sparkles size={14} strokeWidth={2} />
+            <span className="digest-cta-label">ダイジェスト</span>
+          </button>
           <span>
             収録 <b className="num">{count}</b> 点
           </span>

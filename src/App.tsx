@@ -9,6 +9,7 @@ import {
 import { useCollection } from "@/lib/useCollection";
 import { useTheme } from "@/lib/theme";
 import { SiteHeader } from "@/components/SiteHeader";
+import { StoriesDigest } from "@/components/StoriesDigest";
 import { Masthead } from "@/components/Masthead";
 import { FeatureRow } from "@/components/FeatureRow";
 import { FilterBar } from "@/components/FilterBar";
@@ -18,6 +19,7 @@ export default function App() {
   const [data, setData] = useState<PicksData | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [filters, setFilters] = useState<FilterState>(defaultFilterState);
+  const [digestOpen, setDigestOpen] = useState(false);
 
   const { favorites, statuses, toggleFavorite, setStatus, sync } =
     useCollection();
@@ -62,6 +64,7 @@ export default function App() {
           patch({ favoritesOnly: !filters.favoritesOnly })
         }
         sync={sync}
+        onOpenDigest={() => setDigestOpen(true)}
       />
       <Masthead />
       <main>
@@ -86,6 +89,12 @@ export default function App() {
           onClearFilters={() => setFilters(defaultFilterState)}
         />
       </main>
+      <StoriesDigest
+        picks={picks}
+        meta={meta}
+        open={digestOpen}
+        onClose={() => setDigestOpen(false)}
+      />
     </>
   );
 }
