@@ -48,6 +48,19 @@ export function genreGradient(genre: string): string {
   return `linear-gradient(160deg, ${top} 0%, ${bottom} 100%)`;
 }
 
+/** 写真の上に重ねる、ジャンル色トーン＋下部を暗くするオーバーレイ（可読性確保） */
+export function genrePhotoOverlay(genre: string): string {
+  const c = genreColor(genre);
+  const top = mix(c, "#000000", 0.15);
+  const bottom = mix(c, "#000000", 0.55);
+  return `linear-gradient(165deg, ${top}80 0%, ${bottom}f0 100%)`;
+}
+
+/** picks の image を解決（"img/x.jpg" は BASE 起点、http(s) はそのまま） */
+export function resolveImage(image: string): string {
+  return /^https?:/.test(image) ? image : import.meta.env.BASE_URL + image;
+}
+
 /** meta のジャンル名から短い見出し用ラベルを導く（"ガジェット・便利家電" → "ガジェット"）。ハードコードはしない。 */
 export function shortLabel(fullLabel: string): string {
   return fullLabel.split("・")[0];

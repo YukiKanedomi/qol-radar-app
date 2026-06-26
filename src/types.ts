@@ -12,6 +12,8 @@ export interface Pick {
   blurb: string;
   /** 推しポイント（なぜ良いか・2〜3点）。任意 */
   points?: string[];
+  /** 背景写真。"img/foo.jpg"(リポ同梱) か絶対URL。任意（無ければグラデ） */
+  image?: string;
   tags: string[];
   dateAdded: string;
   status: Status;

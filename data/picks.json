@@ -137,7 +137,8 @@
         "「干す・取り込む」が丸ごと不要に",
         "洗剤自動投入で計量もストック管理も楽",
         "夜セットで朝には乾燥まで完了"
-      ]
+      ],
+      "image": "img/laundry.jpg"
     },
     {
       "id": "dishwasher",
@@ -249,7 +250,8 @@
         "立ち・座りをボタンで切替",
         "姿勢が変わり集中が続く",
         "腰痛・むくみ対策に在宅の定番"
-      ]
+      ],
+      "image": "img/desk.jpg"
     },
     {
       "id": "monitor-arm",
@@ -338,7 +340,8 @@
         "低反発×高反発でフィット感",
         "丸洗いできて清潔キープ",
         "寝心地の口コミ評価が高い"
-      ]
+      ],
+      "image": "img/pillow.jpg"
     },
     {
       "id": "sleep-tracker",
@@ -861,7 +864,8 @@
       "sources": [
         "https://gyro.holdings/articles/netsuper/",
         "https://choice.ameba.jp/net-supermarket/"
-      ]
+      ],
+      "image": "img/grocery.jpg"
     },
     {
       "id": "delivery-cleaning",

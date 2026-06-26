@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { X } from "lucide-react";
 import type { Pick, PicksMeta } from "@/types";
-import { genreGradient, shortLabel } from "@/lib/picks";
+import { genreGradient, genrePhotoOverlay, resolveImage, shortLabel } from "@/lib/picks";
 import { buildDigest } from "@/lib/digest";
 
 const DUR = 6000;
@@ -301,14 +301,24 @@ function StoryCard({
           <p className="sub">
             続きは本体で。気になるものは <b>♡</b>、買ったら <b>✓</b>。
           </p>
+          <p className="stories-credit">
+            写真: Wikimedia Commons（Shixart1985 ほか・CC BY / CC0）
+          </p>
         </div>
       </div>
     );
   }
 
   const p = slide.pick;
+  const photo = p.image ? resolveImage(p.image) : null;
+  const cardStyle = photo
+    ? { backgroundImage: `${genrePhotoOverlay(p.genre)}, url("${photo}")` }
+    : { background: genreGradient(p.genre) };
   return (
-    <div className="stories-card" style={{ background: genreGradient(p.genre) }}>
+    <div
+      className={"stories-card" + (photo ? " has-photo" : "")}
+      style={cardStyle}
+    >
       <div className="bgnum" aria-hidden="true">
         {String(slide.n).padStart(2, "0")}
       </div>

@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import { Sparkles, ChevronRight } from "lucide-react";
 import type { PicksData } from "@/types";
 import { loadPicks, topSignals } from "@/lib/picks";
 import {
@@ -67,6 +68,22 @@ export default function App() {
         onOpenDigest={() => setDigestOpen(true)}
       />
       <Masthead />
+      <div className="wrap">
+        <button
+          type="button"
+          className="digest-banner"
+          onClick={() => setDigestOpen(true)}
+        >
+          <span className="digest-banner-ic">
+            <Sparkles size={18} strokeWidth={2} />
+          </span>
+          <span className="digest-banner-txt">
+            <b>今週のダイジェスト</b>
+            <span>注目の良品を全画面スワイプで振り返る</span>
+          </span>
+          <ChevronRight size={20} strokeWidth={2} className="digest-banner-arrow" />
+        </button>
+      </div>
       <main>
         {highlights.length > 0 ? (
           <FeatureRow items={highlights} meta={meta} />
