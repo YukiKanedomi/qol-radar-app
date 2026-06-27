@@ -67,7 +67,7 @@ export default function App() {
         sync={sync}
         onOpenDigest={() => setDigestOpen(true)}
       />
-      <Masthead />
+      <Masthead meta={meta} />
       <div className="wrap">
         <button
           type="button"

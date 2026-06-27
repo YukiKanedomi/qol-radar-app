@@ -167,7 +167,8 @@ body {
   border-bottom: 2px solid var(--ink);
 }
 .mast-in {
-  padding: 40px 0 26px;
+  /* 横は .wrap と同じ24pxを明示（ショートハンドで0に潰さない） */
+  padding: 40px 24px 26px;
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 24px;
@@ -720,7 +721,7 @@ body {
     font-size: 26px;
   }
   .mast-in {
-    padding: 28px 0 18px;
+    padding: 28px 24px 18px;
   }
   .rubric {
     margin: 24px 0 12px;
