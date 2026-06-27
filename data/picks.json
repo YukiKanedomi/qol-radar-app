@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-06-27",
+    "lastUpdated": "2026-06-28",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -1215,6 +1215,121 @@
       "sources": [
         "https://my-best.com/7220",
         "https://www.yamada-denkiweb.com/media/40666/"
+      ]
+    },
+    {
+      "id": "nasal-aspirator",
+      "name": "電動鼻吸い器（メルシーポット 等）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "耳鼻科レベルの吸引力。子の鼻づまり・夜泣きの救世主",
+      "points": [
+        "耳鼻科レベルのパワーで鼻づまりをしっかり解消",
+        "0ヵ月から使え、中耳炎・夜泣き対策にも",
+        "小児科・耳鼻科でも紹介される定番"
+      ],
+      "tags": [
+        "育児",
+        "鼻づまり"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/21783",
+        "https://award.mamari.jp/healthcare/babynasalaspirator/"
+      ]
+    },
+    {
+      "id": "temp-kettle",
+      "name": "温度調整できる電気ケトル（バルミューダ / 山善 等）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "コーヒー・お茶・白湯を最適温度で。保温もできる",
+      "points": [
+        "1℃単位で湯温を設定、コーヒー・緑茶・白湯に最適",
+        "保温機能で何度も沸かし直さずに済む",
+        "細口モデルはドリップの注ぎやすさも段違い"
+      ],
+      "tags": [
+        "キッチン",
+        "コーヒー"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://www.yamada-denkiweb.com/media/24614/",
+        "https://www.biccamera.com/bc/i/topics/osusume_electrickettle/index.jsp"
+      ]
+    },
+    {
+      "id": "e-memo-pad",
+      "name": "電子メモパッド（ブギーボード 等）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "書いて消すだけのデジタルメモ。紙の散らかりから解放",
+      "points": [
+        "書いてワンタッチで消去、紙のメモが不要に",
+        "薄型・軽量でデスクや会議にサッと一枚",
+        "アプリでスキャンしてデータ保存できるモデルも"
+      ],
+      "tags": [
+        "メモ",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/1625",
+        "https://kakaku.com/kaden/digital-memo/itemlist.aspx?pdf_se=2"
+      ]
+    },
+    {
+      "id": "diatomite-bathmat",
+      "name": "珪藻土バスマット（ニトリ ソフトカイテキ 等）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "濡れた足が一瞬でサラサラ。洗濯不要で衛生的",
+      "points": [
+        "吸水が速く、濡れた足がすぐサラサラに",
+        "洗濯不要でお手入れの手間がほぼゼロ",
+        "やわらかい鉱物系は割れにくく安心"
+      ],
+      "tags": [
+        "バス",
+        "時短"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/12462",
+        "https://360life.shinyusha.co.jp/articles/-/36883"
+      ]
+    },
+    {
+      "id": "budget-app",
+      "name": "家計簿アプリ（マネーフォワード ME 等）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "銀行・カードを自動連携。支出が見える化して貯まる",
+      "points": [
+        "銀行・カードを自動連携し家計簿が自動作成",
+        "レシート撮影・グラフ化で支出を見える化",
+        "口座をパートナーと共有でき、無駄が見つかる"
+      ],
+      "tags": [
+        "お金",
+        "見える化"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://www.aspicjapan.org/asu/article/91745",
+        "https://good-apps.jp/media/column/4409"
       ]
     }
   ]
