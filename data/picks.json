@@ -1055,6 +1055,167 @@
         "https://kakaku.com/kaden/bedcloth-dryer/ranking_2131/",
         "https://sakidori.co/article/73939"
       ]
+    },
+    {
+      "id": "food-waste-dryer",
+      "name": "生ゴミ処理機（島産業 パリパリキュー 等）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "生ゴミのニオイ・コバエから解放。捨てる手間も激減",
+      "points": [
+        "生ゴミのニオイ・コバエ問題を解消",
+        "乾燥式は手入れが簡単で置くだけ",
+        "ゴミの量と重さが大幅に減る・自治体補助の対象も"
+      ],
+      "tags": [
+        "生ゴミ",
+        "キッチン"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/kaden/disposer/ranking_2136/",
+        "https://my-best.com/472"
+      ]
+    },
+    {
+      "id": "smart-lock",
+      "name": "スマートロック（SwitchBot ロック 等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "鍵の閉め忘れ・持ち忘れの不安が消える玄関の神デバイス",
+      "points": [
+        "鍵の閉め忘れ・持ち忘れの不安が消える",
+        "オートロックで施錠が自動に",
+        "暗証番号やスマホで解錠、両面テープで簡単設置"
+      ],
+      "tags": [
+        "スマートホーム",
+        "防犯"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://www.biccamera.com/bc/c/media/article/2024/06/202406-smart-switchbotlock.html",
+        "https://my-best.com/28305"
+      ]
+    },
+    {
+      "id": "ebook-reader",
+      "name": "電子書籍リーダー（Kindle Paperwhite 等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "目に優しく軽い。数千冊を1台に、本棚いらず",
+      "points": [
+        "目に優しい電子ペーパーで長時間でも疲れにくい",
+        "軽量・防水で通勤やお風呂でも読める",
+        "数千冊を1台に、本棚いらず"
+      ],
+      "tags": [
+        "読書",
+        "電子書籍"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/6135",
+        "https://weekly.ascii.jp/elem/000/004/385/4385363/2/"
+      ]
+    },
+    {
+      "id": "footrest",
+      "name": "フットレスト（デスク下の足置き）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "足の疲れ・むくみを軽減。在宅の座り疲れ対策に",
+      "points": [
+        "足の疲れ・むくみ・冷えを軽減",
+        "正しい姿勢を保ちやすく腰への負担減",
+        "在宅デスクの長時間の座り疲れ対策に"
+      ],
+      "tags": [
+        "在宅ワーク",
+        "姿勢"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/1739",
+        "https://direct.sanwa.co.jp/contents/sp/clm/footrest/"
+      ]
+    },
+    {
+      "id": "foam-roller",
+      "name": "フォームローラー（筋膜ローラー）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "凝りをセルフでほぐす。寝る前数分のリセットに",
+      "points": [
+        "凝り固まった筋肉・筋膜をセルフでほぐす",
+        "肩こり・腰の張りや運動後のケアに",
+        "1日数分、寝る前のリセット習慣に"
+      ],
+      "tags": [
+        "セルフケア",
+        "ストレッチ"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/2681",
+        "https://kakaku.com/ranking/fitness/0009_0039/0012/200000249/"
+      ]
+    },
+    {
+      "id": "online-fitness",
+      "name": "オンラインフィットネス（SOELU / LEAN BODY 等）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "自宅でジム品質のレッスン。移動ゼロで運動不足解消",
+      "points": [
+        "自宅でジム品質のレッスンを受けられる",
+        "移動ゼロで運動不足を解消",
+        "月額定額でヨガ〜筋トレまで通い放題"
+      ],
+      "tags": [
+        "運動",
+        "サブスク"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/14248",
+        "https://cospabu.com/category-service.php?id=29"
+      ]
+    },
+    {
+      "id": "steam-cleaner",
+      "name": "スチームクリーナー（ケルヒャー 等）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "高温スチームで洗剤なしの除菌掃除。油汚れも浮かせて拭くだけ",
+      "points": [
+        "高温スチームで洗剤なしの除菌掃除",
+        "キッチンの油汚れ・床・水回りに",
+        "浮かせて拭くだけ、こすり洗い不要"
+      ],
+      "tags": [
+        "掃除",
+        "除菌"
+      ],
+      "dateAdded": "2026-06-27",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/7220",
+        "https://www.yamada-denkiweb.com/media/40666/"
+      ]
     }
   ]
 }
