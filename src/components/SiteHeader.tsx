@@ -50,7 +50,7 @@ export function SiteHeader({
             <Sparkles size={14} strokeWidth={2} />
             <span className="digest-cta-label">ダイジェスト</span>
           </button>
-          <span>
+          <span className="header-count">
             収録 <b className="num">{count}</b> 点
           </span>
           <span className="sep-hide">

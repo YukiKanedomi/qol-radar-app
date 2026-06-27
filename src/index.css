@@ -109,6 +109,7 @@ body {
   font-size: 21px;
   letter-spacing: 0.04em;
   margin: 0;
+  white-space: nowrap;
 }
 .brand .en {
   font-family: "Inter", sans-serif;
@@ -769,8 +770,16 @@ body {
     white-space: nowrap;
   }
   .brand .en,
-  .hmeta .sep-hide {
+  .hmeta .sep-hide,
+  .header-count {
     display: none;
+  }
+  /* ヘッダーの詰まり解消：間隔を詰めてロゴに余白を */
+  .hmeta {
+    gap: 9px;
+  }
+  .hbar {
+    gap: 10px;
   }
   /* モバイル：フィルターは sticky 解除（スクロールで流す→カードが全画面に） */
   .filters {
@@ -1261,7 +1270,9 @@ body {
   .digest-cta-label {
     display: none;
   }
+  /* モバイルではヘッダーのダイジェスト導線は隠す（下のバナーがあるため）。
+     基本定義より後ろで指定して確実に効かせる */
   .digest-cta {
-    padding: 7px 9px;
+    display: none;
   }
 }
