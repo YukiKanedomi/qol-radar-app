@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-06-28",
+    "lastUpdated": "2026-06-29",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -1455,6 +1455,131 @@
         "https://my-best.com/6032",
         "https://sakidori.co/article/113122",
         "https://sound-solution.yamaha.com/products/uc/yvc-200"
+      ]
+    },
+    {
+      "id": "fine-bubble-showerhead",
+      "name": "ファインバブルシャワーヘッド（ミラブル / リファ等）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "ウルトラファインバブルで毛穴の奥まで洗浄。肌・髪のしっとり感が変わる美容シャワー",
+      "points": [
+        "ウルトラファインバブルで毛穴の奥の汚れを浮かせる",
+        "肌・頭皮のしっとり感が変わったという口コミ多数",
+        "節水機能つきで水道代も同時に抑えられる"
+      ],
+      "tags": [
+        "バスルーム",
+        "美容",
+        "節水"
+      ],
+      "dateAdded": "2026-06-29",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/947",
+        "https://sakidori.co/article/281810",
+        "https://www.biccamera.com/bc/i/topics/osusume_shower_head/index.jsp"
+      ]
+    },
+    {
+      "id": "oral-irrigator",
+      "name": "口腔洗浄器（パナソニック ジェットウォッシャー ドルツ等）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "水流で歯周ポケットを洗浄。フロスでは届かない歯間の汚れを落とし、歯茎の健康を守る",
+      "points": [
+        "水流で歯周ポケット・歯間の汚れを徹底除去",
+        "口臭や歯茎の出血が改善したという口コミ多数",
+        "電動歯ブラシと組み合わせてオーラルケアを完成"
+      ],
+      "tags": [
+        "オーラルケア",
+        "予防",
+        "歯茎"
+      ],
+      "dateAdded": "2026-06-29",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/2810",
+        "https://www.yamada-denkiweb.com/media/33900/",
+        "https://www.biccamera.com/bc/i/topics/osusume_oral_irrigator/index.jsp"
+      ]
+    },
+    {
+      "id": "smart-speaker",
+      "name": "スマートスピーカー（Amazon Echo / Google Nest等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "声だけで音楽・タイマー・家電操作が完結。両手がふさがった状況でもスマートホームを動かす",
+      "points": [
+        "声だけで音楽・タイマー・天気・家電を操作",
+        "料理・掃除中のハンズフリー操作が快適に",
+        "SwitchBot等と連携してスマートホーム化の中枢に"
+      ],
+      "tags": [
+        "スマートホーム",
+        "音声操作",
+        "自動化"
+      ],
+      "dateAdded": "2026-06-29",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/4678",
+        "https://hitorigoto-lab.jp/smart-speaker-comparison-recommended-2026/",
+        "https://www.ss-max.jp/smart-speaker-osusume/"
+      ]
+    },
+    {
+      "id": "audible",
+      "name": "Audible（Amazon オーディオブック 聴き放題）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "月額1,500円で12万冊以上が聴き放題。散歩・家事・通勤が耳の学習時間に変わる",
+      "points": [
+        "散歩・家事・通勤中に「ながら読書」が完成",
+        "12万冊以上が月額定額で聴き放題",
+        "SNSの無駄時間を知識インプットに変換できる"
+      ],
+      "tags": [
+        "読書",
+        "学習",
+        "ながら作業"
+      ],
+      "dateAdded": "2026-06-29",
+      "status": "new",
+      "sources": [
+        "https://zekno.co.jp/Audible/audible-review/",
+        "https://note.com/totocom/n/naff6bca8bd84",
+        "https://marutou-providevalue.com/audible-time/"
+      ]
+    },
+    {
+      "id": "posture-cushion",
+      "name": "骨盤矯正クッション（姿勢サポートクッション）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "置くだけで骨盤が立ち、自然と姿勢が正される。在宅の腰痛・猫背対策の入門アイテム",
+      "points": [
+        "置くだけで骨盤が立ち、自然に姿勢が正される",
+        "長時間の在宅・デスクワークでの腰痛を軽減",
+        "椅子そのままで使えコスパが良い"
+      ],
+      "tags": [
+        "在宅ワーク",
+        "腰痛",
+        "姿勢"
+      ],
+      "dateAdded": "2026-06-29",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/2923",
+        "https://360life.shinyusha.co.jp/articles/-/7803",
+        "https://magazine.voicenote.jp/60349/"
       ]
     }
   ]
