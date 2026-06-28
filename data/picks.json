@@ -1331,6 +1331,131 @@
         "https://www.aspicjapan.org/asu/article/91745",
         "https://good-apps.jp/media/column/4409"
       ]
+    },
+    {
+      "id": "foot-massager",
+      "name": "フットマッサージャー（エアー式・足裏＆ふくらはぎ）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "座ったまま足裏からふくらはぎを自動でほぐす。むくみ・疲労回復の定番",
+      "points": [
+        "足裏からふくらはぎまでエアーで包み込みほぐす",
+        "テレビや読書のながらケアで疲労・むくみを解消",
+        "デスクワーカーや立ち仕事後のリカバリーに定番"
+      ],
+      "tags": [
+        "セルフケア",
+        "むくみ",
+        "足"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/1117",
+        "https://www.yamada-denkiweb.com/media/1288/",
+        "https://360life.shinyusha.co.jp/articles/-/36542"
+      ]
+    },
+    {
+      "id": "flier-book-summary",
+      "name": "flier（フライヤー）本要約サービス",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "1冊10分でビジネス書のエッセンスを把握。スキマ時間に知識を積み上げる",
+      "points": [
+        "1冊10分の要約で4,000冊以上のビジネス書にアクセス",
+        "通勤・スキマ時間に知識をインプットできる",
+        "専門家監修の高品質な要約で良書選びにも役立つ"
+      ],
+      "tags": [
+        "読書",
+        "学習",
+        "時短"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://www.flierinc.com/",
+        "https://payforwardblog.com/flier/",
+        "https://subhika.jp/services/259"
+      ]
+    },
+    {
+      "id": "home-hair-removal",
+      "name": "家庭用光脱毛器（パナソニック光エステ / MYTREX MiRAY等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "サロン通い不要・好きな時間に自己処理の手間を減らす。時短ケアの定番",
+      "points": [
+        "自己処理の頻度と手間を大幅に削減",
+        "脱毛サロン代のコストを長期的に節約",
+        "好きな時間・部位に使え、継続しやすい"
+      ],
+      "tags": [
+        "美容",
+        "時短",
+        "ムダ毛"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/475",
+        "https://lipscosme.com/rankings/391",
+        "https://beplea.jp/blog/datsumouki-ranking-2026/"
+      ]
+    },
+    {
+      "id": "water-server",
+      "name": "ウォーターサーバー（浄水型・天然水型）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "冷水もお湯もすぐ出て、ケトルもペットボトル購入も不要。水回りの時短",
+      "points": [
+        "冷水・お湯が即座に出てケトルを沸かす手間ゼロ",
+        "ペットボトルを買って運ぶ負担がなくなる",
+        "コーヒー・赤ちゃんのミルク・白湯など毎日活躍"
+      ],
+      "tags": [
+        "水分補給",
+        "時短",
+        "健康"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/2201",
+        "https://waterserver-mizu.com/",
+        "https://karaage.ne.jp/life/waterserver-recommendation/"
+      ]
+    },
+    {
+      "id": "speakerphone",
+      "name": "スピーカーフォン（YAMAHA YVC-200等）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "耳に何もつけずWeb会議。ヘッドセット疲れを解消し声もクリアに届く",
+      "points": [
+        "耳に何もつけずに会議でき、長時間でも耳が疲れない",
+        "マイク品質が格段に上がり、相手に声がクリアに届く",
+        "USB1本で接続でき、置くだけで会議環境が整う"
+      ],
+      "tags": [
+        "在宅会議",
+        "音質",
+        "デスク"
+      ],
+      "dateAdded": "2026-06-28",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/6032",
+        "https://sakidori.co/article/113122",
+        "https://sound-solution.yamaha.com/products/uc/yvc-200"
+      ]
     }
   ]
 }
