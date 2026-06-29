@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-06-29",
+    "lastUpdated": "2026-06-30",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -1580,6 +1580,130 @@
         "https://my-best.com/2923",
         "https://360life.shinyusha.co.jp/articles/-/7803",
         "https://magazine.voicenote.jp/60349/"
+      ]
+    },
+    {
+      "id": "kindle-colorsoft",
+      "name": "Kindle Colorsoft（カラー電子書籍リーダー）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "漫画・レシピ・ガイドブックがカラーで楽しめる新世代Kindle。電子ペーパーの読みやすさそのままに色が加わった",
+      "points": [
+        "カラー電子ペーパーで漫画・料理本・旅行ガイドが鮮やか",
+        "目に優しく防水対応、バッテリー最大8週間の驚異的な持ち",
+        "Paperwhiteより一段上の体験でカラーハイライト機能も便利"
+      ],
+      "tags": [
+        "読書",
+        "電子書籍",
+        "カラー"
+      ],
+      "dateAdded": "2026-06-30",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/14952823",
+        "https://www.livingtech.or.jp/column/kindle-colorsoft-review/",
+        "https://www.tetsu7017.com/blog/amazon-kindle-colorsoft-reviews/"
+      ]
+    },
+    {
+      "id": "steam-oven-range",
+      "name": "スチームオーブンレンジ（ヘルシオ / パナソニック ビストロ等）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "食材を入れてボタンを押すだけのほったらかし調理。調理中は自由に動け、毎日の食事準備が別次元になる",
+      "points": [
+        "「まかせて調理」で食材を置くだけ、焼く・蒸す・揚げるを自動制御",
+        "調理中はキッチンを離れてOK、風呂・運動・育児が同時進行",
+        "過熱水蒸気で脂・塩分を落としながらヘルシーに仕上げる"
+      ],
+      "tags": [
+        "調理",
+        "ほったらかし",
+        "共働き"
+      ],
+      "dateAdded": "2026-06-30",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/11655",
+        "https://fujiwara-motors.com/?p=6504",
+        "https://360life.shinyusha.co.jp/articles/-/7394"
+      ]
+    },
+    {
+      "id": "webcam",
+      "name": "ウェブカメラ（ロジクール C920n / Brio等）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ノートPC内蔵カメラから乗り換えるだけで顔映りが劇的改善。オンライン会議の第一印象を低コストで底上げ",
+      "points": [
+        "フルHD・オートフォーカスで顔映りが一段クリアになる",
+        "ノートPC内蔵比で画角・色味・光補正が段違い",
+        "USB1本で繋ぐだけ、ドライバ不要で即使えるコスパ最強"
+      ],
+      "tags": [
+        "在宅会議",
+        "画質",
+        "デスク"
+      ],
+      "dateAdded": "2026-06-30",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/852",
+        "https://note.com/gadgegadgegadget/n/ne478cdc8df68",
+        "https://www.logicool.co.jp/ja-jp/shop/p/hd-pro-webcam-c920n"
+      ]
+    },
+    {
+      "id": "high-rebound-mattress",
+      "name": "高反発マットレス（エマスリープ / モットン等）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "朝の腰の重さが消えた口コミ続出。睡眠の質と腰痛対策の両方を底上げするベッドの主役",
+      "points": [
+        "高反発フォームが体圧を分散し、腰への集中負荷を軽減",
+        "寝返りをしっかりサポートして睡眠の深さが変わる",
+        "100日前後のトライアル返品保証があり失敗リスクが低い"
+      ],
+      "tags": [
+        "睡眠",
+        "腰痛",
+        "マットレス"
+      ],
+      "dateAdded": "2026-06-30",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/7165",
+        "https://sleepee.jp/a_46283/",
+        "https://www.ozmall.co.jp/healthcare/sleep/article/35224/"
+      ]
+    },
+    {
+      "id": "chatgpt-plus",
+      "name": "ChatGPT Plus（AIアシスタントサブスク）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "月3,000円で最高性能AIが常にそばに。メール・調査・要約・悩み相談を高精度で丸投げできる",
+      "points": [
+        "応答精度・速度・利用上限が無料版から大幅向上",
+        "文書作成・調査・要約を高速処理し、週15分の時短でもとが取れる",
+        "思考の壁打ち相手として仕事と日常の質が底上げされる"
+      ],
+      "tags": [
+        "AI",
+        "仕事効率",
+        "サブスク"
+      ],
+      "dateAdded": "2026-06-30",
+      "status": "new",
+      "sources": [
+        "https://uravation.com/media/chatgpt-paid-plan-comparison-2026/",
+        "https://genai-ai.co.jp/ai-kanri/blog/cc-chatgpt-plus-merit/"
       ]
     }
   ]
