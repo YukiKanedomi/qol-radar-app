@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-06-30",
+    "lastUpdated": "2026-07-01",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -1704,6 +1704,102 @@
       "sources": [
         "https://uravation.com/media/chatgpt-paid-plan-comparison-2026/",
         "https://genai-ai.co.jp/ai-kanri/blog/cc-chatgpt-plus-merit/"
+      ]
+    },
+    {
+      "id": "m5-macbook-air",
+      "name": "M5 MacBook Air",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "M4比で待ち時間激減、文章作業も快適な定番ノート",
+      "points": [
+        "GPU性能向上で動画・写真編集の待ち時間がほぼ解消",
+        "最小ストレージが256GBから512GBに倍増し実用的に",
+        "文章作成中心なら16GBで十分、AI処理は32GB推奨"
+      ],
+      "tags": [
+        "PC",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://saboten-blog.com/macbook-air-m5-review-benchmark-2026/",
+        "https://menverse.blog/gadget/m5-macbook-air-review",
+        "https://www.gizmodo.jp/2026/03/m5-macbook-air-review-a-laptop-with-real-middle-child-energy.html"
+      ]
+    },
+    {
+      "id": "airpods-pro-3",
+      "name": "AirPods Pro 3",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "ノイキャン別次元、人混みでも心の静寂が手に入る",
+      "points": [
+        "初代比最大4倍・Pro2比最大2倍のノイズ低減",
+        "新イヤーチップでフィット感が向上し没入感アップ",
+        "低音強化で音楽鑑賞・集中作業どちらも満足度高い"
+      ],
+      "tags": [
+        "イヤホン",
+        "ノイキャン"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/2025/11/apple-airpodspro3-review.html",
+        "https://note.com/jaga_farm/n/naf1f582ec399",
+        "https://gori.me/music-accessories/airpods/162840"
+      ]
+    },
+    {
+      "id": "dell-s2725qc-monitor",
+      "name": "Dell S2725QC（27インチ4K USB-Cモニター）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "USB-C一本で給電・映像・ハブを集約する4Kモニター",
+      "points": [
+        "最大65W給電対応、ケーブル1本でノートPC接続完結",
+        "4K解像度＋120Hzで表示が鮮明かつ滑らか",
+        "5万円前後とコスパが良いと複数レビューで評価"
+      ],
+      "tags": [
+        "モニター",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://ryuforest.com/s2725qc/",
+        "https://deskmono.com/review-dell-s2725qc/",
+        "https://bukiccho.com/dell-s2725qc-review/"
+      ]
+    },
+    {
+      "id": "home-nas",
+      "name": "家庭用NAS",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "写真・動画のバックアップが一元化し管理がシンプルに",
+      "points": [
+        "外付けHDDの散在問題を解消し自動バックアップ可能",
+        "ブラウザ上で家族写真を一括管理・鑑賞できる",
+        "月額不要でクラウドより長期的に低コスト"
+      ],
+      "tags": [
+        "バックアップ",
+        "写真管理"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://note.com/hobi_maga/n/n7e5416892ca8",
+        "https://homepaperless.com/what-is-nas/",
+        "https://homepaperless.com/synology-photos/"
       ]
     }
   ]
