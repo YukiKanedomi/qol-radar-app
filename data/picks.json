@@ -1801,6 +1801,277 @@
         "https://homepaperless.com/what-is-nas/",
         "https://homepaperless.com/synology-photos/"
       ]
+    },
+    {
+      "id": "fukurahagyu",
+      "name": "アテックス ルルド ふくらはぎゅ",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "コードレスのエアマッサージャーで脚を高圧ぎゅっと圧迫ケア",
+      "points": [
+        "上下2層エアバッグで強めの圧をかけて脚をスッキリ",
+        "温熱機能付きで寝る前・入浴後のリカバリーに人気",
+        "コードレス充電式で場所を選ばず使える"
+      ],
+      "tags": [
+        "脚マッサージ",
+        "むくみ",
+        "リカバリー"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://www.cecile.co.jp/review/HK-4044/",
+        "https://www.dinos.co.jp/pe/1250100429/1a10/"
+      ]
+    },
+    {
+      "id": "ston-s",
+      "name": "ston s（ストンエス）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "吸うだけで深呼吸を促す習慣化デバイス、就寝前に",
+      "points": [
+        "適度な吸気抵抗で自然に深くゆっくりした呼吸を促進",
+        "就寝前使用で副交感神経が優位になり睡眠の質向上を検証",
+        "充電不要・使い捨てですぐ使えてフレーバーも選べる"
+      ],
+      "tags": [
+        "深呼吸",
+        "リラックス",
+        "睡眠"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000036.000073545.html",
+        "https://dime.jp/genre/1815796/"
+      ]
+    },
+    {
+      "id": "nasal-dilator-tape",
+      "name": "鼻腔拡張テープ（いびき・鼻づまり対策）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "貼るだけで鼻呼吸をサポート、いびきも鼻づまりも軽減",
+      "points": [
+        "使用者の約7割が効果を実感（300名調査）",
+        "いびき対策だけでなく花粉症・鼻炎・喉の乾燥対策にも活用",
+        "数百円〜の低価格で手軽に試せる"
+      ],
+      "tags": [
+        "睡眠",
+        "いびき対策",
+        "鼻呼吸"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000080.000023848.html",
+        "https://www.ibiki-med.clinic/column_n/snoring-measures/nasal-dilation-tape/",
+        "https://my-best.com/1528"
+      ]
+    },
+    {
+      "id": "i-shirt-no-iron",
+      "name": "はるやま i-shirt（完全ノーアイロンシャツ）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "洗濯後アイロン不要、朝の支度が一気に時短",
+      "points": [
+        "形態安定グレード5で洗濯後シワがほぼ残らない",
+        "累計販売1100万着超の実績あるシリーズ",
+        "ストレッチ素材で動きやすく営業職にも好評"
+      ],
+      "tags": [
+        "衣類",
+        "時短",
+        "ノーアイロン"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://haruyama.jp/contents/haruyama/ishirt/",
+        "https://my-best.com/products/284085",
+        "https://360life.shinyusha.co.jp/articles/-/9344"
+      ]
+    },
+    {
+      "id": "sensor-auto-trash-can",
+      "name": "アイリスプラザ センサー付き自動開閉ゴミ箱 48L",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "手をかざすだけで開閉、料理中のプチストレス解消",
+      "points": [
+        "48L大容量で45Lゴミ袋を無駄なく使い切れる",
+        "手がふさがる調理中でも非接触で開閉できる",
+        "蓋の開閉によるニオイ漏れ・手間が減りQOL向上の声"
+      ],
+      "tags": [
+        "キッチン",
+        "自動化",
+        "時短"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://www.irisplaza.co.jp/index.php?KB=SHOSAI&SID=7064004F",
+        "https://my-best.com/15705"
+      ]
+    },
+    {
+      "id": "winbot-window-robot",
+      "name": "ECOVACS WINBOT W2 OMNI（窓拭きロボット）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "高所・大型窓の拭き掃除を自動化、コードレス対応",
+      "points": [
+        "コードレスで多機能ステーション付き、ボタン一つで開始",
+        "5500Paの吸着力で高所窓も安全に自動清掃",
+        "満充電110分で約55平米の窓を清掃可能"
+      ],
+      "tags": [
+        "掃除",
+        "自動化",
+        "高所"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://www.ecovacs.com/jp/winbot-window-cleaning-robot/winbot-w2-omni",
+        "https://katte-koukai.com/window-robot-vacuum-cleaner/",
+        "https://www.gizmodo.jp/2026/04/ecovacs-winbot-w3-omni-review-window-cleaning-robots-have-a-long-way-to-go.html"
+      ]
+    },
+    {
+      "id": "anker-prime-dock-tb5",
+      "name": "Anker Prime ドッキングステーション（14-in-1, 8K, Thunderbolt 5）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "Thunderbolt5初対応、配線ストレスを一掃する高性能ドック",
+      "points": [
+        "雑誌「家電批評」検証でベストバイ獲得",
+        "Thunderbolt5ポート3基で最大8K出力・高速転送",
+        "ホストポート実測131W給電でPC急速充電可能"
+      ],
+      "tags": [
+        "ドッキングステーション",
+        "Thunderbolt5",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://360life.shinyusha.co.jp/articles/-/49359",
+        "https://corp.ankerjapan.com/posts/541",
+        "https://kakaku.com/item/K0001691472/"
+      ]
+    },
+    {
+      "id": "rimo-voice",
+      "name": "Rimo Voice",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "国産AI議事録ツール、会議中は議論に集中できる",
+      "points": [
+        "月額1,100円からで25万ユーザー超の導入実績",
+        "高精度な日本語音声認識と自動要点・決定事項抽出",
+        "ISO27001/27017認証取得、データは国内サーバ保存"
+      ],
+      "tags": [
+        "AI議事録",
+        "文字起こし",
+        "会議効率化"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://www.itreview.jp/products/rimo-voice/reviews",
+        "https://jp.plaud.ai/blogs/blog/rimo-voice-review",
+        "https://boxil.jp/service/8125/reviews/"
+      ]
+    },
+    {
+      "id": "aircloset-styling",
+      "name": "airCloset（エアークローゼット）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "プロが選ぶ服が定額で届く、服選び時間ゼロの服飾サブスク",
+      "points": [
+        "プロスタイリストが好みを反映し選定",
+        "会員数100万人超の業界最大手実績",
+        "忙しい働く女性の時短ニーズに合致"
+      ],
+      "tags": [
+        "ファッション",
+        "時短",
+        "サブスク"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://www.air-closet.com/subscription/",
+        "https://fukusub.com/aircloset-reputation/",
+        "https://minhyo.jp/air-closet"
+      ]
+    },
+    {
+      "id": "subsc-box-app",
+      "name": "サブスクBox（サブスク管理アプリ）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "契約中サブスクを一括可視化、解約忘れ・無駄払いを防止",
+      "points": [
+        "176サービスをワンタップで自動入力登録",
+        "次回請求日をカレンダー通知で管理",
+        "使ってないサブスクを診断し節約に貢献"
+      ],
+      "tags": [
+        "固定費管理",
+        "節約",
+        "アプリ"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://note.com/dreamy_cougar568/n/n2457c1410c89",
+        "https://www.shiraberu.jp/subscription-management-apps-2026/"
+      ]
+    },
+    {
+      "id": "kidsline-pickup",
+      "name": "キッズライン（送迎シッター）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "保育園・習い事の送迎を代行、共働きの朝夕を時短",
+      "points": [
+        "スマホで予約完結、急な依頼にも対応",
+        "保育園・幼稚園・習い事の送迎に幅広く対応",
+        "一般シッター会社より低料金との評価"
+      ],
+      "tags": [
+        "子育て",
+        "送迎代行",
+        "共働き"
+      ],
+      "dateAdded": "2026-07-01",
+      "status": "new",
+      "sources": [
+        "https://kidsline.me/curations/pick_up_sitter",
+        "https://anylife.jp/child-rearing/babysitter/kidsline/",
+        "https://baby-sitter.jp/kidsline-reputation"
+      ]
     }
   ]
 }
