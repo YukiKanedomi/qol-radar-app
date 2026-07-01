@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-01",
+    "lastUpdated": "2026-07-02",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -2071,6 +2071,476 @@
         "https://kidsline.me/curations/pick_up_sitter",
         "https://anylife.jp/child-rearing/babysitter/kidsline/",
         "https://baby-sitter.jp/kidsline-reputation"
+      ]
+    },
+    {
+      "id": "co2-sensor-remote-work",
+      "name": "CO2センサー（在宅ワーク用・SwitchBot / eAir 等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "部屋のCO2濃度を見える化。眠気・集中力低下を防いで時短",
+      "points": [
+        "1000ppm超で眠気・思考力低下と可視化して換気を促す",
+        "在宅ワークの集中持続時間が伸び残業が減った例も",
+        "スマホ連動やランプ表示で数値を意識せず使える機種も"
+      ],
+      "tags": [
+        "在宅ワーク",
+        "集中力",
+        "空気質"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/2210-lht-co2-checker/",
+        "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1640412.html"
+      ]
+    },
+    {
+      "id": "smart-ring-sleep-tracker",
+      "name": "スマートリング（Oura Ring 4 / SOXAI RING 2 等）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "指輪型で睡眠・HRVを計測。着け心地が軽く継続しやすい",
+      "points": [
+        "重さ数g、スマートウォッチよりかさばらず睡眠中も快適",
+        "アプリの入眠時間提案で深い睡眠が増えた実測報告あり",
+        "日本製SOXAI RING 2は最大14日バッテリーで長持ち"
+      ],
+      "tags": [
+        "睡眠",
+        "ウェアラブル",
+        "健康管理"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.businessinsider.jp/article/2604-soxai-ring-2-sleep-tracking-review/",
+        "https://runpointcon.net/entry/%E3%80%902026%E5%B9%B4%E7%89%88%E3%80%91%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0"
+      ]
+    },
+    {
+      "id": "neck-cooler-torras-coolify",
+      "name": "電動ネッククーラー（TORRAS COOLIFY 等）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "首元をペルチェ冷却。猛暑の通勤・屋外作業の体感を時短で緩和",
+      "points": [
+        "ペルチェ式で気温35度でも冷却面を約15度まで下げる機種も",
+        "外気温が高くても冷却効果が落ちにくく屋外の長時間作業向き",
+        "PCM素材タイプは軽量で装着感が自然という声も"
+      ],
+      "tags": [
+        "猛暑対策",
+        "ウェアラブル",
+        "屋外作業"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://camphack.nap-camp.com/11836",
+        "https://kakaku.com/ranking/beauty_health/0018_0019/0001/200002385/"
+      ]
+    },
+    {
+      "id": "magnetic-usb-c-cable",
+      "name": "マグネット式USB-Cケーブル",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "着脱ワンタッチで抜き差しが時短。デスク周りの配線もすっきり",
+      "points": [
+        "軽い力で着脱でき充電のたびのストレスが激減",
+        "PD100W対応など急速充電両立モデルも多い",
+        "マグネットでデスク下に吸着し配線整理にも使える"
+      ],
+      "tags": [
+        "充電",
+        "デスク環境",
+        "時短"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.techno-edge.net/article/2024/02/01/2727.html",
+        "https://note.com/monoblog/n/n87b43434c87d"
+      ]
+    },
+    {
+      "id": "nishida-quick-release-hanger",
+      "name": "ニシダ すぐ取れ角ハンガー",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "引っぱるだけで洗濯物がスパッと外れる時短ピンチハンガー",
+      "points": [
+        "ピンチを一つずつつまむ必要がなく、下に引っぱるだけで取り込める",
+        "洗濯物にピンチ跡が付きにくく、取り込み速度が体感2倍に",
+        "楽天・Yahoo!ショッピング等の複数ECサイトで高評価レビュー多数"
+      ],
+      "tags": [
+        "洗濯",
+        "時短",
+        "プチプラ"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://review.rakuten.co.jp/item/1/248280_11150394/1.1/",
+        "https://www.monotaro.com/review/product/05142045/",
+        "https://harus-mylife.com/2533.html"
+      ]
+    },
+    {
+      "id": "raycop-futon-cleaner",
+      "name": "レイコップ 布団クリーナー",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "布団専用の光クリーン機能でダニ・花粉対策、天日干し不要に",
+      "points": [
+        "特許の光クリーンメカニズムで除菌・消臭、天日干しよりラクで清潔",
+        "たたき+吸引ブラシで布団の奥のホコリやペットの毛までしっかり除去",
+        "家電Watchのレビューや利用者ブログで「買ってよかった」との声多数"
+      ],
+      "tags": [
+        "寝具",
+        "掃除",
+        "アレルギー対策"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/column_review/kaden/1555875.html",
+        "https://note.com/asami_7716/n/n421a24686b71",
+        "https://my-best.com/6962"
+      ]
+    },
+    {
+      "id": "daiso-microwave-cleaner",
+      "name": "ダイソー 電子レンジ洗浄剤",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "チンして拭くだけで庫内の頑固な汚れが落ちる110円グッズ",
+      "points": [
+        "洗浄剤を含んだスポンジを1分加熱するだけで蒸気が庫内に行き渡る",
+        "数か月放置した焦げ付き汚れも拭き取るだけで綺麗になったと複数メディアが検証",
+        "110円という手軽さで継続的な庫内ケアが習慣化しやすい"
+      ],
+      "tags": [
+        "100均",
+        "キッチン掃除",
+        "時短"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://news.mynavi.jp/article/20231019-2790870/",
+        "https://media.yourmystar.jp/articles/6c69af99-e82f-4d42-ba78-6779fde2e7c7",
+        "https://macaro-ni.jp/49763"
+      ]
+    },
+    {
+      "id": "yamazaki-drain-net-holder",
+      "name": "山崎実業 排水口ゴミ受けネットホルダー（tower）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "ネットを引っぱってポイ、排水口のヌメリ掃除から解放される神グッズ",
+      "points": [
+        "専用ネットを排水口にセットし、ゴミが溜まったら引っぱって捨てるだけ",
+        "排水カゴ自体を洗う手間がほぼなくなり、ヌメリ・悪臭対策に効果的",
+        "発売直後から品薄になるほど話題になり、複数メディアが好意的にレビュー"
+      ],
+      "tags": [
+        "キッチン",
+        "水回り",
+        "掃除"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.roomie.jp/2025/07/1565342/",
+        "https://www.roomie.jp/2026/02/1696805/",
+        "https://gori.me/lifestyle/162855"
+      ]
+    },
+    {
+      "id": "deltahub-carpio-2",
+      "name": "DeltaHub Carpio 2.0（可動式リストレスト）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "マウスと一緒に滑る可動式リストレストで手首の疲れが激減",
+      "points": [
+        "手の動きと連動してマウスパッド上を滑るので手首のズレ・摩擦が少ない",
+        "外科医らと共同開発された人間工学設計で長時間作業でも痛くなりにくい",
+        "固定式より自由度が高く、腕全体で操作する感覚が得られる"
+      ],
+      "tags": [
+        "リストレスト",
+        "エルゴノミクス",
+        "マウス"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.useful-time.com/entry/carpio2",
+        "https://life-enrichment-go.com/deltahub-carpio2/",
+        "https://kazlog.tokyo/carpio2-0/"
+      ]
+    },
+    {
+      "id": "tourbox-elite",
+      "name": "TourBox Elite",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "ダイヤル＋多ボタンの左手デバイスで編集作業が爆速化",
+      "points": [
+        "形の異なるボタン配置でブラインド操作ができ作業速度が上がる",
+        "アプリごとにボタン割当を変えられ動画・写真編集のショートカットを集約",
+        "Bluetooth接続でPC2台をシームレスに切り替え可能"
+      ],
+      "tags": [
+        "左手デバイス",
+        "作業効率",
+        "クリエイティブ"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://masayamatome.com/tourbox-elite",
+        "https://win-tab.net/acc/tourbox_elite_review_2306193/",
+        "https://laffic.com/tourbox-elite/"
+      ]
+    },
+    {
+      "id": "orbitkey-nest",
+      "name": "Orbitkey Nest",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "ワイヤレス充電台内蔵、デスク小物を美しく整理するケース",
+      "points": [
+        "フタを外すとアクセサリートレイ兼ワイヤレス充電パッドに変身",
+        "可動式の仕切りで自分の道具に合わせて収納レイアウトを設計できる",
+        "ガジェットっぽくないエレガントな見た目でデスクになじむ"
+      ],
+      "tags": [
+        "デスク収納",
+        "ワイヤレス充電",
+        "整理整頓"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://mupon.net/review-orbitkey-nest1ahcc/",
+        "https://kissanadu.com/oribitkey-nest-review",
+        "https://hirama1406.com/orbitkey-nest"
+      ]
+    },
+    {
+      "id": "neochi-hot-eye-mask",
+      "name": "リラクシングワーク ねおち温アイマスク",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "耳まで包む充電式ホットアイマスク。ランキングで満点評価の実力派",
+      "points": [
+        "充電式ホットアイマスク比較で満点評価（着け心地・温まり具合）",
+        "目だけでなく耳まで包む2Wayリバーシブル設計",
+        "シリーズ累計80万個突破のロングセラーブランド"
+      ],
+      "tags": [
+        "睡眠",
+        "眼精疲労",
+        "リラックス"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://360life.shinyusha.co.jp/articles/-/54554",
+        "https://prtimes.jp/main/html/rd/p/000000021.000074227.html",
+        "https://relaxingwork-store.jp/products/nh8220"
+      ]
+    },
+    {
+      "id": "cyber-chill-pillow",
+      "name": "サイバーチルピロー（Cyber Chill Pillow）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "半導体冷却×水冷循環で頭を冷やす次世代冷却枕",
+      "points": [
+        "半導体冷却×水冷チューブ循環で頭部を一晩中均一に冷却",
+        "クラウドファンディングで目標を大幅達成しメディアでも紹介",
+        "温熱モードも搭載し通年使える設計"
+      ],
+      "tags": [
+        "睡眠",
+        "暑さ対策",
+        "ガジェット"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.makuake.com/project/cyberchill_pillow/",
+        "https://uechan-camp.com/cyberchill-pillow-review/",
+        "https://www.atpress.ne.jp/news/7795176"
+      ]
+    },
+    {
+      "id": "upright-go-s",
+      "name": "UPRIGHT GO S（姿勢矯正ウェアラブル）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "背中に貼るだけ、猫背になると振動で知らせる姿勢矯正デバイス",
+      "points": [
+        "スマホアプリと連動し姿勢データを記録・トレーニング",
+        "Amazonで1000件超の高評価レビュー、複数メディアでも紹介",
+        "薄型ストラップレスで服の下でも目立たない"
+      ],
+      "tags": [
+        "姿勢",
+        "デスクワーク",
+        "ウェアラブル"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/1167427.html",
+        "https://www.lifehacker.jp/article/lht-upright-go/",
+        "https://360life.shinyusha.co.jp/articles/-/35781"
+      ]
+    },
+    {
+      "id": "refa-grace-head-spa",
+      "name": "ReFa GRACE HEAD SPA",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "指つまみ動作を再現するヘッドスパ家電。肩こり・眼精疲労にも好評",
+      "points": [
+        "独自ローラーが頭皮をつまみ上げるように動く高評価設計",
+        "寝る前使用で肩こり・目の疲れ軽減、睡眠の質向上の声多数",
+        "美容系口コミサイト複数で高評価が継続"
+      ],
+      "tags": [
+        "頭皮ケア",
+        "リラックス",
+        "美容家電"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.rentio.jp/products/rf-gh2114b/reviews",
+        "https://www.cosme.net/products/10122205/review/"
+      ]
+    },
+    {
+      "id": "chocozap",
+      "name": "chocoZAP（チョコザップ）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "月額3,278円で24時間ジム＋脱毛/エステ/ネイルまで使える神コスパ",
+      "points": [
+        "着替え不要・24時間いつでも通える手軽さで運動習慣が続く",
+        "セルフエステ・脱毛・ホワイトニング・ネイルも同じ月額に込み",
+        "全国1800店舗以上でスキマ時間にふらっと寄れる"
+      ],
+      "tags": [
+        "フィットネス",
+        "時短",
+        "コスパ"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.dm-s.co.jp/collect/chocozap/",
+        "https://life.oricon.co.jp/rank_fitness/24hours/company/chocozap/",
+        "https://oceans.tokyo.jp/choice/fitness/chocozap-review"
+      ]
+    },
+    {
+      "id": "perplexity-pro",
+      "name": "Perplexity Pro",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "出典付きAI検索で調べ物が爆速に、ググるより速く正確",
+      "points": [
+        "Web最新情報を出典付きで要約、店探しは画像・地図付きで一発表示",
+        "複数のAIモデルを切替可能、無制限クイック検索",
+        "既存のChatGPT Plusとは異なる出典明示型の検索AIとして併用価値あり"
+      ],
+      "tags": [
+        "AI",
+        "仕事効率",
+        "検索"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://k-tai.watch.impress.co.jp/docs/column/minna/2030161.html",
+        "https://note.com/noa813/n/nae740a6a51d5",
+        "https://kawanami.me/perplexity-pro-paypal-review-comet/"
+      ]
+    },
+    {
+      "id": "bloomee",
+      "name": "Bloomee（ブルーミー）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ポスト投函でお花が届く、在宅不要の花サブスクで部屋が明るく",
+      "points": [
+        "お試し980円〜、花屋より安く新鮮な花が定期的に届く",
+        "ポスト投函プランなら受け取りに在宅不要で忙しくても続けられる",
+        "季節感のあるおしゃれな花束でちょっとしたご褒美になる"
+      ],
+      "tags": [
+        "花",
+        "癒し",
+        "定期便"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://makima.co.jp/flower/bloomee/",
+        "https://ohanaomana.com/bloomee-review/",
+        "https://subsc-life-note.com/bloomee/"
+      ]
+    },
+    {
+      "id": "times-carshare",
+      "name": "タイムズカーシェア",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "月1,030円の基本料で徒歩数分から車、急な外出や病院にも即対応",
+      "points": [
+        "基本料金がそのまま利用料に充当され、マイカー維持より大幅に安い",
+        "早め返却なら使った分だけ課金、24時間いつでも予約なしで使える",
+        "近所に複数ステーションがあれば買い物や急病時の足として重宝"
+      ],
+      "tags": [
+        "カーシェア",
+        "時短",
+        "生活インフラ"
+      ],
+      "dateAdded": "2026-07-02",
+      "status": "new",
+      "sources": [
+        "https://www.stay-minimal.com/entry/timescarshare",
+        "https://note.com/generalist419/n/n85658295e947",
+        "https://life.oricon.co.jp/rank-carsharing/company/timescar/"
       ]
     }
   ]
