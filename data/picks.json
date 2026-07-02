@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-02",
+    "lastUpdated": "2026-07-03",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -2541,6 +2541,181 @@
         "https://www.stay-minimal.com/entry/timescarshare",
         "https://note.com/generalist419/n/n85658295e947",
         "https://life.oricon.co.jp/rank-carsharing/company/timescar/"
+      ]
+    },
+    {
+      "id": "elgato-stream-deck-mk2",
+      "name": "Elgato Stream Deck MK.2",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "15個のLCDキーにアプリ・操作をワンタッチ割り当て、定型作業をボタン一つで済ませる左手デバイス",
+      "points": [
+        "15キーを自由にカスタマイズでき、頻用アプリやショートカットをワンタッチ起動",
+        "価格.comで満足度4.48、Amazonで4000人超から96%評価と定番の実績",
+        "配信/OBS向けだけでなく通常のPC作業でも「無くてはならない」との長期利用の声多数"
+      ],
+      "tags": [
+        "デスク",
+        "作業効率化",
+        "ショートカット"
+      ],
+      "dateAdded": "2026-07-03",
+      "status": "new",
+      "sources": [
+        "https://review.kakaku.com/review/K0001398661/",
+        "https://note.com/lovely_impala245/n/n7ff41832e9c1",
+        "https://magazine.suuta.com/articles/review-stream-deck-mk2/"
+      ]
+    },
+    {
+      "id": "cio-polaris-cube-desk-pd-65w",
+      "name": "CIO Polaris CUBE DESK PD 65W",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "AC3口+USB-C×2+USB-A×1を一台に集約した卓上電源タップ。デスクの配線をまとめて時短",
+      "points": [
+        "最大6台を同時充電でき、独自技術Nova Intelligenceが給電を自動最適化",
+        "LCDで充電状態を一目確認、コード着脱式でコンパクトに持ち運びも可能",
+        "実売6,580円前後で複数の実機レビューが好評、旅行用途にも人気"
+      ],
+      "tags": [
+        "電源タップ",
+        "デスク環境",
+        "充電"
+      ],
+      "dateAdded": "2026-07-03",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/item/K0001638217/",
+        "https://iwatti.com/review-cio-polaris-cube-desk/",
+        "https://digital-style.jp/polaris-cube-desk"
+      ]
+    },
+    {
+      "id": "matech-power-cube-20000-45w",
+      "name": "MATECH PowerCube 20000 45W",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "20,000mAhクラス世界最小・最軽量級のモバイルバッテリー。MacBook Airまで45W給電",
+      "points": [
+        "名刺サイズ級のコンパクトさで20,000mAh・最大45W出力を両立",
+        "パススルー充電対応で本体充電とデバイス充電を同時にこなせる",
+        "実売5,990円、ITmedia・Ascii等の複数メディアが発売時に取り上げ好評"
+      ],
+      "tags": [
+        "モバイルバッテリー",
+        "出張",
+        "急速充電"
+      ],
+      "dateAdded": "2026-07-03",
+      "status": "new",
+      "sources": [
+        "https://dc.watch.impress.co.jp/docs/news/2085244.html",
+        "https://makuring.jp/powercube-20000/",
+        "https://www.itmedia.co.jp/mobile/spv/2602/13/news099.html"
+      ]
+    },
+    {
+      "id": "gravity-weighted-sleep-mask",
+      "name": "Gravity Original Weighted Sleep Mask",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "約450gの重みで副交感神経を刺激し入眠を後押しする加重アイマスク。大谷翔平選手も愛用",
+      "points": [
+        "適度な重みが安心感を生み、5分程度で寝つけたとの声も多数",
+        "肌当たりの良いマイクロファイバー素材で通年使いやすい",
+        "大谷翔平選手の愛用品として複数メディアで紹介され話題に"
+      ],
+      "tags": [
+        "睡眠",
+        "リカバリー",
+        "アイマスク"
+      ],
+      "dateAdded": "2026-07-03",
+      "status": "new",
+      "sources": [
+        "https://chot-hawaii.com/gravity_review/",
+        "https://stylehaus.jp/articles/25008/",
+        "https://note.com/___mikinao/n/n64b6d93c38c1"
+      ]
+    },
+    {
+      "id": "realforce-gx1-plus",
+      "name": "REALFORCE GX1 Plus",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "8000Hzポーリング×ラピッドトリガー対応の静電容量無接点キーボード。静音かつ高速な打鍵で作業も捗る",
+      "points": [
+        "静電容量無接点方式ながら8000Hz・0.1mmアクチュエーションの高速反応",
+        "PBTキーキャップ採用で耐久性と打鍵感が向上、着脱式ケーブルも便利",
+        "PC Watchなど複数メディア・ブログでゲームも仕事も妥協しない一台と評価"
+      ],
+      "tags": [
+        "キーボード",
+        "作業効率化",
+        "デスク"
+      ],
+      "dateAdded": "2026-07-03",
+      "status": "new",
+      "sources": [
+        "https://pc.watch.impress.co.jp/docs/topic/special/2084662.html",
+        "https://gasemedaka.com/realforce-gx1plus/",
+        "https://note.com/shunsuke_kanamo/n/n5a3df1e9c0aa"
+      ]
+    },
+    {
+      "id": "lg-myview-smart-monitor-34sr60qc-b",
+      "name": "LG MyView Smart Monitor 34SR60QC-B",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "34インチ21:9曲面ウルトラワイド。webOS内蔵でPCなしでもNetflix/YouTubeが見られるスマートモニター",
+      "points": [
+        "3440×1440の広大な画面でウィンドウ切り替えが不要になり作業が快適に",
+        "webOS搭載でPC接続なしにNetflix・YouTube等の動画配信を単体視聴可能",
+        "HDR10対応の曲面ディスプレイで没入感が高いと複数レビューで好評"
+      ],
+      "tags": [
+        "モニター",
+        "在宅ワーク",
+        "スマートモニター"
+      ],
+      "dateAdded": "2026-07-03",
+      "status": "new",
+      "sources": [
+        "https://rilapp6238.com/no-939/",
+        "https://monitormeguri.com/%E3%80%8Elg-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC-myview-smart-monitor-34sr60qc-b-34%E3%82%A4%E3%83%B3%E3%83%81%E3%80%8F%E6%98%A0%E7%94%BB%E9%A4%A8%E7%B4%9A%E3%81%AE/",
+        "https://www.lg.com/jp/monitors/smart-monitors/34sr60qc-b/"
+      ]
+    },
+    {
+      "id": "anker-maggo-charging-station-3in1",
+      "name": "Anker MagGo Wireless Charging Station (3-in-1)",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "Qi2対応で最大15W急速充電。iPhone・Apple Watch・AirPodsを置くだけで同時に3台充電できる",
+      "points": [
+        "Qi2対応により従来のMagSafe規格よりも充電時間を短縮",
+        "iPhone・Apple Watch・AirPodsを同時に急速充電、置くだけ運用でストレスが消える",
+        "パッド/スタンド切替や折りたたみ収納に対応したモデルもあり携帯性も良好"
+      ],
+      "tags": [
+        "ワイヤレス充電",
+        "MagSafe",
+        "デスク"
+      ],
+      "dateAdded": "2026-07-03",
+      "status": "new",
+      "sources": [
+        "https://lopylog.jp/anker-maggo-wireless-charging-station/",
+        "https://devicecamp.com/anker-maggo-wireless-charging-station/",
+        "https://news.yahoo.co.jp/expert/articles/4821d6307744c42b1affa22b0858e48d0ea65787"
       ]
     }
   ]
