@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-03",
+    "lastUpdated": "2026-07-04",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -2716,6 +2716,456 @@
         "https://lopylog.jp/anker-maggo-wireless-charging-station/",
         "https://devicecamp.com/anker-maggo-wireless-charging-station/",
         "https://news.yahoo.co.jp/expert/articles/4821d6307744c42b1affa22b0858e48d0ea65787"
+      ]
+    },
+    {
+      "id": "rokid-ai-glasses",
+      "name": "Rokid スマートAIグラス",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "89言語リアルタイム翻訳もナビも視界内で完結するAIメガネ",
+      "points": [
+        "89言語のリアルタイム翻訳（6言語はオフライン対応）",
+        "ディスプレイ・カメラ・スピーカー搭載で普段使いのメガネとしても違和感なし",
+        "スマホを出さずに通知確認やナビが視界内で完結"
+      ],
+      "tags": [
+        "AI",
+        "スマートグラス",
+        "翻訳",
+        "海外旅行"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/mobile/articles/2602/26/news071.html",
+        "https://www.gizmodo.jp/2026/04/rokid-smart-ai-grass.html",
+        "https://www.techno-edge.net/article/2026/05/30/5122.html"
+      ]
+    },
+    {
+      "id": "cio-desk-hack",
+      "name": "CIO deskHack",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "机の裏に貼るだけで天板がそのままQi充電器に早変わり",
+      "points": [
+        "3M粘着シートで裏に貼るだけの簡単設置",
+        "厚み12〜32mmの机なら最大10Wの急速ワイヤレス充電に対応",
+        "デスク上の配線・充電器が消えて見た目がミニマルに"
+      ],
+      "tags": [
+        "ワイヤレス充電",
+        "デスク環境",
+        "配線整理"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://kakakumag.com/seikatsu-kaden/?id=14124",
+        "https://ascii.jp/elem/000/004/041/4041857/",
+        "https://www.goodspress.jp/reports/240309/"
+      ]
+    },
+    {
+      "id": "divoom-minitoo",
+      "name": "Divoom MiniToo",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "レトロPC風ピクセル画面でデスクを彩る多機能スピーカー",
+      "points": [
+        "128×160のIPS液晶にドット絵アートや写真を表示",
+        "ポモドーロタイマー・ホワイトノイズ・アラーム機能で作業支援",
+        "手のひらサイズでBluetooth/USBオーディオ両対応"
+      ],
+      "tags": [
+        "デスク環境",
+        "スピーカー",
+        "集中力"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/2025/12/divoom-minitoo.html",
+        "https://shopstaff.jp/new-products/043c02f0f75d",
+        "https://note.com/suhirosu/n/n7bccaa944c55"
+      ]
+    },
+    {
+      "id": "nitori-microwave-egg-boiler",
+      "name": "ニトリ レンジでらくチン！ゆでたまご",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "お湯を沸かさずレンジだけでゆで卵が完成、洗い物も少なく時短",
+      "points": [
+        "お湯を沸かす手間なし、レンジ加熱＋余熱だけで完成",
+        "パーツはフタ・目皿・容器の3つで洗いやすい",
+        "雑誌LDKの比較でベストバイに選出、評価4.8"
+      ],
+      "tags": [
+        "時短調理",
+        "電子レンジ",
+        "キッチン"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://www.buzzfeed.com/jp/taeko_moriwaki/nitori-range-de-yudetamago",
+        "https://joshi-spa.jp/1337756",
+        "https://360life.shinyusha.co.jp/articles/-/55302"
+      ]
+    },
+    {
+      "id": "yamazaki-magnet-stacking-measuring-cup",
+      "name": "山崎実業 マグネット段々計量カップ タワー",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "計量スプーン不要、マグネットで浮かせ収納できる計量カップ",
+      "points": [
+        "段差メモリで上から一目で計量できる",
+        "底面マグネットでキッチンパネルに浮かせ収納",
+        "耐熱100℃で食洗機にも対応"
+      ],
+      "tags": [
+        "計量",
+        "キッチン収納",
+        "マグネット"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://www.roomie.jp/2026/01/1698576/",
+        "https://www.yamajitsu.co.jp/product/item/01136/"
+      ]
+    },
+    {
+      "id": "nitori-magnet-gap-duster",
+      "name": "ニトリ マグネット 隙間ホコリとり(DY02)",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "薄くしなる隙間ホコリとりで冷蔵庫裏まで楽に掃除",
+      "points": [
+        "薄い板状で冷蔵庫裏や洗濯機の隙間にスッと入る",
+        "持ち手が長く腰への負担が少ない",
+        "499円で手軽に導入でき、TVでも紹介"
+      ],
+      "tags": [
+        "掃除",
+        "隙間掃除",
+        "マグネット"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://news.yahoo.co.jp/articles/f07cb7293ba552ffcb965178940ad8034d59b1fb",
+        "https://www.nitori-net.jp/ec/product/8580988s/"
+      ]
+    },
+    {
+      "id": "yamazaki-storage-steel-cart",
+      "name": "山崎実業 収納付きスチール台車 タワー",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "家電とケーブルをまとめて隠せる台車で見た目も掃除もスッキリ",
+      "points": [
+        "電源ケーブル・タップをまとめて内部に隠せる",
+        "キャスター付きで家電ごと移動でき掃除が楽に",
+        "通気性のよい収納部でほこりの蓄積を抑制"
+      ],
+      "tags": [
+        "収納",
+        "配線整理",
+        "掃除"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://www.roomie.jp/2026/01/1678033/",
+        "https://www.gizmodo.jp/2026/03/yamazaki_car.html",
+        "https://www.yamajitsu.co.jp/product/item/78683/"
+      ]
+    },
+    {
+      "id": "libernovo-omni-chair",
+      "name": "LiberNovo Omni",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "体の動きに自動追従する電動エルゴノミクスチェア。腰痛が激減",
+      "points": [
+        "電動ストレッチモードで背骨まわりをほぐせる",
+        "姿勢が変わるたびに背もたれが自動フィット",
+        "8〜10時間のデスクワークでも夕方の腰の疲れが軽い"
+      ],
+      "tags": [
+        "椅子",
+        "エルゴノミクス",
+        "電動"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://note.com/hrms5567/n/n29d8ca0df106",
+        "https://note.com/tack_tech/n/n18b09a19576e",
+        "https://www.roomie.jp/2026/05/1753944/",
+        "https://www.rentio.jp/matome/2026/03/libernovo-omni-review/"
+      ]
+    },
+    {
+      "id": "kingjim-digital-earplug-mm1000",
+      "name": "キングジム デジタル耳せん MM1000",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "環境騒音だけカットし人の声は聞こえる、在宅集中用の耳栓",
+      "points": [
+        "エアコン・換気扇などの環境音を約90%カット",
+        "呼びかけや電話の着信音は聞こえるので支障なし",
+        "在宅ワーク中の集中力アップとして複数レビューで高評価"
+      ],
+      "tags": [
+        "耳栓",
+        "集中",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://hendigi.com/mm1000-review/",
+        "https://chimataki.com/king-jim/",
+        "https://kaden.watch.impress.co.jp/docs/column_review/yajreview/639676.html"
+      ]
+    },
+    {
+      "id": "ugreen-kvm-switch",
+      "name": "UGREEN KVMスイッチ",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "2台のPCをボタン一つでマウス・キーボード・モニターごと切替",
+      "points": [
+        "仕事用/私用PCをワンタッチで切替、周辺機器の差し替え不要",
+        "4K60Hz対応で画質そのままに切替できる",
+        "4000円台と安価で在宅の複数PC環境を整理できる"
+      ],
+      "tags": [
+        "KVM",
+        "2台PC",
+        "デスク整理"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://maipyon.jp/ugreen-kvm/",
+        "https://mura-shin.com/ugreen-usb-review/",
+        "https://kondeneenen.com/kvmswitch/"
+      ]
+    },
+    {
+      "id": "kensington-gel-wave-wrist-rest",
+      "name": "Kensington GEL Wave リストレスト",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ジェル素材で手首の痛み・タイピング時の摩擦疲れを軽減",
+      "points": [
+        "ジェルが手首に密着し摩擦による痛みを防ぐ",
+        "長時間タイピングでも快適な柔らかさ",
+        "フルサイズキーボード対応で3年以上使えたという声も"
+      ],
+      "tags": [
+        "リストレスト",
+        "タイピング",
+        "疲労軽減"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://puyonchi.com/kensington-gel-wave/",
+        "https://onna-recipe.com/kensington-gel-wave-wristrest.html",
+        "https://www.kensington.com/p/products/ergonomic-desk-accessories/ergosoft-wrist-rest/duo-gel-keyboard-wrist-rest/"
+      ]
+    },
+    {
+      "id": "moldex-meteor-earplugs",
+      "name": "モルデックス メテオ 耳栓",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "マシュマロ素材で圧迫感ゼロ、寝返りしても外れない安眠耳栓",
+      "points": [
+        "NRR33dBの高い遮音性なのにアラームは聞こえる",
+        "低反発クッション素材で耳にフィット",
+        "1000円以下で始められるコスパの良さ"
+      ],
+      "tags": [
+        "睡眠",
+        "耳栓",
+        "安眠"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/45130",
+        "https://kurasheep.com/moldex/",
+        "https://unitedmaison.com/lifestyle/earplug_meteoro.html"
+      ]
+    },
+    {
+      "id": "ynm-weighted-blanket",
+      "name": "YnM ウェイトブランケット",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "包まれる重みで不安が和らぎ寝つきが早くなる加重ブランケット",
+      "points": [
+        "体重の8〜12%の重さで安心感を演出",
+        "天然綿100%の冷感素材で通気性も確保",
+        "洗濯可能で衛生的に使い続けられる"
+      ],
+      "tags": [
+        "睡眠",
+        "寝具",
+        "リラックス"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://wachilog.com/lifegoods_weightedblanket/",
+        "https://note.com/nebeltal/n/nccb4cc081450",
+        "https://review.rakuten.co.jp/item/1/382627_10001896/1.1/"
+      ]
+    },
+    {
+      "id": "onkatsu-zen-sayu-maker",
+      "name": "白湯メーカー 温活zen",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "沸騰・カルキ抜き・保温を自動化、毎朝の白湯習慣がラクになる",
+      "points": [
+        "カルキ抜きモードでまろやかな白湯に",
+        "タイマー予約で起床時に飲み頃",
+        "腸活・温活習慣の継続ハードルを下げる"
+      ],
+      "tags": [
+        "温活",
+        "腸活",
+        "健康習慣"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/column_review/kaden/1623441.html",
+        "https://kakakumag.com/seikatsu-kaden/?id=21803",
+        "https://with-oshi.com/archives/470"
+      ]
+    },
+    {
+      "id": "nonio-tongue-cleaner",
+      "name": "NONIO舌クリーナー",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "300円台で始められる、舌苔をやさしく落とす口臭ケアの定番",
+      "points": [
+        "ブラシ+ラバースクレーパーの二重構造で舌苔を除去",
+        "毛が柔らかく痛みが少ない",
+        "ドラッグストアで手軽に買える価格"
+      ],
+      "tags": [
+        "口臭ケア",
+        "オーラルケア",
+        "美容"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/140789",
+        "https://lipscosme.com/products/355510",
+        "https://monocil.jp/items/13507/"
+      ]
+    },
+    {
+      "id": "kindle-unlimited",
+      "name": "Kindle Unlimited",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "月980円で本・漫画・雑誌500万冊が読み放題、積読と本棚が消える",
+      "points": [
+        "月1冊読めば元が取れる価格設定",
+        "ジャンル問わず気軽に試し読みできる",
+        "本の収納・処分ストレスがなくなる"
+      ],
+      "tags": [
+        "読書",
+        "サブスク",
+        "時短"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://yamamichi1.hatenablog.com/entry/kindle-unlimited-review",
+        "https://otonanofashion.com/kindle-review/",
+        "https://soarlog2.net/kindle-unlimited-review/"
+      ]
+    },
+    {
+      "id": "dentaly-toothbrush-sub",
+      "name": "Dentaly(デンタリー)",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "本体永久無料・月330円〜の電動歯ブラシ替えブラシ定期便",
+      "points": [
+        "本体代0円で初期費用がほぼかからない",
+        "IP67防水でお風呂でも使える",
+        "替えブラシが自動でポスト投函される"
+      ],
+      "tags": [
+        "歯ブラシ",
+        "サブスク",
+        "美容・健康"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://dendouhaburashi.com/dentaly-review-and-kutikomi/",
+        "https://subsc-square.com/dentaly/",
+        "https://lipscosme.com/products/520963"
+      ]
+    },
+    {
+      "id": "luup-monthly-pass",
+      "name": "LUUP 定額パス",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "月980円で電動自転車・キックボードが30分乗り放題、ラスト1マイルの時短に",
+      "points": [
+        "歩かずに帰れる手軽さ",
+        "アプリで貸出返却が完結",
+        "通常料金より安く乗り放題"
+      ],
+      "tags": [
+        "移動",
+        "サブスク",
+        "時短"
+      ],
+      "dateAdded": "2026-07-04",
+      "status": "new",
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/review/minireview/1552586.html",
+        "https://jidounten-lab.com/u_44942",
+        "https://note.com/hirokoizumi02/n/n4a4244c26736"
       ]
     }
   ]
