@@ -13,6 +13,8 @@ export interface FilterState {
   statuses: Status[];
   /** お気に入りのみ表示 */
   favoritesOnly: boolean;
+  /** 前回訪問以降の新着のみ表示 */
+  newOnly: boolean;
   /** 検索語（name・blurb・tags が対象） */
   query: string;
   sort: SortKey;
@@ -24,6 +26,7 @@ export const defaultFilterState: FilterState = {
   prices: [],
   statuses: [],
   favoritesOnly: false,
+  newOnly: false,
   query: "",
   sort: "newest",
 };
@@ -41,6 +44,7 @@ export function applyFilters(
   state: FilterState,
   overrides: Record<string, Status>,
   favorites: Set<string>,
+  newIds: Set<string>,
 ): Pick[] {
   const q = state.query.trim().toLowerCase();
 
@@ -54,6 +58,7 @@ export function applyFilters(
     )
       return false;
     if (state.favoritesOnly && !favorites.has(p.id)) return false;
+    if (state.newOnly && !newIds.has(p.id)) return false;
     if (q) {
       const hay = `${p.name} ${p.blurb} ${p.tags.join(" ")}`.toLowerCase();
       if (!hay.includes(q)) return false;

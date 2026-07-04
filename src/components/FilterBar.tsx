@@ -9,6 +9,8 @@ interface Props {
   state: FilterState;
   patch: (p: Partial<FilterState>) => void;
   resultCount: number;
+  /** 前回訪問以降の新着数（0なら新着トグル非表示） */
+  newCount: number;
 }
 
 const TRUST_OPTS: { value: number; label: string }[] = [
@@ -30,11 +32,12 @@ function activeRefineCount(s: FilterState): number {
     (s.minTrust > 0 ? 1 : 0) +
     (s.prices.length > 0 ? 1 : 0) +
     (s.statuses.length > 0 ? 1 : 0) +
-    (s.favoritesOnly ? 1 : 0)
+    (s.favoritesOnly ? 1 : 0) +
+    (s.newOnly ? 1 : 0)
   );
 }
 
-export function FilterBar({ meta, state, patch, resultCount }: Props) {
+export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) {
   const [open, setOpen] = useState(false);
   const genres = Object.keys(meta.genres);
   const prices = Object.keys(meta.priceLegend).map(Number).sort();
@@ -165,6 +168,17 @@ export function FilterBar({ meta, state, patch, resultCount }: Props) {
             />
             お気に入り
           </button>
+
+          {newCount > 0 ? (
+            <button
+              type="button"
+              className={"seg new-toggle" + (state.newOnly ? " on" : "")}
+              title="前回見たあとに追加されたアイテム"
+              onClick={() => patch({ newOnly: !state.newOnly })}
+            >
+              新着 <span className="num">{newCount}</span>
+            </button>
+          ) : null}
 
           <div className="refine-right">
             <span className="result-count num">{resultCount} 件</span>

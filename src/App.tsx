@@ -14,13 +14,22 @@ import { StoriesDigest } from "@/components/StoriesDigest";
 import { Masthead } from "@/components/Masthead";
 import { FeatureRow } from "@/components/FeatureRow";
 import { FilterBar } from "@/components/FilterBar";
-import { ItemGrid } from "@/components/ItemGrid";
+import { ItemGrid, type ViewMode } from "@/components/ItemGrid";
+import { BackToTop } from "@/components/BackToTop";
+
+/** 前回訪問時点の最新 dateAdded（これより後の追加を NEW 扱いにする） */
+const SEEN_KEY = "qol-radar.lastSeenDate";
+const VIEW_KEY = "qol-radar.view";
 
 export default function App() {
   const [data, setData] = useState<PicksData | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [filters, setFilters] = useState<FilterState>(defaultFilterState);
   const [digestOpen, setDigestOpen] = useState(false);
+  const [newIds, setNewIds] = useState<Set<string>>(new Set());
+  const [view, setView] = useState<ViewMode>(() =>
+    localStorage.getItem(VIEW_KEY) === "list" ? "list" : "card",
+  );
 
   const { favorites, statuses, toggleFavorite, setStatus, sync } =
     useCollection();
@@ -28,19 +37,36 @@ export default function App() {
 
   useEffect(() => {
     loadPicks()
-      .then(setData)
+      .then((d) => {
+        setData(d);
+        // 前回訪問より後に追加された分を NEW としてマーク（今セッション中は維持）
+        const max = d.picks.reduce(
+          (m, p) => (p.dateAdded > m ? p.dateAdded : m),
+          "",
+        );
+        const prev = localStorage.getItem(SEEN_KEY);
+        if (prev && prev < max) {
+          setNewIds(new Set(d.picks.filter((p) => p.dateAdded > prev).map((p) => p.id)));
+        }
+        if (max) localStorage.setItem(SEEN_KEY, max);
+      })
       .catch((e: unknown) =>
         setError(e instanceof Error ? e.message : "読み込みに失敗しました"),
       );
   }, []);
+
+  const setViewPersist = (v: ViewMode) => {
+    setView(v);
+    localStorage.setItem(VIEW_KEY, v);
+  };
 
   const patch = (p: Partial<FilterState>) =>
     setFilters((s) => ({ ...s, ...p }));
 
   const picks = data?.picks ?? [];
   const visible = useMemo(
-    () => applyFilters(picks, filters, statuses, favorites),
-    [picks, filters, statuses, favorites],
+    () => applyFilters(picks, filters, statuses, favorites, newIds),
+    [picks, filters, statuses, favorites, newIds],
   );
   const highlights = useMemo(() => topSignals(picks, 3), [picks]);
 
@@ -93,6 +119,7 @@ export default function App() {
           state={filters}
           patch={patch}
           resultCount={visible.length}
+          newCount={newIds.size}
         />
         <ItemGrid
           picks={visible}
@@ -100,12 +127,17 @@ export default function App() {
           meta={meta}
           favorites={favorites}
           statuses={statuses}
+          newIds={newIds}
+          view={view}
+          onSetView={setViewPersist}
+          groupByDate={filters.sort === "newest"}
           onToggleFavorite={toggleFavorite}
           onSetStatus={setStatus}
           onSelectTag={(t) => patch({ query: t })}
           onClearFilters={() => setFilters(defaultFilterState)}
         />
       </main>
+      <BackToTop />
       <StoriesDigest
         picks={picks}
         meta={meta}

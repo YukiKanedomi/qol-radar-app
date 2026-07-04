@@ -1,6 +1,7 @@
 import { Heart } from "lucide-react";
 import type { Pick, PicksMeta, Status } from "@/types";
 import { genreColor, shortLabel } from "@/lib/picks";
+import { iconFor } from "@/lib/icons";
 import { Stars } from "./Stars";
 import { Yen } from "./Yen";
 
@@ -9,6 +10,7 @@ interface Props {
   meta: PicksMeta;
   isFavorite: boolean;
   status: Status;
+  isNew: boolean;
   onToggleFavorite: (id: string) => void;
   onSetStatus: (id: string, status: Status | null) => void;
   onSelectTag: (tag: string) => void;
@@ -22,18 +24,24 @@ export function ItemCard({
   meta,
   isFavorite,
   status,
+  isNew,
   onToggleFavorite,
   onSetStatus,
   onSelectTag,
 }: Props) {
   const sources = pick.sources ?? [];
+  const Icon = iconFor(pick);
 
   return (
     <article className="card" style={{ ["--gc" as string]: genreColor(pick.genre) }}>
       <div className="top">
+        <span className="iplate" aria-hidden="true">
+          <Icon size={17} strokeWidth={1.6} />
+        </span>
         <span className="gtag" title={meta.genres[pick.genre]}>
           {shortLabel(meta.genres[pick.genre])}
         </span>
+        {isNew ? <span className="newb">NEW</span> : null}
         <button
           className={"heart" + (isFavorite ? " on" : "")}
           type="button"
