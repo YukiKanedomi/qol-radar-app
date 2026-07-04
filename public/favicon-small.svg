@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- A（小サイズ用）: 枠を省き朱印を大きく。タブでの視認性優先 -->
+  <rect width="512" height="512" fill="#f5f1e8"/>
+  <rect x="58" y="58" width="396" height="396" rx="40" fill="#b6452f"/>
+  <text x="256" y="278" text-anchor="middle" dominant-baseline="middle"
+        font-family="Yu Mincho, Hiragino Mincho ProN, serif" font-weight="700"
+        font-size="300" fill="#f5f1e8">良</text>
+</svg>

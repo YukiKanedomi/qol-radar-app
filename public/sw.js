@@ -2,7 +2,7 @@
 // 方針: ナビゲーションと picks.json は network-first（最新優先）、
 //       ハッシュ付き静的アセットは stale-while-revalidate、いずれも失敗時はキャッシュへ。
 // install 時にアプリシェル＋ビルド成果物を precache するので、初回訪問後はオフラインでも開ける。
-const CACHE = "qol-cache-v1";
+const CACHE = "qol-cache-v2"; // v2: アプリアイコン刷新（落款「良」）でキャッシュ破棄
 const BASE = "/qol-radar-app/";
 // ビルド時に dist のハッシュ付きアセットが注入される（scripts/inject-sw-precache.mjs）
 const BUILD_ASSETS = []; /*__PRECACHE_INJECT__*/
