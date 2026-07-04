@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-04",
+    "lastUpdated": "2026-07-05",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3166,6 +3166,81 @@
         "https://www.watch.impress.co.jp/docs/review/minireview/1552586.html",
         "https://jidounten-lab.com/u_44942",
         "https://note.com/hirokoizumi02/n/n4a4244c26736"
+      ]
+    },
+    {
+      "id": "bambu-lab-a1-mini",
+      "name": "Bambu Lab A1 mini",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "初心者でも20分で立体物を印刷できる家庭用3Dプリンター。壊れた部品を自分で作って直せる地味に効くQOLアイテム",
+      "points": [
+        "セットアップから20分で印刷開始、家電感覚で扱える手軽さと初心者評価の高さ",
+        "家具の取っ手やリモコンの電池蓋など、壊れた小物を自作して修理できる実用性",
+        "最大500mm/sの高速印刷で待ち時間も少なく、複数の長期使用レビューで高評価"
+      ],
+      "tags": [
+        "3Dプリンター",
+        "DIY",
+        "修理"
+      ],
+      "dateAdded": "2026-07-05",
+      "status": "new",
+      "sources": [
+        "https://note.com/fine_gerbil9006/n/n7c30463272a1",
+        "https://moke-gadget.com/bambu-lab-a1mini-review/",
+        "https://grape-piyo.com/bambu-lab-a1-mini_reason/"
+      ]
+    },
+    {
+      "id": "dreamegg-white-noise-machine",
+      "name": "Dreamegg D11 ホワイトノイズマシン",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "11種類の環境音とホワイトノイズで周囲の物音をマスクし、入眠をサポートする小型サウンドマシン",
+      "points": [
+        "波音・川のせせらぎ・ドライヤー音など11種類の音とナイトライトを搭載",
+        "USB充電式でコード不要、タイマーと前回設定の記憶機能付き",
+        "楽天レビューで高評価、寝つきの改善や物音への敏感さ軽減の声が多数"
+      ],
+      "tags": [
+        "睡眠",
+        "ホワイトノイズ",
+        "快眠グッズ"
+      ],
+      "dateAdded": "2026-07-05",
+      "status": "new",
+      "sources": [
+        "https://review.rakuten.co.jp/review/item/1/396594_10000008/1.1/",
+        "https://sentakubaco.com/dreamegg-d11/",
+        "https://dreameggjapan.com/products/dreamegg-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8E%E3%82%A4%E3%82%BA-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%9E%E3%82%B7%E3%83%B3"
+      ]
+    },
+    {
+      "id": "epeios-bath-polisher",
+      "name": "EPEIOS 電動バスポリッシャー",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "腰をかがめずお風呂掃除ができる電動回転ブラシ。伸縮ポールで天井や壁も立ったまま水垢・カビ落とし",
+      "points": [
+        "家電批評『バスポリッシャー部門』ベストバイ受賞、Amazon600件超・楽天800件超のレビューで高評価",
+        "最長135cmの伸縮ポールで天井や壁も立ったまま掃除でき、腰痛が解消したという声多数",
+        "用途別の付け替えブラシ付き、コードレスで浴室以外の水回りにも使える"
+      ],
+      "tags": [
+        "風呂掃除",
+        "時短家電",
+        "電動ブラシ"
+      ],
+      "dateAdded": "2026-07-05",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/column_review/kdnreview/2005051.html",
+        "https://review.rakuten.co.jp/review/item/1/387454_10000158/1.1/",
+        "https://my-best.com/products/3656874"
       ]
     }
   ]
