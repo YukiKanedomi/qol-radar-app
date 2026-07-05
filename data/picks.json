@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-06",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3241,6 +3241,132 @@
         "https://kaden.watch.impress.co.jp/docs/column_review/kdnreview/2005051.html",
         "https://review.rakuten.co.jp/review/item/1/387454_10000158/1.1/",
         "https://my-best.com/products/3656874"
+      ]
+    },
+    {
+      "id": "anker-nano-charger-retractable",
+      "name": "Anker Nano Charger (35W, 巻取り式USB-Cケーブル内蔵)",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "充電器とケーブルが一体化、ケーブル忘れの悩みを解消",
+      "points": [
+        "巻取り式USB-Cケーブルを本体に内蔵し名刺入れ程度のコンパクトさ",
+        "35W出力でスマホ・タブレットを急速充電、耐久2万回巻取り試験済み",
+        "旅行・出張・カフェ作業でケーブル一式を持ち歩く手間を削減"
+      ],
+      "tags": [
+        "充電",
+        "時短",
+        "携帯性"
+      ],
+      "dateAdded": "2026-07-06",
+      "status": "new",
+      "sources": [
+        "https://k-tai.watch.impress.co.jp/docs/column/stapa/2059749.html",
+        "https://www.lifehacker.jp/article/2508-lht-anker-nano-charger/",
+        "https://gigazine.net/gsc_news/en/20260103-anker-nano-charger-35w-retractable-usb-c/"
+      ]
+    },
+    {
+      "id": "chiritori-zaru-bowl",
+      "name": "ちりとりザルボウル",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "まな板の食材をちりとり感覚でザッとすくえる新発想ザル",
+      "points": [
+        "まな板から食材を一気にすくえて、鍋への移し替えが1動作に",
+        "ボウルとしても使え、そのまま電子レンジ加熱も可能",
+        "コンパクトで重ねられ、水切りカゴでも場所を取らない"
+      ],
+      "tags": [
+        "キッチン",
+        "調理効率化",
+        "時短"
+      ],
+      "dateAdded": "2026-07-06",
+      "status": "new",
+      "sources": [
+        "https://www.lettuceclub.net/weblettuce/article/212041/",
+        "https://www.buzzfeed.com/jp/asamitogi/sugoi-zarubowl",
+        "https://macaro-ni.jp/165405"
+      ]
+    },
+    {
+      "id": "cio-mugwarmer-2",
+      "name": "CIO マグウォーマー2",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "飲み物の保温とQi2急速充電を1台で兼ねるデスク統合ガジェット",
+      "points": [
+        "40〜70℃を1℃単位で保温調整",
+        "Qi2規格で最大15W急速充電も同時にこなす",
+        "直径約12cmでケーブル散乱なくデスクがすっきり"
+      ],
+      "tags": [
+        "デスク周り",
+        "充電",
+        "保温"
+      ],
+      "dateAdded": "2026-07-06",
+      "status": "new",
+      "sources": [
+        "https://monohoshi.blog/magwarmer/",
+        "https://k-tai.watch.impress.co.jp/docs/column/stapa/2076933.html",
+        "https://www.lifehacker.jp/article/amazon-sale-cio-mug-warmer2/"
+      ]
+    },
+    {
+      "id": "kinplete-gut-supplement",
+      "name": "キンプリート（Kinplete）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "有用菌・発酵性食物繊維・オリゴ糖を一包に凝縮した腸活オールインワン",
+      "points": [
+        "有用菌3種5株×発酵性食物繊維3種×オリゴ糖3種の「3・3・3」設計",
+        "培養試験で短鎖脂肪酸濃度の有意な上昇を確認（短鎖脂肪酸マーク認定）",
+        "無味無臭の粉末で飲み物やヨーグルトに混ぜやすく続けやすい"
+      ],
+      "tags": [
+        "腸活",
+        "サプリ",
+        "時短"
+      ],
+      "dateAdded": "2026-07-06",
+      "status": "new",
+      "sources": [
+        "https://fytte.jp/news/healthcare/226341/",
+        "https://netkeizai.com/articles/detail/18037",
+        "https://corp.nicorio.co.jp/blog/kinplete20260623/"
+      ]
+    },
+    {
+      "id": "coloria-perfume-sub",
+      "name": "COLORIA（カラリア）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "月2000円台で高級香水1000種を試せる。香り選びの決断疲れを解消",
+      "points": [
+        "PRADA・BURBERRYなど高級メゾン香水も4mlの少量から試せる",
+        "香水診断でその都度好みの香りを提案してもらえる",
+        "フルボトルで1万円超の香水を数百円台で体験できる"
+      ],
+      "tags": [
+        "香水",
+        "サブスク",
+        "お試し"
+      ],
+      "dateAdded": "2026-07-06",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/14019",
+        "https://gakusuku.com/coloria-reputation/",
+        "https://semiperfumer.com/entry/6159/",
+        "https://mamagirl.jp/0000307038"
       ]
     }
   ]
