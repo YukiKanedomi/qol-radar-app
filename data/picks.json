@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-06",
+    "lastUpdated": "2026-07-07",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3367,6 +3367,130 @@
         "https://gakusuku.com/coloria-reputation/",
         "https://semiperfumer.com/entry/6159/",
         "https://mamagirl.jp/0000307038"
+      ]
+    },
+    {
+      "id": "earfun-air-pro-4-plus",
+      "name": "EarFun Air Pro 4+",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "1万円台でハイブリッドドライバー・AI ANC搭載の全部入りイヤホン",
+      "points": [
+        "VGP2026でコスパ大賞・金賞を受賞",
+        "BA+ダイナミックのハイブリッドドライバーで音質向上、最大50dBのANC搭載",
+        "ケース込み最大54時間再生、LDAC/aptX Lossless対応で1万円台という価格が高評価"
+      ],
+      "tags": [
+        "イヤホン",
+        "ノイズキャンセリング",
+        "コスパ"
+      ],
+      "dateAdded": "2026-07-07",
+      "status": "new",
+      "sources": [
+        "https://vgp.phileweb.com/vgp2026/award/award39.html",
+        "https://www.gizmodo.jp/2025/11/earfunairpro4plus.html",
+        "https://av.watch.impress.co.jp/docs/news/2065255.html"
+      ]
+    },
+    {
+      "id": "aircon-hanger-room-drying",
+      "name": "エアコンハンガー（室内物干し）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "エアコン下に引っかけるだけで梅雨の部屋干しが時短・省スペースに",
+      "points": [
+        "エアコン本体に引っかけるだけで設置でき、床置き物干しが不要に",
+        "送風/冷暖房の風を活用して乾燥時間を短縮、電気代も1時間0.4〜0.9円程度と経済的",
+        "使わない時は折りたたんでコンパクト収納、来客時もすぐ隠せる"
+      ],
+      "tags": [
+        "洗濯",
+        "部屋干し",
+        "省スペース"
+      ],
+      "dateAdded": "2026-07-07",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/column_review/yajreview/2120722.html",
+        "https://10nengomosukinaie.blog.jp/archives/25474240.html",
+        "https://prtimes.jp/main/html/rd/p/000001534.000073913.html"
+      ]
+    },
+    {
+      "id": "iodata-lcd-yc1412dx",
+      "name": "I-O DATA LCD-YC1412DX（14型デュアルモバイルモニター）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "14型パネル2枚で、ノートPCと合わせどこでも3画面環境",
+      "points": [
+        "14型パネルを2枚搭載し、ノートPCと組み合わせて最大3画面のマルチタスク環境を構築できる",
+        "折りたたむとA4サイズ相当、重量約1.3kgと軽量で持ち運びやすい",
+        "USB Type-Cケーブル1本で映像出力と給電の両方が可能"
+      ],
+      "tags": [
+        "モバイルモニター",
+        "マルチディスプレイ",
+        "在宅勤務"
+      ],
+      "dateAdded": "2026-07-07",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2605/14/news125_4.html",
+        "https://ascii.jp/elem/000/004/403/4403662/",
+        "https://internet.watch.impress.co.jp/docs/news/2090476.html",
+        "https://www.iodata.jp/product/lcd/mobile/lcd-yc1412dx/"
+      ]
+    },
+    {
+      "id": "yumemi-light",
+      "name": "ユメミライト",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "夕焼け色の赤色光を28分照射、寝る前のスマホ代わりに眠りを誘う快眠ライト",
+      "points": [
+        "630nm波長の純粋な赤色光で夕焼けを再現し、体内時計をリラックス方向へ導く設計",
+        "ボタン一つで28分後に自動消灯、スマホ操作不要で就寝前のブルーライト回避になる",
+        "2026年版の快眠グッズランキングで上位掲載、複数メディアでレビューされている新顔"
+      ],
+      "tags": [
+        "睡眠",
+        "光療法",
+        "入眠"
+      ],
+      "dateAdded": "2026-07-07",
+      "status": "new",
+      "sources": [
+        "https://www.rakuten.co.jp/auc-balabody/contents/sleep_goods/",
+        "https://tabi-labo.com/310408/wt-yumemi-light-for-wellsleep",
+        "https://item.rakuten.co.jp/auc-balabody/s0118-1-1/"
+      ]
+    },
+    {
+      "id": "1password",
+      "name": "1Password",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "パスワード入力・管理の手間をゼロに。地味に一番効く時短ツール",
+      "points": [
+        "自動入力でログイン作業から解放、日々の煩わしさが消える",
+        "G2で1300件超のレビューが平均4.7/5と高評価",
+        "2026年版サブスクまとめ記事でも『もはや手放せない』と紹介"
+      ],
+      "tags": [
+        "セキュリティ",
+        "時短"
+      ],
+      "dateAdded": "2026-07-07",
+      "status": "new",
+      "sources": [
+        "https://lifeplus10.com/subscription-review2026/",
+        "https://www.itreview.jp/products/1password/reviews"
       ]
     }
   ]
