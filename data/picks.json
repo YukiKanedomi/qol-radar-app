@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-07",
+    "lastUpdated": "2026-07-08",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3491,6 +3491,81 @@
       "sources": [
         "https://lifeplus10.com/subscription-review2026/",
         "https://www.itreview.jp/products/1password/reviews"
+      ]
+    },
+    {
+      "id": "recolte-auto-cooking-pot-large",
+      "name": "レコルト 自動調理ポット ラージ",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "材料入れてボタン一つ。スープが自動でできる神ポット",
+      "points": [
+        "材料を入れてボタンを押すだけでスープ・おかゆ・スムージーが自動完成、ほったらかし調理",
+        "800ml大容量+7つの調理モードで一人分から家族分まで対応",
+        "累計出荷50万台突破、SNSでも話題のロングセラーキッチン家電"
+      ],
+      "tags": [
+        "時短",
+        "キッチン家電",
+        "ほったらかし調理"
+      ],
+      "dateAdded": "2026-07-08",
+      "status": "new",
+      "sources": [
+        "https://recolte-jp.com/rsy-3_lp/",
+        "https://news.yahoo.co.jp/articles/ba07bb72964056f44e14f1a205426b982eb066a9",
+        "https://my-best.com/magazine/5635"
+      ]
+    },
+    {
+      "id": "kobayashi-nightmin-mimihogu",
+      "name": "小林製薬 ナイトミン 耳ほぐタイム",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "耳を温めるだけで安眠。SNSで146万個売れた話題の入眠グッズ",
+      "points": [
+        "使い捨てで耳に装着するだけ、じんわり温めてリラックス＆耳栓効果で物音も気にならず入眠しやすい",
+        "SNS拡散で146万個販売という実績、口コミサイトでもレビュー多数",
+        "ドラッグストアで手軽に買える価格帯で試しやすい"
+      ],
+      "tags": [
+        "睡眠",
+        "SNSで話題",
+        "ドラッグストア"
+      ],
+      "dateAdded": "2026-07-08",
+      "status": "new",
+      "sources": [
+        "https://www.kobayashi.co.jp/brand/nightmin/mimihogu.html",
+        "https://xtrend.nikkei.com/atcl/contents/18/00732/00025/",
+        "https://www.cosme.net/products/10236317/review/"
+      ]
+    },
+    {
+      "id": "insta360-link2-pro",
+      "name": "Insta360 Link 2 Pro",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "AIが自動追尾する4Kウェブカメラ。会議・配信の映りが激変",
+      "points": [
+        "1/1.3型大型センサー+AI自動追尾で、動いても画角から外れずオンライン会議・配信に集中できる",
+        "4K高画質+指向性マイクで、ノートPC内蔵カメラから乗り換えると映りが劇的に改善",
+        "アングル・AI追従ON/OFFなど10プリセットをワンボタンで呼び出せる"
+      ],
+      "tags": [
+        "Web会議",
+        "AI",
+        "配信"
+      ],
+      "dateAdded": "2026-07-08",
+      "status": "new",
+      "sources": [
+        "https://www.insta360.com/product/insta360-link2-pro",
+        "https://www.techno-edge.net/article/2026/01/14/4816.html",
+        "https://gadgerba.jp/insta360-link-2-pro/"
       ]
     }
   ]
