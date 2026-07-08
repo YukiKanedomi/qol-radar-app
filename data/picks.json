@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3566,6 +3566,79 @@
         "https://www.insta360.com/product/insta360-link2-pro",
         "https://www.techno-edge.net/article/2026/01/14/4816.html",
         "https://gadgerba.jp/insta360-link-2-pro/"
+      ]
+    },
+    {
+      "id": "mx-master-4-mouse",
+      "name": "ロジクール MX Master 4",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "6年ぶり刷新の最上位マウス。触覚フィードバック付き「Actions Ring」で操作を1発呼び出し",
+      "points": [
+        "親指の触覚センサーで呼び出す「Actions Ring」がマウス移動量を最大63%削減",
+        "Gemini/Copilot/PerplexityなどAIアシスタントを最初から登録済みですぐ呼べる",
+        "触覚フィードバックでクリックやスクロールの手応えが分かりやすい"
+      ],
+      "tags": [
+        "マウス",
+        "作業効率",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-07-09",
+      "status": "new",
+      "sources": [
+        "https://pc.watch.impress.co.jp/docs/news/2051067.html",
+        "https://news.mynavi.jp/article/20251101-3598715/"
+      ]
+    },
+    {
+      "id": "dji-mic-3",
+      "name": "DJI Mic 3",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "ワンオペ撮影・在宅配信を変えるワイヤレスマイクの完成形",
+      "points": [
+        "Adaptive Gain Controlが自動で音量調整、機材知識がなくても失敗しにくい",
+        "受信機にスマホ用アダプター内蔵でそのまま挿すだけの手軽さ",
+        "充電ケースにウィンドスクリーンなど付属品を一括収納できる"
+      ],
+      "tags": [
+        "マイク",
+        "動画",
+        "在宅配信"
+      ],
+      "dateAdded": "2026-07-09",
+      "status": "new",
+      "sources": [
+        "https://videosalon.jp/report/dji-mic-3_review/",
+        "https://jp.pronews.com/review/202508282100642136.html"
+      ]
+    },
+    {
+      "id": "exagun-pocket",
+      "name": "ドクターエア エクサガン ポケット",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "リンゴ1個分の軽さで持ち歩ける手のひらサイズのマッサージガン",
+      "points": [
+        "重量約210gでポーチに入るサイズ感、外出先でも使える",
+        "ボタン1つで4段階の振動、3分で自動停止するタイマー付き",
+        "実勢6,000円台とマッサージガンとして手が届きやすい価格"
+      ],
+      "tags": [
+        "マッサージガン",
+        "携帯",
+        "セルフケア"
+      ],
+      "dateAdded": "2026-07-09",
+      "status": "new",
+      "sources": [
+        "https://kamabokoningen.com/exagun-pocket-review/",
+        "https://kakaku.com/item/J0000047289/",
+        "https://yu-ri-caremana.com/doctorair/"
       ]
     }
   ]
