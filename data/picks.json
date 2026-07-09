@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-09",
+    "lastUpdated": "2026-07-10",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3639,6 +3639,106 @@
         "https://kamabokoningen.com/exagun-pocket-review/",
         "https://kakaku.com/item/J0000047289/",
         "https://yu-ri-caremana.com/doctorair/"
+      ]
+    },
+    {
+      "id": "gopro-mission-1-pro",
+      "name": "GoPro MISSION 1 PRO",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "1型センサー×8K撮影に対応、GoPro史上最高画質の“シネマカメラ級”アクションカム",
+      "points": [
+        "50MPの1型センサーと新開発GP3プロセッサーで8K/60fps・4K/240fpsの高画質高速撮影に対応",
+        "低照度性能とHDR表現が大幅向上し、DJI Osmo Action 5 Proを上回るとの評価も",
+        "Hero13 Blackから+50gに抑えた207gで携帯性とアクションカム譲りの耐久性を両立"
+      ],
+      "tags": [
+        "カメラ",
+        "8K",
+        "アクションカム"
+      ],
+      "dateAdded": "2026-07-10",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/article/gopro-mission-1-pro-review-the-best-gopro-just-not-the-best-camera/",
+        "https://jp.pronews.com/special/202605262205752520.html",
+        "https://www.itmedia.co.jp/news/articles/2607/04/news019.html"
+      ]
+    },
+    {
+      "id": "plaud-notepin-s",
+      "name": "Plaud NotePin S",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "物理ボタンとハイライト機能を備えた、身につけるAIボイスレコーダーの最新モデル",
+      "points": [
+        "録音中に大事な瞬間へ即マークできる「ハイライト機能」と物理ボタンで操作性が向上",
+        "112言語対応のAI文字起こし＋要約、話者ラベルやカスタム語彙にも対応",
+        "ネックストラップ／マグネットピン／リストバンドなど装着スタイルを選べ、毎月300分の無料文字起こし付き"
+      ],
+      "tags": [
+        "AIレコーダー",
+        "文字起こし",
+        "ウェアラブル"
+      ],
+      "dateAdded": "2026-07-10",
+      "status": "new",
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/review/minireview/2105906.html",
+        "https://note.com/bientot/n/n83400462555a",
+        "https://pcefan.com/review-plaud-notepin-s/"
+      ]
+    },
+    {
+      "id": "ecovacs-deebot-t50-pro-omni",
+      "name": "ECOVACS DEEBOT T50 PRO OMNI",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "15,000Pa吸引×ゴミ収集・給水・モップ洗浄まで全部入りで10万円前後の最強コスパロボット掃除機",
+      "points": [
+        "15,000Paの強力吸引とZeroTangle 2.0で毛が絡みにくいV字型ブラシを搭載",
+        "本体高81mmの薄型設計で家具下にも入りやすく、自動ゴミ収集・給水・モップ洗浄・乾燥まで全自動",
+        "他社ハイエンド機同等の機能を約10万円で実現し「コスパ最強」との評価多数"
+      ],
+      "tags": [
+        "ロボット掃除機",
+        "時短家電",
+        "全自動"
+      ],
+      "dateAdded": "2026-07-10",
+      "status": "new",
+      "sources": [
+        "https://kakakumag.com/seikatsu-kaden/?id=21966",
+        "https://my-best.com/products/7225888",
+        "https://logbaco.com/ecovacs-deebot-t50-omni/"
+      ]
+    },
+    {
+      "id": "google-fitbit-air",
+      "name": "Google Fitbit Air",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "画面のない5.2gの超軽量トラッカー。通知に振り回されず睡眠と健康データだけを記録し続けられる",
+      "points": [
+        "本体5.2g・バンド込み約12gで着けたまま24時間、心拍・SpO2・睡眠ステージを継続記録",
+        "スクリーンレス設計だから通知に気を取られず、バッテリーは最長7日間",
+        "5分の急速充電で約1日分回復、フル充電も約90分と実用的な充電サイクル"
+      ],
+      "tags": [
+        "睡眠トラッカー",
+        "ウェアラブル",
+        "健康管理"
+      ],
+      "dateAdded": "2026-07-10",
+      "status": "new",
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/review/review/2111145.html",
+        "https://note.com/mocchan/n/nb5836a0fadca",
+        "https://finance.biggo.jp/news/202605262121_Google_Fitbit_Air_review_screenless_tracker"
       ]
     }
   ]
