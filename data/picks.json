@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-10",
+    "lastUpdated": "2026-07-11",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3739,6 +3739,81 @@
         "https://www.watch.impress.co.jp/docs/review/review/2111145.html",
         "https://note.com/mocchan/n/nb5836a0fadca",
         "https://finance.biggo.jp/news/202605262121_Google_Fitbit_Air_review_screenless_tracker"
+      ]
+    },
+    {
+      "id": "kodak-charmera",
+      "name": "KODAK CHARMERA（コダック チャーメラ）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "キーホルダー型トイデジで撮る楽しさが復活",
+      "points": [
+        "80×24.5×20mm・約30gでキーホルダー感覚で常に持ち歩ける",
+        "1.6MPのレトロな写り味で、撮る前から楽しいと評判",
+        "ブラインドボックス形式で話題沸騰、発売直後から即完売・入手困難が続く人気ぶり"
+      ],
+      "tags": [
+        "カメラ",
+        "トイカメラ",
+        "キーホルダー"
+      ],
+      "dateAdded": "2026-07-11",
+      "status": "new",
+      "sources": [
+        "https://dc.watch.impress.co.jp/docs/review/newproduct/2080747.html",
+        "https://www.gizmodo.jp/2026/03/kodak_key.html",
+        "https://gearmono.com/kodak-charmera-review/",
+        "https://www.roomie.jp/2026/01/1678247/"
+      ]
+    },
+    {
+      "id": "marna-kiwami-rice-storage-bag",
+      "name": "マーナ 極 お米保存袋",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "米を野菜と同じ生鮮扱いに。冷蔵庫で省スペース＆鮮度長持ち",
+      "points": [
+        "光・空気・臭いを遮断する3層構造(PE/PET/アルミ)で米の酸化を防ぎ鮮度を保つ",
+        "米びつと違い減った分だけ小さくたためて冷蔵庫の場所を取らない",
+        "ダブルジッパー＋逆止弁で密閉、洗えば繰り返し使えて経済的"
+      ],
+      "tags": [
+        "キッチン",
+        "食品保存"
+      ],
+      "dateAdded": "2026-07-11",
+      "status": "new",
+      "sources": [
+        "https://onna-recipe.com/marna-kiwami-okomehozonbukuro-kuchikomi.html",
+        "https://www.kurasitotonoe.com/entry/komehozon-kiwami/",
+        "https://marna.jp/product/k737/",
+        "https://review.rakuten.co.jp/item/1/193359_10062798/1.1/"
+      ]
+    },
+    {
+      "id": "yojo-kanpo-sub",
+      "name": "YOJO（オンライン漢方サブスク）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "LINE相談だけで体質に合う漢方が定期便で届く",
+      "points": [
+        "LINEでスキマ時間に薬剤師へ無料相談できる",
+        "体質診断に基づき自分専用の漢方を毎月自動でお届け",
+        "価格が事前提示で追加費用の心配がない"
+      ],
+      "tags": [
+        "漢方",
+        "健康管理"
+      ],
+      "dateAdded": "2026-07-11",
+      "status": "new",
+      "sources": [
+        "https://kepple.co.jp/articles/zbykvzxtu23y",
+        "https://cospabu.com/service.php?id=582",
+        "https://prtimes.jp/main/html/rd/p/000000017.000062239.html"
       ]
     }
   ]
