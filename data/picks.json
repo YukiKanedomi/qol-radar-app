@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-11",
+    "lastUpdated": "2026-07-12",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3814,6 +3814,131 @@
         "https://kepple.co.jp/articles/zbykvzxtu23y",
         "https://cospabu.com/service.php?id=582",
         "https://prtimes.jp/main/html/rd/p/000000017.000062239.html"
+      ]
+    },
+    {
+      "id": "switchbot-smart-daily-station",
+      "name": "SwitchBot スマートデイリーステーション",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "スマホ開かず天気・予定・室温がひと目でわかる電子ペーパー端末",
+      "points": [
+        "7.5インチ電子ペーパーに時計・天気・室内外温湿度・カレンダー予定を一画面表示",
+        "1回の充電で最大1年駆動、AI暮らしナビが服装・持ち物を提案",
+        "発売後のファームウェア更新でWebエディター追加など評価が向上"
+      ],
+      "tags": [
+        "スマートホーム",
+        "電子ペーパー",
+        "時短"
+      ],
+      "dateAdded": "2026-07-12",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/2103281.html",
+        "https://www.itmedia.co.jp/pcuser/articles/2604/22/news021.html",
+        "https://www.switchbot.jp/products/switchbot-weather-station"
+      ]
+    },
+    {
+      "id": "daiso-flushable-toilet-brush",
+      "name": "ダイソー 流せるトイレブラシ",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "使い捨てでトイレ掃除の手間と不衛生感を解消",
+      "points": [
+        "ブラシ自体を水に流せるため洗って保管する手間・不衛生感がゼロ",
+        "付替式で110〜220円と安価",
+        "レモン香りの洗剤付きブラシで掃除と同時に軽い除菌感"
+      ],
+      "tags": [
+        "掃除",
+        "100均",
+        "時短"
+      ],
+      "dateAdded": "2026-07-12",
+      "status": "new",
+      "sources": [
+        "https://www.daiso-sangyo.co.jp/item/46443",
+        "https://puchipura-information.com/",
+        "https://www.gourmetbiz.net/183538/"
+      ]
+    },
+    {
+      "id": "logicool-ergo-m575s-trackball",
+      "name": "ロジクール ERGO M575S（トラックボールマウス）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "手首の負担を軽減する定番トラックボール",
+      "points": [
+        "傾斜デザインで手首をひねらず操作でき腱鞘炎対策になる",
+        "単三電池1本で18〜24ヶ月稼働と電池持ちが良い",
+        "慣れに個人差あり（親指操作で負担というレビューも一部あり）"
+      ],
+      "tags": [
+        "マウス",
+        "健康",
+        "仕事効率"
+      ],
+      "dateAdded": "2026-07-12",
+      "status": "new",
+      "sources": [
+        "https://kashiwagigarage.com/kashiwagi-trackball-m5750-review/",
+        "https://my-best.com/products/254035",
+        "https://review.kakaku.com/review/K0001307297/ReviewCD=1615457/"
+      ]
+    },
+    {
+      "id": "withings-sleep-pad",
+      "name": "Withings Sleep（スマート睡眠パッド）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "マットレス下に敷くだけで眠りを丸ごと可視化",
+      "points": [
+        "装着不要。マットレス下に敷いてアプリ連携するだけで睡眠段階・心拍・いびきを自動記録",
+        "「寝る前に何もつけなくていい」ストレスの無さが複数レビューで評価",
+        "弱点として2〜3年程度で空気漏れ等の故障報告あり"
+      ],
+      "tags": [
+        "睡眠",
+        "ガジェット",
+        "非装着型"
+      ],
+      "dateAdded": "2026-07-12",
+      "status": "new",
+      "sources": [
+        "https://precious.jp/articles/-/9597",
+        "https://note.com/sleepy_rico/n/n9a4f462c9d93",
+        "https://review.kakaku.com/review/K0001377577/ReviewCD=1488812/"
+      ]
+    },
+    {
+      "id": "norude-ebike-subscription",
+      "name": "NORUDE（ノルーデ）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "電動アシスト自転車を月額定額で、通勤の坂道・時間を時短",
+      "points": [
+        "Panasonic/YAMAHA等の電動アシスト自転車を月額1,990円〜で利用可、初期費用不要",
+        "バッテリー盗難補償・出張修理付きで維持管理の手間なし",
+        "利用者の約8割が通勤目的、坂道や長距離通勤の負担を軽減"
+      ],
+      "tags": [
+        "モビリティ",
+        "サブスク",
+        "通勤時短"
+      ],
+      "dateAdded": "2026-07-12",
+      "status": "new",
+      "sources": [
+        "https://cycloop.jp/lp/normal-02/",
+        "https://anylife.jp/vehicle/bicycle/norude/",
+        "https://cospabu.com/service.php?id=679"
       ]
     }
   ]
