@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-12",
+    "lastUpdated": "2026-07-13",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -3939,6 +3939,127 @@
         "https://cycloop.jp/lp/normal-02/",
         "https://anylife.jp/vehicle/bicycle/norude/",
         "https://cospabu.com/service.php?id=679"
+      ]
+    },
+    {
+      "id": "boox-palma-2-pro",
+      "name": "BOOX Palma 2 Pro",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "スマホサイズのAndroid電子ペーパー端末。SNS依存を断ちつつKindle等の必要アプリだけ持ち歩ける",
+      "points": [
+        "ポケットに入るサイズで片手読書が快適",
+        "カラーE Ink×Androidで既存の読書・メモアプリがそのまま使える",
+        "スマホ断ちしたいが必要な通知だけは欲しい人に刺さる"
+      ],
+      "tags": [
+        "電子ペーパー",
+        "デジタルデトックス",
+        "読書"
+      ],
+      "dateAdded": "2026-07-13",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/mobile/articles/2601/18/news016.html",
+        "https://www.lifehacker.jp/article/2601-gizmodo-boox-palma-2-pro-review/"
+      ]
+    },
+    {
+      "id": "lofree-flow-lite-jis",
+      "name": "Lofree Flow Lite JIS",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "待望のJIS配列・薄型静音メカニカルキーボード。オフィスでも気兼ねなく使える打鍵音",
+      "points": [
+        "静音リニアスイッチで在宅・オフィス問わず使いやすい",
+        "薄型ロープロファイルで持ち運びもしやすい",
+        "分割スペースバーでキー割当をカスタマイズ可能"
+      ],
+      "tags": [
+        "キーボード",
+        "静音",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-07-13",
+      "status": "new",
+      "sources": [
+        "https://mastdesign.me/20250806-lofree-flow-lite-jis-review/",
+        "https://totonoe.blog/lofree-flow-lite-jis/"
+      ]
+    },
+    {
+      "id": "scotty-flower-pack-3x",
+      "name": "スコッティ フラワーパック 3倍長持ち",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "1ロールが3倍巻きのトイレットペーパー。交換の手間と買い置きの収納場所が減る",
+      "points": [
+        "ロール交換の頻度が激減し補充の手間が減る",
+        "収納スペースを圧迫しにくい",
+        "ドラッグストア等で手に入りやすい定番品"
+      ],
+      "tags": [
+        "日用品",
+        "収納",
+        "時短"
+      ],
+      "dateAdded": "2026-07-13",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/314975",
+        "https://kakaku.com/item/K0000962382/"
+      ]
+    },
+    {
+      "id": "switchbot-curtain-3",
+      "name": "SwitchBot カーテン3",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "カーテンを自動開閉するスマートデバイス。朝日で自然に目覚められ、生活リズムが整う",
+      "points": [
+        "時刻や日の出に合わせて自動でカーテンを開閉",
+        "静音モードで早朝でも音を気にせず使える",
+        "目覚まし音でなく自然光で無理なく起床できる"
+      ],
+      "tags": [
+        "スマートホーム",
+        "睡眠",
+        "目覚まし"
+      ],
+      "dateAdded": "2026-07-13",
+      "status": "new",
+      "sources": [
+        "https://www.switchbot.jp/products/switchbot-curtain3",
+        "https://kaden.watch.impress.co.jp/docs/topic/special/1544634.html",
+        "https://miko-ch.com/switchbot-curtain-review"
+      ]
+    },
+    {
+      "id": "chargespot",
+      "name": "ChargeSPOT",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "コンビニ・駅などで借りて別の場所で返せるモバイルバッテリーシェアリング。充電器を持ち歩く必要がなくなる",
+      "points": [
+        "借りた場所と違う店舗に返却できるので身軽に動ける",
+        "全国5万台以上に設置され利用できる場所が多い",
+        "アプリのQRコードスキャンだけで借りられる手軽さ"
+      ],
+      "tags": [
+        "モバイルバッテリー",
+        "シェアリング",
+        "外出"
+      ],
+      "dateAdded": "2026-07-13",
+      "status": "new",
+      "sources": [
+        "https://chargespot.jp/",
+        "https://www.itmedia.co.jp/fav/articles/2301/27/news044.html"
       ]
     }
   ]
