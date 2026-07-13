@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-13",
+    "lastUpdated": "2026-07-14",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4060,6 +4060,131 @@
       "sources": [
         "https://chargespot.jp/",
         "https://www.itmedia.co.jp/fav/articles/2301/27/news044.html"
+      ]
+    },
+    {
+      "id": "majextand-m",
+      "name": "Majextand M",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "厚さ2.3mmの極薄マグネット式スタンド。iPad miniやスマホの角度調整が自在",
+      "points": [
+        "ステンレス製で厚さ2.3mmという圧倒的な薄さ",
+        "マグネット着脱式で角度を無段階（ほぼ90度）調整可能",
+        "複数の独立レビューで長期使用されている根強い人気"
+      ],
+      "tags": [
+        "スタンド",
+        "iPad",
+        "デスク周り"
+      ],
+      "dateAdded": "2026-07-14",
+      "status": "new",
+      "sources": [
+        "https://tonyslog.com/gadget/ipad/tablet-majextand-m/",
+        "https://nixdesire.com/majextand-m/",
+        "https://www.makuake.com/project/majextand_m/"
+      ]
+    },
+    {
+      "id": "pakupaku-roller",
+      "name": "ぱくぱくローラー",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "電池・替え芯不要、前後に転がすだけでペットの毛やほこりをごっそり回収",
+      "points": [
+        "粘着テープ交換不要で経済的",
+        "水洗いして繰り返し使える",
+        "掃除機で取れないカーペットの毛も除去"
+      ],
+      "tags": [
+        "掃除",
+        "ペット",
+        "時短"
+      ],
+      "dateAdded": "2026-07-14",
+      "status": "new",
+      "sources": [
+        "https://www.businessinsider.jp/post-amazon-pacpakroller/",
+        "https://ure.pia.co.jp/articles/-/3339975",
+        "https://otakuma.net/archives/2023062003.html"
+      ]
+    },
+    {
+      "id": "preducts-drawer-mini",
+      "name": "PREDUCTS Drawer Mini",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "厚み5cmでデスクに後付けできる薄型引き出し。散らかる文房具を隠して作業効率UP",
+      "points": [
+        "天板裏に取付、天板厚を気にせず設置可能",
+        "背面スリットでケーブルを通し充電しながら収納できる",
+        "マット仕上げの金属ボディで高級感、専用トレーで小物も仕分け"
+      ],
+      "tags": [
+        "デスク収納",
+        "文房具",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-07-14",
+      "status": "new",
+      "sources": [
+        "https://cotomono.life/preducts-drawer-mini/",
+        "https://daina-blog.com/preducts-drawer-mini/",
+        "https://note.com/junnakazawa/n/n91817fe21d39",
+        "https://mono-post.com/2025/03/15/preducts-drawermini/"
+      ]
+    },
+    {
+      "id": "niplux-neck-relax",
+      "name": "NIPLUX NECK RELAX",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "EMS×温熱で首・肩のコリをセルフケア、楽天総合1位＆グッドデザイン賞",
+      "points": [
+        "グッドデザイン賞受賞、楽天ランキング1位の実績あるネックマッサージャー",
+        "EMSと温熱のW効果で首・肩のコリや頭痛が和らいだとの声が多数",
+        "コードレスで強度調整幅も広く、在宅ワーク中に着けたまま使える"
+      ],
+      "tags": [
+        "肩こり",
+        "EMS",
+        "セルフケア"
+      ],
+      "dateAdded": "2026-07-14",
+      "status": "new",
+      "sources": [
+        "https://yurukumablog.com/niplux-review/",
+        "https://www.cosme.net/products/10226717/review/",
+        "https://review.rakuten.co.jp/item/1/381975_10000058/1.1/"
+      ]
+    },
+    {
+      "id": "hafh-hotel-subscription",
+      "name": "HafH（ハフ）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "月額コインで全国400+のホテルにお得に泊まれる旅のサブスク",
+      "points": [
+        "平日もハイシーズンも同じコイン数で宿泊できる",
+        "星野リゾートやヒルトンなど高級ホテルも対象",
+        "ワーケーションや多拠点生活にも活用できる"
+      ],
+      "tags": [
+        "旅行",
+        "ワーケーション"
+      ],
+      "dateAdded": "2026-07-14",
+      "status": "new",
+      "sources": [
+        "https://minhyo.jp/hafh",
+        "https://nrtlog.com/entry/hafh",
+        "https://www.youtube.com/watch?v=djpSjY39tk0"
       ]
     }
   ]
