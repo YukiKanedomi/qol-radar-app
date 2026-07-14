@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-14",
+    "lastUpdated": "2026-07-15",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4185,6 +4185,129 @@
         "https://minhyo.jp/hafh",
         "https://nrtlog.com/entry/hafh",
         "https://www.youtube.com/watch?v=djpSjY39tk0"
+      ]
+    },
+    {
+      "id": "huawei-watch-d2",
+      "name": "HUAWEI WATCH D2",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "血圧を自動測定できる管理医療機器認証スマートウォッチ。健康管理を手首でまるごと完結",
+      "points": [
+        "管理医療機器認証済みでカフ式(オシロメトリック法)により血圧を自動測定",
+        "圧力誤差±3mmHg以内の高精度センサー",
+        "心電図・血中酸素・皮膚温など健康管理機能も搭載"
+      ],
+      "tags": [
+        "健康管理",
+        "血圧",
+        "スマートウォッチ"
+      ],
+      "dateAdded": "2026-07-15",
+      "status": "new",
+      "sources": [
+        "https://tokemee.xsrv.jp/best-bloodpressuremonitor-smartwatch/",
+        "https://www.yamada-denkiweb.com/media/25324/",
+        "https://tokemee.xsrv.jp/medicaldevice-smartwatch/"
+      ]
+    },
+    {
+      "id": "benq-screenbar",
+      "name": "BenQ ScreenBar（モニター掛け式ライト）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "モニターに掛けるだけで手元が明るく、画面への映り込みなし。目の疲れを軽減する定番ライト",
+      "points": [
+        "画面に光が映り込まない独自の配光設計",
+        "人感センサーや自動調光で明るさを最適化",
+        "500〜750lux相当の明るさで長時間作業の目の疲れを軽減"
+      ],
+      "tags": [
+        "照明",
+        "デスク",
+        "目"
+      ],
+      "dateAdded": "2026-07-15",
+      "status": "new",
+      "sources": [
+        "https://rencame.net/benq_screenbarpro_review/",
+        "https://digital-style.jp/benq-screenbar-pro-review",
+        "https://www.hidetoshitwitt.com/benq-screenbar-review/"
+      ]
+    },
+    {
+      "id": "marna-goku-frozen-rice-container",
+      "name": "マーナ「極 冷凍ごはん容器」",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "レンジで温めるだけで冷凍ご飯が炊きたて級のふっくら食感に",
+      "points": [
+        "すのこ構造で余分な水分を下に落としベチャつきを防止",
+        "レンジ加熱だけで炊きたてのようなもちもち食感に",
+        "ラップ不要で冷凍・解凍の手間を削減"
+      ],
+      "tags": [
+        "キッチン",
+        "時短"
+      ],
+      "dateAdded": "2026-07-15",
+      "status": "new",
+      "sources": [
+        "https://marna.jp/product/k745/",
+        "https://my-best.com/11376",
+        "https://kaden.watch.impress.co.jp/docs/topic/topic/1384835.html"
+      ]
+    },
+    {
+      "id": "compression-socks-legwear",
+      "name": "着圧ソックス・レギンス（むくみ対策）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "履くだけで在宅ワーク中の足のむくみ・冷えをケア",
+      "points": [
+        "足首から段階的に着圧しむくみ・血行を改善",
+        "デスクワーク中も履くだけでケアできる手軽さ",
+        "夜用・日中用などタイプ別に選べる"
+      ],
+      "tags": [
+        "むくみ",
+        "デスクワーク"
+      ],
+      "dateAdded": "2026-07-15",
+      "status": "new",
+      "sources": [
+        "https://360life.shinyusha.co.jp/articles/-/18387",
+        "https://media.belmise.com/deskwork-leg-swelling-relief-goods/",
+        "https://online.tipness.co.jp/magazine/hikaku003/"
+      ]
+    },
+    {
+      "id": "nosh-frozen-bento",
+      "name": "nosh（ナッシュ）冷凍宅配弁当",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "レンジで温めるだけの糖質・塩分控えめ冷凍弁当。献立決めと買い出しから解放",
+      "points": [
+        "糖質30g・塩分2.5g以下に抑えた冷凍弁当が60種類以上",
+        "レンジで温めるだけで栄養バランスの取れた食事が完成",
+        "買い出し・献立決めの手間から解放される"
+      ],
+      "tags": [
+        "宅配食",
+        "時短",
+        "健康"
+      ],
+      "dateAdded": "2026-07-15",
+      "status": "new",
+      "sources": [
+        "https://takushoku-repo.com/nosh/",
+        "https://health2sync.com/ja/blog/how-is-nosh/",
+        "https://takushoku-biyori.com/articles/nosh-reviews/"
       ]
     }
   ]
