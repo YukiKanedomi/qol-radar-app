@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-15",
+    "lastUpdated": "2026-07-16",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4308,6 +4308,54 @@
         "https://takushoku-repo.com/nosh/",
         "https://health2sync.com/ja/blog/how-is-nosh/",
         "https://takushoku-biyori.com/articles/nosh-reviews/"
+      ]
+    },
+    {
+      "id": "notta-ai-transcription",
+      "name": "Notta（AI議事録・文字起こし）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "Zoom/Teams/Meetに自動参加して文字起こし＆AI要約。会議終了と同時に議事録が完成",
+      "points": [
+        "58言語対応、話者識別つきで要点を自動要約",
+        "無料でも月120分まで利用可、有料は月1000円台〜",
+        "話者分離の精度は環境ノイズ次第とのレビューもあり"
+      ],
+      "tags": [
+        "AI",
+        "仕事効率",
+        "文字起こし"
+      ],
+      "dateAdded": "2026-07-16",
+      "status": "new",
+      "sources": [
+        "https://shimimameblog.com/notta-memo-review/",
+        "https://www.itreview.jp/products/notta/reviews"
+      ]
+    },
+    {
+      "id": "3coins-hot-sandwich-maker",
+      "name": "3COINS 電子レンジ用ハーフホットサンドメーカー",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "食パン1枚を電子レンジで2〜4分。火を使わず直火焼き並みの焼き目がつく",
+      "points": [
+        "レンジ調理なのにこんがり焼き目、耳までガリッと仕上がる",
+        "ケース・プレートは分解して丸洗い、食洗機・乾燥機もOK",
+        "税込2,750円で発売直後に売り切れ続出の人気"
+      ],
+      "tags": [
+        "キッチン",
+        "時短",
+        "一人暮らし"
+      ],
+      "dateAdded": "2026-07-16",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/2604-businessinsiderjapan-3coins-hot-sandwich-maker/",
+        "https://www.gizmodo.jp/article/3coins-hot-sandwich-maker-review/"
       ]
     }
   ]
