@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-16",
+    "lastUpdated": "2026-07-17",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4356,6 +4356,102 @@
       "sources": [
         "https://www.lifehacker.jp/article/2604-businessinsiderjapan-3coins-hot-sandwich-maker/",
         "https://www.gizmodo.jp/article/3coins-hot-sandwich-maker-review/"
+      ]
+    },
+    {
+      "id": "torras-minimag-pro",
+      "name": "TORRAS MiniMag Pro（半固体電池 MagSafeモバイルバッテリー）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "厚さ8mmの半固体電池で発火リスクを抑えた薄型MagSafeバッテリー",
+      "points": [
+        "半固体電池で釘刺し試験クリアの高い安全性",
+        "厚さ8mmで貼りっぱなしにできる薄型設計",
+        "N52磁石で純正超えの強力な吸着力"
+      ],
+      "tags": [
+        "モバイルバッテリー",
+        "MagSafe",
+        "安全性"
+      ],
+      "dateAdded": "2026-07-17",
+      "status": "new",
+      "sources": [
+        "https://monopedia.jp/torras-minimag-pro/",
+        "https://mitsublog.net/torras-minimag-pro/"
+      ]
+    },
+    {
+      "id": "logicool-pop-icon-keys",
+      "name": "ロジクール POP ICON KEYS K680OW",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "半透明フレームが可愛い薄型静音キーボード。最大3台切替も対応",
+      "points": [
+        "透明フレーム×2トーンでデスクが華やぐデザイン",
+        "低プロファイルで静音、長時間タイピングも快適",
+        "Easy-Switchで3台のデバイスをワンタッチ切替"
+      ],
+      "tags": [
+        "キーボード",
+        "デスク環境",
+        "ワイヤレス"
+      ],
+      "dateAdded": "2026-07-17",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/item/K0001662955/",
+        "https://applech2.com/archives/20241114-logicool-pop-icon-keys-k680.html"
+      ]
+    },
+    {
+      "id": "la-luna-air-eye-mask",
+      "name": "La Luna エアーアイマスク",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "空気圧マッサージ×42℃温熱で目元をじんわりほぐすアイマッサージャー",
+      "points": [
+        "エアバッグの圧とじんわり温熱を同時に体験できる",
+        "内蔵ヒーリングBGMでリラックス演出",
+        "コードレス充電式で就寝前もケーブル不要"
+      ],
+      "tags": [
+        "アイマスク",
+        "リラックス",
+        "睡眠"
+      ],
+      "dateAdded": "2026-07-17",
+      "status": "new",
+      "sources": [
+        "https://gadgerba.jp/la-luna-aireyemask/",
+        "https://my-best.com/products/147984"
+      ]
+    },
+    {
+      "id": "muji-air-mattress",
+      "name": "無印良品 空気でできたマットレス",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "足で踏むだけで膨らむ内蔵ポンプ式マットレス。来客用にも防災にも一枚で活躍",
+      "points": [
+        "ポンプ不要、足踏みだけで数分で完成",
+        "枕一体型で来客用寝具がこれ一つで完結",
+        "丸めれば直径15cmまでコンパクト収納"
+      ],
+      "tags": [
+        "寝具",
+        "来客用",
+        "防災"
+      ],
+      "dateAdded": "2026-07-17",
+      "status": "new",
+      "sources": [
+        "https://www.muji.com/jp/ja/store/cmdty/detail/4550584421631",
+        "https://www.roomie.jp/2026/01/1698360/"
       ]
     }
   ]
