@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-17",
+    "lastUpdated": "2026-07-18",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4452,6 +4452,132 @@
       "sources": [
         "https://www.muji.com/jp/ja/store/cmdty/detail/4550584421631",
         "https://www.roomie.jp/2026/01/1698360/"
+      ]
+    },
+    {
+      "id": "trio-3-pro-laptop-screen-extender",
+      "name": "Trio 3 Pro（Mobile Pixels ノートPC用トリプルスクリーン拡張モニター）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "ノートPCの両側に磁石で貼り付け3画面化、タブ切替のストレスが消える作業効率化ガジェット",
+      "points": [
+        "USB-Cケーブル1本接続でノートPCを瞬時に3画面デスクトップ化",
+        "14.1インチQHD(2240×1400)・120Hzを2枚追加、Mac/Win両対応",
+        "国内外レビュー（ライフハッカー、ASCII、Macworld等）でマルチタスク効率向上を評価"
+      ],
+      "tags": [
+        "モバイルモニター",
+        "作業効率",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-07-18",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/2605mobile-pixels-trio-3-pro-stacksocial-sale-april-2026/",
+        "https://weekly.ascii.jp/elem/000/004/396/4396886/",
+        "https://www.mobilepixels.us/products/trio"
+      ]
+    },
+    {
+      "id": "lg-styler",
+      "name": "LG Styler（衣類ケア家電 スチームクローゼット）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "クローゼット型でスチーム除菌・消臭・シワ取りを自動化。アイロンがけがほぼ不要に。",
+      "points": [
+        "スチーム+振動でシワ・花粉・ニオイをオートケア",
+        "毎日のアイロンがけの手間がほぼゼロに",
+        "デリケート衣類やスーツも自宅で気軽にリフレッシュ"
+      ],
+      "tags": [
+        "衣類ケア",
+        "時短",
+        "消臭"
+      ],
+      "dateAdded": "2026-07-18",
+      "status": "new",
+      "sources": [
+        "https://www.lg.com/jp/clothes-care-electronics/styler/s3mf/",
+        "https://kakakumag.com/seikatsu-kaden/?id=10056",
+        "https://www.rentio.jp/matome/2020/01/lgstyler-review/"
+      ]
+    },
+    {
+      "id": "kingjim-notteon-work-base",
+      "name": "キングジム ノッテオン（ポータブルワークベース）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "収納ボックスとPCスタンドが1台に、フリーアドレスや在宅の仕事空間を持ち運べる",
+      "points": [
+        "最大14インチノートPCと周辺小物を1個にまとめて収納",
+        "そのまま4段階高さ調整のPCスタンドに変形",
+        "充電しながら収納可能でオフィス移動やカフェ作業に便利"
+      ],
+      "tags": [
+        "収納",
+        "PCスタンド",
+        "フリーアドレス"
+      ],
+      "dateAdded": "2026-07-18",
+      "status": "new",
+      "sources": [
+        "https://www.roomie.jp/2026/04/1759206/",
+        "https://www.lifehacker.jp/article/2607-lht-kingjim-notteon/",
+        "https://www.kingjim.co.jp/sp/notteon/"
+      ]
+    },
+    {
+      "id": "mytrex-reset-neck",
+      "name": "MYTREX RESET NECK",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "後頭下筋群を狙う動的牽引×EMS×温熱のトリプルケアで首こり・眼精疲労を自宅ケア",
+      "points": [
+        "エアバッグで肩を固定し首の付け根を牽引する新方式",
+        "TV「シューイチ」で紹介されコードレスで手軽に毎日使える",
+        "2026年2月発売の第2世代モデルでSNS発の首ケアが進化"
+      ],
+      "tags": [
+        "首こり",
+        "EMS",
+        "眼精疲労"
+      ],
+      "dateAdded": "2026-07-18",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000173.000047658.html",
+        "https://www.smartwatchlife.jp/66653/",
+        "https://www.rentio.jp/products/mt-wrn25/reviews"
+      ]
+    },
+    {
+      "id": "lejapass-leisure-subscription",
+      "name": "レジャパス",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "月額1,980円〜で水族館・遊園地・サウナなど全国400施設超が定額で遊び放題",
+      "points": [
+        "遊園地・水族館・温浴施設・展望台・ボウリングなど幅広いジャンルを1つのサブスクで網羅",
+        "毎回の入場料を気にせず「ちょっと行こう」の休日を増やせる",
+        "ライト/スタンダード/プレミアムなど利用頻度に応じたプラン選択が可能"
+      ],
+      "tags": [
+        "レジャー",
+        "サブスク",
+        "休日"
+      ],
+      "dateAdded": "2026-07-18",
+      "status": "new",
+      "sources": [
+        "https://lejapass.com/",
+        "https://travel.watch.impress.co.jp/docs/news/1372920.html",
+        "https://xtrend.nikkei.com/atcl/contents/watch/00013/01700/",
+        "https://www.watch.impress.co.jp/docs/news/1372545.html"
       ]
     }
   ]
