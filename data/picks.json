@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-18",
+    "lastUpdated": "2026-07-19",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4578,6 +4578,105 @@
         "https://travel.watch.impress.co.jp/docs/news/1372920.html",
         "https://xtrend.nikkei.com/atcl/contents/watch/00013/01700/",
         "https://www.watch.impress.co.jp/docs/news/1372545.html"
+      ]
+    },
+    {
+      "id": "mitsuboshi-farm",
+      "name": "三ツ星ファーム",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "一流シェフ監修の冷凍宅配おかず。レンジで温めるだけで本格的な一皿",
+      "points": [
+        "一流シェフ監修メニューで冷凍とは思えない満足感",
+        "レンジで温めるだけ、5分で出来立て感のある一皿",
+        "高たんぱく・減塩など栄養バランス重視メニューも選べる"
+      ],
+      "tags": [
+        "宅配食",
+        "時短",
+        "健康"
+      ],
+      "dateAdded": "2026-07-19",
+      "status": "new",
+      "sources": [
+        "https://mitsuboshifarm.jp/",
+        "https://www.ozmall.co.jp/healthcare/food/article/40171/",
+        "https://meal.app-liv.jp/archive/138866/"
+      ]
+    },
+    {
+      "id": "cofo-zero-gravity-monitor-arm-pro",
+      "name": "COFO 無重力モニターアーム Pro",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "指先1本で動く「無重力」構造のモニターアーム。可動域と耐久性が高評価",
+      "points": [
+        "見た目通り軽い力でスイスイ動く無重力構造",
+        "前後左右上下に広い可動域でマルチモニターにも対応",
+        "2万円クラスでも経年劣化しにくい耐久性"
+      ],
+      "tags": [
+        "デスク環境",
+        "モニターアーム"
+      ],
+      "dateAdded": "2026-07-19",
+      "status": "new",
+      "sources": [
+        "https://gadgetshare.xsrv.jp/?p=590",
+        "https://my-best.com/products/6758976",
+        "https://uetani-blog.com/cofo-monitorarm-pro/"
+      ]
+    },
+    {
+      "id": "panasonic-solota-np-tml1",
+      "name": "パナソニック 食器洗い乾燥機 SOLOTA（NP-TML1）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "A4サイズの設置面積で使える、工事不要のタンク式パーソナル食洗機",
+      "points": [
+        "工事不要・タンク式でワンルームの狭いキッチンにも置ける",
+        "手洗いの約1/8の水量で洗浄、1回あたりの電気代も数円程度",
+        "常時温水洗浄で油汚れもしっかり落とせる"
+      ],
+      "tags": [
+        "食洗機",
+        "一人暮らし",
+        "共働き"
+      ],
+      "dateAdded": "2026-07-19",
+      "status": "new",
+      "sources": [
+        "https://www.rentio.jp/products/np-tml1/reviews",
+        "https://my-best.com/products/1044178",
+        "https://www.pikaene.com/panasonic-solota-review/"
+      ]
+    },
+    {
+      "id": "anker-soundcore-liberty-5-pro",
+      "name": "Anker Soundcore Liberty 5 Pro",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "AIチップ搭載で通話品質がギネス世界記録認定、ANCも大幅強化の完全ワイヤレス",
+      "points": [
+        "独自AIチップで通話音声を高精度抽出、通話品質でギネス世界記録認定",
+        "ANCがシリーズ最強クラスでエアコン音や車内騒音もしっかり低減",
+        "AirPods Pro 3より安い2.7万円台でフラッグシップ級の音質"
+      ],
+      "tags": [
+        "イヤホン",
+        "ノイズキャンセリング",
+        "AI"
+      ],
+      "dateAdded": "2026-07-19",
+      "status": "new",
+      "sources": [
+        "https://www.phileweb.com/review/article/202605/27/6518.html",
+        "https://av.watch.impress.co.jp/docs/review/review/2114147.html",
+        "https://www.biccamera.com/bc/c/media/article/2026/05/202605-ichioshi-Anker-5pro.html"
       ]
     }
   ]
