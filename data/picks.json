@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-19",
+    "lastUpdated": "2026-07-20",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4677,6 +4677,126 @@
         "https://www.phileweb.com/review/article/202605/27/6518.html",
         "https://av.watch.impress.co.jp/docs/review/review/2114147.html",
         "https://www.biccamera.com/bc/c/media/article/2026/05/202605-ichioshi-Anker-5pro.html"
+      ]
+    },
+    {
+      "id": "hidock-p1",
+      "name": "HiDock P1",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "ワイヤレスイヤホンを着けたまま会議録音、文字起こし・要約が無制限無料の世界初AIボイスレコーダー",
+      "points": [
+        "独自BlueCatch技術でワイヤレスイヤホン装着のまま通話・会議を録音できる世界初のAIレコーダー",
+        "GPT/Claude/Gemini等による文字起こし・要約(75言語対応)が本体買い切りで永年無料・無制限"
+      ],
+      "tags": [
+        "AI",
+        "文字起こし",
+        "会議効率化"
+      ],
+      "dateAdded": "2026-07-20",
+      "status": "new",
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/topic/special/2037242.html",
+        "https://www.lifehacker.jp/article/2603-hidock-p1/",
+        "https://www.itmedia.co.jp/pcuser/articles/2601/04/news020.html"
+      ]
+    },
+    {
+      "id": "dji-romo",
+      "name": "DJI ROMO",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "ドローン技術のDJIが本気で作った掃除ロボット、吸引25,000Paと複合センサーの障害物回避が段違い",
+      "points": [
+        "吸引力25,000Pa+アンチタングルローラーブラシで髪の毛が絡まりにくい",
+        "デュアル魚眼カメラ+LiDARの複合センサーで2mmの小物まで検知し回避"
+      ],
+      "tags": [
+        "ロボット掃除機",
+        "DJI",
+        "時短"
+      ],
+      "dateAdded": "2026-07-20",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/column_review/kaden/2094898.html",
+        "https://www.teradas.jp/archives/75329/",
+        "https://360life.shinyusha.co.jp/articles/-/55012"
+      ]
+    },
+    {
+      "id": "doio-kb16-macro-keypad",
+      "name": "DOIO KB16（左手用マクロキーパッド）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "ショートカットを1キーに集約、動画編集やコーディングの作業効率をぐっと底上げする左手デバイス",
+      "points": [
+        "3ノブ×4レイヤーで最大100機能を割り当て可能、VIAで自由にカスタマイズ",
+        "1万円前後で買える価格の割に高機能とコスパの良さが複数レビューで高評価"
+      ],
+      "tags": [
+        "左手デバイス",
+        "マクロキーボード",
+        "作業効率化"
+      ],
+      "dateAdded": "2026-07-20",
+      "status": "new",
+      "sources": [
+        "https://gearmetrix.jp/2024/10/17/review-doio-kb16/",
+        "https://rincostyle.blog/doio-kb16_review/",
+        "https://hayakukaeru.com/left-hand-device-onboard-memory-for-office/"
+      ]
+    },
+    {
+      "id": "reon-pocket-pro-plus",
+      "name": "SONY REON POCKET PRO Plus",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "首元を最大20℃近辺まで冷やす“着るエアコン”最新モデル、猛暑の体調管理に",
+      "points": [
+        "冷却パワーが前モデル比約20%向上、体表面温度を20℃近辺まで低下",
+        "熱中症対策として通勤・屋外作業・イベントで人気、専用アプリで冷却レベル調整可能"
+      ],
+      "tags": [
+        "熱中症対策",
+        "ウェアラブル",
+        "冷却"
+      ],
+      "dateAdded": "2026-07-20",
+      "status": "new",
+      "sources": [
+        "https://news.yahoo.co.jp/articles/e18ca3d45709ceee8b89728103e647ad7e87127e",
+        "https://xtech.nikkei.com/atcl/nxt/column/18/00157/061800100/",
+        "https://k-tai.watch.impress.co.jp/docs/news/2103707.html"
+      ]
+    },
+    {
+      "id": "pairwork-app",
+      "name": "ペアワーク",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "「名もなき家事」まで時給換算して見える化する夫婦向け家事分担アプリ",
+      "points": [
+        "150種以上の家事をプリセット登録、AIが分担を中立分析",
+        "時給を設定したペアは夫の家事参加率が平均1.7倍に向上との実績あり"
+      ],
+      "tags": [
+        "家事分担",
+        "共働き",
+        "アプリ"
+      ],
+      "dateAdded": "2026-07-20",
+      "status": "new",
+      "sources": [
+        "https://pairwork.app/",
+        "https://apps.apple.com/jp/app/%E3%83%9A%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%AF-%E5%85%B1%E5%83%8D%E3%81%8D%E5%A4%AB%E5%A9%A6%E5%90%91%E3%81%91%E5%AE%B6%E4%BA%8B%E5%88%86%E6%8B%85-%E5%85%B1%E6%9C%89%E3%82%A2%E3%83%97%E3%83%AA/id6464381260",
+        "https://www.youtube.com/watch?v=wXW0FK6q0t4"
       ]
     }
   ]
