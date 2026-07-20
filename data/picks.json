@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-07-21",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4797,6 +4797,78 @@
         "https://pairwork.app/",
         "https://apps.apple.com/jp/app/%E3%83%9A%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%AF-%E5%85%B1%E5%83%8D%E3%81%8D%E5%A4%AB%E5%A9%A6%E5%90%91%E3%81%91%E5%AE%B6%E4%BA%8B%E5%88%86%E6%8B%85-%E5%85%B1%E6%9C%89%E3%82%A2%E3%83%97%E3%83%AA/id6464381260",
         "https://www.youtube.com/watch?v=wXW0FK6q0t4"
+      ]
+    },
+    {
+      "id": "edifier-mr4-monitor-speaker",
+      "name": "Edifier MR4 モニタースピーカー",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "1万円台とは思えないフラットな音質で、長時間の作業でも疲れにくいPCモニタースピーカー",
+      "points": [
+        "フラットで疲れにくい音質、作業BGMやWeb会議が快適に",
+        "Klippel社と共同開発した設計でコスパの高さが評判",
+        "1万円台前半で購入でき初めてのPCスピーカーにも向く"
+      ],
+      "tags": [
+        "デスク環境",
+        "スピーカー",
+        "作業効率"
+      ],
+      "dateAdded": "2026-07-21",
+      "status": "new",
+      "sources": [
+        "https://chimolog.co/sp-edifier-mr4/",
+        "https://watchmono.com/e/edifier-mr4-review-check"
+      ]
+    },
+    {
+      "id": "tobest-gokuryo-cooling-pad",
+      "name": "tobest 極涼 敷きパッド",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "Q-MAX0.5台の接触冷感でひんやり、丸洗いできる夏の快眠敷きパッド",
+      "points": [
+        "高い接触冷感(Q-MAX0.5台)で寝苦しい夜がラクになる",
+        "リバーシブル・丸洗い可能で衛生的に使える",
+        "抗菌防臭仕様で夏場も安心して継続使用できる"
+      ],
+      "tags": [
+        "快眠",
+        "冷感",
+        "夏"
+      ],
+      "dateAdded": "2026-07-21",
+      "status": "new",
+      "sources": [
+        "https://note.com/tbola/n/nc19517c5b78a",
+        "https://monocil.jp/items/101895/"
+      ]
+    },
+    {
+      "id": "switchbot-rgbic-led-strip-light",
+      "name": "SwitchBot RGBIC LEDテープライト",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "1本で同時多色発光できるRGBICテープライトで、部屋の間接照明を手軽にアップグレード",
+      "points": [
+        "セグメント制御で同時多色発光、グラデーション演出が可能",
+        "SwitchBotアプリ/音声操作対応、Matter対応で拡張性も高い",
+        "Philips Hueより手頃な価格でコスパが良い"
+      ],
+      "tags": [
+        "スマートホーム",
+        "間接照明",
+        "SwitchBot"
+      ],
+      "dateAdded": "2026-07-21",
+      "status": "new",
+      "sources": [
+        "https://www.switchbot.jp/products/switchbot-rgbicww-strip-light",
+        "https://note.com/jaga_farm/n/n741124527bf2"
       ]
     }
   ]
