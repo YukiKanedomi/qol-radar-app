@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-21",
+    "lastUpdated": "2026-07-22",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4869,6 +4869,81 @@
       "sources": [
         "https://www.switchbot.jp/products/switchbot-rgbicww-strip-light",
         "https://note.com/jaga_farm/n/n741124527bf2"
+      ]
+    },
+    {
+      "id": "kingjim-visual-bar-timer-plus",
+      "name": "キングジム ビジュアルバータイマー プラス（VBT20）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "残り時間を20コマのカラー目盛りで可視化するタイマー。バックライト搭載で最大199分59秒まで測れる新モデル",
+      "points": [
+        "バーが減っていく様子が見えるだけで集中力が上がる、ポモドーロ実践者にも好評",
+        "2026年6月発売の新モデルはカラー目盛り＋バックライトで視認性が向上",
+        "4,180円前後、仕事や勉強の時間管理を「見える化」で解決"
+      ],
+      "tags": [
+        "時間管理",
+        "集中力",
+        "文房具"
+      ],
+      "dateAdded": "2026-07-22",
+      "status": "new",
+      "sources": [
+        "https://soredoko.jp/entry/2026/06/18/103000",
+        "https://prtimes.jp/main/html/rd/p/000000677.000000288.html",
+        "https://kingjim.com/products/vbt20"
+      ]
+    },
+    {
+      "id": "yamazaki-separate-trash-bag-holder",
+      "name": "山崎実業 スリム蓋付き分別ゴミ袋ホルダー タワー 45L",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ゴミ袋を掛けて蓋をするだけで簡易ゴミ箱に。引き出すだけで開く省スペース設計で資源ゴミの分別がはかどる",
+      "points": [
+        "蓋を開けるスペース不要で、複数並べてもすっきり収まる",
+        "引き出すだけのスマート開閉で片手操作OK、天板に小物も一時置きできる",
+        "ペットボトル・空き缶など資源ゴミの分別置き場に最適"
+      ],
+      "tags": [
+        "収納",
+        "ゴミ箱",
+        "分別"
+      ],
+      "dateAdded": "2026-07-22",
+      "status": "new",
+      "sources": [
+        "https://www.yamajitsu.co.jp/product/item/00976/",
+        "https://wachilog.com/lifegoods_gomibako/",
+        "https://note.com/miumiu77/n/n81911f85a389"
+      ]
+    },
+    {
+      "id": "kobayashi-nightmin-nemuru-chikara",
+      "name": "小林製薬 ナイトミン 眠る力 快眠サポートサプリ",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "夜中に目が覚めた時にも飲める機能性表示食品。中途覚醒の改善を実感する声が多い快眠サプリ",
+      "points": [
+        "中途覚醒の改善を報告するレビューが多数、夜中に飲んでも眠くなりやすい小粒設計",
+        "機能性表示食品として科学的根拠を明示、20日分2,000円前後で続けやすい",
+        "耳を温める『耳ほぐタイム』とは別ラインの経口タイプで選択肢が広がる"
+      ],
+      "tags": [
+        "睡眠",
+        "サプリ",
+        "機能性表示食品"
+      ],
+      "dateAdded": "2026-07-22",
+      "status": "new",
+      "sources": [
+        "https://review.rakuten.co.jp/review/item/1/261122_11075335/1.1/",
+        "https://monolog.r-n-i.jp/item/4987072061220",
+        "https://steron.jp/121699/"
       ]
     }
   ]
