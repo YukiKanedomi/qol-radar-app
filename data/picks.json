@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-22",
+    "lastUpdated": "2026-07-23",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4944,6 +4944,54 @@
         "https://review.rakuten.co.jp/review/item/1/261122_11075335/1.1/",
         "https://monolog.r-n-i.jp/item/4987072061220",
         "https://steron.jp/121699/"
+      ]
+    },
+    {
+      "id": "dr-air-neck-massager-premium-smart",
+      "name": "ドクターエア 3Dネックマッサージャープレミアム SMART",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "手で支えなくていい2WAYストラップ搭載。歩きながら・作業しながら首肩をもみほぐせる最新モデル",
+      "points": [
+        "2026年7月21日発売の新モデル。手で支える必要のない2WAYストラップでハンズフリー使用が可能に",
+        "もみ玉×温熱ヒーターで首筋から肩甲骨まで、人の手に近い揉み心地と評判"
+      ],
+      "tags": [
+        "ネックマッサージャー",
+        "肩こり",
+        "ハンズフリー"
+      ],
+      "dateAdded": "2026-07-23",
+      "status": "new",
+      "sources": [
+        "https://www.dr-air.com/jp/ja/260721/",
+        "https://kakaku.com/item/K0001421775/",
+        "https://www.rentio.jp/products/mn-05-br/reviews"
+      ]
+    },
+    {
+      "id": "seven-eleven-7now-delivery",
+      "name": "7NOW（セブンナウ）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "セブン-イレブンの商品がスマホ注文で最短20分。ちょっとした買い物の外出をまるごと省略",
+      "points": [
+        "おにぎり・冷凍食品からスイーツまで、近所のセブン-イレブンの商品を最短20分で自宅に配達",
+        "配送料は110〜550円程度、税抜1,000円以上から注文可能。nanacoポイントも貯まる・使える"
+      ],
+      "tags": [
+        "デリバリー",
+        "コンビニ",
+        "時短"
+      ],
+      "dateAdded": "2026-07-23",
+      "status": "new",
+      "sources": [
+        "https://www.7-now.jp/pages/about.html",
+        "https://360life.shinyusha.co.jp/articles/-/49119",
+        "https://faq.sej.co.jp/article/?knowledge_id=cs7m69n53f6pgjdkrv00"
       ]
     }
   ]
