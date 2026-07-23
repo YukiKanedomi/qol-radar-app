@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-23",
+    "lastUpdated": "2026-07-24",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -4992,6 +4992,133 @@
         "https://www.7-now.jp/pages/about.html",
         "https://360life.shinyusha.co.jp/articles/-/49119",
         "https://faq.sej.co.jp/article/?knowledge_id=cs7m69n53f6pgjdkrv00"
+      ]
+    },
+    {
+      "id": "insta360-luna-ultra",
+      "name": "Insta360 Luna Ultra",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "着脱式OLED画面つきLeica二眼ジンバルカメラ、ひとり撮影が捗る",
+      "points": [
+        "業界初の着脱式OLEDタッチスクリーンでリモート操作が可能",
+        "1型センサー×Leica光学デュアルレンズで8K撮影・光学6倍ズーム"
+      ],
+      "tags": [
+        "カメラ",
+        "動画撮影",
+        "ジンバル"
+      ],
+      "dateAdded": "2026-07-24",
+      "status": "new",
+      "sources": [
+        "https://videosalon.jp/report/insta360-luna-ultra_review/",
+        "https://dc.watch.impress.co.jp/docs/review/moviewatch/2118819.html",
+        "https://news.mynavi.jp/article/20260701-4647852/"
+      ]
+    },
+    {
+      "id": "toto-neorest-ls-w",
+      "name": "TOTO ネオレストLS-W",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "読者投票「家電大賞2025-2026」総合グランプリ、掃除激減の高機能トイレ",
+      "points": [
+        "フチなし形状で汚れがたまらずひと拭きで掃除完了",
+        "便スキャン機能で健康状態も自動チェック",
+        "家電大賞2025-2026で総合グランプリを受賞"
+      ],
+      "tags": [
+        "トイレ",
+        "掃除時短",
+        "スマート家電"
+      ],
+      "dateAdded": "2026-07-24",
+      "status": "new",
+      "sources": [
+        "https://jp.toto.com/products/toilet/neorest_lswasw/",
+        "https://kaden.watch.impress.co.jp/docs/column_special/2090519.html",
+        "https://getnavi.jp/appliances/1086109/"
+      ]
+    },
+    {
+      "id": "even-realities-g2",
+      "name": "Even Realities G2",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "英会議の字幕・翻訳をレンズに常時表示、スマホ確認ゼロで商談が進むスマートグラス",
+      "points": [
+        "リアルタイム翻訳・議事要約をレンズ内に緑文字で表示",
+        "カメラ非搭載でプライバシーに配慮した会議向け設計",
+        "前モデルより軽量化、眼鏡感覚で終日つけられる"
+      ],
+      "tags": [
+        "スマートグラス",
+        "会議",
+        "翻訳",
+        "AI"
+      ],
+      "dateAdded": "2026-07-24",
+      "status": "new",
+      "sources": [
+        "https://toyokeizai.net/articles/-/919973?display=b",
+        "https://www.moguravr.com/even-g2-japan-sale/",
+        "https://smhn.info/202511-even-g2-spec"
+      ]
+    },
+    {
+      "id": "mytrex-shape-pointer",
+      "name": "MYTREX SHAPE POINTER",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "ペン型2WAYケアで顔・首のコリとむくみをスキマ時間にほぐせる",
+      "points": [
+        "ポスポス美容とマイクロカレントの2WAYヘッドで指圧＆美肌ケア",
+        "ソーラーパネル搭載で充電不要、コンパクトで持ち運びやすい",
+        "2026年3月発売で口コミ評価が急上昇中"
+      ],
+      "tags": [
+        "美容家電",
+        "むくみケア",
+        "マイクロカレント"
+      ],
+      "dateAdded": "2026-07-24",
+      "status": "new",
+      "sources": [
+        "https://mytrex.jp/shape-pointer/",
+        "https://www.cosme.net/products/10295886/",
+        "https://lipscosme.com/themes/44236"
+      ]
+    },
+    {
+      "id": "iris-tech-service-appliance-sub",
+      "name": "アイリステックサービス(生活家電サブスク)",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "冷蔵庫・洗濯機など生活家電を月1,980円〜で所有せず使える新サブスク",
+      "points": [
+        "新生活の初期費用ゼロ化",
+        "配送・設置・故障対応・返却まで一体",
+        "2026年3月開始で若年層の利用好調"
+      ],
+      "tags": [
+        "家電",
+        "サブスク",
+        "一人暮らし",
+        "初期費用削減"
+      ],
+      "dateAdded": "2026-07-24",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/2096213.html",
+        "https://news.yahoo.co.jp/articles/fcd87129df779248bb26d0fbaff5462b3e1244d9",
+        "https://news.yahoo.co.jp/articles/e7df13e639274726e8260f0e150f29b25b41fa5f",
+        "https://www.irisohyama.co.jp/news/2026/?date=0318_2"
       ]
     }
   ]
