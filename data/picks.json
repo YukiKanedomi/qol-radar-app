@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-24",
+    "lastUpdated": "2026-07-25",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5119,6 +5119,78 @@
         "https://news.yahoo.co.jp/articles/fcd87129df779248bb26d0fbaff5462b3e1244d9",
         "https://news.yahoo.co.jp/articles/e7df13e639274726e8260f0e150f29b25b41fa5f",
         "https://www.irisohyama.co.jp/news/2026/?date=0318_2"
+      ]
+    },
+    {
+      "id": "anker-727-charging-station",
+      "name": "Anker 727 Charging Station",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "厚さ18mmの薄型ボディに100W出力の6-in-1ポートを詰め込んだ卓上電源タップ",
+      "points": [
+        "最大100W出力でノートPCも同時に急速充電できる",
+        "ACコンセント込み6-in-1でデスク上の配線がすっきりまとまる",
+        "厚さ18mmの薄型設計で置き場所を選ばない"
+      ],
+      "tags": [
+        "充電",
+        "デスク環境",
+        "整理"
+      ],
+      "dateAdded": "2026-07-25",
+      "status": "new",
+      "sources": [
+        "https://makuring.jp/anker-727-charging-station/",
+        "https://www.kobigadget.jp/anker-727-charging-station-review/"
+      ]
+    },
+    {
+      "id": "hhkb-studio",
+      "name": "HHKB Studio",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "静電容量無接点の打鍵感にポインティングスティックとジェスチャーパッドを統合した高級キーボード",
+      "points": [
+        "静電容量無接点方式で長時間でも疲れにくい打鍵感",
+        "ポインティングスティックでマウスに持ち替えず操作が完結",
+        "ジェスチャーパッドで仮想デスクトップ切替や画像ズームも指先で操作"
+      ],
+      "tags": [
+        "キーボード",
+        "デスク環境",
+        "生産性"
+      ],
+      "dateAdded": "2026-07-25",
+      "status": "new",
+      "sources": [
+        "https://www.geekfeed.co.jp/geekblog/review_hhkb_studio/",
+        "https://lopylog.jp/hhkb-studio/"
+      ]
+    },
+    {
+      "id": "xiaomi-smart-band-10",
+      "name": "Xiaomi Smart Band 10",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "最大21日持つバッテリーと精度の高い睡眠トラッキングで健康管理を毎日続けやすい",
+      "points": [
+        "最大21日間持続するバッテリーで充電の手間が少ない",
+        "睡眠段階・睡眠スコアを自動記録し体調把握に役立つ",
+        "5千円台からとコスパに優れ気軽に始めやすい"
+      ],
+      "tags": [
+        "スマートバンド",
+        "睡眠",
+        "健康管理"
+      ],
+      "dateAdded": "2026-07-25",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/2506-xiaomi-smart-band-10/",
+        "https://www.naenote.net/entry/xiaomi-smart-band-10-review"
       ]
     }
   ]
