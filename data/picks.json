@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-25",
+    "lastUpdated": "2026-07-26",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5191,6 +5191,80 @@
       "sources": [
         "https://www.lifehacker.jp/article/2506-xiaomi-smart-band-10/",
         "https://www.naenote.net/entry/xiaomi-smart-band-10-review"
+      ]
+    },
+    {
+      "id": "switchbot-ai-art-canvas",
+      "name": "SwitchBot AIアートキャンバス",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "フルカラー電子ペーパーに名画やAI生成アートを表示できる配線不要のアートフレーム",
+      "points": [
+        "E Ink Spectra 6採用で紙のような質感、バックライトなしで目に優しい",
+        "コードレス・週1回の表示替えで最長約2年連続表示できる",
+        "アプリから自分の写真や名画・AI生成画像を自由に飾れる"
+      ],
+      "tags": [
+        "インテリア",
+        "電子ペーパー",
+        "AI"
+      ],
+      "dateAdded": "2026-07-26",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2511/21/news095.html",
+        "https://www.tikgadget.jp/switchbot-ai-art-frame-review/",
+        "https://orefolder.jp/2026/01/switchbot-ai-art-frame-review/"
+      ]
+    },
+    {
+      "id": "xiaomi-a27qi-monitor",
+      "name": "Xiaomi A27Qi",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "2万円以下で27インチ2K・TÜV低ブルーライト認証を実現したコスパ最強デスクモニター",
+      "points": [
+        "2560×1440のWQHD・100Hz駆動で作業効率と表示の滑らかさを両立",
+        "TÜV Rheinland低ブルーライト認証とDC調光で長時間作業でも目が疲れにくい",
+        "sRGB100%・DCI-P3 95%を工場出荷時キャリブレーション済みで写真編集にも使える"
+      ],
+      "tags": [
+        "モニター",
+        "デスク環境",
+        "コスパ"
+      ],
+      "dateAdded": "2026-07-26",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/2506-amazon-xiaomi-monitor1/",
+        "https://www.tikgadget.jp/xiaomi-a27qi-2k-monitor-review/",
+        "https://chack-blog-ver5.com/xiaomi-2k-monitor-a27qi-review/"
+      ]
+    },
+    {
+      "id": "morishita-poupon-pillow",
+      "name": "モリシタ POUPON（プポン）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "吸いつくようなもっちり触感の低反発生まくらで、寝返りしても首が楽",
+      "points": [
+        "低反発ウレタンのもっちり触感で沈み込みと弾力のバランスが良い",
+        "フラット/ウエーブ/ネックサポートなど体型・好みに合わせた形状を選べる",
+        "5千円前後と手頃で、枕による首こり・寝苦しさを試しやすい"
+      ],
+      "tags": [
+        "睡眠",
+        "枕",
+        "寝具"
+      ],
+      "dateAdded": "2026-07-26",
+      "status": "new",
+      "sources": [
+        "https://www.yodobashi.com/product/100000001009075272/",
+        "https://review.rakuten.co.jp/item/1/357621_10628716/1.1/"
       ]
     }
   ]
