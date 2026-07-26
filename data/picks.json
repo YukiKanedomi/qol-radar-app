@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-26",
+    "lastUpdated": "2026-07-27",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5265,6 +5265,105 @@
       "sources": [
         "https://www.yodobashi.com/product/100000001009075272/",
         "https://review.rakuten.co.jp/item/1/357621_10628716/1.1/"
+      ]
+    },
+    {
+      "id": "fiio-snowsky-echo-mini",
+      "name": "FiiO Snowsky ECHO MINI",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "カセットテープ風デザインの超小型ハイレゾ音楽プレーヤー。見た目のレトロさと本格音質を両立",
+      "points": [
+        "デュアルDACチップ搭載で1万円台とは思えない解像度・音場",
+        "3.5mmアンバランス/4.4mmバランス両出力に対応",
+        "価格.comレビュー4.81/5点と満足度が高い"
+      ],
+      "tags": [
+        "音楽プレーヤー",
+        "ハイレゾ",
+        "レトロ"
+      ],
+      "dateAdded": "2026-07-27",
+      "status": "new",
+      "sources": [
+        "https://review.kakaku.com/review/K0001702025/",
+        "https://tonchikiroku.com/fiio-snowsky-echo-mini-review/",
+        "https://taksweblog.wordpress.com/2026/05/06/fiio-snowsky-echo-mini/"
+      ]
+    },
+    {
+      "id": "cmon-fingerprint-smart-bottle",
+      "name": "c-mon 指紋認証スマートボトル",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "登録した本人の指紋でしかロックが開かない水筒。誤飲やいたずら防止に",
+      "points": [
+        "指紋認証で第三者の不用意な開閉・取り違えを防止",
+        "2026年7月にハンドル付き大容量1,000mlモデルが新登場",
+        "6,980〜7,975円と手が届く価格帯"
+      ],
+      "tags": [
+        "水分補給",
+        "防犯",
+        "水筒"
+      ],
+      "dateAdded": "2026-07-27",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/mobile/articles/2602/05/news120.html",
+        "https://www.smartwatchlife.jp/74794/"
+      ]
+    },
+    {
+      "id": "aimeve-light-blocking-eye-mask",
+      "name": "aimeve アイマスク「光の遮断」",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "遮光率99.99%をうたう完全遮光アイマスク。目元に立体空間を作りまつ毛に触れない設計",
+      "points": [
+        "目元スペースが立体構造でまつ毛・まぶたに触れず長時間つけても楽",
+        "重さ35gと軽量",
+        "複数レビューサイト・1年使用ブログでも高評価が継続"
+      ],
+      "tags": [
+        "アイマスク",
+        "睡眠",
+        "遮光"
+      ],
+      "dateAdded": "2026-07-27",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/916764",
+        "https://www.izacblog.com/review-hikarinosyadan/",
+        "https://takukakugamer.com/review_hikarino_syadann/"
+      ]
+    },
+    {
+      "id": "google-ai-plus",
+      "name": "Google AI Plus",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "Google Oneがリニューアルした生成AIサブスク。月額1,200円でGemini 3 Proと200GBストレージ",
+      "points": [
+        "Gmail・ドキュメントでの文章作成・要約・校正をAIが支援",
+        "Google Photos/Gmail/Driveと共有の200GBストレージ付き",
+        "月額1,200円とChatGPT Plus等より手頃な価格帯"
+      ],
+      "tags": [
+        "AI",
+        "サブスク",
+        "仕事効率化"
+      ],
+      "dateAdded": "2026-07-27",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000008/",
+        "https://jetstream.blog/2026/05/20/google-one-plan-renewal/",
+        "https://note.com/pika2_hikaru/n/ne17f4c575c14"
       ]
     }
   ]
