@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-27",
+    "lastUpdated": "2026-07-28",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5364,6 +5364,84 @@
         "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000008/",
         "https://jetstream.blog/2026/05/20/google-one-plan-renewal/",
         "https://note.com/pika2_hikaru/n/ne17f4c575c14"
+      ]
+    },
+    {
+      "id": "esr-cryoboost-3in1-25w",
+      "name": "ESR CryoBoost 3-in-1 マグネット充電ステーション（25W）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "Qi2.2認証25W給電＋冷却ファンでiPhone・Apple Watch・AirPodsを高速同時充電できる折りたたみ式ステーション",
+      "points": [
+        "Qi2.2対応25Wで有線並みの充電速度、冷却ファンで発熱を抑制",
+        "折りたたみ式でiPhone・Apple Watch・AirPodsを1台にまとめて置くだけ充電",
+        "国内外の複数レビューで速度・冷却効果・携行性が高評価"
+      ],
+      "tags": [
+        "充電",
+        "MagSafe",
+        "デスク"
+      ],
+      "dateAdded": "2026-07-28",
+      "status": "new",
+      "sources": [
+        "https://www.macworld.com/article/3034015/esr-cryoboost-foldable-3-in-1-magnetic-charging-station-25w-review.html",
+        "https://chibimegane.jp/esr-cryoboost-3in1-25w/",
+        "https://www.notebookcheck.net/ESR-releases-new-25W-Qi2-2-foldable-3-in-1-wireless-charging-station-with-built-in-cooling.1152873.0.html"
+      ]
+    },
+    {
+      "id": "3coins-defrost-plate",
+      "name": "3COINS 解凍プレート／KITINTO",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "置くだけで冷凍肉・魚が自然解凍よりぐっと時短、電気も水も不要",
+      "points": [
+        "アルミニウム合金製で熱伝導が高く、自然解凍より大幅に速く解凍（薄切り肉で半分以下の時間という検証も）",
+        "電気・ガス・水を使わないので経済的、レンジ解凍と違い加熱されず美味しさを損なわない",
+        "薄型・軽量でお手入れも簡単、価格は1,100円前後と手頃"
+      ],
+      "tags": [
+        "時短",
+        "キッチン",
+        "解凍"
+      ],
+      "dateAdded": "2026-07-28",
+      "status": "new",
+      "sources": [
+        "https://news.mynavi.jp/article/20240625-2972989/",
+        "https://kakakumag.com/houseware/?id=18107",
+        "https://www.palcloset.jp/display/item/2412-KR542-0000/",
+        "https://360life.shinyusha.co.jp/articles/-/55284"
+      ]
+    },
+    {
+      "id": "tebura-touen-diaper-subscription",
+      "name": "手ぶら登園",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "おむつ・おしりふきを保育園へ毎日持参する手間をなくす定額サブスク",
+      "points": [
+        "月額2,980円(税込3,278円)でサイズ・枚数無制限、おむつ持参と記名作業が不要に",
+        "共働き家庭から「管理不要で朝が楽になった」という口コミが多数",
+        "全国47都道府県の保育施設で導入、国内利用園数No.1の実績"
+      ],
+      "tags": [
+        "育児",
+        "時短",
+        "保育園",
+        "共働き"
+      ],
+      "dateAdded": "2026-07-28",
+      "status": "new",
+      "sources": [
+        "https://tebura-touen.com/",
+        "https://e-reikinet.jp/tebura/",
+        "https://cospabu.com/service.php?id=313",
+        "https://yuru-lifelog.tokyo/diapers-subscription-teburatouen/"
       ]
     }
   ]
