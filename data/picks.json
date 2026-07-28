@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-28",
+    "lastUpdated": "2026-07-29",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5442,6 +5442,132 @@
         "https://e-reikinet.jp/tebura/",
         "https://cospabu.com/service.php?id=313",
         "https://yuru-lifelog.tokyo/diapers-subscription-teburatouen/"
+      ]
+    },
+    {
+      "id": "ray-ban-meta-gen2",
+      "name": "Ray-Ban Meta（Gen 2）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "手ぶらで撮影・AI相談。メガネ型で日常をそのまま記録できるAIスマートグラス",
+      "points": [
+        "カメラ・スピーカー・マイク・AIアシスタントをメガネ一つに統合、両手を塞がず撮影できる",
+        "初代からバッテリー持ちが最大8時間に改善、動画も3K/30fps撮影に対応",
+        "2026年5月21日に日本正式発売。ソフトバンクが国内通信事業者初の取扱いで店頭サポートも実施"
+      ],
+      "tags": [
+        "AIグラス",
+        "ウェアラブル",
+        "カメラ"
+      ],
+      "dateAdded": "2026-07-29",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2605/29/news124.html",
+        "https://av.watch.impress.co.jp/docs/review/review/2119712.html",
+        "https://www.softbank.jp/corp/news/press/sbkk/2026/20260604_01/"
+      ]
+    },
+    {
+      "id": "cool-barista-maxi",
+      "name": "水出しコーヒーメーカー Cool Barista Maxi",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "水とコーヒー粉をセットしボタン1つ、約20分で本格水出しコーヒーが完成し時短に",
+      "points": [
+        "通常6〜10時間かかる水出し抽出をわずか20分に短縮",
+        "一度に約650mL抽出でき、家族・来客分もまとめて対応",
+        "水出し紅茶・緑茶・出汁抽出にも使える多機能設計"
+      ],
+      "tags": [
+        "キッチン家電",
+        "時短",
+        "コーヒー"
+      ],
+      "dateAdded": "2026-07-29",
+      "status": "new",
+      "sources": [
+        "https://kakakumag.com/seikatsu-kaden/?id=22436",
+        "https://coffee-station.jp/archives/39901",
+        "https://www.gajitime.com/bj-cb05/",
+        "https://kakaku.com/item/K0001787231/"
+      ]
+    },
+    {
+      "id": "cofo-chair-premium-2",
+      "name": "COFO Chair Premium 2",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "6Dアームレスト×3Dヘッドレストで在宅ワークの肩腰疲労を激減させる高級チェア",
+      "points": [
+        "6Dアームレストで肩・首を細かくサポートし長時間作業の負担を軽減",
+        "3Dヘッドレストとリクライニングで集中とリラックスを両立",
+        "オールアルミ脚・キャスターで高級感のある仕上がり"
+      ],
+      "tags": [
+        "デスクチェア",
+        "在宅ワーク",
+        "腰痛対策"
+      ],
+      "dateAdded": "2026-07-29",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000085.000053972.html",
+        "https://makuring.jp/cofo-chair-premium2/",
+        "https://news.yahoo.co.jp/expert/articles/9ca322c6773b117dc1b029f59234a6c2cc389be6"
+      ]
+    },
+    {
+      "id": "sanko-mimi-pokka-ear-warmer",
+      "name": "サンコー 耳ぽっか（USB電熱式イヤーウォーマー）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "耳をじんわり温めて入眠をサポート、充電式で繰り返し使える経済的な安眠グッズ",
+      "points": [
+        "3段階の温度調整（約37/40/43℃）＆30分自動オフで就寝前にちょうどいい",
+        "耳栓のような装着感で周囲の音も軽減、いびきや物音が気になる人にも",
+        "使い捨てカイロ不要のUSB充電式で繰り返し使え経済的、2026年も人気ランキング上位を維持"
+      ],
+      "tags": [
+        "睡眠",
+        "リラックス",
+        "冷え対策"
+      ],
+      "dateAdded": "2026-07-29",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000118.000111905.html",
+        "https://news.mynavi.jp/article/20231106-2811845/",
+        "https://my-best.com/16588"
+      ]
+    },
+    {
+      "id": "ofuro-pass",
+      "name": "おふろパス（ニフティ温泉）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "月額330円で全国90施設以上の温泉・サウナ・銭湯がお得に使えるクーポンサブスク",
+      "points": [
+        "全国90施設以上の温泉・サウナ・スーパー銭湯で毎日使える割引クーポンが使い放題",
+        "入館料960円オフやドリンク1杯無料など、月1回の利用でも元が取れる特典内容",
+        "初回1ヶ月無料・月額330円という業界最安クラスの価格でサ活の固定費を圧縮"
+      ],
+      "tags": [
+        "温泉",
+        "サウナ",
+        "節約"
+      ],
+      "dateAdded": "2026-07-29",
+      "status": "new",
+      "sources": [
+        "https://news.yahoo.co.jp/articles/bfa85ecd3f8152eb900a913a42c9f587ca917340",
+        "https://travel.watch.impress.co.jp/docs/news/2107963.html",
+        "https://onsen.nifty.com/customer-lp/ofuro-pass/"
       ]
     }
   ]
