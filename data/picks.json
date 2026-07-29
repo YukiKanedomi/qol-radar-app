@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-29",
+    "lastUpdated": "2026-07-30",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5568,6 +5568,111 @@
         "https://news.yahoo.co.jp/articles/bfa85ecd3f8152eb900a913a42c9f587ca917340",
         "https://travel.watch.impress.co.jp/docs/news/2107963.html",
         "https://onsen.nifty.com/customer-lp/ofuro-pass/"
+      ]
+    },
+    {
+      "id": "huawei-freeclip-2",
+      "name": "HUAWEI FreeClip 2",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "耳を塞がないイヤーカフ型で長時間快適",
+      "points": [
+        "片耳5.1gの軽量イヤーカフ型で耳が痛くならず、在宅ワーク中も周囲の音を聞きながら使える",
+        "デュアル振動板ドライバーで「イヤーカフ型としては音質最高峰」と複数レビューで一致",
+        "IP57防塵防水・約38時間再生で日常使いに十分な耐久性"
+      ],
+      "tags": [
+        "イヤホン",
+        "在宅ワーク",
+        "オープンイヤー",
+        "装着感"
+      ],
+      "dateAdded": "2026-07-30",
+      "status": "new",
+      "sources": [
+        "https://ascii.jp/elem/000/004/373/4373518/",
+        "https://kakaku.com/item/J0000049912/",
+        "https://consumer.huawei.com/jp/audio/freeclip2/"
+      ]
+    },
+    {
+      "id": "the-perfect-box-auto-trash",
+      "name": "THE PERFECT BOX（ザ・パーフェクトボックス）完全自動ゴミ箱",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "ゴミ袋の交換・密封・除菌まで全自動、触らず捨てる",
+      "points": [
+        "センサーで自動開閉、捨てると自動でゴミ袋を密封・新しい袋に自動充填",
+        "UVC除菌（99.9%除菌訴求）＋IPX3防水でキッチンや洗面所でも使える",
+        "「ゴミ袋交換の手間がなくなった」という評価がMakuake・小売レビュー・YouTubeで一致"
+      ],
+      "tags": [
+        "ゴミ箱",
+        "自動化",
+        "衛生",
+        "キッチン"
+      ],
+      "dateAdded": "2026-07-30",
+      "status": "new",
+      "sources": [
+        "https://ascii.jp/elem/000/004/239/4239403/",
+        "https://www.excite.co.jp/news/article/Ignite_735937/",
+        "https://my-best.com/products/8490527"
+      ]
+    },
+    {
+      "id": "owltech-katamaki-cable",
+      "name": "オウルテック katamaki（片引き巻取り式 USB Type-Cケーブル）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "片側だけ伸びる巻取りケーブルでデスク周りがスッキリ",
+      "points": [
+        "従来の巻取りケーブルと違い片側だけ引き出せる設計で、机上でも取り回しがよく散らからない",
+        "USB PD 60W給電＋データ通信480Mbps対応でノートPCやモニター周りの実用ケーブルとして使える",
+        "巻取り5,000回・屈曲15,000回の耐久試験済みでデスク常設に向く"
+      ],
+      "tags": [
+        "デスク周り",
+        "ケーブル管理",
+        "時短",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-07-30",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/2025/12/owltech-katamaki-usbc.html",
+        "https://note.com/kino_tsuyo/n/n42f51d454390",
+        "https://gadget.echoes-inc.co.jp/katamaki/"
+      ]
+    },
+    {
+      "id": "oura-ring-5",
+      "name": "Oura Ring 5",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "世界最小級スマートリングで健康を24時間見守る",
+      "points": [
+        "前世代比40%小型化・最軽量2gで「普通のジュエリー」に近い装着感と実機レビューで高評価",
+        "睡眠・運動・ストレス・心臓の健康など50以上の指標を継続トラッキング",
+        "バッテリーは最大約9日持続、指輪型ゆえ腕時計型より着け続けやすい"
+      ],
+      "tags": [
+        "スマートリング",
+        "睡眠",
+        "健康管理",
+        "ウェアラブル"
+      ],
+      "dateAdded": "2026-07-30",
+      "status": "new",
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/review/minireview/2119742.html",
+        "https://www.watch.impress.co.jp/docs/news/2114202.html",
+        "https://gizmodo.com/oura-ring-5-review-the-best-smart-ring-right-now-and-its-not-close-2000785576",
+        "https://www.lifehacker.jp/article/2606-oura-ring-5-review/"
       ]
     }
   ]
