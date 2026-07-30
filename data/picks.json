@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-30",
+    "lastUpdated": "2026-07-31",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5673,6 +5673,148 @@
         "https://www.watch.impress.co.jp/docs/news/2114202.html",
         "https://gizmodo.com/oura-ring-5-review-the-best-smart-ring-right-now-and-its-not-close-2000785576",
         "https://www.lifehacker.jp/article/2606-oura-ring-5-review/"
+      ]
+    },
+    {
+      "id": "torras-flasheye",
+      "name": "TORRAS Flasheye",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "Apple Watchとスマホ/MacBookを同時に充電できる、業界初45°設計の2-in-1充電器",
+      "points": [
+        "特許取得の45°傾斜設計でApple Watchが自然な角度で固定され、置き時計のように時刻確認できる",
+        "最大45W出力でUSB-C側からiPhone/MacBookも同時急速充電",
+        "手のひらサイズで折りたたみプラグ対応、旅行・出張の荷物を減らせる"
+      ],
+      "tags": [
+        "充電器",
+        "AppleWatch",
+        "時短",
+        "旅行",
+        "デスク周り"
+      ],
+      "dateAdded": "2026-07-31",
+      "status": "new",
+      "sources": [
+        "https://note.com/photoshingo/n/nd481fbba68e3",
+        "https://makuring.jp/torras-flasheye/",
+        "https://note.com/makuring/n/n6910e7529e86",
+        "https://monopedia.jp/torras-flasheye/",
+        "https://shin5noblog.com/torras-flasheye/",
+        "https://insnote.net/torras-flasheye_review/",
+        "https://note.com/tatu1014/n/nfe563e609f2c"
+      ]
+    },
+    {
+      "id": "daiso-closet-storage-case",
+      "name": "ダイソー クローゼット収納ケース",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "220〜550円で4サイズ展開、積み重ねても引き出しやすい万能収納ケース",
+      "points": [
+        "薄型/厚型×奥行き2種の4サイズ展開で衣類からキッチン小物まで対応",
+        "積み重ねた状態でも奥のケースをスムーズに引き出せる設計",
+        "クローゼットだけでなくキッチン・洗面所・玄関収納にも転用可能"
+      ],
+      "tags": [
+        "100均",
+        "収納",
+        "整理整頓",
+        "ダイソー"
+      ],
+      "dateAdded": "2026-07-31",
+      "status": "new",
+      "sources": [
+        "https://macaro-ni.jp/173658",
+        "https://st.benesse.ne.jp/ikuji/content/?id=216569",
+        "https://tokubai.co.jp/news/articles/8524",
+        "https://www.buzzfeed.com/jp/reikaakasaka/daiso-stuckbox"
+      ]
+    },
+    {
+      "id": "shokz-opencomm2",
+      "name": "Shokz OpenComm2",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "耳を塞がない骨伝導ヘッドセットで、長時間のWeb会議でも疲れず声もクリアに届く",
+      "points": [
+        "骨伝導＋開放型設計で長時間つけても圧迫感がなく、家族の声や来客にも気づける",
+        "ブームマイク+DSPノイズキャンセルで声がクリアに届き、Zoom/Teams会議に最適",
+        "連続16時間通話・5分急速充電で最大2時間通話可能"
+      ],
+      "tags": [
+        "在宅ワーク",
+        "Web会議",
+        "骨伝導",
+        "ヘッドセット"
+      ],
+      "dateAdded": "2026-07-31",
+      "status": "new",
+      "sources": [
+        "https://jp.shokz.com/products/opencomm2",
+        "https://my-best.com/products/1875340",
+        "https://note.com/yokamon0511/n/n83b90162daee",
+        "https://note.com/bright_llama373/n/n85889dd0c1a8"
+      ]
+    },
+    {
+      "id": "issin-smart-bath-mat-2026",
+      "name": "issin スマートバスマット 体組成計モデル(2026)",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "お風呂上がりに乗るだけで体組成15項目を自動記録、体重管理が意識せず続くバスマット",
+      "points": [
+        "お風呂上がりに濡れた足で乗るだけで体重・体脂肪率など15項目を自動計測・記録",
+        "USB-C充電・Wi-Fi 6対応、家族最大8名まで体重ベースで自動識別",
+        "iPhoneヘルスケアアプリと連携、長期レビューでも継続率の高さが報告されている"
+      ],
+      "tags": [
+        "体組成計",
+        "習慣化",
+        "家族で使える",
+        "スマートホーム"
+      ],
+      "dateAdded": "2026-07-31",
+      "status": "new",
+      "sources": [
+        "https://iyusuke.jp/issin-smartbathmat-review/",
+        "https://monorevi.jp/issin-smartbathmat/",
+        "https://kamatainfo.com/?p=19682",
+        "https://gadgeneko.jp/issin-smart-bath-mat-review",
+        "https://simple-was-best.com/smart-bath-mat-2026-long-term-review/",
+        "https://prtimes.jp/main/html/rd/p/000000100.000103350.000103350"
+      ]
+    },
+    {
+      "id": "laxus-bag-rental",
+      "name": "Laxus（ラクサス）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "月額6,800円でエルメス・ヴィトンなど60ブランドのバッグが月に何度でも交換自由",
+      "points": [
+        "1回に1点まで借りられ、月に何度でも無料で交換可能。継続率91.6%という高いリピート率",
+        "買う勇気が出ないブランドを気軽に試せ、購入前のお試しとしても使われている",
+        "6年以上利用を続けるユーザーブログも複数あり、サポート評判も概ね良好"
+      ],
+      "tags": [
+        "ブランドバッグ",
+        "レンタル",
+        "サブスク",
+        "ファッション",
+        "シェアリングエコノミー"
+      ],
+      "dateAdded": "2026-07-31",
+      "status": "new",
+      "sources": [
+        "https://poyotan.com/laxus-kansou/",
+        "https://plus.news.gree.net/article/35906",
+        "https://e-reikinet.jp/laxus/",
+        "https://fashion-50age.com/luxus-review"
       ]
     }
   ]
