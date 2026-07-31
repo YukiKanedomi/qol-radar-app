@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-07-31",
+    "lastUpdated": "2026-08-01",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5815,6 +5815,131 @@
         "https://plus.news.gree.net/article/35906",
         "https://e-reikinet.jp/laxus/",
         "https://fashion-50age.com/luxus-review"
+      ]
+    },
+    {
+      "id": "matech-sonicharge-ultra-blade-70w",
+      "name": "MATECH Sonicharge Ultra Blade 70W",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "フリスクサイズなのにMacBookも充電できる薄型70W充電器",
+      "points": [
+        "厚さ12.9mmの史上最薄級ボディでポケットに入れても気にならない",
+        "USB-C×2ポート・70W出力でMacBook Proまで余裕で充電可能",
+        "自動電力配分機能で接続機器に応じて最適に振り分け"
+      ],
+      "tags": [
+        "充電器",
+        "デスク周り"
+      ],
+      "dateAdded": "2026-08-01",
+      "status": "new",
+      "sources": [
+        "https://makuring.jp/sonicharge-ultra-blade70w/",
+        "https://zigsow.jp/item/370171",
+        "https://news.yahoo.co.jp/expert/articles/02420c0ed8999057571ded1c9e8cf98496b5f595"
+      ]
+    },
+    {
+      "id": "nitori-n-grip-duvet-cover",
+      "name": "ニトリ ひもなしラクラク掛け布団カバー（Nグリップ）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "紐・ボタン不要で布団の掛け替えが劇的に楽になる",
+      "points": [
+        "ナノフロント生地の摩擦で紐なしでも布団がズレにくい",
+        "装着時間が従来品の約半分で、約85%が付け替えの楽さを実感と公式発表",
+        "厚手・ツルツル生地の布団ではズレやすいとの指摘もあり、実使用感を伴う評価"
+      ],
+      "tags": [
+        "寝具",
+        "時短",
+        "布団カバー"
+      ],
+      "dateAdded": "2026-08-01",
+      "status": "new",
+      "sources": [
+        "https://www.nitori-net.jp/ec/product/7508267s/",
+        "https://yomuno.jp/posts/63769",
+        "https://risa-ikujiblog.com/kakefuton-zurenai-nitori/"
+      ]
+    },
+    {
+      "id": "remarkable-paper-pure",
+      "name": "reMarkable Paper Pure",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "6年ぶり刷新、紙のような書き味の高コスパEインクノート",
+      "points": [
+        "遅延をほとんど感じない紙のような書き心地で会議メモ・アイデア出しが捗る",
+        "手書き内容の全文検索など機能強化で資料レビューの効率化に直結",
+        "reMarkable 2の後継として6年ぶりの刷新、複数の海外メディアが好意的にレビュー"
+      ],
+      "tags": [
+        "Eインク",
+        "ノートタブレット",
+        "会議メモ"
+      ],
+      "dateAdded": "2026-08-01",
+      "status": "new",
+      "sources": [
+        "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
+        "https://www.engadget.com/2164815/remarkable-paper-pure-review/",
+        "https://www.androidauthority.com/remarkable-paper-pure-review-2-3672921/"
+      ]
+    },
+    {
+      "id": "ringconn-gen3-smart-ring",
+      "name": "RingConn Gen 3（スマートリング）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "血管ヘルス傾向まで見えるサブスク不要のスマートリング",
+      "points": [
+        "新機能「血管ヘルス傾向」で日中〜睡眠中の血管コンディションを継続記録",
+        "月額料金なしの買い切り型で全機能をずっと使える",
+        "IP68防水・最長2週間バッテリーで着けっぱなし運用がしやすい"
+      ],
+      "tags": [
+        "睡眠",
+        "スマートリング",
+        "健康管理"
+      ],
+      "dateAdded": "2026-08-01",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2606/25/news068.html",
+        "https://www.smartwatchlife.jp/74526/",
+        "https://topics.smt.docomo.ne.jp/article/tokyochips/business/tokyochips-59493"
+      ]
+    },
+    {
+      "id": "aikasa-umbrella-sharing",
+      "name": "アイカサ（傘シェアリングサービス）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "突然の雨も困らない、傘サブスク月額280円",
+      "points": [
+        "月額280円の使い放題プランなら傘2本まで借りられ、借りた場所と別スポットに返却できる",
+        "JR東日本主要駅を含め全国に設置拡大中、ユーザー数20万人超",
+        "急な雨でコンビニで傘を買う無駄がなくなると口コミで評価"
+      ],
+      "tags": [
+        "日用品",
+        "時短",
+        "サブスク",
+        "雨"
+      ],
+      "dateAdded": "2026-08-01",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/mobile/articles/2508/01/news108.html",
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%AB%E3%82%B5",
+        "https://www.i-kasa.com/"
       ]
     }
   ]
