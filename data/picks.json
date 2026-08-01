@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-01",
+    "lastUpdated": "2026-08-02",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -5940,6 +5940,83 @@
         "https://www.itmedia.co.jp/mobile/articles/2508/01/news108.html",
         "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%AB%E3%82%B5",
         "https://www.i-kasa.com/"
+      ]
+    },
+    {
+      "id": "wobkey-rainy75",
+      "name": "WOBKEY Rainy75",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "雨音のような心地よい打鍵音に癒される、フルアルミボディの高級メカニカルキーボード",
+      "points": [
+        "フルアルミ合金CNC削り出しボディ＋ガスケットマウント構造で、雨だれのような独特で柔らかい打鍵音・打鍵感",
+        "ホットスワップ対応でキースイッチ/キーキャップを自由にカスタマイズ可能。有線/2.4GHz/Bluetoothの3WAY接続、JIS配列対応モデルもあり",
+        "アニメ監督の新海誠氏がSNSで使用を明かし話題化。Makuakeクラウドファンディングでも支持を集めた実績あるロングセラー"
+      ],
+      "tags": [
+        "キーボード",
+        "デスク",
+        "メカニカルキーボード",
+        "打鍵音"
+      ],
+      "dateAdded": "2026-08-02",
+      "status": "new",
+      "sources": [
+        "https://xrosshair.jp/wobkey-rainy75/",
+        "https://mastdesign.me/20240225-rainy75-wobkey/",
+        "https://logisoku.com/176469"
+      ]
+    },
+    {
+      "id": "iwatani-airap-heat-resistant-bag",
+      "name": "アイラップ（岩谷マテリアル 万能ポリ袋）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "耐熱120℃・耐冷-30℃の万能ポリ袋。冷凍・レンジ・湯煎までこれ1つでこなせて、洗い物も下ごしらえも時短になる定番アイテム",
+      "points": [
+        "耐熱120℃で電子レンジ調理・湯煎、耐冷-30℃で冷凍保存まで1枚で対応",
+        "ボウル代わりにこねたり和えたりできるので洗い物が激減",
+        "肉や薬味を薄く入れて冷凍すればパラパラに割れて使う分だけ取り出せると料理系YouTubeで多数紹介"
+      ],
+      "tags": [
+        "時短",
+        "冷凍保存",
+        "キッチン",
+        "節約"
+      ],
+      "dateAdded": "2026-08-02",
+      "status": "new",
+      "sources": [
+        "https://www.roomie.jp/2019/12/577678/",
+        "https://shufufu.jp/13334/",
+        "https://www.hotpepper.jp/mesitsu/entry/okan/2021-00607"
+      ]
+    },
+    {
+      "id": "inmo-go3-smart-glasses",
+      "name": "INMO GO3（AIスマートグラス）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "海外商談も社内会議もこれ一台、リアルタイム字幕とAI議事録で仕事の壁を下げるAIグラス",
+      "points": [
+        "98言語のリアルタイム翻訳を視界に字幕表示（うち9言語はオフライン対応）、海外商談や国際会議で通訳代わりに使える",
+        "AI議事録の自動作成やテレプロンプター機能を搭載し、会議・プレゼン準備の時短に貢献"
+      ],
+      "tags": [
+        "スマートグラス",
+        "AI翻訳",
+        "会議効率化"
+      ],
+      "dateAdded": "2026-08-02",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2607/17/news084.html",
+        "https://www.watch.impress.co.jp/docs/news/2125850.html",
+        "https://www.gizmodo.jp/article/inmo_go3/",
+        "https://ascii.jp/elem/000/004/420/4420370/"
       ]
     }
   ]
