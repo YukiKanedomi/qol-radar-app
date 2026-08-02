@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-02",
+    "lastUpdated": "2026-08-03",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6017,6 +6017,106 @@
         "https://www.watch.impress.co.jp/docs/news/2125850.html",
         "https://www.gizmodo.jp/article/inmo_go3/",
         "https://ascii.jp/elem/000/004/420/4420370/"
+      ]
+    },
+    {
+      "id": "ugreen-finetrack-slim",
+      "name": "UGREEN FineTrack Slim Smart Finder",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "財布に忍ばせる極薄カード型紛失防止タグ",
+      "points": [
+        "厚さ1.7mmのカード型で財布に入れても違和感なし",
+        "充電式でAirTagと違い電池交換不要",
+        "Apple「探す」対応で市街地の位置精度も良好"
+      ],
+      "tags": [
+        "紛失防止",
+        "財布",
+        "Apple"
+      ],
+      "dateAdded": "2026-08-03",
+      "status": "new",
+      "sources": [
+        "https://note.com/gatoy/n/n4e5b913d8b4f",
+        "https://my-best.com/products/7826954",
+        "https://monosukiblog.com/ug-cm817_20250805"
+      ]
+    },
+    {
+      "id": "lofree-flow2",
+      "name": "Lofree Flow2",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "所有欲を満たす高級ロープロファイルキーボード",
+      "points": [
+        "フルアルミ削り出しボディで高級感ある打鍵感",
+        "側面タッチスライドバーで音量やスクロール操作",
+        "VIA対応・大容量バッテリーで前モデルの弱点を改善"
+      ],
+      "tags": [
+        "キーボード",
+        "デスク",
+        "ロープロファイル"
+      ],
+      "dateAdded": "2026-08-03",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2507/03/news061.html",
+        "https://gadgetfrontblog.com/1052/",
+        "https://totonoe.blog/lofree-flow2/"
+      ]
+    },
+    {
+      "id": "anker-soundcore-sleep-a30",
+      "name": "Anker Soundcore Sleep A30",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "いびきマスキング機能付きの本格「寝ホン」",
+      "points": [
+        "片耳約3gの超軽量で横向き寝でも耳が痛くならない",
+        "いびきをリアルタイム検知してマスキング音を自動再生",
+        "最大50時間再生・IPX4防水で普段使いにも流用可"
+      ],
+      "tags": [
+        "睡眠",
+        "イヤホン",
+        "いびき対策"
+      ],
+      "dateAdded": "2026-08-03",
+      "status": "new",
+      "sources": [
+        "https://note.com/bright_llama373/n/n01da14198a51",
+        "https://note.com/sasimitu/n/ne7055a766cf7",
+        "https://review.kakaku.com/review/K0001712388/"
+      ]
+    },
+    {
+      "id": "goopass-camera-subscription",
+      "name": "GOOPASS（カメラ・レンズ サブスク）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "高額カメラを月額で試せるサブスクレンタル",
+      "points": [
+        "月額2,750円〜で約2,500種のカメラ・レンズを利用可能",
+        "高額機材を購入前に試せて失敗買いを防げる",
+        "破損補償付きで旅行・アウトドアでも安心して使える"
+      ],
+      "tags": [
+        "カメラ",
+        "レンタル",
+        "サブスク"
+      ],
+      "dateAdded": "2026-08-03",
+      "status": "new",
+      "sources": [
+        "https://outgraph.jp/goopass/",
+        "https://gingacamera.com/goopass/",
+        "https://alpacapudding.com/goopass-review/"
       ]
     }
   ]
