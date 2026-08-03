@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-03",
+    "lastUpdated": "2026-08-04",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6117,6 +6117,131 @@
         "https://outgraph.jp/goopass/",
         "https://gingacamera.com/goopass/",
         "https://alpacapudding.com/goopass-review/"
+      ]
+    },
+    {
+      "id": "ranvoo-aice-lite-max-neck-cooler",
+      "name": "RANVOO AICE LITE Max ネッククーラー",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "最新ペルチェ素子で瞬間冷却、アプリ操作対応の次世代ネッククーラー",
+      "points": [
+        "-23℃瞬間冷却・15,020mm²の大型冷却プレートで首全体をカバー",
+        "6000mAh大容量バッテリー＋AI電力管理で長時間使用可能",
+        "冷却/温めの冬夏兼用モデルでアプリから風量・温度調整"
+      ],
+      "tags": [
+        "熱中症対策",
+        "ネッククーラー",
+        "夏"
+      ],
+      "dateAdded": "2026-08-04",
+      "status": "new",
+      "sources": [
+        "https://note.com/gadgegadgegadget/n/n882a6b39254a",
+        "https://jo-ji.com/ranvoo-aice-lite-max-2026/",
+        "https://tezlog.net/ranvoo-aice-lite-max/"
+      ]
+    },
+    {
+      "id": "ticktime-cube-pomodoro-timer",
+      "name": "TickTime Cube ポモドーロタイマー",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "転がすだけで時間セット、メンタリストDaiGoも推奨のキューブ型集中タイマー",
+      "points": [
+        "六角柱の面を上にするだけで直感的に時間セット、ボタン操作不要",
+        "無音〜5段階の音量調整でオフィス・図書館でも使える",
+        "ポモドーロ・テクニックに最適で、勉強や仕事の集中力アップに人気"
+      ],
+      "tags": [
+        "集中",
+        "タイマー",
+        "ポモドーロ"
+      ],
+      "dateAdded": "2026-08-04",
+      "status": "new",
+      "sources": [
+        "https://ascii.jp/elem/000/004/127/4127889/",
+        "https://sukimaput.com/ticktime/",
+        "https://mana-toy.com/ticktime_cube/"
+      ]
+    },
+    {
+      "id": "switchbot-smart-circulator",
+      "name": "SwitchBot スマートサーキュレーター",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "コードレス×アプリ/スマートスピーカー対応、静音のスマートサーキュレーター",
+      "points": [
+        "ブラシレスDCモーターで静音動作（弱運転で約25.6dB）",
+        "アプリで100段階の風量調整、スマートスピーカー連携も可能",
+        "コードレス・2.5kgと軽量で部屋間の持ち運びもラク"
+      ],
+      "tags": [
+        "スマートホーム",
+        "サーキュレーター",
+        "SwitchBot"
+      ],
+      "dateAdded": "2026-08-04",
+      "status": "new",
+      "sources": [
+        "https://note.com/mocchan/n/nbfc4b4059550",
+        "https://my-best.com/products/1700596",
+        "https://circulator.blog/switchbot-circulator/"
+      ]
+    },
+    {
+      "id": "oofos-ooahh-recovery-sandal",
+      "name": "OOFOS OOAHH リカバリーサンダル",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "独自素材が衝撃を37%吸収、立ち仕事やスポーツ後の足をリセットするリカバリーサンダル",
+      "points": [
+        "独自素材OOfoamが衝撃反発を37%抑え、膝・腰・背中の負担を軽減",
+        "靴下のまま履けるスライドタイプで脱ぎ履きが楽",
+        "土踏まずサポートで疲れにくく、スポーツ後のリカバリー用途に最適"
+      ],
+      "tags": [
+        "リカバリー",
+        "サンダル",
+        "疲労回復"
+      ],
+      "dateAdded": "2026-08-04",
+      "status": "new",
+      "sources": [
+        "https://uchilife.actlever.co.jp/oofos-sandals-full-review/",
+        "https://poronnocamp.com/oofos-ooahh-review-2025/",
+        "https://poronnocamp.com/oofos-ooahh-1month-review-size-tips/"
+      ]
+    },
+    {
+      "id": "shelff-book-subscription",
+      "name": "shelff（シェルフ）本のサブスク",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "毎月2〜3冊の紙の本が返却不要で届く、読書習慣を後押しする選書サブスク",
+      "points": [
+        "ウィッシュリスト登録＋傾向分析による自動選書で本と出会える",
+        "紙の本は購入扱いのため返却不要、送料も無料",
+        "月額1500円台〜で普段手に取らないジャンルとの出会いも"
+      ],
+      "tags": [
+        "読書",
+        "サブスク",
+        "本"
+      ],
+      "dateAdded": "2026-08-04",
+      "status": "new",
+      "sources": [
+        "https://iti-inc.co.jp/sub-choice/shelff/",
+        "https://blues-yuki.com/shelff/",
+        "https://shelff.jp/"
       ]
     }
   ]
