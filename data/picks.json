@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-04",
+    "lastUpdated": "2026-08-05",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6242,6 +6242,131 @@
         "https://iti-inc.co.jp/sub-choice/shelff/",
         "https://blues-yuki.com/shelff/",
         "https://shelff.jp/"
+      ]
+    },
+    {
+      "id": "timekettle-w4-pro",
+      "name": "Timekettle W4 Pro",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "装着してすぐ話せるAI同時通訳イヤホン。40言語・93アクセント対応でサブスク不要",
+      "points": [
+        "イヤホンを相手とシェアするだけで即座に双方向翻訳を開始",
+        "会話の流れを意識した自然な訳出で海外コミュニケーションの壁を下げる",
+        "会話・傍聴・通話翻訳など複数モードを1台でカバー"
+      ],
+      "tags": [
+        "翻訳",
+        "海外",
+        "イヤホン"
+      ],
+      "dateAdded": "2026-08-05",
+      "status": "new",
+      "sources": [
+        "https://www.tikgadget.jp/timekettle-w4-pro-review/",
+        "https://www.goodgoodlife.jp/entry/Timekettle-W4-PRO",
+        "https://moov.ooo/article/6776225fb635af2b45d65579"
+      ]
+    },
+    {
+      "id": "dainichi-gd-28a",
+      "name": "ダイニチ 家庭用生ごみ乾燥機 GD-28A",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "市販ポリ袋をそのままセットして乾燥。生ゴミの移し替え・ニオイのストレスから解放",
+      "points": [
+        "市販のポリ袋をホルダーにセットするだけで、生ゴミを別容器に移す手間が不要",
+        "A4サイズほどのコンパクト設計で静音性も高評価",
+        "熱風乾燥でニオイ・コバエを抑制、自治体助成金の対象になる地域も"
+      ],
+      "tags": [
+        "生ゴミ",
+        "キッチン",
+        "時短"
+      ],
+      "dateAdded": "2026-08-05",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/2025/09/dainithi-gd-28a.html",
+        "https://simplelife-japan.com/gd28a-review/",
+        "https://www.dainichi-net.co.jp/products/garbage-dryer/"
+      ]
+    },
+    {
+      "id": "ergotron-lx-monitor-arm",
+      "name": "エルゴトロン LX モニターアーム",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "15年以上市場を牽引する定番モニターアーム。コンスタントフォース技術で滑らかに動く",
+      "points": [
+        "Amazon17,000件超・評価4.6の圧倒的な実績と信頼性",
+        "独自のコンスタントフォース技術で軽い力でも滑らかに固定",
+        "10年保証で長期間安心して使える耐久性"
+      ],
+      "tags": [
+        "デスク環境",
+        "モニターアーム",
+        "姿勢"
+      ],
+      "dateAdded": "2026-08-05",
+      "status": "new",
+      "sources": [
+        "https://note.com/gentle_mole5600/n/n2a9715932a61",
+        "https://gajekit.com/ergotron-lx/",
+        "https://www.greyblueroom.com/ergotron-lx-desk-monitor-arm/"
+      ]
+    },
+    {
+      "id": "totonou-body-care",
+      "name": "TOTONOU Body Care（昭和西川 リカバリーウェア）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "老舗寝具メーカー昭和西川発、着て寝るだけで血行促進をサポートする一般医療機器のリカバリーウェア",
+      "points": [
+        "セラミックス練り込み繊維が遠赤外線を輻射し体表温度を約34〜35℃に保つ",
+        "厚労省認可の一般医療機器で血行促進・筋肉のハリコリ軽減をサポート",
+        "締め付けの少ないゆったり設計で寝返りも邪魔しない着心地"
+      ],
+      "tags": [
+        "睡眠",
+        "リカバリーウェア",
+        "疲労回復"
+      ],
+      "dateAdded": "2026-08-05",
+      "status": "new",
+      "sources": [
+        "https://www.nishikawa-store.com/pages/recoverywear",
+        "https://360life.shinyusha.co.jp/articles/-/55125",
+        "https://my-best.com/22825"
+      ]
+    },
+    {
+      "id": "sumally-pocket",
+      "name": "サマリーポケット",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "月額定額の宅配型収納サービス。季節物をアプリで管理して家の中をスッキリさせる",
+      "points": [
+        "1点ごとに撮影・アプリ管理されるのでスマホから中身をいつでも確認できる",
+        "季節物を預けるだけで収納ケース分のスペースが生活空間に戻る",
+        "手放す決断を先延ばしにできる心理的なハードルの低さが好評"
+      ],
+      "tags": [
+        "収納",
+        "サブスク",
+        "断捨離"
+      ],
+      "dateAdded": "2026-08-05",
+      "status": "new",
+      "sources": [
+        "https://minhyo.jp/pocket-sumally",
+        "https://kidsss-edu.com/sumally-pocket/",
+        "https://pocket.sumally.com/journal/futarigurashi-shuno-taikendan"
       ]
     }
   ]
