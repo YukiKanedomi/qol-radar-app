@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-05",
+    "lastUpdated": "2026-08-06",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6367,6 +6367,102 @@
         "https://minhyo.jp/pocket-sumally",
         "https://kidsss-edu.com/sumally-pocket/",
         "https://pocket.sumally.com/journal/futarigurashi-shuno-taikendan"
+      ]
+    },
+    {
+      "id": "sanwa-supply-tap-sp2110-power-strip",
+      "name": "サンワサプライ 電源タップ TAP-SP2110",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "雷ガード・ブレーカー・一括スイッチ搭載、大型ACアダプタも干渉しないデスク向け10個口電源タップ",
+      "points": [
+        "L字構造で10個口のACアダプタ同士が干渉しにくい",
+        "雷ガード+ブレーカー+一括集中スイッチで安全・便利",
+        "マグネット付きでスチール机やキャビネットに固定できる"
+      ],
+      "tags": [
+        "デスク",
+        "電源タップ",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-08-06",
+      "status": "new",
+      "sources": [
+        "https://gadgerba.jp/tap-sp2110/",
+        "https://monosuki-tech.hateblo.jp/entry/sanwa-tap-sp2110/"
+      ]
+    },
+    {
+      "id": "kobayashi-nightmin-nose-breathing-tape",
+      "name": "小林製薬 ナイトミン 鼻呼吸テープ",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "口に貼るだけで鼻呼吸に導き、口の乾燥やいびきを軽減する快眠テープ",
+      "points": [
+        "雑誌LDKのテストでA評価のベストバイに選出",
+        "起床時の口の乾燥やいびきが軽減されたとの声が多数",
+        "肌にやさしく粘着力も十分で剥がれにくい"
+      ],
+      "tags": [
+        "睡眠",
+        "いびき対策",
+        "鼻呼吸"
+      ],
+      "dateAdded": "2026-08-06",
+      "status": "new",
+      "sources": [
+        "https://360life.shinyusha.co.jp/articles/-/55576",
+        "https://lipscosme.com/posts/5903967"
+      ]
+    },
+    {
+      "id": "anker-eufy-robot-vacuum-omni-c28",
+      "name": "Anker Eufy Robot Vacuum Omni C28",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "HydroJetローラーモップと全自動ステーションで水拭きまでお任せの最新ロボット掃除機",
+      "points": [
+        "15,000Pa吸引+走行中も常時洗浄されるHydroJetローラーモップ",
+        "ゴミ収集・モップ洗浄・温風乾燥・給水まで全自動ステーションで完結",
+        "カーペットを検知するとモップが自動で約10.8mmリフトする"
+      ],
+      "tags": [
+        "ロボット掃除機",
+        "水拭き",
+        "家事時短"
+      ],
+      "dateAdded": "2026-08-06",
+      "status": "new",
+      "sources": [
+        "https://www.gajitime.com/eufy-robot-vacuum-omni/",
+        "https://note.com/mocchan/n/n02f5a7bfd6fa"
+      ]
+    },
+    {
+      "id": "ecoflow-rapid-mag-power-bank",
+      "name": "EcoFlow RAPID Mag Power Bank",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "Qi2対応で薄さ15.5mm、30W急速充電もこなすマグネット式モバイルバッテリー",
+      "points": [
+        "Qi2ワイヤレス充電に加え有線30W急速充電にも対応",
+        "15.5mmの薄型ボディで10,000mAhを確保",
+        "X-Cooling技術で充電中の発熱を抑制しバッテリー寿命に配慮"
+      ],
+      "tags": [
+        "モバイルバッテリー",
+        "Qi2",
+        "急速充電"
+      ],
+      "dateAdded": "2026-08-06",
+      "status": "new",
+      "sources": [
+        "https://store.shopping.yahoo.co.jp/ecoflow/rapidmag-10k-y.html",
+        "https://gachaoblog.com/ecoflow-mobilebattery-5000/"
       ]
     }
   ]
