@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-06",
+    "lastUpdated": "2026-08-07",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6463,6 +6463,78 @@
       "sources": [
         "https://store.shopping.yahoo.co.jp/ecoflow/rapidmag-10k-y.html",
         "https://gachaoblog.com/ecoflow-mobilebattery-5000/"
+      ]
+    },
+    {
+      "id": "cornix-lp-keyboard",
+      "name": "Cornix LP（分割キーボード）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "完全ワイヤレス×アルミ削り出しの分割キーボード。肩こり軽減の入門機",
+      "points": [
+        "左右分離＋PC接続まで完全ワイヤレスのCorne系40%レイアウト",
+        "アルミCNC削り出し筐体でティルト角4段階調整、質感も良好",
+        "分割により肩・手首の負担が減ったという実使用レビューが多数"
+      ],
+      "tags": [
+        "キーボード",
+        "肩こり対策",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-08-07",
+      "status": "new",
+      "sources": [
+        "https://note.com/jaga_farm/n/n07cc23d05dc2",
+        "https://smhn.info/202601-cornix-lp-review"
+      ]
+    },
+    {
+      "id": "yamazaki-magnet-wall-rack",
+      "name": "山崎実業 マグネットが付くウォールラック（tower）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "石こうボード対応・賃貸OKのマグネット壁ラック。キッチン小物の定位置作りに",
+      "points": [
+        "石こうボードピン固定で壁の穴が目立たず賃貸でも設置可能",
+        "マグネットフックで調理器具やメモを浮かせて収納でき掃除もしやすい",
+        "W50/W90の2サイズ展開、towerシリーズの高耐久スチール製"
+      ],
+      "tags": [
+        "収納",
+        "賃貸OK",
+        "キッチン"
+      ],
+      "dateAdded": "2026-08-07",
+      "status": "new",
+      "sources": [
+        "https://www.yamajitsu.co.jp/product/item/03018/",
+        "https://www.industerior-k.com/yamazakijitugyou-wallrack-review/"
+      ]
+    },
+    {
+      "id": "garmin-index-sleep-monitor",
+      "name": "Garmin Index Sleep Monitor",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "上腕に着けるGarmin初の睡眠特化モニター。腕時計を外して眠りたい人に",
+      "points": [
+        "上腕装着型で腕時計の締め付けなく睡眠データを計測できる",
+        "血中酸素や呼吸の乱れも検知しGarmin Connectで日中の活動データと一元管理",
+        "バンドは取り外して洗える通気性素材、S/M・L/XLの2サイズ"
+      ],
+      "tags": [
+        "睡眠",
+        "ウェアラブル",
+        "健康管理"
+      ],
+      "dateAdded": "2026-08-07",
+      "status": "new",
+      "sources": [
+        "https://www.garmin.co.jp/products/intosports/index-sleep-monitor-s/",
+        "https://www.lifehacker.jp/article/2508-three-things-i-liked-garmin-sleep-band/"
       ]
     }
   ]
