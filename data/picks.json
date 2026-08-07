@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-07",
+    "lastUpdated": "2026-08-08",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6535,6 +6535,106 @@
       "sources": [
         "https://www.garmin.co.jp/products/intosports/index-sleep-monitor-s/",
         "https://www.lifehacker.jp/article/2508-three-things-i-liked-garmin-sleep-band/"
+      ]
+    },
+    {
+      "id": "uphere-universal-screen-d92",
+      "name": "upHere UNIVERSAL SCREEN D92",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "USB-Cケーブル1本でPC状態をリアルタイム表示できる9.2型サブモニター",
+      "points": [
+        "Type-Cケーブル1本で電源・映像を供給、HDMI不要でPCケース内にも設置可能",
+        "縦横両対応・500種類以上のプラグインでCPU温度やFPSなどを表示",
+        "税込9,980円と手頃な価格"
+      ],
+      "tags": [
+        "自作PC",
+        "サブモニター",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-08-08",
+      "status": "new",
+      "sources": [
+        "https://ascii.jp/elem/000/004/422/4422948/",
+        "https://akiba-pc.watch.impress.co.jp/docs/news/news/2129053.html",
+        "https://www.links.co.jp/2026/07/post-1681/"
+      ]
+    },
+    {
+      "id": "dr-air-ear-labo",
+      "name": "ドクターエア イヤラボ SEL-01",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "湯たんぽのようにじんわり耳を温めて眠りにつく安眠イヤーウォーマー",
+      "points": [
+        "蓄熱式で装着後約5分で適温になり8〜10分保温が持続",
+        "遮音しつつ耳甲介腔を温めて自律神経をリラックスさせる設計",
+        "充電式で繰り返し使えて経済的"
+      ],
+      "tags": [
+        "睡眠",
+        "安眠グッズ",
+        "冷え対策"
+      ],
+      "dateAdded": "2026-08-08",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/1606750.html",
+        "https://www.dr-air.com/jp/ja/products/ear-labo/",
+        "https://monocotolab.com/doctor-air-earlabosel01-20240704/"
+      ]
+    },
+    {
+      "id": "xppen-pilot-pro",
+      "name": "XPPen Pilot Pro",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "ジョイスティック・ダイヤル・19ボタンを統合した無線対応の左手デバイス",
+      "points": [
+        "ダイヤル・ジョイスティック・19ボタンで数百のコマンドを指先に集約",
+        "無線対応でマウス感覚の握り込み操作、ショートカットを7パターン切替",
+        "iF Design Award 2026・グッドデザイン賞を受賞"
+      ],
+      "tags": [
+        "左手デバイス",
+        "動画編集",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-08-08",
+      "status": "new",
+      "sources": [
+        "https://orefolder.jp/2026/05/xppen-pilot-pro-review/",
+        "https://videosalon.jp/news/xppen_pilot-pro/",
+        "https://www.storexppen.jp/buy/pilot-pro.html"
+      ]
+    },
+    {
+      "id": "dainichi-mc-svd40a-coffee-maker",
+      "name": "ダイニチ コーヒーメーカー MC-SVD40A",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "トップバリスタ監修、回転ノズルでハンドドリップを再現する本格コーヒーメーカー",
+      "points": [
+        "「の」の字を描く回転式ノズルで豆全体に均一注湯しハンドドリップを再現",
+        "2つの抽出モード×3段階の焙煎度設定で多彩な味を楽しめる",
+        "プロのバリスタも唸る安定した抽出力と評価"
+      ],
+      "tags": [
+        "コーヒー",
+        "調理家電",
+        "時短"
+      ],
+      "dateAdded": "2026-08-08",
+      "status": "new",
+      "sources": [
+        "https://getnavi.jp/appliances/1082617/",
+        "https://www.gizmodo.jp/2025/09/mc-svd40a-dainichi.html",
+        "https://kaden.watch.impress.co.jp/docs/topic/topic/2055570.html"
       ]
     }
   ]
