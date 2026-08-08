@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-08",
+    "lastUpdated": "2026-08-09",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6635,6 +6635,54 @@
         "https://getnavi.jp/appliances/1082617/",
         "https://www.gizmodo.jp/2025/09/mc-svd40a-dainichi.html",
         "https://kaden.watch.impress.co.jp/docs/topic/topic/2055570.html"
+      ]
+    },
+    {
+      "id": "huawei-watch-fit-5-pro",
+      "name": "HUAWEI WATCH FIT 5 Pro",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "医療認証ECG搭載、サファイア×チタンの本格スマートウォッチ",
+      "points": [
+        "医療認証の心電図(ECG)測定機能を搭載",
+        "サファイアガラス+チタン素材で高級感、ゴルフ/ダイビングにも対応",
+        "1.92インチ3000nit AMOLEDと10日間バッテリー"
+      ],
+      "tags": [
+        "スマートウォッチ",
+        "健康管理"
+      ],
+      "dateAdded": "2026-08-09",
+      "status": "new",
+      "sources": [
+        "https://note.com/mocchan/n/n824d1bbdffef",
+        "https://app-tatsujin.com/huawei-watch-fit-5-pro-review/",
+        "https://dennou-life.jp/21894/"
+      ]
+    },
+    {
+      "id": "dulton-tube-squeezer",
+      "name": "DULTON チューブスクイーザー ウィズ スタンド",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "歯磨き粉やクリームを最後の一滴まで使い切れる小さな名品",
+      "points": [
+        "ネジ巻き式でチューブの中身を強力に絞り出せる",
+        "自立式でそのままチューブスタンドとして洗面台に置ける",
+        "ステンレス製で見た目もおしゃれ、複数メディアで話題"
+      ],
+      "tags": [
+        "洗面所",
+        "日用品",
+        "地味スゴ"
+      ],
+      "dateAdded": "2026-08-09",
+      "status": "new",
+      "sources": [
+        "https://www.businessinsider.jp/article/2604-dulton-tube-squeezer-with-stand-solves-everyday-tube-frustrations-svu-otk/",
+        "https://note.com/ami1000/n/ndc37779cd311"
       ]
     }
   ]
