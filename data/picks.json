@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-09",
+    "lastUpdated": "2026-08-10",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6683,6 +6683,105 @@
       "sources": [
         "https://www.businessinsider.jp/article/2604-dulton-tube-squeezer-with-stand-solves-everyday-tube-frustrations-svu-otk/",
         "https://note.com/ami1000/n/ndc37779cd311"
+      ]
+    },
+    {
+      "id": "meganetop-linse-smart-glasses",
+      "name": "眼鏡市場 Linse（スマートグラス）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "国内眼鏡メーカー初、度付き対応で毎日かけられる撮影メガネ",
+      "points": [
+        "約1200万画素カメラでハンズフリー撮影、マイク・スピーカーで通話や音楽も",
+        "度付きレンズに対応し普段使いのメガネとして違和感なく装着できる",
+        "5.5万円とAIグラスより手が届きやすく、購入者の半数近くが度付きを選択"
+      ],
+      "tags": [
+        "スマートグラス",
+        "国産",
+        "度付き対応"
+      ],
+      "dateAdded": "2026-08-10",
+      "status": "new",
+      "sources": [
+        "https://www.meganetop.co.jp/2026-02-02_linse/",
+        "https://www.techno-edge.net/article/2026/02/06/4855.html",
+        "https://www.watch.impress.co.jp/docs/review/minireview/2088272.html"
+      ]
+    },
+    {
+      "id": "viwoods-aipaper-mini",
+      "name": "Viwoods AiPaper Mini（電子ノート）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "A6サイズで持ち歩ける、紙のような書き味のAI電子ノート",
+      "points": [
+        "8.2インチ292PPI・230gの軽量薄型で鞄に入れて常時携帯できる",
+        "EMRペンで紙に近い書き味、フロントライトで暗所でも視認性が高い",
+        "手書き内容をAIが分析・整理し、128GBストレージで長期利用も安心"
+      ],
+      "tags": [
+        "電子ノート",
+        "Eインク",
+        "AI"
+      ],
+      "dateAdded": "2026-08-10",
+      "status": "new",
+      "sources": [
+        "https://www.yodobashi.com/product/100000001009293489/",
+        "https://xtech.nikkei.com/atcl/nxt/column/18/00087/00420/"
+      ]
+    },
+    {
+      "id": "dr-air-3d-air-stretch-mat-rich-sleep",
+      "name": "ドクターエア 3Dエアストレッチマット リッチスリープ",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "寝る前のストレッチとそのままの入眠を一枚でこなす寝具",
+      "points": [
+        "3箇所のエアバッグが膨らみ、仰向け寝のまま胸を開いて背中を伸ばすストレッチができる",
+        "ストレッチ後にそのまま就寝でき、専用の運動時間を確保しなくていい",
+        "寝具大手nishikawaとドクターエアの共同開発で品質面の裏付けがある"
+      ],
+      "tags": [
+        "睡眠",
+        "ストレッチ",
+        "寝具"
+      ],
+      "dateAdded": "2026-08-10",
+      "status": "new",
+      "sources": [
+        "https://www.dr-air.com/jp/ja/products/3d-air-stretch-mat-rich-sleep/",
+        "https://kaden.watch.impress.co.jp/docs/news/1621248.html",
+        "https://shop.nishikawa1566.com/shop/g/gIU04721001730/"
+      ]
+    },
+    {
+      "id": "iris-ohyama-kaden-subscription",
+      "name": "アイリスオーヤマ 家電サブスク（アイリスプラザ）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "洗濯機・冷蔵庫が月額1,980円から、新生活の初期費用ゼロで家電が揃う",
+      "points": [
+        "配送・設置・初期設定込みで届いたその日から使え、引っ越しの手間が減る",
+        "月額1,980円〜の16プランで洗濯機・冷蔵庫・電子レンジなどを組み合わせ可能",
+        "契約中の故障は修理・交換対応、満了後はそのまま買い取りも選べる"
+      ],
+      "tags": [
+        "サブスク",
+        "家電",
+        "新生活"
+      ],
+      "dateAdded": "2026-08-10",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000866.000019955.html",
+        "https://kaden.watch.impress.co.jp/docs/news/2096213.html",
+        "https://news.mynavi.jp/article/20260318-4233066/"
       ]
     }
   ]
