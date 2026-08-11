@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-11",
+    "lastUpdated": "2026-08-12",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6857,6 +6857,81 @@
         "https://k-tai.watch.impress.co.jp/docs/review/2080034.html",
         "https://forbesjapan.com/articles/detail/82290",
         "https://pc.watch.impress.co.jp/docs/topic/feature/2074601.html"
+      ]
+    },
+    {
+      "id": "keychron-nape-pro",
+      "name": "Keychron Nape Pro",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "キーボード脇に置くだけの小型トラックボール。ホームポジションを崩さずカーソル操作できる",
+      "points": [
+        "クラウドファンディングで3億円・2万人超支援、CES 2026「Best Mouse」受賞",
+        "OctaShiftで45度刻み全8方向に設置角度を切替可能、ノートPCのトラックパッド脇にも置ける",
+        "Keychron Launcherでボタン・レイヤー・マクロをカスタムでき、育てるほど手に馴染む"
+      ],
+      "tags": [
+        "トラックボール",
+        "デスク",
+        "Keychron"
+      ],
+      "dateAdded": "2026-08-12",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/2603-nape-pro/",
+        "https://gori.me/mac-accessories/mac-prepherial/164513",
+        "https://green-keys.info/keychron-nape-pro-20260807/"
+      ]
+    },
+    {
+      "id": "hitachi-healthy-chef-mro-w1e",
+      "name": "日立 過熱水蒸気オーブンレンジ ヘルシーシェフ MRO-W1E",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "温度の違う料理を最大4品同時にあたためられ、献立バラバラの食卓準備が一気にラクになる",
+      "points": [
+        "同時あたためが最大4品に進化、冷凍・冷蔵・常温が混在してもOK",
+        "クワトロ加熱（レンジ・オーブン・過熱水蒸気・グリル）を自動制御し焼き上げも本格的",
+        "調理後の庫内お手入れがラクな「らくメンテ」とアプリ連携で日々の負担を軽減"
+      ],
+      "tags": [
+        "オーブンレンジ",
+        "時短調理",
+        "日立"
+      ],
+      "dateAdded": "2026-08-12",
+      "status": "new",
+      "sources": [
+        "https://corp.hitachi-gls.co.jp/_ct/17847941",
+        "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2115/id=157397/",
+        "https://translog.jp/healthy-chef_mro-w1e_mro-w1d/"
+      ]
+    },
+    {
+      "id": "galaxy-watch9",
+      "name": "Samsung Galaxy Watch9",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "体調不良の予兆を可視化する新ヘルスケア機能搭載。日々つけるだけで「未然に防ぐ」健康管理に",
+      "points": [
+        "バイタルサイン・心臓の健康スコア・1日の有酸素運動負荷など新指標を追加",
+        "Snapdragon Wear Elite搭載でCPU性能32%・GPU性能19%向上、動作も快適",
+        "手首を上げるだけでGemini呼び出しに対応、通知確認や検索もスムーズ"
+      ],
+      "tags": [
+        "スマートウォッチ",
+        "健康管理",
+        "Samsung"
+      ],
+      "dateAdded": "2026-08-12",
+      "status": "new",
+      "sources": [
+        "https://k-tai.watch.impress.co.jp/docs/news/2126974.html",
+        "https://www.watch.impress.co.jp/docs/news/2126805.html",
+        "https://www.smartwatchlife.jp/74892/"
       ]
     }
   ]
