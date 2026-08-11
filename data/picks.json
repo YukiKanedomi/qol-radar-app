@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-10",
+    "lastUpdated": "2026-08-11",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6782,6 +6782,81 @@
         "https://prtimes.jp/main/html/rd/p/000000866.000019955.html",
         "https://kaden.watch.impress.co.jp/docs/news/2096213.html",
         "https://news.mynavi.jp/article/20260318-4233066/"
+      ]
+    },
+    {
+      "id": "sennheiser-accentum-clip",
+      "name": "Sennheiser ACCENTUM Clip",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "耳を塞がないイヤーカフ型で高音質。つけっぱなしでも周囲の気配がわかる",
+      "points": [
+        "ゼンハイザー初のイヤーカフ型でLDAC対応の高音質",
+        "オープン設計で周囲の音や気配を保ちながら音楽再生",
+        "IP54防塵防滴とBluetooth 6.0マルチポイントで屋内外OK"
+      ],
+      "tags": [
+        "イヤホン",
+        "オープンイヤー",
+        "高音質"
+      ],
+      "dateAdded": "2026-08-11",
+      "status": "new",
+      "sources": [
+        "https://note.com/tatu1014/n/n65e851ac738a",
+        "https://kajetblog.com/sennheiser-accentum-clip-3/",
+        "https://ddz-jp.com/review-senngeiser-accentumclip/"
+      ]
+    },
+    {
+      "id": "narwal-flow",
+      "name": "Narwal Flow",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "常時自動洗浄クローラーモップ搭載で水拭きが本格的。共働き家庭の掃除を丸ごと任せられる",
+      "points": [
+        "日本初の常時自動洗浄クローラーモップで水拭き性能が最高クラス",
+        "最大22,000Paの強力吸引とツインAIで200種類以上の障害物を回避",
+        "厚さ9.5cmで家具下にも入り込める薄型設計"
+      ],
+      "tags": [
+        "ロボット掃除機",
+        "水拭き",
+        "共働き"
+      ],
+      "dateAdded": "2026-08-11",
+      "status": "new",
+      "sources": [
+        "https://note.com/jaga_farm/n/ne980bb4cf4e5",
+        "https://garumax.com/narwal-flow-review",
+        "https://jp.narwal.com/products/flow-robot-vacuum-and-mop"
+      ]
+    },
+    {
+      "id": "apple-watch-series-11",
+      "name": "Apple Watch Series 11",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "日本でも使える「高血圧パターン通知」対応で日常の健康管理がさらに手軽に",
+      "points": [
+        "光学式心拍センサーだけで高血圧の可能性を通知（別途血圧計不要）",
+        "最大24時間バッテリーで測定の途切れが少ない",
+        "Series 9以降・Ultra 2以降でも同機能が使え生活習慣病予防に役立つ"
+      ],
+      "tags": [
+        "スマートウォッチ",
+        "健康管理",
+        "血圧"
+      ],
+      "dateAdded": "2026-08-11",
+      "status": "new",
+      "sources": [
+        "https://k-tai.watch.impress.co.jp/docs/review/2080034.html",
+        "https://forbesjapan.com/articles/detail/82290",
+        "https://pc.watch.impress.co.jp/docs/topic/feature/2074601.html"
       ]
     }
   ]
