@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-12",
+    "lastUpdated": "2026-08-13",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -6932,6 +6932,111 @@
         "https://k-tai.watch.impress.co.jp/docs/news/2126974.html",
         "https://www.watch.impress.co.jp/docs/news/2126805.html",
         "https://www.smartwatchlife.jp/74892/"
+      ]
+    },
+    {
+      "id": "looi-robot",
+      "name": "LOOI Robot（ルーイ）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "スマホを差すだけでAIロボットに変身、デスクに\"生き物感\"をプラスする相棒ガジェット",
+      "points": [
+        "スマホを装着すると顔・表情が生まれ、ChatGPT/Geminiと会話しながらキャタピラで動く",
+        "12個のセンサーで表情・ジェスチャー・周囲環境を認識し自律的にデスク上を移動",
+        "2026年4月Makuake日本初上陸で支援額700万円超と反響大"
+      ],
+      "tags": [
+        "AIロボット",
+        "デスク",
+        "スマホ連携",
+        "癒し"
+      ],
+      "dateAdded": "2026-08-13",
+      "status": "new",
+      "sources": [
+        "https://weekly.ascii.jp/elem/000/004/398/4398915/",
+        "https://www.smartwatchlife.jp/looi-robot-makuake-japan-launch/",
+        "https://www.makuake.com/project/looirobot/"
+      ]
+    },
+    {
+      "id": "shokz-openfit-pro",
+      "name": "Shokz OpenFit Pro",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "耳を塞がないのに雑音を抑える、オープンイヤー初のノイズ低減フラッグシップイヤホン",
+      "points": [
+        "3マイク×耳適応アルゴリズムのフォーカスモードで、開放感を保ったまま周囲ノイズを抑制",
+        "新開発SuperBoostドライバーとDolby Audio対応で開放型ながら音質も強化",
+        "2026年4月発売、AV Watch・PHILE WEB等が実機レビューで高評価"
+      ],
+      "tags": [
+        "イヤホン",
+        "オープンイヤー",
+        "ノイズ低減",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-08-13",
+      "status": "new",
+      "sources": [
+        "https://av.watch.impress.co.jp/docs/series/hinuma/2109502.html",
+        "https://www.phileweb.com/news/d-av/202604/06/64888.html",
+        "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2046/id=155634/"
+      ]
+    },
+    {
+      "id": "panasonic-korikoran-wide-3d",
+      "name": "パナソニック コリコランワイド3D（EW-RA560/561）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "着るだけで肩・腰をながら治療、医療機器認証の高周波治療器が進化",
+      "points": [
+        "高周波の照射面積を従来比約1.6倍に拡大、肩専用/腰専用の2モデル展開",
+        "医療機器認証番号取得済み（307AKBZX00038000）で血行促進のエビデンスあり",
+        "薄型シリコンシート・約139gの軽さで衣服の下に装着し仕事中も\"ながら治療\"できる"
+      ],
+      "tags": [
+        "肩こり",
+        "医療機器認証",
+        "ながらケア",
+        "パナソニック"
+      ],
+      "dateAdded": "2026-08-13",
+      "status": "new",
+      "sources": [
+        "https://news.panasonic.com/jp/press/jn250916-1",
+        "https://panasonic.jp/treatment/products/EW-RA560/feature/technology.html",
+        "https://kakaku.com/item/K0001711388/"
+      ]
+    },
+    {
+      "id": "openai-codex-micro",
+      "name": "OpenAI Codex Micro",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "ChatGPT/Codexの操作を手元のキーパッドに集約する、OpenAI初のハードウェア専用マクロパッド",
+      "points": [
+        "13キー+ダイヤル+ジョイスティックでAIエージェント操作を画面とキーボードの往復なしで手元に集約",
+        "6つのAgent Keyが複数エージェントの処理状況をRGBで表示、ダイヤルで推論レベルも調整可能",
+        "2026年7月Work Louderと共同開発で発売、CNC削り出し筐体でWin/Mac対応"
+      ],
+      "tags": [
+        "AI",
+        "仕事効率",
+        "ガジェット",
+        "キーボード",
+        "Codex"
+      ],
+      "dateAdded": "2026-08-13",
+      "status": "new",
+      "sources": [
+        "https://www.techno-edge.net/article/2026/07/16/5299.html",
+        "https://www.sbbit.jp/article/cont1/186126",
+        "https://www.zaikei.co.jp/article/20260717/861743.html"
       ]
     }
   ]
