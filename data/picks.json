@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-13",
+    "lastUpdated": "2026-08-14",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7037,6 +7037,103 @@
         "https://www.techno-edge.net/article/2026/07/16/5299.html",
         "https://www.sbbit.jp/article/cont1/186126",
         "https://www.zaikei.co.jp/article/20260717/861743.html"
+      ]
+    },
+    {
+      "id": "htc-vive-eagle",
+      "name": "HTC VIVE Eagle",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "ディスプレイなしの音声AIグラス。カメラ・マイク搭載でハンズフリーに翻訳や記録ができる",
+      "points": [
+        "ディスプレイ非搭載で軽量(48.8g〜)、長時間かけても疲れにくい設計",
+        "AIによるハンズフリー翻訳・記録・通話に対応",
+        "au/KDDI店舗で購入・サポートを受けられる安心感"
+      ],
+      "tags": [
+        "AI",
+        "スマートグラス",
+        "翻訳",
+        "ハンズフリー"
+      ],
+      "dateAdded": "2026-08-14",
+      "status": "new",
+      "sources": [
+        "https://k-tai.watch.impress.co.jp/docs/news/2103292.html",
+        "https://smhn.info/202605-htc-vive-eagle-ai-glasses-review"
+      ]
+    },
+    {
+      "id": "hitachi-raku-mente-stick",
+      "name": "日立 らくメンテスティック PV-BG1000R",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "自動ごみ収集ドック付きコードレス掃除機。ごみ捨てとお手入れが2か月に1回で済む",
+      "points": [
+        "自動ごみ収集ドックでごみ捨て頻度が約2か月に1回に激減",
+        "からまんブラシで髪の毛などの絡まりを抑制",
+        "3方向ごみくっきりライトで見えにくいゴミも発見しやすい"
+      ],
+      "tags": [
+        "掃除機",
+        "時短家電",
+        "自動化"
+      ],
+      "dateAdded": "2026-08-14",
+      "status": "new",
+      "sources": [
+        "https://www.hitachi.com/ja-jp/press/articles/2026/07/0701a/",
+        "https://getnavi.jp/appliances/1107297/"
+      ]
+    },
+    {
+      "id": "nwm-one",
+      "name": "NTTソノリティ nwm ONE",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "耳をふさがない開放型ヘッドホン。テレワーク中も周囲の音を聞きながら音漏れを抑えられる",
+      "points": [
+        "耳をふさがない開放型でテレワーク中も自然な聞こえを維持",
+        "NTT特許のPSZ技術で周囲への音漏れを抑制",
+        "Magic Focus Voiceで自分の声だけをクリアに拾うマイク性能"
+      ],
+      "tags": [
+        "ヘッドホン",
+        "テレワーク",
+        "開放型"
+      ],
+      "dateAdded": "2026-08-14",
+      "status": "new",
+      "sources": [
+        "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2005813.html",
+        "https://kakakumag.com/av-kaden/?id=21266"
+      ]
+    },
+    {
+      "id": "atex-oyasumi-goospy-mini",
+      "name": "ルルド おやすみグースピー ミニ AX-BT807",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "お腹の動きで呼吸をガイドしてくれる機能性ぬいぐるみ。入眠前の深呼吸を自然にサポート",
+      "points": [
+        "お腹の膨らみで呼吸リズムをガイドし自然な深呼吸を誘導",
+        "「おやすみ」「リラックス」の2つの呼吸リズムを搭載",
+        "約20分の自動オフタイマー付きでつけたまま眠れる"
+      ],
+      "tags": [
+        "睡眠",
+        "呼吸法",
+        "リラックスグッズ"
+      ],
+      "dateAdded": "2026-08-14",
+      "status": "new",
+      "sources": [
+        "https://www.atex-net.co.jp/products/lourdes/AX-BT807/",
+        "https://prtimes.jp/main/html/rd/p/000000114.000033199.html"
       ]
     }
   ]
