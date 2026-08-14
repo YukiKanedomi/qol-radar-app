@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-14",
+    "lastUpdated": "2026-08-15",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7134,6 +7134,131 @@
       "sources": [
         "https://www.atex-net.co.jp/products/lourdes/AX-BT807/",
         "https://prtimes.jp/main/html/rd/p/000000114.000033199.html"
+      ]
+    },
+    {
+      "id": "evering-payment-ring",
+      "name": "EVERING（エブリング）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "財布もスマホも出さず、指をかざすだけで爆速タッチ決済できるスマートリング",
+      "points": [
+        "Visaのタッチ決済対応で、リーダーにかざした瞬間に決済完了",
+        "充電不要のNFCパッシブ方式で電池切れの心配なし",
+        "2026年春から鉄道の後払い改札乗車にも対応拡大中"
+      ],
+      "tags": [
+        "決済",
+        "時短",
+        "スマートリング"
+      ],
+      "dateAdded": "2026-08-15",
+      "status": "new",
+      "sources": [
+        "https://k-tai.watch.impress.co.jp/docs/column/stapa/1606123.html",
+        "https://kakakumag.com/pc-smartphone/?id=19707",
+        "https://www.docomo.ne.jp/product/evering/"
+      ]
+    },
+    {
+      "id": "nitori-multi-pot-10role",
+      "name": "ニトリ 1台10役マルチポット ストレーナー付き",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "鍋・蒸し器・ざる代わりまでこれ1台でこなす税込2,000円弱の万能ポット",
+      "points": [
+        "IH・ガス両対応、ストレーナー内蔵で煮る蒸す茹でる炒めるをこなす",
+        "約20cm四方のコンパクトサイズで鍋類を何個も手放せる",
+        "税込1,990円という価格でSNS・ニュースサイトで話題"
+      ],
+      "tags": [
+        "キッチン",
+        "時短調理",
+        "収納"
+      ],
+      "dateAdded": "2026-08-15",
+      "status": "new",
+      "sources": [
+        "https://news.yahoo.co.jp/articles/e337e006c3c1b330cb32cd894d60123c967cdd38",
+        "https://nlab.itmedia.co.jp/research/articles/3909889/",
+        "https://www.nitori-net.jp/ec/product/2111200018431/"
+      ]
+    },
+    {
+      "id": "thermos-shuttle-chef",
+      "name": "サーモス 真空保温調理器 シャトルシェフ",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "数分火にかけて放置するだけで、煮込み料理が味しみしみに仕上がる保温調理鍋",
+      "points": [
+        "短時間加熱後は保温容器で余熱調理、光熱費節約と時短を両立",
+        "煮くずれしにくく素材の風味を保てる",
+        "発売から評価が安定し2026年時点でも高評価が継続"
+      ],
+      "tags": [
+        "キッチン",
+        "ほったらかし調理",
+        "節約"
+      ],
+      "dateAdded": "2026-08-15",
+      "status": "new",
+      "sources": [
+        "https://kakakumag.com/houseware/?id=13649",
+        "https://review.kakaku.com/review/S0000773366/",
+        "https://www.shopthermos.jp/shop/pages/shuttlechef.aspx"
+      ]
+    },
+    {
+      "id": "shield-talk-st01",
+      "name": "白鳩 SHIELD TALK ST-01",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "マスク型のWeb会議専用ガジェット。装着するだけで声漏れと情報漏洩を防ぐ",
+      "points": [
+        "独自の音声シールド構造で会話音を約20dB減音",
+        "後頭部固定のマグネットバックルで連続8時間使用可能",
+        "Bluetooth5.3対応でオンライン会議アプリと直結、カフェや現場でも使える"
+      ],
+      "tags": [
+        "Web会議",
+        "声漏れ防止",
+        "テレワーク"
+      ],
+      "dateAdded": "2026-08-15",
+      "status": "new",
+      "sources": [
+        "https://www.shirohato-net.com/shieldtalk/",
+        "https://kakaku.com/item/K0001685551/",
+        "https://www.yodobashi.com/product/100000001009007210/"
+      ]
+    },
+    {
+      "id": "carmo-kun-car-lease",
+      "name": "カーリース カルモくん",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "頭金0円・月々定額で新車に乗れて車検・整備込みの安心感",
+      "points": [
+        "頭金0円、月額定額（諸費用込み）で新車に乗り始められる",
+        "メンテプラン加入で車検・整備費まで月額に含め突発出費を平準化",
+        "累計申込30万人超でサポート対応の評価が高い"
+      ],
+      "tags": [
+        "車",
+        "サブスク",
+        "家計"
+      ],
+      "dateAdded": "2026-08-15",
+      "status": "new",
+      "sources": [
+        "https://carmo-kun.jp/column/newcar/review/",
+        "https://book.mynavi.jp/ashita_magazine/carmokun/",
+        "https://response.jp/guide/carmo-kun-reputation/"
       ]
     }
   ]
