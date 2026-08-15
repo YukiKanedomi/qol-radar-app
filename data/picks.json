@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-15",
+    "lastUpdated": "2026-08-16",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7259,6 +7259,106 @@
         "https://carmo-kun.jp/column/newcar/review/",
         "https://book.mynavi.jp/ashita_magazine/carmokun/",
         "https://response.jp/guide/carmo-kun-reputation/"
+      ]
+    },
+    {
+      "id": "dyson-hushjet-mini-cool",
+      "name": "Dyson HushJet Mini Cool ファン",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "ダイソン初の羽根なしハンディファン、パワフルな涼風を持ち運べる",
+      "points": [
+        "65,000回転/分・最大風速25m/秒の強力送風",
+        "手持ち/ハンズフリー/卓上の3WAY仕様",
+        "連続6時間駆動、約3時間でフル充電"
+      ],
+      "tags": [
+        "ハンディファン",
+        "ダイソン",
+        "夏支度"
+      ],
+      "dateAdded": "2026-08-16",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000194.000042335.html",
+        "https://www.itmedia.co.jp/news/articles/2606/19/news098.html",
+        "https://www.gizmodo.jp/2026/04/dyson-hushjet-mini-cool.html"
+      ]
+    },
+    {
+      "id": "shark-evopower-system-boost-plus",
+      "name": "Shark EVOPOWER SYSTEM BOOST+ コードレススティッククリーナー（LC701J/LC751J）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "前後どちらに動かしてもゴミを吸う、全方位吸引スティック掃除機",
+      "points": [
+        "前後左右どこからでも吸える360°クリーニング機構",
+        "壁際検知センサーで吸引力を自動で最大2.5倍に強化",
+        "自動ゴミ収集ドックでゴミ捨ては月1回でOK"
+      ],
+      "tags": [
+        "掃除機",
+        "時短家事",
+        "コードレス"
+      ],
+      "dateAdded": "2026-08-16",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/2040228.html",
+        "https://kakaku.com/item/K0001705724/spec/",
+        "https://www.sharkninja.jp/products/lc701j"
+      ]
+    },
+    {
+      "id": "anker-soundcore-work",
+      "name": "Anker Soundcore Work",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "装着するだけで議事録が秒で完成するAnker初のAIボイスレコーダー",
+      "points": [
+        "約10gの超軽量マイクを服やバッグに装着するだけ",
+        "150以上の言語で自動要約・話者識別に対応",
+        "大手メディア各社が実機レビューで高評価"
+      ],
+      "tags": [
+        "AI",
+        "議事録",
+        "仕事効率化"
+      ],
+      "dateAdded": "2026-08-16",
+      "status": "new",
+      "sources": [
+        "https://www.businessinsider.jp/article/2604-anker-soundcore-work-review/",
+        "https://k-tai.watch.impress.co.jp/docs/news/2086707.html",
+        "https://www.itmedia.co.jp/pcuser/articles/2603/19/news073.html"
+      ]
+    },
+    {
+      "id": "lourdes-madoromoon-headspa",
+      "name": "ルルド ドライヘッドスパ マドロムーン（AX-HX345）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "呼吸リズム搭載で入眠を後押しする、TVで話題のコードレスドライヘッドスパ",
+      "points": [
+        "医学博士監修の呼吸リズムでエア刺激",
+        "コードレス&静音で就寝前にそのまま使える",
+        "めざましテレビ・ノンストップ等TV複数局で紹介"
+      ],
+      "tags": [
+        "睡眠",
+        "ヘッドスパ",
+        "リラックス"
+      ],
+      "dateAdded": "2026-08-16",
+      "status": "new",
+      "sources": [
+        "https://www.atex-net.co.jp/products/lourdes/AX-HX345/",
+        "https://prtimes.jp/main/html/rd/p/000000233.000033199.html",
+        "https://kakaku.com/item/J0000048599/"
       ]
     }
   ]
