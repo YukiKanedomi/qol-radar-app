@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-16",
+    "lastUpdated": "2026-08-17",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7359,6 +7359,103 @@
         "https://www.atex-net.co.jp/products/lourdes/AX-HX345/",
         "https://prtimes.jp/main/html/rd/p/000000233.000033199.html",
         "https://kakaku.com/item/J0000048599/"
+      ]
+    },
+    {
+      "id": "sanwa-tap-sp2110",
+      "name": "サンワサプライ 雷ガードタップ TAP-SP2110",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "でかいACアダプタも干渉なく挿せる、マグネット固定式10個口電源タップ",
+      "points": [
+        "差込口ピッチ45mm＋L字構造で、ノートPCやタブレットの大きいACアダプタ同士がぶつからず全口使い切れる",
+        "背面マグネットでスチールデスクや棚に直接固定でき、コード類がデスク上に散らからない",
+        "雷ガード・一括集中スイッチ・ブレーカー内蔵で安全面も両立、価格は2,000円前後"
+      ],
+      "tags": [
+        "デスク周り",
+        "電源タップ",
+        "ガジェット"
+      ],
+      "dateAdded": "2026-08-17",
+      "status": "new",
+      "sources": [
+        "https://www.sanwa.co.jp/product/syohin?code=TAP-SP2110-1",
+        "https://monosuki-tech.hateblo.jp/entry/sanwa-tap-sp2110/"
+      ]
+    },
+    {
+      "id": "shinzu-sbr40r-blender",
+      "name": "新津興器 トライタンボトルブレンダー SBR-40R",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ボトルのまま作って蓋を替えてそのまま飲める、ひとり分スムージーブレンダー",
+      "points": [
+        "400mlは飲み切りサイズ、ボトルをセットしないと動かない安全構造でひとり暮らしでも扱いやすい",
+        "割れにくいトライタン樹脂ボトルで、飲み口キャップに付け替えればそのまま持ち運んで飲める",
+        "洗うのはボトルと刃だけとシンプル、価格も手頃で毎朝のスムージー習慣を始めやすい"
+      ],
+      "tags": [
+        "キッチン",
+        "スムージー",
+        "時短"
+      ],
+      "dateAdded": "2026-08-17",
+      "status": "new",
+      "sources": [
+        "https://www.askul.co.jp/p/RW27111/",
+        "https://review.rakuten.co.jp/item/1/215717_10002401/1.1/"
+      ]
+    },
+    {
+      "id": "dr-air-3d-eye-magic-tapping",
+      "name": "ドクターエア 3Dアイマジックタッピング",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "指の腹のような16個のタッピングヘッドが目もとを心地よくほぐす、コードレスの目もとケアデバイス",
+      "points": [
+        "シリコン製16個のヘッドが1秒に約3回リズミカルにタッピングし、PC・スマホで疲れた目もとをほぐす",
+        "約40℃の温感機能付きで、5モード切替により気分やシーンに応じたケアができる",
+        "折りたためて軽量・コードレス、Bluetoothで音楽を聴きながらのリラックスにも対応"
+      ],
+      "tags": [
+        "目もとケア",
+        "リラックス",
+        "睡眠"
+      ],
+      "dateAdded": "2026-08-17",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000402.000013584.html",
+        "https://www.dr-air.com/jp/ja/products/3d-eye-magic-tapping/",
+        "https://kakaku.com/item/K0001469069/"
+      ]
+    },
+    {
+      "id": "mycomfy-pelvic-support-chair",
+      "name": "骨盤サポートチェア MyComfy",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "普段の椅子に置くだけで骨盤を立たせ、自然なS字姿勢をキープする後付けサポートチェア",
+      "points": [
+        "体を包み込むカーブ構造で骨盤を自立させ、猫背や姿勢崩れを力を入れずに防げる",
+        "在宅ワークのデスクチェアだけでなくソファやベッドにも置いて使える汎用性",
+        "L/M/Sとサイズ展開があり、体格に合わせて選べる"
+      ],
+      "tags": [
+        "在宅ワーク",
+        "姿勢",
+        "デスクワーク"
+      ],
+      "dateAdded": "2026-08-17",
+      "status": "new",
+      "sources": [
+        "https://www.dreamware.jp/mycomfy/",
+        "https://www.dreamplaza.co.jp/mycomfy"
       ]
     }
   ]
