@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-17",
+    "lastUpdated": "2026-08-18",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7456,6 +7456,31 @@
       "sources": [
         "https://www.dreamware.jp/mycomfy/",
         "https://www.dreamplaza.co.jp/mycomfy"
+      ]
+    },
+    {
+      "id": "refa-heart-dryer-aira",
+      "name": "ReFa HEART DRYER Aira（リファハート ドライヤー アイラ）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "ハート型モチーフの新型ヘアドライヤー。独自技術で熱ダメージを抑えつつ髪をふんわり仕上げる。",
+      "points": [
+        "光るハート型エンブレムなど遊び心のあるデザイン(全5色)",
+        "Sensing Program×Hydro Ionで髪へのダメージに配慮した乾かし心地",
+        "2026年7月22日発売の新顔・39,600円"
+      ],
+      "tags": [
+        "美容家電",
+        "ヘアドライヤー",
+        "MTG"
+      ],
+      "dateAdded": "2026-08-18",
+      "status": "new",
+      "sources": [
+        "https://www.mtg.gr.jp/news/detail/2026/07/article_2603.html",
+        "https://realsound.jp/tech/2026/07/post-2465749.html",
+        "https://www.refa.net/news/260721_01.html"
       ]
     }
   ]
