@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-18",
+    "lastUpdated": "2026-08-19",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7481,6 +7481,58 @@
         "https://www.mtg.gr.jp/news/detail/2026/07/article_2603.html",
         "https://realsound.jp/tech/2026/07/post-2465749.html",
         "https://www.refa.net/news/260721_01.html"
+      ]
+    },
+    {
+      "id": "glidic-ai-plus-u-buds",
+      "name": "GLIDiC AI +u Buds",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "耳元で会話や会議を録音→文字起こし→要約・AIアドバイスまで一気通貫。議事録作成が劇的に楽になるAIイヤホン。",
+      "points": [
+        "話者分離付きの高精度文字起こしと自動要約で議事録作成がほぼ自動化",
+        "イヤホン単体/薄型レコーダー/専用アプリの3WAY録音で使い分け可能",
+        "Makuakeで1500万円超を集め2026年8月18日に一般発売"
+      ],
+      "tags": [
+        "AI",
+        "仕事効率",
+        "イヤホン",
+        "文字起こし"
+      ],
+      "dateAdded": "2026-08-19",
+      "status": "new",
+      "sources": [
+        "https://corriente.jp/glidic-ai-plus-u-buds-release-260818/",
+        "https://k-tai.watch.impress.co.jp/docs/news/2095636.html",
+        "https://www.applelinkage.com/2026/08/18/glidic-ai-u-buds/"
+      ]
+    },
+    {
+      "id": "xgimi-elfin-flip-4k",
+      "name": "XGIMI Elfin Flip 4K",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "厚さ約7.8cmの超薄型ボディに4K×3色レーザーを凝縮。置き場所を選ばず自宅を映画館にできるプロジェクター。",
+      "points": [
+        "1,600 ISOルーメンでカーテンを閉めれば昼間のリビングでも高輝度投影",
+        "光学ズーム対応で置く場所の自由度が高く、100インチ投影も約2.17mから",
+        "1ms低遅延のゲームモード搭載でエンタメ用途にも強い"
+      ],
+      "tags": [
+        "プロジェクター",
+        "4K",
+        "ホームシアター",
+        "QOL向上"
+      ],
+      "dateAdded": "2026-08-19",
+      "status": "new",
+      "sources": [
+        "https://makuring.jp/elfin-flip-4k/",
+        "https://www.rtings.com/projector/reviews/xgimi/elfin-flip-4k",
+        "https://kazlog.tokyo/xgimi-elfin-flip-4k-review/"
       ]
     }
   ]
