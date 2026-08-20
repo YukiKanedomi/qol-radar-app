@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-19",
+    "lastUpdated": "2026-08-21",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7533,6 +7533,56 @@
         "https://makuring.jp/elfin-flip-4k/",
         "https://www.rtings.com/projector/reviews/xgimi/elfin-flip-4k",
         "https://kazlog.tokyo/xgimi-elfin-flip-4k-review/"
+      ]
+    },
+    {
+      "id": "sanei-ultra-fine-bubble-adapter",
+      "name": "SANEI ウルトラファインバブル洗濯機アダプター（PM100-20/PM101-20）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "洗濯機の給水ホースに挟むだけでウルトラファインバブルを発生。洗剤の効きと汚れ落ちを底上げ",
+      "points": [
+        "工事不要、給水ホースに接続するだけの後付け設計",
+        "ウルトラファインバブルが繊維の奥の皮脂汚れ・ニオイに浸透",
+        "使い続けるうちに洗濯槽もきれいになったという声も"
+      ],
+      "tags": [
+        "洗濯",
+        "時短家事",
+        "後付け"
+      ],
+      "dateAdded": "2026-08-21",
+      "status": "new",
+      "sources": [
+        "https://review.rakuten.co.jp/item/1/332002_10132583/1.1/",
+        "https://review.rakuten.co.jp/item/1/277502_10008266/1.1/",
+        "https://pd4a.com/sanei-washing-machine-ultrafinebubble-review/"
+      ]
+    },
+    {
+      "id": "lyp-premium-with-netflix",
+      "name": "LYPプレミアム with Netflix",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "Netflixと同じ月額でLYPプレミアムの特典もまとめて使えるセットプラン",
+      "points": [
+        "Netflix単体と同一料金でLINEスタンプ使い放題・Yahoo!ショッピングのポイント増量が付帯",
+        "既存Netflix契約者は更新日直前に切り替えるだけで二重請求を避けられる",
+        "通勤中の動画視聴とネット通販を両方する人ほどお得度が増す"
+      ],
+      "tags": [
+        "サブスク",
+        "動画配信",
+        "ポイント還元"
+      ],
+      "dateAdded": "2026-08-21",
+      "status": "new",
+      "sources": [
+        "https://www.lycorp.co.jp/ja/news/release/020093/",
+        "https://my-best.com/articles/4227",
+        "https://appllio.com/lyp-premium-with-netflix"
       ]
     }
   ]
