@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-21",
+    "lastUpdated": "2026-08-22",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7583,6 +7583,56 @@
         "https://www.lycorp.co.jp/ja/news/release/020093/",
         "https://my-best.com/articles/4227",
         "https://appllio.com/lyp-premium-with-netflix"
+      ]
+    },
+    {
+      "id": "plaud-note-pro",
+      "name": "PLAUD Note Pro",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "画面搭載でPLAUD最上位。5m先まで拾う高音質録音で大きな会議室にも対応",
+      "points": [
+        "最大収音距離5mの高音質マイクで広い会議室でも明瞭に録音",
+        "画面搭載でNotePinとの違いを明確化、AIによる文字起こし・要約を強化",
+        "本体は買い切りで月300分の文字起こしが無料のスタータープラン付き"
+      ],
+      "tags": [
+        "AI",
+        "仕事効率",
+        "ボイスレコーダー"
+      ],
+      "dateAdded": "2026-08-22",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2512/11/news064.html",
+        "https://www.watch.impress.co.jp/docs/news/2053622.html",
+        "https://kakaku.com/item/K0001714641/"
+      ]
+    },
+    {
+      "id": "switchbot-ai-hub",
+      "name": "SwitchBot AIハブ",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "VLM搭載で映像の中身を言葉で理解するスマートホーム中枢。留守中の出来事も検索できる",
+      "points": [
+        "VLM（映像理解AI）で「茶色い猫」「宅配便」などキーワード映像検索が可能",
+        "microSDや外付けHDD（最大16TB）に映像をローカル保存、クラウド任せにしない",
+        "SwitchBot機器やMatter対応家電を一括管理・自動化する中枢ハブ"
+      ],
+      "tags": [
+        "スマートホーム",
+        "AI",
+        "監視カメラ"
+      ],
+      "dateAdded": "2026-08-22",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/2064968.html",
+        "https://gigazine.net/news/20260430-switchbot-aihub-openclaw/",
+        "https://www.switchbot.jp/products/switchbot-aihub"
       ]
     }
   ]
