@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-22",
+    "lastUpdated": "2026-08-23",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7633,6 +7633,61 @@
         "https://kaden.watch.impress.co.jp/docs/news/2064968.html",
         "https://gigazine.net/news/20260430-switchbot-aihub-openclaw/",
         "https://www.switchbot.jp/products/switchbot-aihub"
+      ]
+    },
+    {
+      "id": "sunruck-smart-cube-dryer",
+      "name": "Smart Cube Dryer（SunRuck SR-ASMN307C）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "工事・排水不要、置くだけで使える小型衣類乾燥機。部屋干し臭・花粉・生乾きから解放",
+      "points": [
+        "設置工事も排水も不要、コンセントに挿すだけで使える据え置き型",
+        "バスタオル1枚最短15分・シャツ約20分の速乾＋UV除菌99.99%で部屋干し臭対策",
+        "Makuakeで開始初日に目標2700%達成、価格.comやカインズなど実店舗・大手ECでも取扱い開始と話題性・裏付けともに強い"
+      ],
+      "tags": [
+        "洗濯",
+        "乾燥機",
+        "部屋干し",
+        "時短"
+      ],
+      "dateAdded": "2026-08-23",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000361.000040239.html",
+        "https://ascii.jp/elem/000/004/377/4377825/",
+        "https://www.gajitime.com/smart-cube-dryer-sr-asmn307c/",
+        "https://www.makuake.com/project/sr-asmn307c/",
+        "https://kakaku.com/item/K0001786442/",
+        "https://www.cainz.com/g/5000000216680.html"
+      ]
+    },
+    {
+      "id": "luxcear-fornez-aura",
+      "name": "LUXCEAR Fornez AURA（フォーネス オーラ）",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "世界初の鼻専用美顔器シリーズ最新作。光×EMS×音波振動で自宅サロン級の鼻ケア",
+      "points": [
+        "光美容×20種類のEMS×音波振動を1台に搭載した鼻専用美容機器の最新モデル（2026年4月発売）",
+        "前身のFornezがTV番組で取り上げられ芸能人にも愛用されるなど実績のあるシリーズの正統進化版"
+      ],
+      "tags": [
+        "美容家電",
+        "鼻ケア",
+        "毛穴",
+        "セルフケア"
+      ],
+      "dateAdded": "2026-08-23",
+      "status": "new",
+      "sources": [
+        "https://luxcear.jp/fornezAURA/",
+        "https://dime.jp/genre/2082620/",
+        "https://www.cosme.net/products/10299643/",
+        "https://item.rakuten.co.jp/ftk-tsutayaelectrics/mbt4573491908729/"
       ]
     }
   ]
