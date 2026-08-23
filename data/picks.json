@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-23",
+    "lastUpdated": "2026-08-24",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7688,6 +7688,56 @@
         "https://dime.jp/genre/2082620/",
         "https://www.cosme.net/products/10299643/",
         "https://item.rakuten.co.jp/ftk-tsutayaelectrics/mbt4573491908729/"
+      ]
+    },
+    {
+      "id": "elecom-ist-pro",
+      "name": "エレコム IST PRO",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "ベアリング支持でなめらかに転がる、3接続×6台切替対応の高機能親指トラックボール",
+      "points": [
+        "ベアリング機構でボール表面との摩擦が少なく、浮くようになめらかに操作できる",
+        "Bluetooth 5.3・2.4GHz無線・有線の3方式に対応し、本体ダイヤルで最大6台を瞬時に切替",
+        "長時間のデスクワークでも手首の負担が少なく疲れにくいと評価が多い"
+      ],
+      "tags": [
+        "トラックボール",
+        "デスク環境",
+        "エレコム"
+      ],
+      "dateAdded": "2026-08-24",
+      "status": "new",
+      "sources": [
+        "https://viblog.jp/ist-pro/",
+        "https://maipyon.jp/elecom-ist-pro/",
+        "https://note.com/ryo_070109/n/n846ab0111d7b"
+      ]
+    },
+    {
+      "id": "cio-novaport-slim-duo-ii-65w",
+      "name": "CIO NovaPort SLIM DUO II 65W2C",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "厚さ12.3mm・プラグ180度回転で、どんなコンセントにも干渉しない薄型USB-C急速充電器",
+      "points": [
+        "本体厚12.3mmの薄型ボディでポーチやカバンの隙間に収まる",
+        "プラグが180度回転するため壁コンセントの向きや周囲の家具を選ばない",
+        "MacBook Airクラスのノートとスマホを同時に急速充電できる65W出力"
+      ],
+      "tags": [
+        "充電器",
+        "USB-C",
+        "CIO"
+      ],
+      "dateAdded": "2026-08-24",
+      "status": "new",
+      "sources": [
+        "https://orefolder.jp/2026/07/novaport-slim-duo-ii-65w-2c/",
+        "https://note.com/2choozumou/n/ncbbbbbdb2fcc",
+        "https://corienu101akoyuzukou.com/cio-novaport-slim-duo-ii-65w2c-review/"
       ]
     }
   ]
