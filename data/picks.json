@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-24",
+    "lastUpdated": "2026-08-25",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7738,6 +7738,125 @@
         "https://orefolder.jp/2026/07/novaport-slim-duo-ii-65w-2c/",
         "https://note.com/2choozumou/n/ncbbbbbdb2fcc",
         "https://corienu101akoyuzukou.com/cio-novaport-slim-duo-ii-65w2c-review/"
+      ]
+    },
+    {
+      "id": "flexispot-e7h-desk",
+      "name": "FlexiSpot E7H 電動昇降デスク",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "コ型フレームで脚が当たらず、静音24dBで昇降するデスクワーク環境の決定版",
+      "points": [
+        "高さ63.5〜128.5cmを4段階メモリー可能",
+        "耐荷重160kg・コ型フレームで足元スッキリ"
+      ],
+      "tags": [
+        "デスク",
+        "在宅ワーク",
+        "昇降デスク"
+      ],
+      "dateAdded": "2026-08-25",
+      "status": "new",
+      "sources": [
+        "https://monopedia.jp/flexispot-e7h/",
+        "https://totonoe.blog/flexispot-e7h/",
+        "https://www.youtube.com/watch?v=8knvAnKHJoA"
+      ]
+    },
+    {
+      "id": "izumi-torutoru-pro-kc-nw825",
+      "name": "マクセルイズミ 毛玉とるとるPro KC-NW825",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "新開発デリケート外刃でストッキングも破れず毛玉オフ、着たままケアできる時短ガジェット",
+      "points": [
+        "網目の細かい新「デリケート外刃」で薄手ニットやストッキングも破らず毛玉除去",
+        "やさしいCareと強力Powerの2モード切替、USB-C充電で着たまま使えるスティック型"
+      ],
+      "tags": [
+        "衣類ケア",
+        "毛玉取り",
+        "時短"
+      ],
+      "dateAdded": "2026-08-25",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/2053318.html",
+        "https://monocotolab.com/review-maxell-izumi-kedamatorutoru-20260101/",
+        "https://www.izumi.maxell.co.jp/kaden/products/kc_nw825/"
+      ]
+    },
+    {
+      "id": "xreal-one-pro",
+      "name": "XREAL One Pro",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "ARグラス1つでどこでも大画面デュアルモニター、出張先やカフェでも作業効率UP",
+      "points": [
+        "USB-C接続だけで視野角57度の仮想大画面を投影、PCの外部ディスプレイとして拡張モード利用可",
+        "軽量でケースに入れて持ち歩け、モバイルモニターの代替として出張先やカフェでも大画面ワークスペースを再現"
+      ],
+      "tags": [
+        "ARグラス",
+        "モバイルモニター",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-08-25",
+      "status": "new",
+      "sources": [
+        "https://pc.watch.impress.co.jp/docs/topic/feature/2041688.html",
+        "https://ascii.jp/limit/group/ida/elem/000/004/299/4299847/",
+        "https://magilog.com/xreal-one-pro/"
+      ]
+    },
+    {
+      "id": "lourdes-oyasumi-neck-warmer",
+      "name": "ルルド おやすみネックウォーマー AX-BT809",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "枕に巻くだけで首元をじんわり温める新発想の温活グッズ、コードレスで寝返りも安心",
+      "points": [
+        "枕に巻くだけの新発想で首元を集中的に温める",
+        "コードレス&オートオフタイマーで就寝中も安全"
+      ],
+      "tags": [
+        "睡眠",
+        "温活",
+        "冷え対策"
+      ],
+      "dateAdded": "2026-08-25",
+      "status": "new",
+      "sources": [
+        "https://www.atex-net.co.jp/products/lourdes/AX-BT809/",
+        "https://monomax.jp/archives/305917",
+        "https://ameblo.jp/donden71/entry-12954103834.html"
+      ]
+    },
+    {
+      "id": "pansuku-bread-subscription",
+      "name": "パンスク",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "全国のパン屋の逸品が冷凍で届く定期便、普段行けない店の味に出会える",
+      "points": [
+        "全国の人気パン屋の味をランダムで発掘できる",
+        "冷凍便で焼きたてに近い風味を長期間楽しめる"
+      ],
+      "tags": [
+        "食品定期便",
+        "パン",
+        "時短"
+      ],
+      "dateAdded": "2026-08-25",
+      "status": "new",
+      "sources": [
+        "https://note.com/acinaces/n/n9c3d4f97c2f8",
+        "https://totonoe.blog/pansuku/"
       ]
     }
   ]
