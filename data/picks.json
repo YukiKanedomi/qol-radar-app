@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-25",
+    "lastUpdated": "2026-08-26",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7857,6 +7857,54 @@
       "sources": [
         "https://note.com/acinaces/n/n9c3d4f97c2f8",
         "https://totonoe.blog/pansuku/"
+      ]
+    },
+    {
+      "id": "logicool-k680ow-keyboard",
+      "name": "ロジクール POP ICON KEYS K680OW",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "3台をワンタッチで切り替え。静音ロープロファイルでデスクがすっきりまとまる",
+      "points": [
+        "Easy-Switchでキー1つ、PC・タブレット・スマホ最大3台を瞬時に切替",
+        "指になじむロープロファイルキーで静音・快適な打鍵感",
+        "単4電池2本で約36ヶ月駆動、電池交換の手間が少ない"
+      ],
+      "tags": [
+        "キーボード",
+        "デスク",
+        "マルチデバイス"
+      ],
+      "dateAdded": "2026-08-26",
+      "status": "new",
+      "sources": [
+        "https://note.com/gadget_news/n/n7aa7b85129a8",
+        "https://kakaku.com/item/K0001662955/"
+      ]
+    },
+    {
+      "id": "switchbot-rgbic-strip-light",
+      "name": "SwitchBot RGBICテープライト",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "1本で同時多色発光。壁や床に反射させる間接照明使いで部屋の雰囲気が一変する",
+      "points": [
+        "セグメントごとに別々の色を同時発光でき、グラデーションや流れるアニメーションを演出",
+        "Matter/Alexa対応でアプリ・音声から色や明るさを操作可能",
+        "直接照射だと光ムラが出るため、壁や床に反射させる使い方がベスト"
+      ],
+      "tags": [
+        "スマートホーム",
+        "照明",
+        "間接照明"
+      ],
+      "dateAdded": "2026-08-26",
+      "status": "new",
+      "sources": [
+        "https://www.switchbot.jp/products/switchbot-rgbicww-strip-light",
+        "https://simple-was-best.com/switchbot-rgbicww-strip-light/"
       ]
     }
   ]
