@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-26",
+    "lastUpdated": "2026-08-27",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7905,6 +7905,81 @@
       "sources": [
         "https://www.switchbot.jp/products/switchbot-rgbicww-strip-light",
         "https://simple-was-best.com/switchbot-rgbicww-strip-light/"
+      ]
+    },
+    {
+      "id": "irobot-roomba-mini",
+      "name": "iRobot ルンバ ミニ",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "直径24.5cmの史上最小ルンバ。ワンルームでも家具の隙間まで届く手軽な自動掃除。",
+      "points": [
+        "ルンバ史上最小・最軽量で従来モデルの半分サイズ、一人暮らしの狭い部屋にも置きやすい",
+        "吸引力はミドルクラス相当で日常のホコリ・髪の毛掃除には十分、水拭き機能も搭載",
+        "2026年2月発売以降、出荷が追いつかないほどの人気で複数メディアが高評価レビュー"
+      ],
+      "tags": [
+        "ロボット掃除機",
+        "一人暮らし",
+        "時短家事"
+      ],
+      "dateAdded": "2026-08-27",
+      "status": "new",
+      "sources": [
+        "https://cuebic.co.jp/your_select/review/new-standard/rv109",
+        "https://kakakumag.com/seikatsu-kaden/?id=22426",
+        "https://note.com/katoayaka/n/n43c2c57d4aca"
+      ]
+    },
+    {
+      "id": "loop-quiet-2-earplugs",
+      "name": "Loop Quiet 2",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "遮音しすぎない絶妙設計の睡眠用耳栓。SNR24dBで生活音だけ心地よく和らげる。",
+      "points": [
+        "完全遮音ではなく適度に音を残す設計で、寝ている間の安心感を保ちながら騒音を軽減",
+        "薄型で横向き寝でも耳が痛くなりにくく、洗って繰り返し使える耐久性",
+        "複数の独立ブロガーが実際に購入して長期レビュー、2年保証・30日返品保証つき"
+      ],
+      "tags": [
+        "耳栓",
+        "睡眠",
+        "集中"
+      ],
+      "dateAdded": "2026-08-27",
+      "status": "new",
+      "sources": [
+        "https://note.com/mamoru_tools/n/n71a1c4917e1d",
+        "https://ijigen.net/entry/Loop_Quiet2",
+        "https://note.com/hodohodo_kurashi/n/na11e01935eb1"
+      ]
+    },
+    {
+      "id": "switchbot-ai-mindclip",
+      "name": "SwitchBot AIマインドクリップ",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "襟元に付けるだけの16.8g AIレコーダー。会議の議事録作成を自動化する新顔クリップ。",
+      "points": [
+        "最大20時間連続録音・64GBストレージでスマホを取り出さずその場の会話を記録",
+        "文字起こし・要約・ToDo抽出まで自動整理、後から自然文で聞ける「Ask AI」機能つき",
+        "本体19,980円、文字起こしは月300分まで無料でサブスクは月1,980円〜と始めやすい"
+      ],
+      "tags": [
+        "AIレコーダー",
+        "議事録",
+        "ウェアラブル"
+      ],
+      "dateAdded": "2026-08-27",
+      "status": "new",
+      "sources": [
+        "https://ai.watch.impress.co.jp/docs/news/2134103.html",
+        "https://www.tikgadget.jp/switchbot-ai-mindclip-review/",
+        "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2077/id=158248/"
       ]
     }
   ]
