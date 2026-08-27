@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-27",
+    "lastUpdated": "2026-08-28",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -7980,6 +7980,56 @@
         "https://ai.watch.impress.co.jp/docs/news/2134103.html",
         "https://www.tikgadget.jp/switchbot-ai-mindclip-review/",
         "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2077/id=158248/"
+      ]
+    },
+    {
+      "id": "ugreen-nasync-dxp2800-gt",
+      "name": "UGREEN NASync DXP2800 GT",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "10GbE対応2ベイNAS、動画編集もバックアップも爆速に",
+      "points": [
+        "2ベイNASとしては異例の10GbE RJ45ポート搭載で転送速度が段違い",
+        "AMD Ryzen Embedded R2514＋最大64GBメモリで動画編集・仮想化もこなせる",
+        "最大64TBの大容量で家庭用〜小規模ビジネスの在宅ワークにも対応"
+      ],
+      "tags": [
+        "NAS",
+        "在宅ワーク",
+        "バックアップ"
+      ],
+      "dateAdded": "2026-08-28",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/item/K0001790803/",
+        "https://palmfan.com/ugreen-nasync-dxp-gt-series"
+      ]
+    },
+    {
+      "id": "toshiba-ishigama-dome-er-d7000c",
+      "name": "東芝 石窯ドーム ER-D7000C",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "冷凍食品を全自動で見極めあたため。家電批評2026上半期ベストバイ受賞のオーブンレンジ",
+      "points": [
+        "市販冷凍食品のパッケージ記載時間を見ずに、全自動で最適な加熱・解凍を実行",
+        "最高350℃の高火力「石窯おまかせ焼き」で肉・魚・グラタンもお任せ",
+        "家電批評『2026年上半期ベストバイ』スチームオーブンレンジ部門で受賞、加熱ムラの少なさを評価"
+      ],
+      "tags": [
+        "キッチン家電",
+        "時短",
+        "オーブンレンジ"
+      ],
+      "dateAdded": "2026-08-28",
+      "status": "new",
+      "sources": [
+        "https://www.toshiba-lifestyle.com/jp/microwaves/er-d7000c/",
+        "https://dime.jp/genre/2106057/",
+        "https://360life.shinyusha.co.jp/articles/-/55563",
+        "https://kakaku.com/item/J0000050382/"
       ]
     }
   ]
