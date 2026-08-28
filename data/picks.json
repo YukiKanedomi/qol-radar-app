@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-28",
+    "lastUpdated": "2026-08-29",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8030,6 +8030,129 @@
         "https://dime.jp/genre/2106057/",
         "https://360life.shinyusha.co.jp/articles/-/55563",
         "https://kakaku.com/item/J0000050382/"
+      ]
+    },
+    {
+      "id": "work-louder-creator-micro",
+      "name": "Work Louder Creator Micro",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "動画編集・制作作業に特化したモジュール式の左手用マクロパッド",
+      "points": [
+        "キースイッチや配列を自由にカスタマイズできるモジュール式設計",
+        "DaVinci Resolveなど編集ソフトのショートカット運用に組み込みやすい",
+        "コンパクトでデスクを圧迫しない左手デバイス"
+      ],
+      "tags": [
+        "デスク周り",
+        "左手デバイス",
+        "クリエイター"
+      ],
+      "dateAdded": "2026-08-29",
+      "status": "new",
+      "sources": [
+        "https://green-keys.info/en/keyboard/work-louder%EF%B8%8E-creater-micro/",
+        "https://worklouder.cc/creator-micro-2",
+        "https://www.youtube.com/watch?v=nxGEq_bcRhA"
+      ]
+    },
+    {
+      "id": "makita-cl108fdshw",
+      "name": "マキタ コードレス掃除機 CL108FDSHW",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "本体約1kgの軽量マキタ製サブ掃除機、フローリングにサッと使える",
+      "points": [
+        "本体約1kgで片手でも疲れにくく、気軽に取り出せる",
+        "ヘッドにブラシがなく毛絡みなし、ダイレクトに吸引",
+        "バッテリー・充電器セットで1万円前後とコスパ良好"
+      ],
+      "tags": [
+        "掃除機",
+        "マキタ",
+        "時短"
+      ],
+      "dateAdded": "2026-08-29",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/61550",
+        "https://note.com/tbola/n/n7301361d05d3",
+        "https://lib-kesennuma.jp/2026/01/25/makitacl108/969/"
+      ]
+    },
+    {
+      "id": "garmin-cirqa-smart-band",
+      "name": "Garmin CIRQA Smart Band",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "Garmin初の画面なしスマートバンド、サブスク不要で24時間ヘルスケア計測",
+      "points": [
+        "最大10日間のバッテリーで充電の手間が少ない",
+        "画面なし・軽量設計で睡眠中もつけっぱなしにしやすい",
+        "サブスク不要でGarminの睡眠コーチ・回復スコアが使える"
+      ],
+      "tags": [
+        "スマートバンド",
+        "睡眠",
+        "ヘルスケア"
+      ],
+      "dateAdded": "2026-08-29",
+      "status": "new",
+      "sources": [
+        "https://www.smartwatchlife.jp/74774/",
+        "https://www.eye-eye-isuzu.co.jp/blogs/column/watch-garmin-cirqasmartband"
+      ]
+    },
+    {
+      "id": "yamazen-solid-state-battery",
+      "name": "山善 準固体モバイルバッテリー YMB-B200",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "発火リスクを抑えた準固体電池採用の大容量モバイルバッテリー(20000mAh)",
+      "points": [
+        "液体電解質を1%以下に抑えた準固体電池で発火しにくい安全設計",
+        "20000mAh・最大35W出力で2台同時充電にも対応",
+        "8,778円とコストパフォーマンスも良好"
+      ],
+      "tags": [
+        "モバイルバッテリー",
+        "安全性",
+        "大容量"
+      ],
+      "dateAdded": "2026-08-29",
+      "status": "new",
+      "sources": [
+        "https://www.yamazen.co.jp/news/entry-2869.html",
+        "https://dc.watch.impress.co.jp/docs/news/2117663.html",
+        "https://dempa-digital.com/article/718384"
+      ]
+    },
+    {
+      "id": "panasonic-appliance-subscription",
+      "name": "パナソニック 必須家電4種サブスク",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "冷蔵庫・洗濯機・電子レンジ・炊飯器の4点セットを月額定額でレンタルできる新生活向けサブスク",
+      "points": [
+        "必須家電4種セットが月額4,980円から、初期費用ゼロで揃う",
+        "単身世帯・引っ越し時の家電調達の手間と時間を丸ごと外注",
+        "大手メーカー直営のサブスクで品質・サポートに安心感"
+      ],
+      "tags": [
+        "家電サブスク",
+        "新生活",
+        "時短"
+      ],
+      "dateAdded": "2026-08-29",
+      "status": "new",
+      "sources": [
+        "https://www.nikkei.com/article/DGXZQOUF217XU0R20C26A1000000/",
+        "https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGXZQOUF217XU0R20C26A1000000&scode=6752&ba=1"
       ]
     }
   ]
