@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-29",
+    "lastUpdated": "2026-08-30",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8153,6 +8153,109 @@
       "sources": [
         "https://www.nikkei.com/article/DGXZQOUF217XU0R20C26A1000000/",
         "https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGXZQOUF217XU0R20C26A1000000&scode=6752&ba=1"
+      ]
+    },
+    {
+      "id": "nitori-toreru-separate-pan",
+      "name": "ニトリ TORERU セパレートパン（仕切り付きフライパン）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "目玉焼きとベーコンを同時調理、洗い物も減る仕切りフライパン",
+      "points": [
+        "取っ手が外せるTORERUシリーズの仕切り版。2品同時調理で朝食・弁当作りが時短に",
+        "累計61万個突破と、話題先行でなく実売実績あり",
+        "一部レビューでは中央と外側で火の通りにムラとの指摘もあり"
+      ],
+      "tags": [
+        "キッチン",
+        "時短調理",
+        "ニトリ",
+        "フライパン"
+      ],
+      "dateAdded": "2026-08-30",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000543.000073913.000073913.html",
+        "https://kaden.watch.impress.co.jp/docs/column/iine/1577150.html",
+        "https://kufura.jp/life/cooking/660722"
+      ]
+    },
+    {
+      "id": "issin-smart-recovery-ring",
+      "name": "issin Smart Recovery Ring（スマートリカバリーリング）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "装着だけで回復力が見える東大発スマートリング",
+      "points": [
+        "厚さ2.2mm・重さ3gの薄型軽量で就寝時も違和感が少ない",
+        "サブスク不要（買い切り約29,800円）で心拍・睡眠・ストレスを24時間計測し回復力スコアを提示",
+        "東大発スタートアップissin開発、複数の独立ブログで実使用レビューが確認できる"
+      ],
+      "tags": [
+        "スマートリング",
+        "睡眠",
+        "回復力",
+        "国産スタートアップ"
+      ],
+      "dateAdded": "2026-08-30",
+      "status": "new",
+      "sources": [
+        "https://gadgeneko.jp/issin-smart-recovery-ring-review",
+        "https://monorevi.jp/issin-smartrecoveryring/",
+        "https://kazlog.tokyo/issin-smart-recovery-ring-review/"
+      ]
+    },
+    {
+      "id": "shirofuwa-bin-laundry",
+      "name": "しろふわ便（宅配洗濯代行）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "専用バッグに詰めて集荷→翌日仕上げ、共働き世帯に浸透中の洗濯サブスク",
+      "points": [
+        "当日10時までの依頼で当日集荷、業界最速クラスの対応",
+        "個別洗い＋高温ガス乾燥＋手畳みで仕上げ品質を確保、リピート率98%",
+        "日本テレビ「スッキリ」フジテレビ「めざまし8」等複数メディアで紹介"
+      ],
+      "tags": [
+        "洗濯代行",
+        "時短",
+        "共働き",
+        "宅配"
+      ],
+      "dateAdded": "2026-08-30",
+      "status": "new",
+      "sources": [
+        "https://www.shirofuwabin.jp/",
+        "https://news.yahoo.co.jp/articles/b395372bb8972968e66552166e441b59090ef2d2"
+      ]
+    },
+    {
+      "id": "shokz-opendots-2",
+      "name": "Shokz OpenDots 2",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "耳を塞がないイヤーカフ型、低音強化で会議も音楽も快適",
+      "points": [
+        "耳を塞がない開放型なのにBassphere 2.0で低音がしっかり出ると複数レビューで高評価",
+        "Dolby Audio対応でマイク性能も向上、リモート会議・通話用途にも好評",
+        "2026年6月発売の最新フラッグシップで、専門ブログ・YouTube双方で複数言及あり"
+      ],
+      "tags": [
+        "オーディオ",
+        "イヤホン",
+        "在宅ワーク",
+        "ながら聴き"
+      ],
+      "dateAdded": "2026-08-30",
+      "status": "new",
+      "sources": [
+        "https://av.watch.impress.co.jp/docs/news/2114399.html",
+        "https://mochugaje.com/shokz-opendots-2/",
+        "https://kakaku.com/item/J0000050712/"
       ]
     }
   ]
