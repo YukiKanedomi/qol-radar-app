@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-30",
+    "lastUpdated": "2026-08-31",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8256,6 +8256,126 @@
         "https://av.watch.impress.co.jp/docs/news/2114399.html",
         "https://mochugaje.com/shokz-opendots-2/",
         "https://kakaku.com/item/J0000050712/"
+      ]
+    },
+    {
+      "id": "anker-10in1-monitor-stand-hub",
+      "name": "Anker USB-C ハブ (10-in-1, Monitor Stand) A8376",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "モニタースタンドと10-in-1ハブを一体化、デスクの配線とスペースを一気に片付ける",
+      "points": [
+        "USB-C 100W PD入力・4K60Hz HDMI出力・Ethernet等を1台に集約",
+        "スタンド下に周辺機器を収納でき、デスク上がすっきりする",
+        "最大約14kgのモニターを支えられる耐荷重"
+      ],
+      "tags": [
+        "デスク環境",
+        "ハブ",
+        "モニタースタンド"
+      ],
+      "dateAdded": "2026-08-31",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2602/20/news091.html",
+        "https://www.ankerjapan.com/products/a8376"
+      ]
+    },
+    {
+      "id": "panasonic-autocooker-bistro",
+      "name": "パナソニック オートクッカー ビストロ NF-AC1000",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "圧力調理と鍋底かきまぜを両立した自動調理鍋。ボタン一つでレストラン級の仕上がり",
+      "points": [
+        "業界初、圧力調理と鍋底かきまぜ機能を1台で両立",
+        "最大1285Wの高火力で炒め物もシャキッと仕上がる",
+        "約2気圧の圧力で塊肉や魚も骨まで柔らかく調理できる"
+      ],
+      "tags": [
+        "自動調理",
+        "時短調理",
+        "パナソニック"
+      ],
+      "dateAdded": "2026-08-31",
+      "status": "new",
+      "sources": [
+        "https://panasonic.jp/cook/products/NF-AC1000.html",
+        "https://news.panasonic.com/jp/press/jn221207-2"
+      ]
+    },
+    {
+      "id": "kokuyo-me-portable-stapler",
+      "name": "KOKUYO ME ポータブルステープラー KME-PSL101",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "折りたためて持ち運びやすいコンパクトホッチキス。カフェや外出先の書類作業に",
+      "points": [
+        "使わないときはコンパクトに折りたためて持ち運びやすい",
+        "10枚とじ対応で日常の書類作業に十分な性能",
+        "カラー展開が豊富でデスクに馴染むデザイン"
+      ],
+      "tags": [
+        "文具",
+        "デスク環境",
+        "持ち運び"
+      ],
+      "dateAdded": "2026-08-31",
+      "status": "new",
+      "sources": [
+        "https://www.yodobashi.com/product/100000001005898174/",
+        "https://www.kokuyo.com/stationery/category/stapler-punch/stapler/5656/"
+      ]
+    },
+    {
+      "id": "rakuna-shoulder-blade-pillow",
+      "name": "RAKUNA 肩甲骨はがしピロー",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "整体師監修の突起で肩甲骨まわりを指圧。寝転がるだけのデスクワーク疲れケア",
+      "points": [
+        "肩甲骨専門の整体師監修、18個の突起で的確にツボを押す",
+        "デスクワークによる肩こり・猫背の緩和を実感する声が多い",
+        "寝転がるだけで使えて手間がかからない"
+      ],
+      "tags": [
+        "肩こり",
+        "セルフケア",
+        "デスクワーク"
+      ],
+      "dateAdded": "2026-08-31",
+      "status": "new",
+      "sources": [
+        "https://www.cecile.co.jp/review/HK-3979/",
+        "https://www.amepla.jp/c/rakuna/833"
+      ]
+    },
+    {
+      "id": "rakuten-magazine",
+      "name": "楽天マガジン",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "月額597円で4,000誌以上が読み放題。雑誌サブスクの中でもコスパ最上位",
+      "points": [
+        "月額597円という低価格で4,000誌・15,000冊以上が読み放題",
+        "楽天ポイントでの支払い・獲得に対応し楽天経済圏と相性が良い",
+        "旅行誌など単価の高い専門誌もお得に読める"
+      ],
+      "tags": [
+        "サブスク",
+        "雑誌",
+        "読み放題"
+      ],
+      "dateAdded": "2026-08-31",
+      "status": "new",
+      "sources": [
+        "https://appllio.com/rakuten-magazine-review",
+        "https://subsc.ooaks.co.jp/real-user-reviews-of-rakuten-magazine/"
       ]
     }
   ]
