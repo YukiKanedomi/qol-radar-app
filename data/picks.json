@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-08-31",
+    "lastUpdated": "2026-09-01",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8376,6 +8376,132 @@
       "sources": [
         "https://appllio.com/rakuten-magazine-review",
         "https://subsc.ooaks.co.jp/real-user-reviews-of-rakuten-magazine/"
+      ]
+    },
+    {
+      "id": "elecom-ist-pro-trackball",
+      "name": "エレコム IST PRO（親指操作トラックボール）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "ベアリング機構で滑らか回転、手首に優しい高機能親指トラックボール",
+      "points": [
+        "ベアリング採用で球の転がりが滑らかになり、長時間作業でも手首の負担が少ない",
+        "最大6台の機器をワンタッチ切替、10ボタン+3ファンクションボタンでショートカット豊富",
+        "Bluetooth/USB2.4GHz/有線の3接続方式に対応し在宅ワーク環境を選ばない"
+      ],
+      "tags": [
+        "トラックボール",
+        "仕事効率",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-09-01",
+      "status": "new",
+      "sources": [
+        "https://www.elecom.co.jp/products/M-IPT10MRSBK.html",
+        "https://my-best.com/products/6754247",
+        "https://www.youtube.com/watch?v=tW-zBhSokpA"
+      ]
+    },
+    {
+      "id": "recolte-bonne-capsule-cutter",
+      "name": "レコルト コードレスカプセルカッターボンヌ",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "コンセント要らずでみじん切りから泡立てまで、洗い物も少なく静かにこなす",
+      "points": [
+        "USB充電のコードレス設計でコンセントの場所を気にせずサッと使える",
+        "刻む・混ぜる・砕く・練る・つぶす・おろす・泡立てるの1台8役",
+        "稼働音55dB台と控えめで、時間帯を気にせず使える"
+      ],
+      "tags": [
+        "調理",
+        "時短",
+        "コードレス"
+      ],
+      "dateAdded": "2026-09-01",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/3621989",
+        "https://www.muji-nobita.com/entry/recolte-cordless-capsule-cutter-bonne",
+        "https://recolte.official.ec/items/87074757"
+      ]
+    },
+    {
+      "id": "elecom-tk-qt11-silent-keyboard",
+      "name": "エレコム TK-QT11FMM/MMM 静音キーボードシリーズ",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "打鍵音を通常モデル比90%低減した新設計で、Web会議中や家族がいる部屋でも気兼ねなくタイピングできる静音キーボード",
+      "points": [
+        "通常モデル比で打鍵音を90%低減しつつ、しっかりした打鍵感も両立する新設計",
+        "Bluetooth Low EnergyとUSB 2.4GHzの無線接続に対応、最大3台のマルチペアリング可能",
+        "フルサイズ/テンキーレスなど用途で選べる計6モデル展開(2026年3月発売)"
+      ],
+      "tags": [
+        "静音",
+        "キーボード",
+        "Web会議"
+      ],
+      "dateAdded": "2026-09-01",
+      "status": "new",
+      "sources": [
+        "https://pc.watch.impress.co.jp/docs/news/2136336.html",
+        "https://ascii.jp/elem/000/004/378/4378295/",
+        "https://prtimes.jp/main/html/rd/p/000001517.000026881.html"
+      ]
+    },
+    {
+      "id": "francebed-silair",
+      "name": "フランスベッド いびき対策まくら SILAIR(シレア)",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "いびきを検知して枕内のエアバッグが自動で頭の向きを変えてくれるスマート枕",
+      "points": [
+        "高精度センサーがいびきを検知すると6つのエアバッグが個別に膨らみ、寝たまま頭の向きを変えて気道を確保",
+        "動作音30dB以下の静音設計で自分も同室者も眠りを妨げない",
+        "専用アプリでいびきの発生時刻・音量・介入履歴をグラフ化でき、枕の高さも寝ながら3段階調整可能"
+      ],
+      "tags": [
+        "いびき対策",
+        "スマート枕",
+        "睡眠"
+      ],
+      "dateAdded": "2026-09-01",
+      "status": "new",
+      "sources": [
+        "https://news.yahoo.co.jp/articles/226b6fc2ed30a616282eb4fc8c072631f1cc39f8",
+        "https://www.watch.impress.co.jp/docs/review/review/2098813.html",
+        "https://interior.francebed.co.jp/ec/silair/"
+      ]
+    },
+    {
+      "id": "jal-de-kariteco",
+      "name": "JALでkariteco",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "生活家電・美容グッズ・旅行用品を借り放題、使うだけでJALマイルも貯まるレンタルサブスク",
+      "points": [
+        "1,000種類以上の家電・美容家電・旅行グッズを月額定額でレンタルでき、送料無料で好きなタイミングに交換可能",
+        "利用するだけでJALマイルが貯まる唯一無二の仕組みで、旅行好き・マイラーとの相性が良い",
+        "1ヶ月無料お試し期間があり、購入前に高額家電やガジェットを試せる"
+      ],
+      "tags": [
+        "レンタル",
+        "家電",
+        "マイル",
+        "旅行"
+      ],
+      "dateAdded": "2026-09-01",
+      "status": "new",
+      "sources": [
+        "https://press.jal.co.jp/ja/release/202408/008284.html",
+        "https://travel.watch.impress.co.jp/docs/topic/special/2040072.html",
+        "https://www.jal.co.jp/jp/ja/jmb/jal-kariteco/"
       ]
     }
   ]
