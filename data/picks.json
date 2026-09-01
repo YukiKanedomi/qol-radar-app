@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-01",
+    "lastUpdated": "2026-09-02",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8502,6 +8502,84 @@
         "https://press.jal.co.jp/ja/release/202408/008284.html",
         "https://travel.watch.impress.co.jp/docs/topic/special/2040072.html",
         "https://www.jal.co.jp/jp/ja/jmb/jal-kariteco/"
+      ]
+    },
+    {
+      "id": "sharkninja-ninja-crispi",
+      "name": "Ninja Crispi（ニンジャ クリスピー）FN101J",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "調理・保存・温め直しが同じ容器で完結、洗い物が激減すると話題",
+      "points": [
+        "下ごしらえ〜調理〜保存〜温め直しまで同じガラス容器で完結し、皿に移し替え不要で洗い物が激減",
+        "ガラス容器で調理中の様子がまる見え、焦げ付きを防げる新発想のノンフライヤー",
+        "Re-Crisp機能でスーパーの惣菜がサクサク食感に復活すると口コミで高評価"
+      ],
+      "tags": [
+        "時短",
+        "洗い物削減",
+        "調理家電"
+      ],
+      "dateAdded": "2026-09-02",
+      "status": "new",
+      "sources": [
+        "https://www.sharkninja.jp/pages/ninja-heating-crispi",
+        "https://xtrend.nikkei.com/atcl/contents/watch/00013/02770/",
+        "https://prtimes.jp/main/html/rd/p/000000057.000041047.html",
+        "https://kakaku.com/item/K0001718593/"
+      ]
+    },
+    {
+      "id": "kao-the-answer-program",
+      "name": "THE ANSWER PROGRAM（花王）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "頭皮と髪をAI解析し、個別処方のヘアケアが45日毎に届くサブスク",
+      "points": [
+        "LINE専用アプリで頭皮・髪を撮影＆セルフチェックし、独自指標「肌遺伝子モード」で16タイプに分類",
+        "日々変化する髪・頭皮の『ゆらぎ』に合わせてプランを継続的に最適化",
+        "シャンプー・トリートメント・頭皮ケア美容液等を45日周期でお届け（花王初のヘアケアサブスク）"
+      ],
+      "tags": [
+        "ヘアケア",
+        "パーソナライズ",
+        "美容"
+      ],
+      "dateAdded": "2026-09-02",
+      "status": "new",
+      "sources": [
+        "https://www.kao.com/jp/newsroom/news/release/2026/20260114-001/",
+        "https://www.nikkei.com/article/DGXZRSP701706_U6A110C2000000/",
+        "https://webtan.impress.co.jp/n/2026/01/15/52023",
+        "https://www.commercepick.com/archives/82520"
+      ]
+    },
+    {
+      "id": "nishikawa-punitoro-pillow",
+      "name": "西川 #005 punitoro（ぷにとろ）まくら",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "とろける新触感で低反発の弱点を解消、Makuakeで大ヒットの快眠まくら",
+      "points": [
+        "上層の「マシュマロフォーム」がとろけるように頭を包み込み、沈み込みすぎない絶妙なフィット感",
+        "特許出願中の立体ネックサポート構造で、リラックスした寝姿勢のまま首もやさしく支える",
+        "Makuakeで先行販売→大ヒットし2026年4月に一般発売。日経がAI解析で購買動向を追うほど話題化"
+      ],
+      "tags": [
+        "まくら",
+        "睡眠の質",
+        "低反発"
+      ],
+      "dateAdded": "2026-09-02",
+      "status": "new",
+      "sources": [
+        "https://www.nikkei.com/article/DGXZRSP706340_T20C26A4000000/",
+        "https://www.watch.impress.co.jp/docs/news/2079045.html",
+        "https://xtrend.nikkei.com/atcl/contents/18/01341/00002/",
+        "https://prtimes.jp/main/html/rd/p/000000398.000010201.html"
       ]
     }
   ]
