@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-02",
+    "lastUpdated": "2026-09-03",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8580,6 +8580,106 @@
         "https://www.watch.impress.co.jp/docs/news/2079045.html",
         "https://xtrend.nikkei.com/atcl/contents/18/01341/00002/",
         "https://prtimes.jp/main/html/rd/p/000000398.000010201.html"
+      ]
+    },
+    {
+      "id": "nothing-ear-a",
+      "name": "Nothing Ear (a)",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "1.4万円台とは思えないバランスの良さ、スケルトンデザインも愛着が湧くワイヤレスイヤホン",
+      "points": [
+        "11mmドライバー+低音強化アルゴリズムでバンドサウンドも迫力再生",
+        "最大45dBのアクティブノイズキャンセリングと明瞭な通話品質",
+        "個性的な半透明デザインで所有満足度が高い"
+      ],
+      "tags": [
+        "イヤホン",
+        "ノイズキャンセリング",
+        "ガジェット"
+      ],
+      "dateAdded": "2026-09-03",
+      "status": "new",
+      "sources": [
+        "https://orefolder.jp/2024/07/nothing-ear-a-review/",
+        "https://kajetblog.com/nothing-ear-a/",
+        "https://yu-log.online/gadget/nothing-ear-a-review/"
+      ]
+    },
+    {
+      "id": "logicool-mx-keys-mini",
+      "name": "ロジクール MX KEYS mini",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "コンパクトなのに打鍵感が段違い、複数デバイス瞬時切替も便利なワイヤレスキーボード",
+      "points": [
+        "キー中心のくぼみで指が収まりミスタイプが激減、長時間でも疲れにくい",
+        "最大3台をボタン一つで瞬時に切替、手を近づけると自動点灯するバックライト",
+        "薄型軽量で持ち運びやすくバッテリー持ちも良好"
+      ],
+      "tags": [
+        "キーボード",
+        "デスク環境",
+        "仕事効率"
+      ],
+      "dateAdded": "2026-09-03",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/article/mx-keys-mini-review/",
+        "https://shimahiroblog.com/mx-keys-mini/",
+        "https://analog-san.com/logicool-mxkeysmini/"
+      ]
+    },
+    {
+      "id": "switchbot-k11-plus",
+      "name": "SwitchBot K11+",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "前モデル比2.4倍の吸引力なのに本体もゴミ収集ステーションも小さい、狭い日本の住環境向けロボット掃除機",
+      "points": [
+        "吸引力6,000Paで前モデル(K10+)の2.4倍に強化",
+        "コンパクトなステーションで家具の隙間や本棚横にも設置可能",
+        "運転音45dBと静かで深夜稼働もしやすい"
+      ],
+      "tags": [
+        "ロボット掃除機",
+        "スマートホーム",
+        "時短家電"
+      ],
+      "dateAdded": "2026-09-03",
+      "status": "new",
+      "sources": [
+        "https://digital-style.jp/switchbot-k11-review",
+        "https://alpex.jp/2026/06/13/switchbot-k11-plus-robot-vacuum-review-2026/",
+        "https://number84log.com/switchbot-k11/"
+      ]
+    },
+    {
+      "id": "cmf-watch-pro-2",
+      "name": "CMF Watch Pro 2",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "1万円台とは思えないミニマルデザインと機能性を両立したスマートウォッチ",
+      "points": [
+        "心拍・睡眠トラッキングなど主要な健康管理機能を実売1万円台で網羅",
+        "ベゼル交換で見た目をカスタマイズでき所有満足度が高い",
+        "タッチ操作がなめらかで低価格帯ながら動作にストレスがない"
+      ],
+      "tags": [
+        "スマートウォッチ",
+        "健康管理",
+        "睡眠トラッキング"
+      ],
+      "dateAdded": "2026-09-03",
+      "status": "new",
+      "sources": [
+        "https://dennou-life.jp/18089/",
+        "https://funday.jp/article/11142",
+        "https://smhn.info/202408-cmf-by-nothing-watch-pro-2-review"
       ]
     }
   ]
