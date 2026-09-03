@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-03",
+    "lastUpdated": "2026-09-04",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8680,6 +8680,106 @@
         "https://dennou-life.jp/18089/",
         "https://funday.jp/article/11142",
         "https://smhn.info/202408-cmf-by-nothing-watch-pro-2-review"
+      ]
+    },
+    {
+      "id": "echo-dot-max",
+      "name": "Amazon Echo Dot Max",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "フルモデルチェンジで音質が大幅向上したAmazonの新スマートスピーカー",
+      "points": [
+        "0.8インチツイーター+2.5インチウーファーで低音と解像感が向上",
+        "部屋の音響特性を自動分析するルームアダプション対応",
+        "最大5台ペアリングで5.1chホームシアターも構築可能"
+      ],
+      "tags": [
+        "スマートスピーカー",
+        "スマートホーム",
+        "音質"
+      ],
+      "dateAdded": "2026-09-04",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2511/14/news080.html",
+        "https://getnews.jp/archives/3688447",
+        "https://www.livingtech.or.jp/column/echo-dot-max-review/"
+      ]
+    },
+    {
+      "id": "moft-airflow-laptop-stand",
+      "name": "MOFT AIRFLOW LAPTOP STAND",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "貼るだけでどこでも使える、わずか65gの薄型ノートPCスタンド",
+      "points": [
+        "65gの薄さ・軽さでPCに貼ったまま持ち運べる",
+        "通気孔が増え排熱性能が向上し熱ごもりを解消",
+        "非粘着タイプなら複数のノートPCで使い回しも可能"
+      ],
+      "tags": [
+        "デスク環境",
+        "ノートPC",
+        "省スペース"
+      ],
+      "dateAdded": "2026-09-04",
+      "status": "new",
+      "sources": [
+        "https://www.roomie.jp/2026/03/1723001/",
+        "https://my-best.com/products/940573",
+        "https://www.useful-time.com/entry/moft"
+      ]
+    },
+    {
+      "id": "true-sleeper-heat-more",
+      "name": "トゥルースリーパー ヒートモア掛け布団",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "足元集中ヒーター内蔵で羽毛布団の約2.1倍暖かい次世代掛け布団",
+      "points": [
+        "脚部に電熱ヒーターシート4つを配置し冷えやすい足元を集中的に暖める",
+        "USB給電でモバイルバッテリーでも使え、コードを外せば丸洗い可能",
+        "「朝までポカポカ」と冷え性ユーザーからの評価も高い"
+      ],
+      "tags": [
+        "睡眠",
+        "冷え対策",
+        "寝具"
+      ],
+      "dateAdded": "2026-09-04",
+      "status": "new",
+      "sources": [
+        "https://www.makuake.com/project/truesleeper_heatmore/",
+        "https://www.shopjapan.co.jp/products/TRHM-00000/",
+        "https://prtimes.jp/main/html/rd/p/000000451.000001915.html"
+      ]
+    },
+    {
+      "id": "panasonic-na-lx113el-drum-washer-dryer",
+      "name": "パナソニック ドラム式洗濯乾燥機 NA-LX113EL",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "洗剤3種から選べる自動投入とアプリ遠隔操作対応の最新ドラム式",
+      "points": [
+        "液体洗剤・柔軟剤に加えおしゃれ着洗剤等3種から選べる自動投入タンク",
+        "スピード乾燥に強いヒートポンプ式でポケットの奥まで乾く",
+        "アプリで運転状況の確認や遠隔操作ができ家事の手間を軽減"
+      ],
+      "tags": [
+        "洗濯",
+        "時短家電",
+        "ドラム式"
+      ],
+      "dateAdded": "2026-09-04",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/kaden/drum-washing/ranking_V043/",
+        "https://joshinweb.jp/kaden/dram.html",
+        "https://www.yamada-denkiweb.com/media/3819/"
       ]
     }
   ]
