@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-04",
+    "lastUpdated": "2026-09-05",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8780,6 +8780,82 @@
         "https://kakaku.com/kaden/drum-washing/ranking_V043/",
         "https://joshinweb.jp/kaden/dram.html",
         "https://www.yamada-denkiweb.com/media/3819/"
+      ]
+    },
+    {
+      "id": "anker-nano-docking-station",
+      "name": "Anker Nano ドッキングステーション (13-in-1, 着脱式USB-C ハブ)",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "本体上部が外れて単体ハブにもなる発想、家でも外でもポート不足を一台で解消",
+      "points": [
+        "13-in-1でHDMI×2/LAN/SD等を集約しつつ上部が外れて6-in-1ハブとして持ち出せる",
+        "ドック時は最大3画面、ハブ単体でも4K出力に対応",
+        "実売17,000円前後で据え置きドックとモバイルハブを一台二役"
+      ],
+      "tags": [
+        "USB-Cハブ",
+        "デスク環境",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-09-05",
+      "status": "new",
+      "sources": [
+        "https://www.ankerjapan.com/products/a83c3111",
+        "https://corp.ankerjapan.com/posts/598",
+        "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132954.html"
+      ]
+    },
+    {
+      "id": "anker-nano-power-strip-clamp",
+      "name": "Anker Nano Power Strip（10-in-1, 70W, クランプ式）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "デスク天板に挟むだけでタップ本体を隠せる、配線ストレスゼロの10-in-1電源タップ",
+      "points": [
+        "天板を挟んで固定するだけ、工具不要で設置1分",
+        "USB-C(最大70W)×2+USB-A×2+AC×6の計10ポート搭載",
+        "タップ本体が机の下に隠れてデスク上がすっきり、実売9,990円"
+      ],
+      "tags": [
+        "電源タップ",
+        "配線整理",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-09-05",
+      "status": "new",
+      "sources": [
+        "https://www.ankerjapan.com/products/a9196",
+        "https://www.gdm.or.jp/pressrelease/2026/0701/641782",
+        "https://macfan.book.mynavi.jp/article/110969/"
+      ]
+    },
+    {
+      "id": "toysub-toy-subscription",
+      "name": "トイサブ！",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "月3,980円で知育玩具が2ヶ月毎に届く。買う→捨てるの悩みごとから解放される",
+      "points": [
+        "プロが月齢に合わせて厳選した知育玩具が定期的に届く",
+        "通常使用の傷や汚れは弁償不要で気兼ねなく遊べる",
+        "累計6万世帯超が利用、複数のサブスクアワードで受賞歴あり"
+      ],
+      "tags": [
+        "子育て",
+        "知育",
+        "時短",
+        "レンタル"
+      ],
+      "dateAdded": "2026-09-05",
+      "status": "new",
+      "sources": [
+        "https://baby-calendar.jp/magazine/10309",
+        "https://subsc.ooaks.co.jp/toysub/",
+        "https://kyoiku-quest.jp/toysub/"
       ]
     }
   ]
