@@ -5,7 +5,7 @@ import { effectiveStatus } from "@/lib/filtering";
 import { formatDateShort, genreColor } from "@/lib/picks";
 import { iconFor } from "@/lib/icons";
 import { ItemCard } from "./ItemCard";
-import { Stars } from "./Stars";
+import { Trust } from "./Trust";
 import { Yen } from "./Yen";
 
 export type ViewMode = "card" | "list";
@@ -119,8 +119,8 @@ export function ItemGrid({
                     {p.name}
                     {newIds.has(p.id) ? <span className="newb">NEW</span> : null}
                   </span>
-                  <Stars value={p.trust} />
-                  <Yen tier={p.priceTier} />
+                  <Yen tier={p.priceTier} legend={meta.priceLegend[String(p.priceTier)]} />
+                  <Trust value={p.trust} legend={meta.trustLegend[String(p.trust)]} />
                   <button
                     className={"heart" + (favorites.has(p.id) ? " on" : "")}
                     type="button"

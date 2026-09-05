@@ -291,24 +291,37 @@ body {
 }
 
 /* ---------- trust / price / meta ---------- */
-.stars {
-  color: var(--vermil);
-  letter-spacing: 0.12em;
-  font-size: 13px;
+/* 信頼度：★3 は表示しない（Trust コンポーネント側で null）。★2 以下だけ凡例つき */
+.trust {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 5px;
+  font-size: 11px;
+  color: var(--sub);
   white-space: nowrap;
 }
-.stars .off {
-  color: var(--line-2);
+.trust .num {
+  color: var(--vermil);
+  font-weight: 600;
 }
+/* 価格帯：¥ の数＋凡例文字のバッジ */
 .yen {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 5px;
+  font-size: 11px;
+  color: var(--sub);
+  border: 1px solid var(--line-2);
+  border-radius: 2px;
+  padding: 1px 7px 1px 6px;
+  white-space: nowrap;
+}
+.yen b {
   font-family: "Inter", sans-serif;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.04em;
-  white-space: nowrap;
-}
-.yen .off {
-  color: var(--line-2);
+  color: var(--ink);
 }
 .datem {
   font-family: "Inter", sans-serif;
@@ -578,6 +591,45 @@ body {
   color: var(--sub);
   margin: 0;
 }
+/* 圧縮表示の本文：タップで詳細を開く */
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  cursor: pointer;
+}
+.more {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  margin-left: auto;
+  font-family: inherit;
+  font-size: 11px;
+  color: var(--sub);
+  background: none;
+  border: none;
+  padding: 4px 0 4px 8px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.more:hover {
+  color: var(--accent);
+}
+.more svg {
+  transition: transform 0.2s;
+}
+.card.open .more svg {
+  transform: rotate(180deg);
+}
+/* 圧縮時に現在のステータスだけ小さく示す */
+.stbadge {
+  font-size: 10.5px;
+  color: var(--accent);
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  border-radius: 2px;
+  padding: 1px 6px;
+  white-space: nowrap;
+}
 /* 推しポイント（なぜ良いか） */
 .points {
   list-style: none;
@@ -633,14 +685,16 @@ body {
   gap: 12px;
   padding-top: 13px;
   border-top: 1px solid var(--line);
-  /* カード高さが揃うよう meta+操作を下端に寄せる */
+  /* 展開時はカード高さが揃うよう meta+操作を下端に寄せる。圧縮時は本文直下に置く */
   margin-top: auto;
+}
+.card:not(.open) .cmeta {
+  margin-top: 0;
 }
 .src {
   font-family: "Inter", sans-serif;
   font-size: 10px;
   color: var(--faint);
-  margin-left: auto;
   letter-spacing: 0.04em;
   text-decoration: none;
 }
