@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-05",
+    "lastUpdated": "2026-09-06",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8856,6 +8856,53 @@
         "https://baby-calendar.jp/magazine/10309",
         "https://subsc.ooaks.co.jp/toysub/",
         "https://kyoiku-quest.jp/toysub/"
+      ]
+    },
+    {
+      "id": "rokid-ai-glasses-style",
+      "name": "Rokid Ai Glasses Style",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "ディスプレイなし・38.5gの軽量AIグラス。普段のメガネ感覚でAI機能だけ使える",
+      "points": [
+        "本体38.5gでメガネのようにかけられる、ディスプレイ非搭載のAIグラス",
+        "ChatGPT/Geminiで76言語リアルタイム翻訳・音声ナビ・AI画像認識に対応",
+        "上位モデル(109,890円)より軽量・安価な64,990円で日常使いしやすい"
+      ],
+      "tags": [
+        "AI",
+        "スマートグラス",
+        "軽量"
+      ],
+      "dateAdded": "2026-09-06",
+      "status": "new",
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/news/2137746.html",
+        "https://blog.skeg.jp/archives/2026/08/rokid-ai-glasses-style-japan-preorder.html"
+      ]
+    },
+    {
+      "id": "hitachi-bd-stx130m-rakumente",
+      "name": "日立 ビッグドラム BD-STX130M（らくメンテ）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "乾燥フィルターのお手入れ不要、「風アイロン」でシワも抑えるドラム式洗濯乾燥機",
+      "points": [
+        "乾燥フィルターレス構造でお手入れ不要、頻度は約2週間に1回でOK",
+        "時速約300kmの高速風でシワを伸ばす「風アイロン」機能搭載",
+        "AIお洗濯機能でスマホ連携、天気や気温を考慮した洗濯アドバイスも"
+      ],
+      "tags": [
+        "洗濯機",
+        "時短家事"
+      ],
+      "dateAdded": "2026-09-06",
+      "status": "new",
+      "sources": [
+        "https://kakakumag.com/seikatsu-kaden/?id=19031",
+        "https://getnavi.jp/appliances/1055441/"
       ]
     }
   ]
