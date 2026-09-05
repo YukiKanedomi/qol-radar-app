@@ -1,8 +1,11 @@
 import { useState } from "react";
-import { Heart, ChevronDown } from "lucide-react";
+import { Heart, ChevronDown, Share2, ExternalLink } from "lucide-react";
 import type { Pick, PicksMeta, Status } from "@/types";
 import { genreColor, shortLabel } from "@/lib/picks";
 import { iconFor } from "@/lib/icons";
+import { itemUrl } from "@/lib/urlState";
+import { toast } from "@/lib/toast";
+import { keepAscii } from "@/lib/text";
 import { Trust } from "./Trust";
 import { Yen } from "./Yen";
 
@@ -12,6 +15,8 @@ interface Props {
   isFavorite: boolean;
   status: Status;
   isNew: boolean;
+  /** ディープリンク等で最初から開いておく */
+  initialOpen?: boolean;
   onToggleFavorite: (id: string) => void;
   onSetStatus: (id: string, status: Status | null) => void;
   onSelectTag: (tag: string) => void;
@@ -20,24 +25,66 @@ interface Props {
 /** カードで切替できるステータス（new は「未設定」扱いなので除外） */
 const ACTION_STATUSES: Status[] = ["interested", "bought", "skip"];
 
+function hostOf(url: string): string {
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return url;
+  }
+}
+
+async function share(pick: Pick) {
+  const url = itemUrl(pick.id);
+  const data = { title: pick.name, text: pick.blurb, url };
+  try {
+    if (navigator.share && (!navigator.canShare || navigator.canShare(data))) {
+      await navigator.share(data);
+      return;
+    }
+  } catch (e) {
+    // ユーザーが共有シートを閉じただけなら何もしない
+    if ((e as { name?: string }).name === "AbortError") return;
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+    toast("リンクをコピーしました");
+  } catch {
+    toast("コピーできませんでした。URL: " + url, { duration: 6000 });
+  }
+}
+
 export function ItemCard({
   pick,
   meta,
   isFavorite,
   status,
   isNew,
+  initialOpen = false,
   onToggleFavorite,
   onSetStatus,
   onSelectTag,
 }: Props) {
   // 既定は圧縮表示。推しポイント・タグ・出典・ステータス操作はタップで開く
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(initialOpen);
   const sources = pick.sources ?? [];
   const Icon = iconFor(pick);
   const hasStatus = ACTION_STATUSES.includes(status);
 
+  const changeStatus = (s: Status) => {
+    const prev = status;
+    const next = status === s ? null : s;
+    onSetStatus(pick.id, next);
+    const undo = {
+      label: "元に戻す",
+      onClick: () => onSetStatus(pick.id, ACTION_STATUSES.includes(prev) ? prev : null),
+    };
+    if (next) toast(`「${meta.statusLegend[next]}」に登録しました`, { action: undo });
+    else toast(`「${meta.statusLegend[prev]}」を解除しました`, { action: undo });
+  };
+
   return (
     <article
+      id={"pick-" + pick.id}
       className={"card" + (open ? " open" : "")}
       style={{ ["--gc" as string]: genreColor(pick.genre) }}
     >
@@ -61,16 +108,16 @@ export function ItemCard({
       </div>
 
       <div className="card-body" onClick={() => setOpen((v) => !v)}>
-        <h4 className="mincho">{pick.name}</h4>
+        <h4 className="mincho">{keepAscii(pick.name)}</h4>
         <p className="blurb">{pick.blurb}</p>
       </div>
 
       {open ? (
-        <>
+        <div className="detail">
           {pick.points && pick.points.length > 0 ? (
             <ul className="points">
-              {pick.points.map((pt) => (
-                <li key={pt}>{pt}</li>
+              {pick.points.map((pt, i) => (
+                <li key={i}>{pt}</li>
               ))}
             </ul>
           ) : null}
@@ -88,7 +135,20 @@ export function ItemCard({
               </button>
             ))}
           </div>
-        </>
+
+          {sources.length > 0 ? (
+            <ul className="sources" aria-label="出典">
+              {sources.map((s) => (
+                <li key={s}>
+                  <a href={s} target="_blank" rel="noreferrer">
+                    <ExternalLink size={11} strokeWidth={2} />
+                    {hostOf(s)}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          ) : null}
+        </div>
       ) : null}
 
       <div className="cmeta">
@@ -97,10 +157,16 @@ export function ItemCard({
         {!open && hasStatus ? (
           <span className="stbadge">{meta.statusLegend[status]}</span>
         ) : null}
-        {open && sources.length > 0 ? (
-          <a className="src" href={sources[0]} target="_blank" rel="noreferrer">
-            ソース {sources.length} 件
-          </a>
+        {open ? (
+          <button
+            type="button"
+            className="share"
+            aria-label="このアイテムを共有"
+            title="共有"
+            onClick={() => void share(pick)}
+          >
+            <Share2 size={14} strokeWidth={1.8} />
+          </button>
         ) : null}
         <button
           type="button"
@@ -122,8 +188,7 @@ export function ItemCard({
               type="button"
               className={"seg seg-sm" + (status === s ? " on" : "")}
               aria-pressed={status === s}
-              // すでにその状態なら解除（元に戻す）、違えばその状態にする
-              onClick={() => onSetStatus(pick.id, status === s ? null : s)}
+              onClick={() => changeStatus(s)}
             >
               {meta.statusLegend[s]}
             </button>

@@ -66,12 +66,20 @@ export function shortLabel(fullLabel: string): string {
   return fullLabel.split("・")[0];
 }
 
-/** 今号ハイライト：信頼度3かつ新しい順の上位 n 件 */
+/** 今号ハイライト：信頼度3の新しい順から、ジャンルが重複しないよう n 件（リスト先頭との丸かぶりを避ける） */
 export function topSignals(picks: Pick[], n = 3): Pick[] {
-  return [...picks]
+  const sorted = [...picks]
     .filter((p) => p.trust >= 3)
-    .sort((a, b) => b.dateAdded.localeCompare(a.dateAdded))
-    .slice(0, n);
+    .sort((a, b) => b.dateAdded.localeCompare(a.dateAdded));
+  const out: Pick[] = [];
+  const seen = new Set<string>();
+  for (const p of sorted) {
+    if (out.length >= n) break;
+    if (seen.has(p.genre)) continue;
+    seen.add(p.genre);
+    out.push(p);
+  }
+  return out.length >= n ? out : sorted.slice(0, n);
 }
 
 /** "2026-06-24" → "2026.06.24" */

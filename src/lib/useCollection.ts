@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { Status } from "@/types";
 import { isSyncConfigured } from "./syncConfig";
+import { storageSet } from "./storage";
 import { fetchAllPrefs, subscribePrefs, upsertPref, type PrefRow } from "./sync";
 
 const FAV_KEY = "qol-favorites";
@@ -34,12 +35,19 @@ export function useCollection() {
     () => isSyncConfigured() && localStorage.getItem(SYNC_KEY) !== "0",
   );
   const [syncStatus, setSyncStatus] = useState<SyncStatus>("off");
+  // Supabase クライアント（約55KB gzip）は初期描画を終えてから読む
+  const [ready, setReady] = useState(false);
+  const [retryTick, setRetryTick] = useState(0);
+  useEffect(() => {
+    const t = setTimeout(() => setReady(true), 1200);
+    return () => clearTimeout(t);
+  }, []);
 
   useEffect(() => {
-    localStorage.setItem(FAV_KEY, JSON.stringify([...favorites]));
+    storageSet(FAV_KEY, JSON.stringify([...favorites]));
   }, [favorites]);
   useEffect(() => {
-    localStorage.setItem(STATUS_KEY, JSON.stringify(statuses));
+    storageSet(STATUS_KEY, JSON.stringify(statuses));
   }, [statuses]);
 
   // 非同期コールバック内で最新値を読むための ref
@@ -103,6 +111,10 @@ export function useCollection() {
       setSyncStatus("off");
       return;
     }
+    if (!ready) {
+      setSyncStatus("connecting");
+      return;
+    }
     let cancelled = false;
     let unsub = () => {};
     setSyncStatus("connecting");
@@ -163,7 +175,13 @@ export function useCollection() {
       cancelled = true;
       unsub();
     };
-  }, [syncOn, applyRemote]);
+  }, [syncOn, applyRemote, ready, retryTick]);
+
+  /** エラー後の再接続（購読をやり直す） */
+  const retrySync = useCallback(() => {
+    setSyncOn(true);
+    setRetryTick((t) => t + 1);
+  }, []);
 
   const toggleSync = useCallback(() => {
     setSyncOn((on) => {
@@ -187,6 +205,7 @@ export function useCollection() {
       on: syncOn,
       status: syncStatus,
       toggle: toggleSync,
+      retry: retrySync,
     },
   };
 }

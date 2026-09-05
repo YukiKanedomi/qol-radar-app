@@ -20,7 +20,16 @@ export function buildDigest(picks: Pick[], opts: DigestOptions = {}): Pick[] {
   const { mode = "weekly", limit = 12, favorites, perGenreCap = 3 } = opts;
 
   let pool = picks;
-  if (mode === "favorites") {
+  if (mode === "weekly") {
+    // 直近14日（データ最新日基準）。足りなければ30日→全件へ広げる
+    const latest = picks.reduce((m, p) => (p.dateAdded > m ? p.dateAdded : m), "");
+    for (const days of [14, 30]) {
+      const since = shiftDate(latest, -days);
+      pool = picks.filter((p) => p.dateAdded >= since);
+      if (pool.length >= limit) break;
+    }
+    if (pool.length < limit) pool = picks;
+  } else if (mode === "favorites") {
     const fav = favorites ?? new Set<string>();
     pool = picks.filter((p) => fav.has(p.id));
   } else if (mode === "standout") {
@@ -53,6 +62,13 @@ export function buildDigest(picks: Pick[], opts: DigestOptions = {}): Pick[] {
     }
   }
   return out;
+}
+
+/** "YYYY-MM-DD" を days 日ずらす（不正値はそのまま返す） */
+function shiftDate(iso: string, days: number): string {
+  const t = Date.parse(iso);
+  if (!Number.isFinite(t)) return iso;
+  return new Date(t + days * 86400000).toISOString().slice(0, 10);
 }
 
 /** "YYYY-MM-DD" を比較用の数値に（新しいほど大）。不正値は 0 */

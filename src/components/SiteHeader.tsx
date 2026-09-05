@@ -11,6 +11,7 @@ interface SyncProps {
   on: boolean;
   status: SyncStatus;
   toggle: () => void;
+  retry: () => void;
 }
 
 export function SiteHeader({
@@ -57,7 +58,12 @@ export function SiteHeader({
             更新 <b className="num">{formatDateDot(meta.lastUpdated)}</b>
           </span>
           {sync.configured ? (
-            <SyncToggle status={sync.status} on={sync.on} onToggle={sync.toggle} />
+            <SyncToggle
+              status={sync.status}
+              on={sync.on}
+              onToggle={sync.toggle}
+              onRetry={sync.retry}
+            />
           ) : null}
           <button
             type="button"

@@ -6,7 +6,6 @@
   "start_url": "/qol-radar-app/",
   "scope": "/qol-radar-app/",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#fcfbf8",
   "theme_color": "#fcfbf8",
   "icons": [

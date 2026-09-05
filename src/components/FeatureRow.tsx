@@ -1,8 +1,18 @@
 import type { Pick, PicksMeta } from "@/types";
 import { genreColor, formatDateShort, shortLabel } from "@/lib/picks";
 import { Yen } from "./Yen";
+import { keepAscii } from "@/lib/text";
 
-export function FeatureRow({ items, meta }: { items: Pick[]; meta: PicksMeta }) {
+export function FeatureRow({
+  items,
+  meta,
+  onSelect,
+}: {
+  items: Pick[];
+  meta: PicksMeta;
+  /** カードを選んだら、収録リスト側でその1件を開いて見せる */
+  onSelect: (id: string) => void;
+}) {
   return (
     <div className="wrap">
       <div className="rubric">
@@ -17,11 +27,21 @@ export function FeatureRow({ items, meta }: { items: Pick[]; meta: PicksMeta }) 
             className="f"
             key={p.id}
             style={{ ["--gc" as string]: genreColor(p.genre) }}
+            role="button"
+            tabIndex={0}
+            aria-label={`${p.name} の詳細を見る`}
+            onClick={() => onSelect(p.id)}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                onSelect(p.id);
+              }
+            }}
           >
             <div className="kicker" title={meta.genres[p.genre]}>
               {shortLabel(meta.genres[p.genre])}
             </div>
-            <h4 className="mincho">{p.name}</h4>
+            <h4 className="mincho">{keepAscii(p.name)}</h4>
             <p className="blurb">{p.blurb}</p>
             <div className="fm">
               <Yen tier={p.priceTier} legend={meta.priceLegend[String(p.priceTier)]} />

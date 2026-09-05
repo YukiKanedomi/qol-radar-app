@@ -5,10 +5,13 @@ export function SyncToggle({
   status,
   on,
   onToggle,
+  onRetry,
 }: {
   status: SyncStatus;
   on: boolean;
   onToggle: () => void;
+  /** エラー時のタップは「停止」ではなく再接続 */
+  onRetry: () => void;
 }) {
   const live = status === "live";
   const error = status === "error";
@@ -26,7 +29,7 @@ export function SyncToggle({
       className={
         "theme-toggle sync-toggle" + (live ? " on" : "") + (error ? " err" : "")
       }
-      onClick={onToggle}
+      onClick={error ? onRetry : onToggle}
       aria-pressed={on}
       aria-label={label}
       title={label}

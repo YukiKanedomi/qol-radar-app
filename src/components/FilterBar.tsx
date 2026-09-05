@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Search, Heart, SlidersHorizontal, ChevronDown } from "lucide-react";
+import { Search, Heart, SlidersHorizontal, ChevronDown, X } from "lucide-react";
 import type { PicksMeta, Status } from "@/types";
 import { shortLabel } from "@/lib/picks";
 import type { FilterState, SortKey } from "@/lib/filtering";
@@ -8,6 +8,7 @@ interface Props {
   meta: PicksMeta;
   state: FilterState;
   patch: (p: Partial<FilterState>) => void;
+  onReset: () => void;
   resultCount: number;
   /** 前回訪問以降の新着数（0なら新着トグル非表示） */
   newCount: number;
@@ -37,12 +38,44 @@ function activeRefineCount(s: FilterState): number {
   );
 }
 
-export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) {
+interface ActiveChip {
+  key: string;
+  label: string;
+  clear: Partial<FilterState>;
+}
+
+/** 適用中の条件を「何で絞っているか」1行に。閉じた絞り込みパネルの中身が見えない問題への答え */
+function activeChips(s: FilterState, meta: PicksMeta): ActiveChip[] {
+  const chips: ActiveChip[] = [];
+  if (s.genre !== "all")
+    chips.push({ key: "g", label: shortLabel(meta.genres[s.genre] ?? s.genre), clear: { genre: "all" } });
+  if (s.minTrust > 0)
+    chips.push({ key: "t", label: s.minTrust === 3 ? "★3" : `★${s.minTrust}+`, clear: { minTrust: 0 } });
+  if (s.prices.length > 0)
+    chips.push({
+      key: "p",
+      label: [...s.prices].sort().map((t) => "¥".repeat(t)).join(" / "),
+      clear: { prices: [] },
+    });
+  if (s.statuses.length > 0)
+    chips.push({
+      key: "s",
+      label: s.statuses.map((k) => meta.statusLegend[k]).join(" / "),
+      clear: { statuses: [] },
+    });
+  if (s.favoritesOnly) chips.push({ key: "fav", label: "お気に入り", clear: { favoritesOnly: false } });
+  if (s.newOnly) chips.push({ key: "new", label: "新着のみ", clear: { newOnly: false } });
+  if (s.query.trim()) chips.push({ key: "q", label: `“${s.query.trim()}”`, clear: { query: "" } });
+  return chips;
+}
+
+export function FilterBar({ meta, state, patch, onReset, resultCount, newCount }: Props) {
   const [open, setOpen] = useState(false);
   const genres = Object.keys(meta.genres);
   const prices = Object.keys(meta.priceLegend).map(Number).sort();
   const statusKeys = Object.keys(meta.statusLegend) as Status[];
   const refineCount = activeRefineCount(state);
+  const chips = activeChips(state, meta);
 
   const togglePrice = (tier: number) =>
     patch({
@@ -59,7 +92,10 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
     });
 
   return (
-    <div className="filters">
+    <div className="filters" role="search" aria-label="絞り込みと検索">
+      <span className="sr-only" aria-live="polite">
+        該当 {resultCount} 件
+      </span>
       <div className="wrap">
         {/* ジャンル + 検索 + （モバイル）絞り込みトグル */}
         <div className="filter-head">
@@ -67,6 +103,7 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
             <button
               className={"chip" + (state.genre === "all" ? " on" : "")}
               type="button"
+              aria-pressed={state.genre === "all"}
               onClick={() => patch({ genre: "all" })}
             >
               全て
@@ -77,6 +114,7 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
                 type="button"
                 key={key}
                 title={meta.genres[key]}
+                aria-pressed={state.genre === key}
                 onClick={() => patch({ genre: key })}
               >
                 {shortLabel(meta.genres[key])}
@@ -92,6 +130,9 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
                 type="search"
                 value={state.query}
                 placeholder="名称・タグで検索"
+                aria-label="検索"
+                enterKeyHint="search"
+                autoComplete="off"
                 onChange={(e) => patch({ query: e.target.value })}
               />
             </label>
@@ -113,13 +154,14 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
 
         {/* 信頼度 / 価格 / 状態 / お気に入り / 並び替え（モバイルは折りたたみ） */}
         <div className={"refine" + (open ? " open" : "")}>
-          <div className="fg">
+          <div className="fg" role="group" aria-label="信頼度">
             <span className="fg-label">信頼度</span>
             {TRUST_OPTS.map((o) => (
               <button
                 key={o.value}
                 type="button"
                 className={"seg" + (state.minTrust === o.value ? " on" : "")}
+                aria-pressed={state.minTrust === o.value}
                 onClick={() => patch({ minTrust: o.value })}
               >
                 {o.label}
@@ -127,14 +169,16 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
             ))}
           </div>
 
-          <div className="fg">
+          <div className="fg" role="group" aria-label="価格帯">
             <span className="fg-label">価格</span>
             {prices.map((tier) => (
               <button
                 key={tier}
                 type="button"
                 title={meta.priceLegend[String(tier)]}
+                aria-label={`価格帯 ${meta.priceLegend[String(tier)]}`}
                 className={"seg" + (state.prices.includes(tier) ? " on" : "")}
+                aria-pressed={state.prices.includes(tier)}
                 onClick={() => togglePrice(tier)}
               >
                 {"¥".repeat(tier)}
@@ -142,13 +186,14 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
             ))}
           </div>
 
-          <div className="fg">
+          <div className="fg" role="group" aria-label="状態">
             <span className="fg-label">状態</span>
             {statusKeys.map((key) => (
               <button
                 key={key}
                 type="button"
                 className={"seg" + (state.statuses.includes(key) ? " on" : "")}
+                aria-pressed={state.statuses.includes(key)}
                 onClick={() => toggleStatus(key)}
               >
                 {meta.statusLegend[key]}
@@ -159,6 +204,7 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
           <button
             type="button"
             className={"seg fav-toggle" + (state.favoritesOnly ? " on" : "")}
+            aria-pressed={state.favoritesOnly}
             onClick={() => patch({ favoritesOnly: !state.favoritesOnly })}
           >
             <Heart
@@ -173,6 +219,7 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
             <button
               type="button"
               className={"seg new-toggle" + (state.newOnly ? " on" : "")}
+              aria-pressed={state.newOnly}
               title="前回見たあとに追加されたアイテム"
               onClick={() => patch({ newOnly: !state.newOnly })}
             >
@@ -197,6 +244,31 @@ export function FilterBar({ meta, state, patch, resultCount, newCount }: Props) 
             </label>
           </div>
         </div>
+
+        {/* 適用中の条件（1つでもあれば表示）。個別に外す／すべて解除 */}
+        {chips.length > 0 ? (
+          <div className="active-row">
+            <span className="active-label">絞り込み中</span>
+            {chips.map((c) => (
+              <button
+                key={c.key}
+                type="button"
+                className="achip"
+                aria-label={`${c.label} を解除`}
+                onClick={() => patch(c.clear)}
+              >
+                {c.label}
+                <X size={11} strokeWidth={2.2} />
+              </button>
+            ))}
+            <span className="active-tail">
+              <span className="active-count num">{resultCount} 件</span>
+              <button type="button" className="active-clear" onClick={onReset}>
+                すべて解除
+              </button>
+            </span>
+          </div>
+        ) : null}
       </div>
     </div>
   );

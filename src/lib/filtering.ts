@@ -1,4 +1,5 @@
 import type { Pick, Status } from "@/types";
+import { matchesTerms, queryTerms } from "./search";
 
 export type SortKey = "newest" | "trust" | "price";
 
@@ -46,7 +47,7 @@ export function applyFilters(
   favorites: Set<string>,
   newIds: Set<string>,
 ): Pick[] {
-  const q = state.query.trim().toLowerCase();
+  const terms = queryTerms(state.query);
 
   const filtered = picks.filter((p) => {
     if (state.genre !== "all" && p.genre !== state.genre) return false;
@@ -59,9 +60,9 @@ export function applyFilters(
       return false;
     if (state.favoritesOnly && !favorites.has(p.id)) return false;
     if (state.newOnly && !newIds.has(p.id)) return false;
-    if (q) {
-      const hay = `${p.name} ${p.blurb} ${p.tags.join(" ")}`.toLowerCase();
-      if (!hay.includes(q)) return false;
+    if (terms.length > 0) {
+      const hay = `${p.name} ${p.blurb} ${p.tags.join(" ")} ${(p.points ?? []).join(" ")}`;
+      if (!matchesTerms(hay, terms)) return false;
     }
     return true;
   });

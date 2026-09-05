@@ -1,8 +1,9 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState, type TouchEvent } from "react";
 import { X } from "lucide-react";
 import type { Pick, PicksMeta } from "@/types";
 import { genreGradient, genrePhotoOverlay, resolveImage, shortLabel } from "@/lib/picks";
 import { buildDigest } from "@/lib/digest";
+import { keepAscii } from "@/lib/text";
 
 const DUR = 4500;
 const BRAND_BG = "linear-gradient(160deg, #21413d 0%, #0e1a18 100%)";
@@ -149,6 +150,22 @@ export function StoriesDigest({
     clearTimeout(hold.current.timer);
     pausedRef.current = false;
   };
+  // スワイプ（横 50px 以上・縦ブレ小）で前後へ。タップゾーンのクリックと二重に効かないよう印を残す
+  const swipe = useRef({ x: 0, y: 0, fired: false });
+  const onTouchStart = (e: TouchEvent) => {
+    const t = e.touches[0];
+    swipe.current = { x: t.clientX, y: t.clientY, fired: false };
+  };
+  const onTouchEnd = (e: TouchEvent) => {
+    const t = e.changedTouches[0];
+    const dx = t.clientX - swipe.current.x;
+    const dy = t.clientY - swipe.current.y;
+    if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+      swipe.current.fired = true;
+      hold.current.held = true; // 続く click をめくり扱いにしない
+      dx < 0 ? goNext() : goPrev();
+    }
+  };
   const zoneClick = (dir: 1 | -1) => {
     if (hold.current.held) {
       hold.current.held = false;
@@ -169,7 +186,7 @@ export function StoriesDigest({
       aria-label="今週のダイジェスト"
       ref={dialogRef}
     >
-      <div className="stories-phone">
+      <div className="stories-phone" onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
         {/* progress */}
         <div className="stories-bars">
           {slides.map((_, i) => (
@@ -264,7 +281,7 @@ function StoryCard({
             蓄積した <b>{totalCount}件</b> から、今週の{" "}
             <b>注目 {digest.length}選</b>。
             <br />
-            タップで次へ、長押しで一時停止。
+            タップかスワイプで次へ、長押しで一時停止。
           </p>
         </div>
         <div className="stories-hint">▶ タップでスタート</div>
@@ -330,7 +347,7 @@ function StoryCard({
       </div>
       <div className="inner">
         <div className="gchip">{shortLabel(meta.genres[p.genre])}</div>
-        <h2 className="name mincho">{p.name}</h2>
+        <h2 className="name mincho">{keepAscii(p.name)}</h2>
         <p className="blurb">{p.blurb}</p>
         {p.points && p.points.length > 0 ? (
           <ul className="pts">
