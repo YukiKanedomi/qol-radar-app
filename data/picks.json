@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-06",
+    "lastUpdated": "2026-09-07",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8903,6 +8903,80 @@
       "sources": [
         "https://kakakumag.com/seikatsu-kaden/?id=19031",
         "https://getnavi.jp/appliances/1055441/"
+      ]
+    },
+    {
+      "id": "dyson-camerajet",
+      "name": "Dyson CameraJet（電動歯ブラシ）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "カメラで歯間の汚れを検知し自動でジェット噴射、磨きながらフロスまで完了する電動歯ブラシ",
+      "points": [
+        "ブラシヘッド付近のカメラが歯間の汚れをリアルタイム検知し、自動でマウスリンスをジェット噴射",
+        "ブラッシング中にフロスケアが同時完結、IPX7防水でシャワー中も使用可",
+        "2026年9月1日発売、価格は79,800円"
+      ],
+      "tags": [
+        "オーラルケア",
+        "時短",
+        "Dyson"
+      ],
+      "dateAdded": "2026-09-07",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001060/",
+        "https://kaden.watch.impress.co.jp/docs/news/2137602.html",
+        "https://www.dyson.co.jp/oral-care/electric-toothbrush/camerajet/ceramic-pink"
+      ]
+    },
+    {
+      "id": "iris-ohyama-chefbot-chef-chao",
+      "name": "アイリスオーヤマ CHEFBOT Chef Chao（自動調理鍋 SA-CH24-C）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "フタなし調理で余分な水分を飛ばし、パラパラ炒飯やシャキッと炒め物を自動で作る調理鍋",
+      "points": [
+        "フタを外したまま調理でき、蒸気を逃がすことで炒め物特有のパラパラ・シャキッとした食感を再現",
+        "長さの異なる3本アーム「まぜチャオアーム」と底面温度センサーで撹拌・火力を自動調整、120種類以上のオートメニューに対応",
+        "2026年8月31日発売、実勢価格は約38,000円〜"
+      ],
+      "tags": [
+        "自動調理鍋",
+        "時短料理",
+        "炒め物"
+      ],
+      "dateAdded": "2026-09-07",
+      "status": "new",
+      "sources": [
+        "https://www.irisohyama.co.jp/news/2026/?date=0825",
+        "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2114/id=158377/",
+        "https://gourmet.watch.impress.co.jp/docs/news/2135644.html"
+      ]
+    },
+    {
+      "id": "flexkey-sauna-subscription",
+      "name": "FLEXKEY（フレックスキー）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "月額6,490円で都内近郊47施設のサウナ・銭湯に毎日通い放題",
+      "points": [
+        "平日昼〜深夜など施設の空き時間帯を活用し、提携施設へ1日1回(90分まで)入館できる仕組み",
+        "クラウドファンディングで話題になり、2026年6月1日より一般会員の募集を開始",
+        "都内・近郊中心に47施設が対象"
+      ],
+      "tags": [
+        "サウナ",
+        "定額",
+        "リラックス"
+      ],
+      "dateAdded": "2026-09-07",
+      "status": "new",
+      "sources": [
+        "https://furosauna.com/2026/05/28/115137492/",
+        "https://spaworks.jp/article/9615"
       ]
     }
   ]
