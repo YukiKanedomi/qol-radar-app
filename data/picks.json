@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-07",
+    "lastUpdated": "2026-09-08",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -8977,6 +8977,106 @@
       "sources": [
         "https://furosauna.com/2026/05/28/115137492/",
         "https://spaworks.jp/article/9615"
+      ]
+    },
+    {
+      "id": "aladdin-poca-laser",
+      "name": "Aladdin Poca Laser",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "3色レーザー×550ANSIルーメン、置き場所を選ばない小型プロジェクター",
+      "points": [
+        "3色レーザー光源で550ANSIルーメンの高輝度・高発色",
+        "360°回転スタンド内蔵で天井投影もそのままできる",
+        "20,000mAhバッテリー内蔵でコード不要、最大200インチ投影"
+      ],
+      "tags": [
+        "プロジェクター",
+        "ホームシアター",
+        "ガジェット"
+      ],
+      "dateAdded": "2026-09-08",
+      "status": "new",
+      "sources": [
+        "https://www.rentio.jp/matome/2026/01/aladdin-poca-laser-review/",
+        "https://note.com/mocchan/n/n1230cfbef555",
+        "https://taisy0.com/2026/02/26/219951.html"
+      ]
+    },
+    {
+      "id": "recolte-food-waste-disposer-rdp2",
+      "name": "recolte コンパクト生ごみ処理機 RDP-2",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "前モデルより脱臭力22%アップ、小型軽量になった生ごみ処理機の新定番",
+      "points": [
+        "活性炭グレードを高めた新型脱臭フィルターでピーク臭気を約22%軽減",
+        "前モデルRDP-1よりコンパクト・軽量化、消費電力も抑制",
+        "約4.5時間で生ごみを自動乾燥・粉砕し1/5の重量に"
+      ],
+      "tags": [
+        "生ごみ処理機",
+        "時短家電",
+        "キッチン"
+      ],
+      "dateAdded": "2026-09-08",
+      "status": "new",
+      "sources": [
+        "https://www.yodobashi.com/product/100000001009760164/",
+        "https://recolte-jp.com/products/rdp-2/",
+        "https://aeonretail.com/product/0/P-4582180207418/"
+      ]
+    },
+    {
+      "id": "jabra-evolve2-65",
+      "name": "Jabra Evolve2 65",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "37時間バッテリーとノイキャン内蔵、在宅ワークの定番ワイヤレスヘッドセット",
+      "points": [
+        "Microsoft Teams認定、口元近くのブームマイクで声を拾いやすい",
+        "Bluetooth接続でPCから離れても会議の音声を聞き続けられる",
+        "最大37時間駆動でバッテリー切れを気にせず終日使える"
+      ],
+      "tags": [
+        "ヘッドセット",
+        "Web会議",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-09-08",
+      "status": "new",
+      "sources": [
+        "https://helentech.jp/review-jabra-evolve2-65-flex-uc/",
+        "https://yamanote-chaosmos.com/jabra-evolve2-65/",
+        "https://pcefan.com/diary/?p=9121"
+      ]
+    },
+    {
+      "id": "clas-furniture-appliance-rental",
+      "name": "CLAS（クラス）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "月額440円〜、家具・家電を「買わずに試す」レンタルサブスク",
+      "points": [
+        "家具・家電を約400ブランド・2000点から月単位でレンタル、いつでも返却可",
+        "会員数20万人超、通常使用の傷や汚れは補償ありで気兼ねなく使える",
+        "配送・組み立て込みのプランもあり引っ越し・模様替えの負担を軽減"
+      ],
+      "tags": [
+        "家具家電レンタル",
+        "サブスク",
+        "時短"
+      ],
+      "dateAdded": "2026-09-08",
+      "status": "new",
+      "sources": [
+        "https://clas.style/article/1925",
+        "https://marri-marri.jp/gentry/clas/",
+        "https://subscgirl.com/kurashi/clas-kagu-kadenn-subsc/"
       ]
     }
   ]
