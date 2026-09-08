@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-08",
+    "lastUpdated": "2026-09-09",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9077,6 +9077,106 @@
         "https://clas.style/article/1925",
         "https://marri-marri.jp/gentry/clas/",
         "https://subscgirl.com/kurashi/clas-kagu-kadenn-subsc/"
+      ]
+    },
+    {
+      "id": "altena-ice-maker",
+      "name": "ALTENA コンパクト高速製氷機",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "水入れてボタン、最短6分で氷ができる時短家電",
+      "points": [
+        "冷蔵庫の自動製氷は2時間で氷12個程度に対し、本機は約1時間で160個ペースと圧倒的に速い",
+        "溶けにくいクリア氷が作れ、カクテル・ハイボールの質も上がる",
+        "楽天ランキング1位・Makuake達成率3,549%と購入者/クラウドファンディング双方で支持"
+      ],
+      "tags": [
+        "製氷機",
+        "時短家電",
+        "キッチン"
+      ],
+      "dateAdded": "2026-09-09",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000253.000068824.html",
+        "https://review.rakuten.co.jp/item/1/275973_10004214/1.1/",
+        "https://www.pikaene.com/alterna-ice-maker-review/"
+      ]
+    },
+    {
+      "id": "nitori-expandable-freezer-tray",
+      "name": "ニトリ 伸縮できる野菜・冷凍庫トレー（スリム）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "伸縮トレーで冷凍庫の迷子食材ゼロ、中身が見える収納に",
+      "points": [
+        "奥行約20cm〜最大32.7cmまで庫内サイズに合わせて伸縮でき、隙間なくフィットさせられる",
+        "透明PET素材で中身が一目で分かり、食材ロス・賞味期限切れ防止に効く",
+        "799円と安価ながら複数の独立メディアで「冷凍庫がスッキリ」と高評価"
+      ],
+      "tags": [
+        "収納",
+        "キッチン",
+        "冷凍庫"
+      ],
+      "dateAdded": "2026-09-09",
+      "status": "new",
+      "sources": [
+        "https://nlab.itmedia.co.jp/research/articles/3890776/",
+        "https://www.roomie.jp/2025/11/1632140/",
+        "https://joshi-spa.jp/1387433"
+      ]
+    },
+    {
+      "id": "granola-ai-notes",
+      "name": "Granola（AI議事録アプリ）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "会議にボットを送らず自分のメモをAIが清書する議事録アプリ",
+      "points": [
+        "Bot参加なしでローカル音声を直接キャプチャするため、相手には普通の会議に見える",
+        "会議中に自分で取った簡単なメモを、終了後にAIが音声トランスクリプトと突き合わせ構造化議事録に整形",
+        "2026年3月に$150M調達・評価額$1.5Bと報道、9月に日本語対応精度が向上"
+      ],
+      "tags": [
+        "AI",
+        "議事録",
+        "会議効率化"
+      ],
+      "dateAdded": "2026-09-09",
+      "status": "new",
+      "sources": [
+        "https://www.wetch.co.jp/ai/2026/07/01/granola%E5%85%A5%E9%96%80%EF%BC%9A%E4%BC%9A%E8%AD%B0%E3%81%AB%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E9%80%81%E3%82%89%E3%81%AAai%E3%83%8E%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97/",
+        "https://ai-keiei-lab.jp/ai/granola/",
+        "https://review.waction.org/tools/granola"
+      ]
+    },
+    {
+      "id": "sixpad-recovery-massager-seat",
+      "name": "SIXPAD Recovery Massager Seat",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "座るだけで肩〜腰をケア、\"ながら\"で回せる時短マッサージシート",
+      "points": [
+        "SIXPAD初の管理医療機器認証を取得したシート型マッサージャー。椅子に置いて座るだけで血行促進とコリ緩和を狙える",
+        "コードレス充電式で、ダイニングチェアやオフィスチェアに置くだけ。仕事中・TV視聴中の\"ながら\"利用ができる",
+        "2026年9月1日発売の新顔で、10分自動オフの安全設計"
+      ],
+      "tags": [
+        "時短",
+        "マッサージ",
+        "デスクワーク"
+      ],
+      "dateAdded": "2026-09-09",
+      "status": "new",
+      "sources": [
+        "https://www.mtg.gr.jp/news/detail/2026/08/article_2639.html",
+        "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2140/id=158503/",
+        "https://prtimes.jp/main/html/rd/p/000001064.000029736.html"
       ]
     }
   ]
