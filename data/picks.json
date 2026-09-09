@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-09",
+    "lastUpdated": "2026-09-10",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9177,6 +9177,56 @@
         "https://www.mtg.gr.jp/news/detail/2026/08/article_2639.html",
         "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2140/id=158503/",
         "https://prtimes.jp/main/html/rd/p/000001064.000029736.html"
+      ]
+    },
+    {
+      "id": "subu-winter-sandal",
+      "name": "SUBU 冬用サンダル",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "起毛の中敷きとふかふかソールで、素足のまま履ける冬の玄関先サンダル。ゴミ出しや宅配対応のハードルを下げる",
+      "points": [
+        "キルティングの厚手アッパーで爪先まで暖かい",
+        "起毛インソールで靴下無しでも冷えにくい",
+        "室内履きと兼用でき、玄関に置くだけで出かけやすくなる"
+      ],
+      "tags": [
+        "防寒",
+        "サンダル",
+        "冬支度"
+      ],
+      "dateAdded": "2026-09-10",
+      "status": "new",
+      "sources": [
+        "https://www.beams.co.jp/blog/mmb/170023/",
+        "https://panda-camp.com/subu/",
+        "https://theslowstandard.com/subu-winter-sandal-review/"
+      ]
+    },
+    {
+      "id": "edifier-m60",
+      "name": "EDIFIER M60",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "66W出力・LDAC対応のコンパクトデスクトップスピーカー。VGP2025金賞＆コスパ大賞をダブル受賞",
+      "points": [
+        "1台で66W出力、コンパクトながら迫力のある音",
+        "Bluetooth 5.3 LDAC対応でハイレゾ相当の高音質",
+        "タッチパネル操作でデスク上がすっきり片付く"
+      ],
+      "tags": [
+        "スピーカー",
+        "デスク環境",
+        "オーディオ"
+      ],
+      "dateAdded": "2026-09-10",
+      "status": "new",
+      "sources": [
+        "https://kakaku.com/item/J0000046776/",
+        "https://www.edifier.jp/products/m60",
+        "https://monopedia.jp/edifier-m60/"
       ]
     }
   ]
