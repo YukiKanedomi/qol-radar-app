@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-10",
+    "lastUpdated": "2026-09-11",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9227,6 +9227,130 @@
         "https://kakaku.com/item/J0000046776/",
         "https://www.edifier.jp/products/m60",
         "https://monopedia.jp/edifier-m60/"
+      ]
+    },
+    {
+      "id": "m5-stackchan",
+      "name": "M5 スタックチャン（AIデスクトップロボット）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "机の上でAIと会話するミニロボット、組み立て済みですぐ使える",
+      "points": [
+        "AI(GPT-4o mini等)と音声で会話でき、ウェイクワードで話しかけて起動できる",
+        "スイッチサイエンス公式が組み立て済みで販売、届いてすぐ使える手軽さ",
+        "オープンソースでカスタマイズ自在、人気で品切れが続く注目度の高さ"
+      ],
+      "tags": [
+        "AI",
+        "ロボット"
+      ],
+      "dateAdded": "2026-09-11",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000244.000064534.html",
+        "https://www.switch-science.com/products/11129",
+        "https://mister-gadget.net/news/m5stack-stack-chan-release-202605081226/"
+      ]
+    },
+    {
+      "id": "dyson-pencilwash",
+      "name": "Dyson PencilWash™ 水拭きクリーナー",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "直径38mm・2.2kgの軽量ペン型で、床の水拭きをコードレスで手軽に",
+      "points": [
+        "スリムなハンドルで家具の隙間や狭い場所もすいすい水拭きできる",
+        "常にきれいな水を供給しながら拭き取る仕組みで拭きムラが少ない",
+        "2026年春に日本発売、公式レビューは概ね好評だが吸引はできず賛否あり"
+      ],
+      "tags": [
+        "掃除",
+        "水拭き",
+        "コードレス"
+      ],
+      "dateAdded": "2026-09-11",
+      "status": "new",
+      "sources": [
+        "https://www.dyson.co.jp/floor-cleaners/wet/pencilwash",
+        "https://www.nikkei.com/article/DGXZRSP703291_Z10C26A2000000/",
+        "https://prtimes.jp/main/html/rd/p/000000187.000042335.html"
+      ]
+    },
+    {
+      "id": "borderless-angle10",
+      "name": "BORDERLESS ANGLE10（卓上傾斜台）",
+      "genre": "work",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "机に10度の傾斜をつけて猫背・前傾姿勢を自然に防ぐ卓上ボード",
+      "points": [
+        "10度の固定傾斜でノートPC作業でも自然に視線が上がり、首・肩の負担が軽減する",
+        "3mmアルミ製で剛性が高く、専用マット付属でペン書き・光学マウス操作も快適",
+        "3年以上使い続ける愛用者のレビューも多く、長期使用に耐える作りと評判"
+      ],
+      "tags": [
+        "姿勢改善",
+        "デスクワーク",
+        "猫背対策"
+      ],
+      "dateAdded": "2026-09-11",
+      "status": "new",
+      "sources": [
+        "https://borderless-shop.com/collections/angle10",
+        "https://number84log.com/angle10/",
+        "https://gori.me/mac-accessories/mac-prepherial/137078",
+        "https://news.yahoo.co.jp/expert/articles/f7adf52b07639169e9921b40d4e4103e374343c4"
+      ]
+    },
+    {
+      "id": "philips-smartsleep-deep-sleep-headband-2",
+      "name": "Philips SmartSleep ディープスリープ ヘッドバンド2",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "脳波を検知し最適なタイミングで音を流し深い眠りを後押しする医療機器メーカー製ヘッドバンド",
+      "points": [
+        "額の3点センサーで脳波をリアルタイム計測し、徐波睡眠（深い眠り）のタイミングで500〜2000Hzの音刺激を流す独自方式",
+        "第2世代は骨伝導スピーカーを採用し耳を塞がない装着感に改善、専用アプリで睡眠時間・スコアをトラッキング可能",
+        "フィリップスという医療機器分野で実績あるメーカー製で、価格.com・ヨドバシ等の正規販売網で流通"
+      ],
+      "tags": [
+        "睡眠",
+        "スリープテック",
+        "脳波"
+      ],
+      "dateAdded": "2026-09-11",
+      "status": "new",
+      "sources": [
+        "https://www.philips.co.jp/c-p/HH1607_02/smartsleep-deep-sleep-headband-2-medium",
+        "https://kakaku.com/item/K0001332198/",
+        "https://www.rentio.jp/matome/2020/11/smartsleep-deepsleep-headband-review/"
+      ]
+    },
+    {
+      "id": "postcoffee-subscription",
+      "name": "PostCoffee",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "AI診断で自分好みの豆が届く、実店舗も持つ人気コーヒー定期便",
+      "points": [
+        "独自の「コーヒー診断」で好みに合う豆を提案、組み合わせは30万通り",
+        "世界各国のロースターが焙煎したスペシャルティコーヒーを毎月お届け",
+        "下北沢に実店舗カフェもオープンするほどの人気・信頼度"
+      ],
+      "tags": [
+        "コーヒー",
+        "定期便"
+      ],
+      "dateAdded": "2026-09-11",
+      "status": "new",
+      "sources": [
+        "https://postcoffee.co/subscription/",
+        "https://news.yahoo.co.jp/expert/articles/e131092d09cecbfd91904f93847934fa1f5d4b8f",
+        "https://livefreez.co.jp/lifestyle/postcoffee-review/"
       ]
     }
   ]
