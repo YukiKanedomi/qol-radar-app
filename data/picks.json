@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-11",
+    "lastUpdated": "2026-09-12",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9351,6 +9351,131 @@
         "https://postcoffee.co/subscription/",
         "https://news.yahoo.co.jp/expert/articles/e131092d09cecbfd91904f93847934fa1f5d4b8f",
         "https://livefreez.co.jp/lifestyle/postcoffee-review/"
+      ]
+    },
+    {
+      "id": "ugreen-revodok-pro-314",
+      "name": "UGREEN Revodok Pro 314",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "USB-Cケーブル1本でPCを3画面出力＆14機能に拡張するドッキングステーション",
+      "points": [
+        "HDMI2口+DisplayPort1口で最大3画面同時出力",
+        "10Gbps転送・100W給電・SDスロットまで14-in-1",
+        "定価2.2万円台だがセールで1.2〜1.4万円台に下がりやすい"
+      ],
+      "tags": [
+        "USB-Cハブ",
+        "モニター",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-09-12",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/mobile/articles/2604/30/news077.html",
+        "https://ascii.jp/elem/000/004/365/4365475/",
+        "https://decoy284.net/ugreen-revodok-pro-314/"
+      ]
+    },
+    {
+      "id": "leye-drain-net-holder",
+      "name": "leye（レイエ）シンク掃除が楽になる排水口ネットホルダー",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "市販の水切りネットをかぶせるだけ。ヌメヌメのゴミ受けカゴ洗いから解放される排水口カバー",
+      "points": [
+        "花形状のリングが水切りネットをしっかり保持し水切れも良好",
+        "防汚加工クリンベル配合で汚れがつきにくく食洗機にも対応",
+        "ゴミ受けカゴ自体が不要になりヌメリ洗いの手間が消える"
+      ],
+      "tags": [
+        "キッチン",
+        "排水口",
+        "時短掃除"
+      ],
+      "dateAdded": "2026-09-12",
+      "status": "new",
+      "sources": [
+        "https://www.roomie.jp/2026/03/1738869/",
+        "https://www.rakuten.ne.jp/gold/angers/column/c21010804.html",
+        "https://macaro-ni.jp/126945"
+      ]
+    },
+    {
+      "id": "xppen-ack05",
+      "name": "XPPen ACK05",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "6,980円で買えるコスパ最強クラスの左手デバイス。ショートカット操作でPC作業がサクサクに",
+      "points": [
+        "10ボタン+ダイヤルのワイヤレス接続でドライバ不要",
+        "1000mAhバッテリーで約300時間駆動、75gと軽量",
+        "Stream Deck等の高級左手デバイスより手頃な価格帯"
+      ],
+      "tags": [
+        "左手デバイス",
+        "作業効率",
+        "デスク環境"
+      ],
+      "dateAdded": "2026-09-12",
+      "status": "new",
+      "sources": [
+        "https://gadget-life.blog/left_device_xppen_ack05_review/",
+        "https://mochugaje.com/xppen-ack05/",
+        "https://saculog.com/xp-pen-ack05/"
+      ]
+    },
+    {
+      "id": "soxai-ring-2",
+      "name": "SOXAI RING 2",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "日本製・買い切りで使えるスマートリング。世界最薄クラスの薄さと14日バッテリーが売り",
+      "points": [
+        "月額サブスク不要で計測・分析まで無料利用できる",
+        "6.7mm幅・2.7mm厚の世界最薄クラス設計で睡眠時も気にならない",
+        "独自Deep Sensingセンサーで睡眠計測に強みを持つ"
+      ],
+      "tags": [
+        "スマートリング",
+        "睡眠",
+        "健康管理"
+      ],
+      "dateAdded": "2026-09-12",
+      "status": "new",
+      "sources": [
+        "https://soxai.co.jp/pages/soxai-ring-2-lp",
+        "https://note.com/mocchan/n/nf51c1278f42f",
+        "https://www.rentio.jp/products/soxai-ring2/reviews"
+      ]
+    },
+    {
+      "id": "delipicks-frozen-meal",
+      "name": "DELIPICKS（デリピックス）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "フレンチシェフ監修の冷凍宅配弁当サブスク。糖質・たんぱく質を管理しつつ本格的な味",
+      "points": [
+        "ミシュラン星付き店出身シェフ監修で100種類以上のメニュー",
+        "糖質平均30g以下・たんぱく質平均15g以上の栄養設計",
+        "電子レンジ約5分で調理完了、回数縛りなしでスキップ可能"
+      ],
+      "tags": [
+        "宅配食",
+        "冷凍弁当",
+        "サブスク"
+      ],
+      "dateAdded": "2026-09-12",
+      "status": "new",
+      "sources": [
+        "https://deli-picks.com/",
+        "https://exidea.co.jp/blog/meal/home-meal/delipicks/",
+        "https://note.com/subsctry/n/na18615016ee0"
       ]
     }
   ]
