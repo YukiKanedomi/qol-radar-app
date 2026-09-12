@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-12",
+    "lastUpdated": "2026-09-13",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9476,6 +9476,131 @@
         "https://deli-picks.com/",
         "https://exidea.co.jp/blog/meal/home-meal/delipicks/",
         "https://note.com/subsctry/n/na18615016ee0"
+      ]
+    },
+    {
+      "id": "epeios-okare-et003",
+      "name": "EPEIOS Okare! ET003（音波電動歯ブラシ）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "5千円台で家電批評3年連続1位、コスパ最強の音波電動歯ブラシ",
+      "points": [
+        "毎分32,000回の音波振動＋デュポン社製ブラシで、低価格ながら歯垢除去力が高評価",
+        "1回の充電で約180日使えるバッテリー持ちとIPX7防水で手入れも簡単",
+        "「家電批評」ベストバイ電動歯ブラシ部門で3年連続1位を獲得し殿堂入り"
+      ],
+      "tags": [
+        "オーラルケア",
+        "時短",
+        "コスパ"
+      ],
+      "dateAdded": "2026-09-13",
+      "status": "new",
+      "sources": [
+        "https://360life.shinyusha.co.jp/articles/-/38477",
+        "https://my-best.com/products/739109",
+        "https://kakaku.com/item/K0001559071/"
+      ]
+    },
+    {
+      "id": "sharp-hotcook-pro-cooktalk",
+      "name": "ヘルシオ ホットクック pro（生成AI対応 KN-HW24K）",
+      "genre": "housework",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "話しかけるだけで献立提案。2段調理でご飯とおかずが同時に完成",
+      "points": [
+        "生成AI「クックトーク」で献立相談〜調理手順案内まで対話操作",
+        "内鍋+トレーの2段調理でご飯とおかずが同時完成、時短・省エネ",
+        "無水自動調理でほったらかし、火を使わず安全"
+      ],
+      "tags": [
+        "調理",
+        "AI",
+        "共働き"
+      ],
+      "dateAdded": "2026-09-13",
+      "status": "new",
+      "sources": [
+        "https://corporate.jp.sharp/news/260729-a.html",
+        "https://gourmet.watch.impress.co.jp/docs/news/2128987.html",
+        "https://news.yahoo.co.jp/articles/124aef32180ad132d6477080587a324644e65b88"
+      ]
+    },
+    {
+      "id": "spigen-deskmat-ld302",
+      "name": "Spigen デスクマット LD302",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "革製デスクマットで打鍵音も机の振動も静かに、質感も一段上がる",
+      "points": [
+        "ヴィーガンレザー製で防水、コーヒーをこぼしても拭き取るだけでシミにならない",
+        "裏面が滑り止め加工で、マウスを激しく動かしてもズレない安定感",
+        "タイピングの打鍵音・机への振動が和らぎ、デスク周りの質感が向上"
+      ],
+      "tags": [
+        "デスク環境",
+        "レザー",
+        "作業効率"
+      ],
+      "dateAdded": "2026-09-13",
+      "status": "new",
+      "sources": [
+        "https://note.com/taishon/n/n22ca75e27913",
+        "https://shinpi-gadget.com/spigen-deskpad/"
+      ]
+    },
+    {
+      "id": "panasonic-fineveil-eh-sh50",
+      "name": "パナソニック ファインバブルシャワーヘッド ファインベール EH-SH50",
+      "genre": "health",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "浴びるだけで頭皮・肌が整う、パナソニック5年開発のシャワーヘッド",
+      "points": [
+        "洗髪・ボディ・洗顔など利用シーンごとに水流モードを切替でき、毎日のシャワー時間がそのままケア時間になる時短設計",
+        "プレシャンプーで頭皮のニオイが気にならなくなった、泡立ちが良くなり髪がまとまるとの声が複数レビューで一致",
+        "LIPS実使用レビュー56件、レンタルサービスの評価ページなど独立した複数ソースで高評価が確認できる"
+      ],
+      "tags": [
+        "シャワーヘッド",
+        "時短ケア",
+        "ヘアケア"
+      ],
+      "dateAdded": "2026-09-13",
+      "status": "new",
+      "sources": [
+        "https://waterx.co.jp/showerhead/fineveil-review/",
+        "https://lipscosme.com/products/672058/review",
+        "https://www.rentio.jp/products/eh-sh50/reviews"
+      ]
+    },
+    {
+      "id": "p-support-neighbor-trouble",
+      "name": "Pサポ（近隣トラブル解決支援サービス）",
+      "genre": "service",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "元警察官に近隣トラブルを月550円〜で無制限電話相談できる安心サブスク",
+      "points": [
+        "相談員は全員元警察官。騒音・迷惑行為・SNS誹謗中傷など「事件未満」トラブルに対応",
+        "月550円〜（セゾン/UCカード会員は440円、プラチナ会員は特典で無料）で追加費用なし",
+        "サービス開始8年で全国134万人が利用、TBS「がっちりマンデー」でも特集"
+      ],
+      "tags": [
+        "近隣トラブル",
+        "安心",
+        "相談窓口",
+        "サブスク"
+      ],
+      "dateAdded": "2026-09-13",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000341.000004442.html",
+        "https://diamond.jp/zai/articles/-/1051313",
+        "https://nichijyou-kai.com/gacchirimonday-vanguardsmith/"
       ]
     }
   ]
