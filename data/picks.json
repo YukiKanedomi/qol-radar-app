@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-13",
+    "lastUpdated": "2026-09-14",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9601,6 +9601,33 @@
         "https://prtimes.jp/main/html/rd/p/000000341.000004442.html",
         "https://diamond.jp/zai/articles/-/1051313",
         "https://nichijyou-kai.com/gacchirimonday-vanguardsmith/"
+      ]
+    },
+    {
+      "id": "medulla-personalized-shampoo",
+      "name": "MEDULLA（メデュラ）パーソナライズシャンプー",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "髪質診断から約3万通りの処方で作る、自分専用シャンプー＆リペアの定期便。",
+      "points": [
+        "オンライン診断だけで自分の髪質・頭皮に合わせた専用処方",
+        "泡立ちや髪質改善の好評レビューが多数（みん評638件等で集計）",
+        "初回のみでの解約も可能で気軽に試せる"
+      ],
+      "tags": [
+        "パーソナライズ",
+        "ヘアケア",
+        "サブスク",
+        "美容"
+      ],
+      "dateAdded": "2026-09-14",
+      "status": "new",
+      "sources": [
+        "https://minhyo.jp/medulla",
+        "https://custom-shampoo.com/medulla/price/",
+        "https://monocil.jp/items/116395/",
+        "https://gakusuku.com/medulla/"
       ]
     }
   ]
