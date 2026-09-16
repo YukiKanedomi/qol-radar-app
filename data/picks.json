@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-15",
+    "lastUpdated": "2026-09-17",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9755,6 +9755,31 @@
         "https://kaigo-postseven.com/4777",
         "https://housekeeping-cafe.com/goyo-kiki",
         "https://hiyori60.com/goyo-kiki/"
+      ]
+    },
+    {
+      "id": "lavino-steam-nocturne",
+      "name": "LAViNO スチームノクターン",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "100℃加熱×超音波冷却で清潔な温ミストを出す新発想のハイブリッド加湿器",
+      "points": [
+        "特許構造「サーモソニック」で100℃加熱後に超音波でミスト化・冷却、99.99%除菌",
+        "運転音29dB(弱)/32dB(強)の静音設計＋4L大容量タンクで寝室向き",
+        "上部給水・パーツ少なめで手入れが簡単"
+      ],
+      "tags": [
+        "加湿器",
+        "乾燥対策",
+        "快眠"
+      ],
+      "dateAdded": "2026-09-17",
+      "status": "new",
+      "sources": [
+        "https://realsound.jp/tech/2026/09/post-2521811.html",
+        "https://prtimes.jp/main/html/rd/p/000000043.000084858.html",
+        "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2168/id=158802/"
       ]
     }
   ]
