@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-17",
+    "lastUpdated": "2026-09-19",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9780,6 +9780,82 @@
         "https://realsound.jp/tech/2026/09/post-2521811.html",
         "https://prtimes.jp/main/html/rd/p/000000043.000084858.html",
         "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2168/id=158802/"
+      ]
+    },
+    {
+      "id": "google-home-speaker-gemini",
+      "name": "Google Home スピーカー（Gemini for Home搭載）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "6年ぶりの新型。机の上に置ける「Gemini常駐の秘書」になる1.68万円のスマートスピーカー",
+      "points": [
+        "従来のコマンド型ではなく、Geminiの自然会話と「続けて会話」（ウェイクワード不要の追い質問）に対応",
+        "ドライバーを40mm→58mmに拡大した360度サウンドで、Nest Audioより音の解像感が向上",
+        "物理マイクスイッチとライトリングで聞き取り状態が一目で分かる（Gemini Live等の一部機能はGoogle Home Premium有料、初期6か月無料）"
+      ],
+      "tags": [
+        "スマートスピーカー",
+        "Gemini",
+        "音声アシスタント"
+      ],
+      "dateAdded": "2026-09-19",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2606/17/news119.html",
+        "https://www.watch.impress.co.jp/docs/review/review/2126335.html",
+        "https://kakakumag.com/pc-smartphone/?id=22424"
+      ]
+    },
+    {
+      "id": "notebooklm-source-grounded-ai",
+      "name": "NotebookLM",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "資料やYouTube・音声をまとめて読ませ、出典リンク付きで要約・質問できるGoogleのAIノート",
+      "points": [
+        "アップロードした資料の中だけから回答する設計で、回答ごとに参照箇所へのリンクが付き裏取りが速い",
+        "無料版でも1ノートブック50ソースまで登録可。100ページ超のPDFの要点整理や議事録づくりを短時間で",
+        "音声概要（会話形式のポッドキャスト風）で、資料を耳から把握できる。機密情報の扱いには注意"
+      ],
+      "tags": [
+        "AI",
+        "要約",
+        "議事録",
+        "リサーチ"
+      ],
+      "dateAdded": "2026-09-19",
+      "status": "new",
+      "sources": [
+        "https://webtan.impress.co.jp/e/2026/07/29/52991",
+        "https://biz.moneyforward.com/ai/basic/2577/",
+        "https://www.jooto.com/contents/notebooklm-price/"
+      ]
+    },
+    {
+      "id": "haier-jc-hg1a-dust-dock-cleaner",
+      "name": "ハイアール ゴミ収集ドック付きスティッククリーナー JC-HG1A",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "約3.3万円で買える自動ゴミ収集ドック付き。ゴミ捨ては約2か月に1回で済むコスパ機",
+      "points": [
+        "充電スタンドが1.8Lのダストドックを兼ね、約2か月分のゴミを溜められる（手動スタート式）",
+        "ダストピックアップ率99%以上の吸引力とホールドパワーブラシ。ドック幅は230mmとスリム",
+        "家電批評の実機比較でシャークの半額以下ながら上位機に迫る吸引力と評価"
+      ],
+      "tags": [
+        "掃除機",
+        "ゴミ収集ドック",
+        "コスパ"
+      ],
+      "dateAdded": "2026-09-19",
+      "status": "new",
+      "sources": [
+        "https://www.haier.com/jp/cleaner/jc-hg1a.shtml",
+        "https://kaden.watch.impress.co.jp/docs/news/2042924.html",
+        "https://360life.shinyusha.co.jp/articles/-/48760"
       ]
     }
   ]
