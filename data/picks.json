@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-19",
+    "lastUpdated": "2026-09-20",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9856,6 +9856,81 @@
         "https://www.haier.com/jp/cleaner/jc-hg1a.shtml",
         "https://kaden.watch.impress.co.jp/docs/news/2042924.html",
         "https://360life.shinyusha.co.jp/articles/-/48760"
+      ]
+    },
+    {
+      "id": "sony-wh-1000xm6",
+      "name": "ソニー WH-1000XM6",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "ソニー最上位のノイキャンヘッドホン。通勤・在宅の雑音を消して集中できる定番の最新世代",
+      "points": [
+        "新プロセッサー QN3 と左右計12基のマイクで周囲の騒音を解析し、ノイズキャンセリング性能が大きく進化",
+        "ノイキャンONで最大30時間、OFFで最大約40時間再生。折りたたみも復活して持ち運びやすい",
+        "LDAC対応で高音質、装着感も改良され2〜3時間の連続使用でも耳が疲れにくいとレビュー多数"
+      ],
+      "tags": [
+        "ヘッドホン",
+        "ノイズキャンセリング",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-09-20",
+      "status": "new",
+      "sources": [
+        "https://av.watch.impress.co.jp/docs/news/2013427.html",
+        "https://www.rentio.jp/matome/2025/09/sony-wh-1000xm6-review/",
+        "https://www.techradar.com/audio/wireless-headphones/sony-wh-1000xm6-review"
+      ]
+    },
+    {
+      "id": "ufit-vibrating-ball-mini",
+      "name": "uFit Vibrating Ball Mini",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "約290gの手のひらサイズ振動ボール。肩甲骨から足裏までピンポイントでほぐせる疲労回復グッズ",
+      "points": [
+        "直径約8cm・約290gで持ち運びやすく、デスクや旅先でも使えるコードレスのUSB充電式",
+        "4段階の振動調整（最大毎分3650回）で、筋肉の深部まで狙ってほぐせる",
+        "税込9,800円と手が届きやすい価格。最長7時間使え、メディアの実機記事でも好評"
+      ],
+      "tags": [
+        "振動ボール",
+        "筋膜リリース",
+        "疲労回復"
+      ],
+      "dateAdded": "2026-09-20",
+      "status": "new",
+      "sources": [
+        "https://ufit.co.jp/blogs/news/vibrating_ball_mini_250911",
+        "https://www.lifehacker.jp/article/2609-lht-vibrating-ball-mini/",
+        "https://my-best.com/21623"
+      ]
+    },
+    {
+      "id": "muji-waterless-aroma-diffuser",
+      "name": "無印良品 水を使わないアロマディフューザー",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "給水も頻繁な掃除も不要。オイルを直接噴霧する無印の直噴射式ディフューザー",
+      "points": [
+        "エッセンシャルオイル（10ml）にノズルキャップを付けて直接セットするだけで、水の補充・管理が不要",
+        "お手入れは月1回程度、または香りを変えるときだけで済み、湿気が気になる場所でも使える",
+        "電球色LEDの無段階調光で間接照明にもなる。税込4,990円、2時間オフタイマー付き"
+      ],
+      "tags": [
+        "アロマディフューザー",
+        "無印良品",
+        "お手入れ簡単"
+      ],
+      "dateAdded": "2026-09-20",
+      "status": "new",
+      "sources": [
+        "https://www.muji.com/jp/ja/store/cmdty/detail/4550583648817",
+        "https://kaden.watch.impress.co.jp/docs/column/iine/1577088.html",
+        "https://www.businessinsider.jp/article/282569/"
       ]
     }
   ]
