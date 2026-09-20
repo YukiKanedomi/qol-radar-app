@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-20",
+    "lastUpdated": "2026-09-21",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -9931,6 +9931,81 @@
         "https://www.muji.com/jp/ja/store/cmdty/detail/4550583648817",
         "https://kaden.watch.impress.co.jp/docs/column/iine/1577088.html",
         "https://www.businessinsider.jp/article/282569/"
+      ]
+    },
+    {
+      "id": "apple-airtag-2nd-gen",
+      "name": "Apple AirTag（第2世代）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "財布・鍵・荷物に付けて「どこ行った」を消す。第2世代は探せる範囲と音量が向上",
+      "points": [
+        "超広帯域（UWB）の「正確な場所を見つける」対応距離が初代の約1.5倍（最大約60m）に拡大し、スピーカー音量も約50%アップ",
+        "価格は据え置きの1個4,980円（税込）、4個入りは16,980円。初代用のアクセサリーもそのまま流用できる",
+        "レビューでは初代からの買い替えは意見が分かれる一方、これから買う・買い足す人には第2世代が推奨されている"
+      ],
+      "tags": [
+        "AirTag",
+        "紛失防止",
+        "Apple"
+      ],
+      "dateAdded": "2026-09-21",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/2026/02/apple-airtag-comparison.html",
+        "https://www.businessinsider.jp/article/2603-airtag-2nd-gen-review/",
+        "https://ascii.jp/elem/000/004/372/4372885/"
+      ]
+    },
+    {
+      "id": "iris-ijd-i50-dehumidifier-dryer",
+      "name": "アイリスオーヤマ 衣類乾燥除湿機 IJD-I50",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "サーキュレーターの風と除湿を合わせて部屋干しを短時間で乾かす、首振り付きの衣類乾燥除湿機",
+      "points": [
+        "乾燥風をサーキュレーターの強風に乗せて湿気を飛ばし、自然乾燥の約1/5にあたる約73分での乾燥をうたう",
+        "首振りは3段階で範囲を変えられ、冬の結露対策にも使えるという声が多い",
+        "電気代は1時間あたり約15円（デシカント式）。6畳未満向きで、12畳では乾かないことがある点は要注意"
+      ],
+      "tags": [
+        "除湿機",
+        "部屋干し",
+        "アイリスオーヤマ"
+      ],
+      "dateAdded": "2026-09-21",
+      "status": "new",
+      "sources": [
+        "https://review.kakaku.com/review/K0001157124/",
+        "https://monotopia.jp/review/701",
+        "https://translog.jp/irisohyama_ijd-i50_reviw/"
+      ]
+    },
+    {
+      "id": "barth-bicarbonate-bath-tablet",
+      "name": "薬用BARTH 中性重炭酸入浴剤",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "無香料・無着色の重炭酸入浴剤。ぬるめの湯でも体の芯から温まると評判",
+      "points": [
+        "ドイツの中性重炭酸泉をヒントにした無香料・無着色のシンプルな処方で、香りが苦手な人でも使いやすい",
+        "重炭酸イオンの温浴効果で、湯上がり後も温かさが続く・寝つきや朝の目覚めが良くなったという口コミがある",
+        "効果の体感には個人差があり、期待ほど温まらなかったという声もある点は把握しておきたい"
+      ],
+      "tags": [
+        "入浴剤",
+        "重炭酸",
+        "睡眠"
+      ],
+      "dateAdded": "2026-09-21",
+      "status": "new",
+      "sources": [
+        "https://lipscosme.com/products/274783",
+        "https://www.matsukiyococokara-online.com/useful-info/review/72",
+        "https://www.cosme.net/products/10128025/"
       ]
     }
   ]
