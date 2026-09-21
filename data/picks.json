@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-21",
+    "lastUpdated": "2026-09-22",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10006,6 +10006,85 @@
         "https://lipscosme.com/products/274783",
         "https://www.matsukiyococokara-online.com/useful-info/review/72",
         "https://www.cosme.net/products/10128025/"
+      ]
+    },
+    {
+      "id": "anker-eufycam-c37",
+      "name": "Anker Eufy eufyCam C37（ソーラー式屋外防犯カメラ）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "配線不要のソーラー給電で水平360°首振り＋AI追従。月額なし・約1.5万円で付けられる屋外防犯カメラ",
+      "points": [
+        "2K画質で水平360°・垂直90°のパンチルトに対応し、AIで動く人を自動追従。死角が出にくい",
+        "ソーラーパネル分離式（最大3W）で電源工事が不要。本体はIP65の防塵防水、ネジ止めだけで設置できる",
+        "録画はmicroSD（別売・最大256GB）で月額料金なし。Wi-Fiは2.4GHzのみ対応な点は要確認"
+      ],
+      "tags": [
+        "防犯カメラ",
+        "ソーラー",
+        "Anker",
+        "月額不要"
+      ],
+      "dateAdded": "2026-09-22",
+      "status": "new",
+      "sources": [
+        "https://ascii.jp/elem/000/004/430/4430911/",
+        "https://applech2.com/archives/20260516-anker-eufy-eufycam-c37.html",
+        "https://www.ankerjapan.com/products/t814x"
+      ]
+    },
+    {
+      "id": "mitsubishi-jisho-30min-housekeeping",
+      "name": "30min.（三菱地所の30分から頼める家事代行）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "同じマンション・エリアの依頼を束ねる巡回型で、最短30分から頼める定期家事代行",
+      "points": [
+        "従来は2〜3時間が最低だった家事代行を、需要の多い曜日・時間帯に集約することで30分単位から利用可能にした",
+        "料金は週1回以上・30分で1回2,750円、月2回・120分で1回8,360円（交通費込み。公式・報道時点の情報で、最新は要確認）",
+        "対象は東京23区に拡大済みで、整理収納代行などメニューも拡張中"
+      ],
+      "tags": [
+        "家事代行",
+        "定期利用",
+        "三菱地所",
+        "時短"
+      ],
+      "dateAdded": "2026-09-22",
+      "status": "new",
+      "sources": [
+        "https://www.nikkei.com/article/DGXZQOUC089040Y1A001C2000000/",
+        "https://www.watch.impress.co.jp/docs/news/1609607.html",
+        "https://www.mec.co.jp/news/detail/2024/07/17_mec240717_30min"
+      ]
+    },
+    {
+      "id": "omikamo-foldable-keyboard-b099t",
+      "name": "Omikamo 折りたたみBluetoothキーボード（日本語配列・タッチパッド付き）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "三つ折りでハガキ大。JIS配列とタッチパッド付きで、マウス無しでスマホ・タブレット作業ができる携帯キーボード",
+      "points": [
+        "JIS標準の日本語配列（逆L字Enter・左右Shift）でノートPC並みのキーピッチ。出先でも打ち間違えにくい",
+        "大型タッチパッドを内蔵し、カーソル移動・範囲選択・アプリ切替まで本体だけで完結",
+        "Bluetooth 5.2で3台＋有線1台を切替可能。Windows/Mac/iOS/Androidに対応。通常価格は約7,000円でセール時は5,000円台"
+      ],
+      "tags": [
+        "キーボード",
+        "携帯",
+        "iPad",
+        "モバイルワーク"
+      ],
+      "dateAdded": "2026-09-22",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2601/30/news127.html",
+        "https://www.itmedia.co.jp/pcuser/articles/2607/09/news161.html",
+        "https://tanweb.net/2024/10/19/60945/",
+        "https://nfr-log.com/review_omikamo-b099t-us/"
       ]
     }
   ]
