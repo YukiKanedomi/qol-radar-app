@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-22",
+    "lastUpdated": "2026-09-23",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10085,6 +10085,79 @@
         "https://www.itmedia.co.jp/pcuser/articles/2607/09/news161.html",
         "https://tanweb.net/2024/10/19/60945/",
         "https://nfr-log.com/review_omikamo-b099t-us/"
+      ]
+    },
+    {
+      "id": "vixion2-autofocus-eyewear",
+      "name": "ViXion2（オートフォーカスアイウェア）",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 3,
+      "blurb": "見た対象に自動でピントが合うメガネ型ガジェット。視野が前モデル比2.4倍に広がり、近視・老眼の悩みを一気に解消する",
+      "points": [
+        "5cm〜無限遠まで自動でピントが合う液晶レンズ搭載",
+        "レンズ径拡大で視野面積が前モデル比約2.4倍に",
+        "老眼・近視・白内障の眼内レンズユーザーにも対応"
+      ],
+      "tags": [
+        "アイウェア",
+        "老眼",
+        "ガジェット"
+      ],
+      "dateAdded": "2026-09-23",
+      "status": "new",
+      "sources": [
+        "https://www.itmedia.co.jp/pcuser/articles/2604/03/news027.html",
+        "https://www.watch.impress.co.jp/docs/news/2093853.html"
+      ]
+    },
+    {
+      "id": "yamazaki-dryer-holder-angle",
+      "name": "山崎実業 ウォール角度調節ドライヤーホルダー（tower）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ドライヤーを壁掛けしてハンズフリーに。角度調節ができ、歯磨きやスキンケアをしながら髪を乾かせる",
+      "points": [
+        "壁掛けでハンズフリー乾燥、歯磨き・スキンケアと同時進行できる",
+        "角度調節でどの向きでも風を当てられる",
+        "石こうボード壁に付属ピンで取り付け可能"
+      ],
+      "tags": [
+        "洗面所",
+        "時短",
+        "山崎実業"
+      ],
+      "dateAdded": "2026-09-23",
+      "status": "new",
+      "sources": [
+        "https://www.lifehacker.jp/article/2607-amazon-yamazaki-dryerholder/",
+        "https://www.gizmodo.jp/article/306580-2806-amazon-yamazaki-dryerholder-qkb/",
+        "https://www.yamajitsu.co.jp/products/240056"
+      ]
+    },
+    {
+      "id": "cocokara-care-sleep-premium",
+      "name": "ココカラケア 睡眠プレミアム",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ガセリ菌CP2305株とクロセチンを配合した機能性表示食品。眠りの深さと中途覚醒の軽減をサポートする",
+      "points": [
+        "ガセリ菌CP2305株が睡眠の質とストレス緩和をサポート",
+        "クロセチンが中途覚醒・起床時の眠気/疲労感の軽減をサポート",
+        "1日1粒、通販限定で定期コースあり"
+      ],
+      "tags": [
+        "睡眠",
+        "サプリ",
+        "機能性表示食品"
+      ],
+      "dateAdded": "2026-09-23",
+      "status": "new",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000395.000059194.html",
+        "https://www.calpis-shop.jp/c/lp_ccsuimin_cpn01/"
       ]
     }
   ]
