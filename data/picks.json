@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-23",
+    "lastUpdated": "2026-09-24",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10158,6 +10158,81 @@
       "sources": [
         "https://prtimes.jp/main/html/rd/p/000000395.000059194.html",
         "https://www.calpis-shop.jp/c/lp_ccsuimin_cpn01/"
+      ]
+    },
+    {
+      "id": "keychron-b1-pro-ultra-slim-keyboard",
+      "name": "Keychron B1 Pro",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "厚さ9〜14mmのシザースイッチ薄型ワイヤレスキーボード。持ち運びと打鍵感を両立し、キー割当も自由に変えられる",
+      "points": [
+        "9mm〜14mmの薄さでパームレスト不要、バッグにも入れやすい",
+        "2.4GHz/Bluetooth 5.2/有線の3接続で複数デバイスを切替",
+        "Keychron Launcherでキー割当・マクロを自由にカスタマイズ"
+      ],
+      "tags": [
+        "キーボード",
+        "薄型",
+        "持ち運び"
+      ],
+      "dateAdded": "2026-09-24",
+      "status": "new",
+      "sources": [
+        "https://gadget-chest.com/keychron-b1-pro-review/",
+        "https://mono-koto.blog/keychron-b1-pro-scissor-switch-ultra-slim-wireless-keyboard-jis-retro-green-zmk-review/",
+        "https://jimmy-blog.com/gadget/6744/"
+      ]
+    },
+    {
+      "id": "switchbot-led-ceiling-light",
+      "name": "SwitchBot LEDシーリングライト",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "スマホや声で操作でき、スケジュールで徐々に暗くもできるスマート照明。寝室に置くと特に便利",
+      "points": [
+        "声・アプリ・外出先から点灯/消灯でき、消し忘れや寝床からの操作の手間が消える",
+        "スケジュール機能で就寝前に徐々に減光でき睡眠環境を整えやすい",
+        "単体でも使え、ハブ/リモコン機能で他のSwitchBot製品と連携も可能"
+      ],
+      "tags": [
+        "スマートホーム",
+        "照明",
+        "睡眠"
+      ],
+      "dateAdded": "2026-09-24",
+      "status": "new",
+      "sources": [
+        "https://monotive.jp/switchbot-ceiling-light/",
+        "https://houselifeblog.com/switchbotceilinglight-review/",
+        "https://applimeshi.info/switchbot-ceilinglight/"
+      ]
+    },
+    {
+      "id": "ipad-mini-a17-pro",
+      "name": "iPad mini（A17 Pro）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "片手で持てる8.3インチにA17 Proを搭載。Apple Pencil Pro対応で、メモ・読書・出張の相棒になる",
+      "points": [
+        "軽量コンパクトで持ち運びやすく、ノート・読書・動画を場所を選ばず",
+        "A17 Proで日常用途はもたつかず、長期のOSアップデートも見込める",
+        "Apple Pencil Pro対応で手書きメモやスケッチも快適"
+      ],
+      "tags": [
+        "タブレット",
+        "持ち運び",
+        "手書きメモ"
+      ],
+      "dateAdded": "2026-09-24",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/5391555",
+        "https://iyusuke.jp/ipad-mini-a17pro-review/",
+        "https://note.com/___mikinao/n/na8da660b45fc"
       ]
     }
   ]
