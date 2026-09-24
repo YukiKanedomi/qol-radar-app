@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-24",
+    "lastUpdated": "2026-09-25",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10233,6 +10233,57 @@
         "https://my-best.com/products/5391555",
         "https://iyusuke.jp/ipad-mini-a17pro-review/",
         "https://note.com/___mikinao/n/na8da660b45fc"
+      ]
+    },
+    {
+      "id": "fire-tv-stick-hd-2026",
+      "name": "Fire TV Stick HD（2026年モデル）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "6,980円で従来比約30%高速化。スリムになりTVのUSB給電もOKの定番ストリーミング端末",
+      "points": [
+        "本体幅が約30%スリムになり、HDMI端子まわりに干渉しにくい",
+        "USB Type-C給電でTV側USBからも電源が取れ、配線がすっきり",
+        "UI刷新でホームに最大20アプリを表示、起動・画面切替も快適"
+      ],
+      "tags": [
+        "ストリーミング",
+        "TV",
+        "コスパ"
+      ],
+      "dateAdded": "2026-09-25",
+      "status": "new",
+      "sources": [
+        "https://www.businessinsider.jp/article/2605-amazon-fire-tv-stick-hd-review/",
+        "https://www.cnn.co.jp/tech/35248329.html",
+        "https://ascii.jp/elem/000/004/400/4400100/",
+        "https://www.livingtech.or.jp/column/firetv-stick-review/"
+      ]
+    },
+    {
+      "id": "azuki-no-chikara-neck-shoulder",
+      "name": "あずきのチカラ 首肩用",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "レンジで温めるだけの蒸気温熱ピロー。電源不要で約250回くり返し使える首肩ケア",
+      "points": [
+        "100%あずきの蒸気温熱で、じんわり肩・首まわりを温める",
+        "電子レンジで温めるだけ、電源不要でどこでも使える",
+        "約250回使えて経済的、デスクワークの毎日ケアに向く"
+      ],
+      "tags": [
+        "肩こり",
+        "温活",
+        "デスクワーク"
+      ],
+      "dateAdded": "2026-09-25",
+      "status": "new",
+      "sources": [
+        "https://lipscosme.com/products/74470",
+        "https://www.cosme.net/products/10108575/review/",
+        "https://review.rakuten.co.jp/review/item/1/201844_10121410/1.1/"
       ]
     }
   ]
