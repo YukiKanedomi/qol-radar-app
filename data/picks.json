@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-25",
+    "lastUpdated": "2026-09-26",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10284,6 +10284,32 @@
         "https://lipscosme.com/products/74470",
         "https://www.cosme.net/products/10108575/review/",
         "https://review.rakuten.co.jp/review/item/1/201844_10121410/1.1/"
+      ]
+    },
+    {
+      "id": "buffalo-nasne",
+      "name": "バッファロー nasne",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "テレビ番組の録画・視聴をネットワーク経由で。スマホ・タブレット・PCで自宅でも外出先でも観られるネットワークレコーダー",
+      "points": [
+        "スマホ・タブレット・PCで、地デジ/BS/CSの視聴と録画予約ができる",
+        "外出先からも視聴でき、アプリ視聴は720pのHD画質に対応",
+        "内蔵2TB、外付けHDDは最大6TBまで認識して大容量録画"
+      ],
+      "tags": [
+        "録画",
+        "テレビ",
+        "スマホ視聴"
+      ],
+      "dateAdded": "2026-09-26",
+      "status": "new",
+      "sources": [
+        "https://av.watch.impress.co.jp/docs/review/review/1315723.html",
+        "https://digital-style.jp/nasne-review",
+        "https://mitsublog.net/buffalo-nasne-review/",
+        "https://www.buffalo.jp/media/nasne-review-kogure202311/"
       ]
     }
   ]
