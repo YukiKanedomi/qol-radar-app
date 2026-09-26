@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-26",
+    "lastUpdated": "2026-09-27",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10310,6 +10310,58 @@
         "https://digital-style.jp/nasne-review",
         "https://mitsublog.net/buffalo-nasne-review/",
         "https://www.buffalo.jp/media/nasne-review-kogure202311/"
+      ]
+    },
+    {
+      "id": "quntis-monitor-light-bar",
+      "name": "Quntis モニターライト",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "自動調光つきでデスクを照らすモニターライト。5千円台からと、定番の高価格モデルより手が出しやすい",
+      "points": [
+        "部屋の明るさに合わせて輝度と色温度を自動調整し、日中は白色・夕方は暖色に変わる",
+        "5段階の調光と4段階の色温度に対応し、リモコン付きモデルもある",
+        "約5,680円（2026年1月時点）で、約15,900円のBenQ製品より1万円ほど安い"
+      ],
+      "tags": [
+        "デスクライト",
+        "モニターライト",
+        "自動調光"
+      ],
+      "dateAdded": "2026-09-27",
+      "status": "new",
+      "sources": [
+        "https://gadgeneko.jp/quntis-light41-review",
+        "https://www.tikgadget.jp/quntis-l205-qu-review/",
+        "https://mochugaje.com/quntis-monitor-light-focus-40cm/",
+        "https://www.kazunosu-k.com/screenber/"
+      ]
+    },
+    {
+      "id": "anker-soundcore-sleep-a20",
+      "name": "Anker Soundcore Sleep A20",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "耳栓代わりに着けて寝られる睡眠特化の完全ワイヤレスイヤホン。横向き寝でも邪魔になりにくい",
+      "points": [
+        "耳のくぼみに収まる形状と柔らかい素材で、横向き寝でも気にならないという評価が多い",
+        "ケース併用で最長55時間再生、1回の充電で約10時間使えて一晩を余裕でカバー",
+        "専用アプリと睡眠時モニタリングに対応し、IPX4防水"
+      ],
+      "tags": [
+        "睡眠",
+        "寝ホン",
+        "耳栓代わり"
+      ],
+      "dateAdded": "2026-09-27",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/8502779",
+        "https://watchmono.com/e/anker-soundcore-sleep-a20-review-check",
+        "https://style.monokoto68.com/headphone-earphone/anker-soundcore-sleep-a20/",
+        "https://akazukin-gadget.com/anker-soundcore-sleep-a20/"
       ]
     }
   ]
