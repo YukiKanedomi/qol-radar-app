@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-27",
+    "lastUpdated": "2026-09-28",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10362,6 +10362,84 @@
         "https://watchmono.com/e/anker-soundcore-sleep-a20-review-check",
         "https://style.monokoto68.com/headphone-earphone/anker-soundcore-sleep-a20/",
         "https://akazukin-gadget.com/anker-soundcore-sleep-a20/"
+      ]
+    },
+    {
+      "id": "aqara-led-bulb-t2",
+      "name": "Aqara LED電球 T2（Matter対応）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "今の電球を挿し替えるだけで照明がスマート化。Matter対応で主要スマートホームにつながり、時間帯で色温度も自動調整",
+      "points": [
+        "ZigbeeとThreadの両方に対応し、Apple Home・Google Home・Alexaなど主要なエコシステムと連携できる",
+        "2000K〜9000Kの幅広い色温度調整に対応。HomeKitの適応型照明で、朝は爽やかな光・夜は暖色へと時間帯に合わせて自動で切り替わる",
+        "E26口金で、価格は3,580円ほどからと、スマート照明の入口として手が出しやすい"
+      ],
+      "tags": [
+        "スマートホーム",
+        "Matter",
+        "照明"
+      ],
+      "dateAdded": "2026-09-28",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/1669665.html",
+        "https://9to5mac.com/2025/03/14/aqara-led-bulb-t2/",
+        "https://note.com/maru_smart/n/n2a06bcc4ad50",
+        "https://www.mirainokurashi.net/product/aqara-led-bulb-t2-cct-e26/"
+      ]
+    },
+    {
+      "id": "dreame-x50-ultra",
+      "name": "Dreame X50 Ultra",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "6cmの段差まで乗り越える全自動ロボット掃除機。ゴミ収集・モップ洗浄・温風乾燥までステーション任せ",
+      "points": [
+        "脚が伸びる独自機構で最大6cmの段差や二重の敷居、サッシのレールも走破。段差で行けない部屋が出にくい",
+        "最大20,000Paの吸引に、ゴミ自動収集・モップ洗浄・温風乾燥まで行う全自動ステーションで日々の手間を減らせる",
+        "段差越えは静音・衝撃吸収を考慮した設計で、3万回の昇降テストをクリアしたとされる"
+      ],
+      "tags": [
+        "ロボット掃除機",
+        "全自動",
+        "段差越え"
+      ],
+      "dateAdded": "2026-09-28",
+      "status": "new",
+      "sources": [
+        "https://news.mynavi.jp/article/20250312-3150677/",
+        "https://kakakumag.com/seikatsu-kaden/?id=21888",
+        "https://my-best.com/products/7114901",
+        "https://www.tikgadget.jp/dreame-x50-ultra-review/"
+      ]
+    },
+    {
+      "id": "scansnap-ix2500",
+      "name": "ScanSnap iX2500",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "書類を一気に電子化する定番ドキュメントスキャナーの新世代。100枚給紙・毎分45枚でペーパーレスが捗る",
+      "points": [
+        "スキャン速度が毎分40枚から45枚に、原稿の搭載枚数は50枚から100枚に向上し、大量の書類をまとめて処理できる",
+        "5インチのタッチパネル（従来機は4.3インチ）とWi-Fi 6・USB Type-Cに対応し、PCなしでも扱いやすい",
+        "型番が一気に上がった久々のフルモデルチェンジ。派手さはないが「地味ながら素晴らしい進化」と評される"
+      ],
+      "tags": [
+        "ペーパーレス",
+        "スキャナー",
+        "書類整理"
+      ],
+      "dateAdded": "2026-09-28",
+      "status": "new",
+      "sources": [
+        "https://macfan.book.mynavi.jp/article/58435/",
+        "https://xtech.nikkei.com/atcl/nxt/column/18/00087/00394/",
+        "https://dig-it.media/thundervolt/article/874995/",
+        "https://kadekura.com/ix2500-vs-ix1600/"
       ]
     }
   ]
