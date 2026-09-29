@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-28",
+    "lastUpdated": "2026-09-30",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10440,6 +10440,58 @@
         "https://xtech.nikkei.com/atcl/nxt/column/18/00087/00394/",
         "https://dig-it.media/thundervolt/article/874995/",
         "https://kadekura.com/ix2500-vs-ix1600/"
+      ]
+    },
+    {
+      "id": "tiger-cookpot-cok-b220",
+      "name": "タイガー TIGER COOKPOT COK-B220",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "低圧でほったらかし調理できる電気圧力鍋。43のオートメニューで失敗しにくく、内鍋も軽くて洗いやすい",
+      "points": [
+        "約1.15気圧の低圧で調理する「うま圧」を搭載。減圧は約7分と短く、野菜の形を保ったまま味が染みる仕上がり",
+        "1台11役（うま圧・高速・スロー・低温・無水・発酵・ベイク・炊飯・茹で・温め・炒め）で、オート43メニューなら材料を入れて任せられる",
+        "内鍋が軽くお手入れが簡単との声が多く、電気圧力鍋の入門機として評価されている"
+      ],
+      "tags": [
+        "電気圧力鍋",
+        "自動調理",
+        "時短"
+      ],
+      "dateAdded": "2026-09-30",
+      "status": "new",
+      "sources": [
+        "https://kakakumag.com/seikatsu-kaden/?id=21440",
+        "https://www.tiger-corporation.com/ja/jpn/product/multi-cooker/cok-b/",
+        "https://360life.shinyusha.co.jp/articles/-/50250",
+        "https://www.rentio.jp/products/cok-b220/reviews"
+      ]
+    },
+    {
+      "id": "xiaomi-magnetic-power-bank-10000-stand",
+      "name": "Xiaomi Magnetic Power Bank 10000（スタンド内蔵）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "スタンド内蔵のマグネット式モバイルバッテリー。充電しながらスマホを立てて使え、ケーブル一体で持ち歩きが楽",
+      "points": [
+        "約80°まで開く内蔵スタンドで、縦横どちらでも充電中に動画視聴やビデオ通話ができる",
+        "13Nの磁力でiPhone 16系にしっかり固定でき、ワイヤレス最大15W。L字の一体型USB-Cケーブルと別のUSB-Cポートは各最大33W",
+        "10,000mAhでiPhone 16 Proを約2回充電でき、4,780円ほどからと手が出しやすい"
+      ],
+      "tags": [
+        "モバイルバッテリー",
+        "MagSafe",
+        "スタンド"
+      ],
+      "dateAdded": "2026-09-30",
+      "status": "new",
+      "sources": [
+        "https://www.notebookcheck.net/New-Xiaomi-Magnetic-Power-Bank-with-integrated-stand-launching-in-more-markets.1114693.0.html",
+        "https://www.91mobiles.com/reviews/xiaomi-magnetic-power-bank-10000mah-review/",
+        "https://www.mi.com/uk/product/xiaomi-magnetic-power-bank-10000-with-built-in-stand/",
+        "https://news.yahoo.co.jp/expert/articles/e0532b4aa5cb2692a4d73cc17e58eb3f6e90147f"
       ]
     }
   ]
