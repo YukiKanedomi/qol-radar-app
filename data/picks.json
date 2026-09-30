@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-09-30",
+    "lastUpdated": "2026-10-01",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10492,6 +10492,81 @@
         "https://www.91mobiles.com/reviews/xiaomi-magnetic-power-bank-10000mah-review/",
         "https://www.mi.com/uk/product/xiaomi-magnetic-power-bank-10000-with-built-in-stand/",
         "https://news.yahoo.co.jp/expert/articles/e0532b4aa5cb2692a4d73cc17e58eb3f6e90147f"
+      ]
+    },
+    {
+      "id": "logicool-mx-brio-700",
+      "name": "ロジクール MX BRIO 700",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "4Kセンサーとデュアルマイクを積んだロジクールのフラッグシップWebカメラ。暗い部屋でも顔が自然に映り、会議の印象が変わる",
+      "points": [
+        "従来モデルより約70%大きいセンサーとSTARVISで、薄暗い環境でもノイズが出にくく自然な色で映る",
+        "ノイズリダクション付きのデュアルビームフォーミングマイクを内蔵し、Zoom会議でも声が聞き取りやすい",
+        "アルミ筐体とプライバシーシャッター付き。約3万円と高めだがレビューでは投資価値ありとの評価（価格.com満足度4.17）"
+      ],
+      "tags": [
+        "Webカメラ",
+        "オンライン会議",
+        "4K"
+      ],
+      "dateAdded": "2026-10-01",
+      "status": "new",
+      "sources": [
+        "https://kakakumag.com/pc-smartphone/?id=20726",
+        "https://taishon.jp/mx-brio-700/",
+        "https://review.kakaku.com/review/K0001611615/"
+      ]
+    },
+    {
+      "id": "ugreen-nexode-air-65w",
+      "name": "UGREEN Nexode Air 65W",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "約75gのフリスク級に小さい65W充電器。MacBook Airもスマホも1台でまかなえ、カバンの中身が軽くなる",
+      "points": [
+        "約33×31×40mm・約75gで、従来の65W充電器より約74%小型化。プラグは折りたたみ式",
+        "100W対応の編組USB-Cケーブルが付属し、PD/PPS対応でMacBook Airからスマホまで充電できる",
+        "ケーブル付き4,580円ほどと手が出しやすい。ポートは1つで高出力時は発熱するため、出張・サブ用途向け"
+      ],
+      "tags": [
+        "充電器",
+        "GaN",
+        "持ち運び"
+      ],
+      "dateAdded": "2026-10-01",
+      "status": "new",
+      "sources": [
+        "https://makuring.jp/ugreen-nexode-air65w/",
+        "https://note.com/mocchan/n/n12e3ed66ad2f",
+        "https://koredo.hatenablog.com/entry/2026/05/13/205221"
+      ]
+    },
+    {
+      "id": "thanko-torun-ultrasonic-stain-cleaner",
+      "name": "サンコー 超音波シミ洗浄 トルン",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "なぞるだけで衣類のシミを超音波で落とす充電式のシミ取り機。食べこぼしや襟汚れの応急処置が手軽になる",
+      "points": [
+        "幅広の超音波ブレードで広い範囲に一気に当てられ、短時間で済む。衣類を傷めにくい",
+        "USB充電式で場所を選ばず、実売6,980円ほど（トルン2）",
+        "新しい汚れには効果が高い一方、酸化した古いシミやペンキ等は苦手という限界も各レビューで指摘されている"
+      ],
+      "tags": [
+        "シミ取り",
+        "超音波",
+        "洗濯"
+      ],
+      "dateAdded": "2026-10-01",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/column_review/kaden/2120748.html",
+        "https://ascii.jp/elem/000/004/089/4089313/",
+        "https://360life.shinyusha.co.jp/articles/-/43838"
       ]
     }
   ]
