@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-01",
+    "lastUpdated": "2026-10-02",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10567,6 +10567,56 @@
         "https://kaden.watch.impress.co.jp/docs/column_review/kaden/2120748.html",
         "https://ascii.jp/elem/000/004/089/4089313/",
         "https://360life.shinyusha.co.jp/articles/-/43838"
+      ]
+    },
+    {
+      "id": "airpods-max-2",
+      "name": "Apple AirPods Max 2",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "約5年ぶりに刷新されたApple製ヘッドホン。H2チップでノイキャンが強化され、飛行機や街の喧騒を静かに遠ざける",
+      "points": [
+        "H2チップと複数マイクでノイズキャンセリングが従来比約1.5倍。静寂感が最大の価値とレビューされている",
+        "適応型オーディオ・会話感知・ライブ翻訳など AirPods Pro 3 相当の機能を搭載し、Apple機器間の自動切替も快適",
+        "価格は89,800円と高価で、外観やイヤーパッドは先代とほぼ同じという指摘もある"
+      ],
+      "tags": [
+        "ヘッドホン",
+        "ノイキャン",
+        "Apple"
+      ],
+      "dateAdded": "2026-10-02",
+      "status": "new",
+      "sources": [
+        "https://kajetblog.com/airpods-max-2-review/",
+        "https://av.watch.impress.co.jp/docs/review/minireview/2097591.html",
+        "https://www.gizmodo.jp/2026/04/airpods-max-2-review-us.html"
+      ]
+    },
+    {
+      "id": "uniball-zento",
+      "name": "uniball ZENTO（三菱鉛筆）",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "水性ボールペンの滑らかさと、にじみ・裏抜けの少なさを両立した新インク。発売後に品薄が続いたヒット作",
+      "points": [
+        "緩衝成分（POA界面活性剤）で筆記時の摩擦を従来品比約40%低減。やわらかい書き心地で手が疲れにくい",
+        "水性の弱点だったにじみ・裏抜けを抑え、線がきれいに出る",
+        "ベーシック/スタンダード275円から、シグニチャー3,300円まで選べる"
+      ],
+      "tags": [
+        "ボールペン",
+        "文房具",
+        "水性"
+      ],
+      "dateAdded": "2026-10-02",
+      "status": "new",
+      "sources": [
+        "https://www.watch.impress.co.jp/docs/news/1654653.html",
+        "https://www.gizmodo.jp/2025/10/uniball_zento.html",
+        "https://allabout.co.jp/gm/gc/509721"
       ]
     }
   ]
