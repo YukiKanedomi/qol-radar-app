@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-02",
+    "lastUpdated": "2026-10-03",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10617,6 +10617,81 @@
         "https://www.watch.impress.co.jp/docs/news/1654653.html",
         "https://www.gizmodo.jp/2025/10/uniball_zento.html",
         "https://allabout.co.jp/gm/gc/509721"
+      ]
+    },
+    {
+      "id": "iflytek-ainote-2",
+      "name": "iFLYTEK AINOTE 2",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "厚さ4.2mm・約295gの10.65型E-Inkノート。手書きしながら録音・文字起こし・翻訳・要約までこれ1台",
+      "points": [
+        "録音のリアルタイム文字起こしは16言語、翻訳は11言語に対応し、会議や講義のメモ作りを時短",
+        "iFLYTEKとWacomが共同開発した軽量19gの電磁式ペンで、紙に近い書き心地",
+        "バッテリーは最大111日持続し、充電の手間が少ない"
+      ],
+      "tags": [
+        "E-Ink",
+        "AI文字起こし",
+        "手書きノート"
+      ],
+      "dateAdded": "2026-10-03",
+      "status": "new",
+      "sources": [
+        "https://internet.watch.impress.co.jp/docs/shopping/2123284.html",
+        "https://dime.jp/genre/2060145/",
+        "https://www.yankodesign.com/2025/10/24/worlds-thinnest-e-ink-tablet-has-gpt-5-built-in-at-just-4-2mm/amp/"
+      ]
+    },
+    {
+      "id": "boox-go-6-gen2",
+      "name": "BOOX Go 6 (Gen II)",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "約160gの6型E Inkリーダー。Androidで好きな読書アプリが使え、ペン対応でメモも取れる",
+      "points": [
+        "300ppiの6型モノクロ電子ペーパーで、紙のように目が疲れにくい",
+        "Google Play対応で、Kindleなど普段の読書アプリをそのまま使える",
+        "別売ペン(InkSense Plus)でマーキングや手書きメモに対応。日本価格は32,800円"
+      ],
+      "tags": [
+        "電子書籍",
+        "E Ink",
+        "読書"
+      ],
+      "dateAdded": "2026-10-03",
+      "status": "new",
+      "sources": [
+        "https://www.techno-edge.net/release/prtimes2/20260609/23628.html",
+        "https://androidcentral.com/tablets/boox/for-a-bookworm-like-me-the-boox-go-6-gen-2-is-a-tiny-e-reader-thats-hard-to-ignore",
+        "https://wifihifi.com/boox-debuts-go-6-gen-ii-epaper-reader/"
+      ]
+    },
+    {
+      "id": "dyson-r2-nurovi-wash-dry",
+      "name": "Dyson R2 Nurovi Wash+Dry",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "吸引と水拭きを1台でこなすダイソンのロボット掃除機。ごみは最大90日分ドックに溜められる",
+      "points": [
+        "吸引力最大21,000Paで、ごみ量や床材を検知して自動で吸引力を調整",
+        "ルーローの三角形の水拭きパッドで壁際・隅まで拭け、カーペットでは9mm持ち上げて回避",
+        "8つのサイクロンのドックが最大90日分のごみを密閉回収。国内価格145,900円(2026年9月4日発売)"
+      ],
+      "tags": [
+        "ロボット掃除機",
+        "水拭き",
+        "ダイソン"
+      ],
+      "dateAdded": "2026-10-03",
+      "status": "new",
+      "sources": [
+        "https://kaden.watch.impress.co.jp/docs/news/2138308.html",
+        "https://gadget.phileweb.com/post-132395/",
+        "https://www.gizmodo.jp/article/dysons-latest-robovac-is-ideal-for-people-who-dont-care-about-mop-bots/"
       ]
     }
   ]
