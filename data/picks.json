@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-03",
+    "lastUpdated": "2026-10-04",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10692,6 +10692,58 @@
         "https://kaden.watch.impress.co.jp/docs/news/2138308.html",
         "https://gadget.phileweb.com/post-132395/",
         "https://www.gizmodo.jp/article/dysons-latest-robovac-is-ideal-for-people-who-dont-care-about-mop-bots/"
+      ]
+    },
+    {
+      "id": "asus-va27ucps-4k-usbc-monitor",
+      "name": "ASUS VA27UCPS 27型4Kモニター",
+      "genre": "work",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "USB-C 1本で映像・データ・65W給電まで済む、27型4Kの在宅ワーク向けモニター。国内5年保証つき",
+      "points": [
+        "USB-C(65W給電)対応で、ノートPCとケーブル1本で接続と充電が完結",
+        "チルト・スイベル・ピボット・昇降150mmの調整幅が広く、目の高さに合わせやすい",
+        "ノングレアIPSでフリッカーフリー・ブルーライト低減(TÜV認証)、国内5年保証"
+      ],
+      "tags": [
+        "モニター",
+        "4K",
+        "USB-C",
+        "在宅ワーク"
+      ],
+      "dateAdded": "2026-10-04",
+      "status": "new",
+      "sources": [
+        "https://pc.watch.impress.co.jp/docs/news/2015975.html",
+        "https://www.asus.com/displays-desktops/monitors/business/va27ucps",
+        "https://www.gizmodo.jp/article/amazon-timesale-2026-0108-1/"
+      ]
+    },
+    {
+      "id": "refa-straight-blow-iron",
+      "name": "ReFa STRAIGHT BLOW IRON",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "ブラシ型で「アイロンは難しい」を解消した、ブロー感覚で使えるヘアアイロン。朝の身支度の時短に",
+      "points": [
+        "ブラシ形状で、とかしながらブローするように使える(プロのブロー技法を再現する設計)",
+        "ダメージを抑えながらつややかなストレートに整える設計",
+        "カール用のCURL BLOW IRONもあり、2026年4月15日発売"
+      ],
+      "tags": [
+        "ヘアアイロン",
+        "ReFa",
+        "身支度",
+        "時短"
+      ],
+      "dateAdded": "2026-10-04",
+      "status": "new",
+      "sources": [
+        "https://www.fashionsnap.com/article/2026-03-27/refa-blow-iron/",
+        "https://nlab.itmedia.co.jp/fav/articles/3953479/",
+        "https://www.biteki.com/2138633/"
       ]
     }
   ]
