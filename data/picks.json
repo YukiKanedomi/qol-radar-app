@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-04",
+    "lastUpdated": "2026-10-06",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10744,6 +10744,60 @@
         "https://www.fashionsnap.com/article/2026-03-27/refa-blow-iron/",
         "https://nlab.itmedia.co.jp/fav/articles/3953479/",
         "https://www.biteki.com/2138633/"
+      ]
+    },
+    {
+      "id": "cio-smartcoby-pro-slim-ss",
+      "name": "CIO SMARTCOBY Pro SLIM SS",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 1,
+      "blurb": "発火リスクが低いとされる準固体バッテリー採用で、35W出力・200g未満。PCも充電できる手のひらサイズのモバイルバッテリー",
+      "points": [
+        "準固体(ゲル状電解質)タイプで、発火リスクを抑えた安全設計",
+        "USB-C 35W出力・計3ポートで、スマホだけでなくモバイルPCも充電可能",
+        "約187g・10000mAh(39.1Wh)の軽量ボディ、1%単位の残量表示つき"
+      ],
+      "tags": [
+        "モバイルバッテリー",
+        "準固体",
+        "CIO",
+        "35W"
+      ],
+      "dateAdded": "2026-10-06",
+      "status": "new",
+      "sources": [
+        "https://www.gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/",
+        "https://360life.shinyusha.co.jp/articles/-/55554",
+        "https://iphone-mania.jp/news-574466/",
+        "https://ascii.jp/elem/000/004/215/4215454/"
+      ]
+    },
+    {
+      "id": "nell-soon-recovery-wear",
+      "name": "NELL SOON 疲労回復リカバリーウェア",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "睡眠ブランドNELLとピップが共同開発した、一般医療機器の就寝用リカバリーウェア。着て寝るだけの疲労ケア",
+      "points": [
+        "遠赤外線を放射する無機化合物を繊維に練り込み、血行促進・疲労回復・筋肉のコリ改善が期待できる一般医療機器",
+        "寝返りしやすいワイドシルエットと高ストレッチ素材、タグレス仕様で夜間着用に配慮",
+        "速乾性は通常のパジャマの約2.7倍、ノーアイロンで洗濯の手間も軽い(2026年9月25日発売)"
+      ],
+      "tags": [
+        "リカバリーウェア",
+        "睡眠",
+        "NELL",
+        "ピップ"
+      ],
+      "dateAdded": "2026-10-06",
+      "status": "new",
+      "sources": [
+        "https://dime.jp/genre/2156830/",
+        "https://forbesjapan.com/articles/detail/105464",
+        "https://www.fashionsnap.com/article/2026-09-15/nell-recovery-wear/",
+        "https://newswitch.jp/p/2452"
       ]
     }
   ]
