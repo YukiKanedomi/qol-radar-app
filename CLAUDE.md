@@ -89,9 +89,9 @@
 - 収集は既存の **`/qol-radar` コマンド**を発展させ、出力先を「Driveのダイジェスト」だけでなく **`data/picks.json` への追記**にする。
   - 重複は `id`（kebab-case）で判定。既存idはスキップ、新顔のみ append。
   - `dateAdded` を付与。`status` は `new`。
-- 定期化：`/loop`（セッション中に自走）または `/schedule` のRoutine。
-  - データ追記後、`git commit` → `git push` で **GitHub Actions が自動ビルド&公開**（手動デプロイ不要）。蓄積→公開が一直線。
-- ※Web検索はクラウドでも確実。git push 自体のクラウド側自動化は要検証。まずは**手動 or loop で確実に**回す。
+- **定期化は実装済み・稼働中（2026-09-06 確認）**: タスクスケジューラ `QOLRadar-DailyCollect`（毎日 8:23）が `scripts/auto-collect.ps1` を起動し、収集→`data/picks.json` 追記→`git push` まで無人で行う（詳細は `scripts/README.md`）。
+  - データ追記後の push で **GitHub Actions が自動ビルド&公開**（手動デプロイ不要）。蓄積→公開が一直線。
+  - 止める: `Disable-ScheduledTask -TaskName 'QOLRadar-DailyCollect'`。状態: `Get-ScheduledTaskInfo -TaskName 'QOLRadar-DailyCollect'`。ジョブの作法は `headless-job` スキル。
 
 ## 8. ビルドのマイルストーン（新プロジェクトでの順序）
 
