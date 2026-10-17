@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-12",
+    "lastUpdated": "2026-10-18",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10826,6 +10826,31 @@
         "https://ascii.jp/elem/000/004/417/4417837/",
         "https://www.techno-edge.net/article/2026/07/09/5275.html",
         "https://dime.jp/genre/2135352/"
+      ]
+    },
+    {
+      "id": "xiaomi-tag",
+      "name": "Xiaomi Tag",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "Apple「探す」とGoogle「Find Hub」の両対応で1,980円。iPhone・Androidどちらでも使える紛失防止タグ",
+      "points": [
+        "AppleのFind MyとGoogleのFind Hubの両方に対応し、iPhone/Androidのどちらでも使える。AirTag第2世代（4,980円）の半額以下",
+        "マイベスト検証では位置情報の誤差が日比谷駅で約7m、約190m離れた地点で置き忘れ通知が届き、誤通知もなし",
+        "IP67防水防塵・10gで、ボタン電池（CR2032）で約1年持続。音量は約60dBでAirTagより控えめな点は留意"
+      ],
+      "tags": [
+        "紛失防止",
+        "Xiaomi",
+        "スマートタグ"
+      ],
+      "dateAdded": "2026-10-18",
+      "status": "new",
+      "sources": [
+        "https://monolab.tokyo/articles/11129",
+        "https://my-best.com/products/21067915",
+        "https://gori.me/?p=164060"
       ]
     }
   ]
