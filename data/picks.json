@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-18",
+    "lastUpdated": "2026-10-19",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10851,6 +10851,56 @@
         "https://monolab.tokyo/articles/11129",
         "https://my-best.com/products/21067915",
         "https://gori.me/?p=164060"
+      ]
+    },
+    {
+      "id": "technics-eah-az100",
+      "name": "Technics EAH-AZ100",
+      "genre": "gadget",
+      "trust": 3,
+      "priceTier": 2,
+      "blurb": "磁性流体ドライバー搭載のフラッグシップ完全ワイヤレス。音質・ノイキャン・3台マルチポイントを高水準で両立",
+      "points": [
+        "世界初の磁性流体ドライバーで歪みの少ないクリアな音。LDAC対応で、家電批評2026上半期ベストバイでも殿堂入り",
+        "アダプティブNCで走行音のような低い騒音もほぼ消え、外音取り込み量も調整可能。通話はVoice Focus AIで相手側の雑音も抑える",
+        "最大3台マルチポイントで切替が楽。公式39,600円と高価で、イヤーピースが外しにくい点は留意"
+      ],
+      "tags": [
+        "イヤホン",
+        "ノイキャン",
+        "Technics"
+      ],
+      "dateAdded": "2026-10-19",
+      "status": "new",
+      "sources": [
+        "https://av.watch.impress.co.jp/docs/review/review/1667789.html",
+        "https://360life.shinyusha.co.jp/articles/-/55407",
+        "https://tezlog.net/best-buy-2026/"
+      ]
+    },
+    {
+      "id": "iris-ohyama-fv-m30a-c-steam-airfryer",
+      "name": "アイリスオーヤマ 過熱水蒸気エアフライヤー FV-M30A-C",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "スチームを使い油なしでも唐揚げがジューシーに仕上がる3Lエアフライヤー。洗うのはバスケットとトレーだけ",
+      "points": [
+        "スチームモードでノンフライモードより約20%ジューシー（メーカー値）。仕上げは最大200℃でカリッと",
+        "サクサクモードで揚げ物の温め直しが可能、冷凍食品も解凍せず投入できる",
+        "洗うのはバスケットとトレーのみで手入れが楽。家電批評2026上半期ベストバイ選出、実勢8千〜2万円"
+      ],
+      "tags": [
+        "エアフライヤー",
+        "調理家電",
+        "アイリスオーヤマ"
+      ],
+      "dateAdded": "2026-10-19",
+      "status": "new",
+      "sources": [
+        "https://360life.shinyusha.co.jp/articles/-/55407",
+        "https://www.bcnretail.com/news/detail/20251211_579611.html",
+        "https://review.kakaku.com/review/K0001723436/"
       ]
     }
   ]
