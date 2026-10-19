@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-19",
+    "lastUpdated": "2026-10-20",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10901,6 +10901,32 @@
         "https://360life.shinyusha.co.jp/articles/-/55407",
         "https://www.bcnretail.com/news/detail/20251211_579611.html",
         "https://review.kakaku.com/review/K0001723436/"
+      ]
+    },
+    {
+      "id": "macbook-neo",
+      "name": "MacBook Neo",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "A18 Pro搭載の10万円前後のエントリーMac。初めてのMacや軽い作業中心なら十分な実力。",
+      "points": [
+        "A18 Pro搭載でM1 MacBook Pro級の処理性能、ブラウジングや書類作成は快適",
+        "約1.22kgのアルミボディと4色展開、iPhoneとの連携（AirDrop/Handoff等）が強力",
+        "弱点はメモリ8GB固定・外部ディスプレイ1台まで。用途がはまる人向け"
+      ],
+      "tags": [
+        "Mac",
+        "ノートPC",
+        "初めてのMac",
+        "iPhone連携"
+      ],
+      "dateAdded": "2026-10-20",
+      "status": "new",
+      "sources": [
+        "https://realsound.jp/tech/2026/03/post-2329797.html/amp",
+        "https://gori.me/macbookneo/164406",
+        "https://oggi.jp/7937000"
       ]
     }
   ]
