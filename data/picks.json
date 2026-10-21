@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-20",
+    "lastUpdated": "2026-10-22",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10927,6 +10927,56 @@
         "https://realsound.jp/tech/2026/03/post-2329797.html/amp",
         "https://gori.me/macbookneo/164406",
         "https://oggi.jp/7937000"
+      ]
+    },
+    {
+      "id": "iwatani-yakimaru-slim-cb-slg-3",
+      "name": "岩谷産業 スモークレス焼肉グリル やきまるスリム CB-SLG-3",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "カセットガス式で煙とにおいが少なく、部屋でも焼肉を楽しめる定番グリルの改良版。",
+      "points": [
+        "脂を水受け皿に落とす構造で煙が少なく、においも残りにくい",
+        "油飛びを防ぐ高さ約4.7cmのガード付きで、プレートと受け皿は外して洗える",
+        "電源不要のカセットガス式で実売6,000〜7,000円台と手が届きやすい"
+      ],
+      "tags": [
+        "焼肉",
+        "無煙",
+        "カセットガス",
+        "おうち時間"
+      ],
+      "dateAdded": "2026-10-22",
+      "status": "new",
+      "sources": [
+        "https://my-best.com/products/7828761",
+        "https://www.bepal.net/archives/237532"
+      ]
+    },
+    {
+      "id": "panasonic-lamdash-palm-in-pro-6",
+      "name": "パナソニック ラムダッシュ パームイン PRO 6枚刃（ES-P650U/P680U/P690U）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 3,
+      "blurb": "手のひらサイズのまま6枚刃になり、ワイヤレス充電にも対応した新世代シェーバー。",
+      "points": [
+        "6枚刃で、長くクセのあるヒゲのカット率が5枚刃モデルの約2倍（パナソニック調べ）",
+        "毎分約14,000ストロークのリニアモーター。持ち手のない形状でなでるように使える",
+        "ワイヤレス充電対応。上位モデルは洗浄・乾燥・充電ができるポッド付き"
+      ],
+      "tags": [
+        "シェーバー",
+        "身だしなみ",
+        "ワイヤレス充電",
+        "時短"
+      ],
+      "dateAdded": "2026-10-22",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/article/lamdash-pro-6/",
+        "https://www.rentio.jp/matome/panasonic-amdash-esp690-review/"
       ]
     }
   ]
