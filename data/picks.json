@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-22",
+    "lastUpdated": "2026-10-27",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -10977,6 +10977,31 @@
       "sources": [
         "https://www.gizmodo.jp/article/lamdash-pro-6/",
         "https://www.rentio.jp/matome/panasonic-amdash-esp690-review/"
+      ]
+    },
+    {
+      "id": "huawei-freebuds-pro-5",
+      "name": "HUAWEI FreeBuds Pro 5（ノイキャンイヤホン）",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "約2.9万円でAirPods Pro 3級のノイキャンと抜けのよい音質。LDAC対応のAndroidと相性がよい",
+      "points": [
+        "Smart/Cozy/General/Ultraの4段階ノイキャンで、機内や地下鉄の低音域をよく抑える。人の声やカフェBGMなど中高域にも強い",
+        "11mmダイナミック＋マイクロプレーナー型のデュアルドライバーで、低音が締まりボーカルも埋もれにくい",
+        "ANCオンで単体約6時間・ケース込み約25時間。LDAC対応だが、独自のL2HCはHuawei端末限定、aptX/LE Audio非対応な点は要確認"
+      ],
+      "tags": [
+        "イヤホン",
+        "ノイズキャンセリング",
+        "LDAC",
+        "HUAWEI"
+      ],
+      "dateAdded": "2026-10-27",
+      "status": "new",
+      "sources": [
+        "https://www.digitaltrends.com/home-theater/huawei-freebuds-pro-5-review/",
+        "https://weekly.ascii.jp/elem/000/004/410/4410996/2/"
       ]
     }
   ]
