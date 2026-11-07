@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-10-27",
+    "lastUpdated": "2026-11-08",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -11002,6 +11002,57 @@
       "sources": [
         "https://www.digitaltrends.com/home-theater/huawei-freebuds-pro-5-review/",
         "https://weekly.ascii.jp/elem/000/004/410/4410996/2/"
+      ]
+    },
+    {
+      "id": "omron-upper-arm-blood-pressure-monitor",
+      "name": "オムロン 上腕式血圧計（HEM/HCRシリーズ）",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 2,
+      "blurb": "1973年の1号機から半世紀続く家庭用血圧計の定番。腕に巻いてボタンを押すだけで、毎日の測定が続けやすい",
+      "points": [
+        "1973年発売の1号機以来、累計販売はグローバルで3.5億台超（2023年4月末、オムロン発表）。1986年開始の大迫研究にも機器を提供し、家庭血圧測定の有用性が確かめられてきた",
+        "カフを正しく巻きやすい「フィットカフ」など腕帯を改良し続けている。約9千円のシンプル機から、スマホ連携や不規則脈の表示付きまで価格帯が幅広い",
+        "測定中は動かないこと、不規則脈の表示が出て気になるときは医師に相談することが推奨されている。数値の判断は自己判断せず医療者へ"
+      ],
+      "tags": [
+        "血圧計",
+        "オムロン",
+        "ロングセラー",
+        "健康管理"
+      ],
+      "dateAdded": "2026-11-08",
+      "status": "new",
+      "sources": [
+        "https://kyodonewsprwire.jp/release/202305095474",
+        "https://kakakumag.com/seikatsu-kaden/?id=16225"
+      ]
+    },
+    {
+      "id": "lpn-stretch-pole-ex",
+      "name": "LPN ストレッチポール EX",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "ジムやリハビリの現場でも使われる、仰向けに乗って脱力するだけの定番ほぐしポール。約1万円",
+      "points": [
+        "長さ98cm・直径15cmの円柱に背骨を預けて寝るだけ。自重で胸郭が開き、呼吸が深くなると複数の体験記が報告している（個人の体感）",
+        "アスレティックトレーナーが開発した製品で、肩・股関節をゆるめるベーシックセブンなどの体操が公式動画やDVDで学べる",
+        "硬めの素材なので背骨が痛むときはタオルを当てる声がある。降りるときは急に起き上がらず横向きにゆっくり。痛みや疾患があれば専門職に相談を"
+      ],
+      "tags": [
+        "ストレッチ",
+        "ポール",
+        "姿勢",
+        "ロングセラー"
+      ],
+      "dateAdded": "2026-11-08",
+      "status": "new",
+      "sources": [
+        "https://www.gizmodo.jp/2024/07/lpn-stretch-pole-review.html",
+        "https://www.lifehacker.jp/article/2411-lht-lpn-stretchpole/",
+        "https://www.tyojyu.or.jp/net/kenkou-tyoju/shintai-training/stretchpole.html"
       ]
     }
   ]
