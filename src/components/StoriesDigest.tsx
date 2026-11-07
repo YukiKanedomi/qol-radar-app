@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState, type TouchEvent } fr
 import { X } from "lucide-react";
 import type { Pick, PicksMeta } from "@/types";
 import { genreGradient, genrePhotoOverlay, resolveImage, shortLabel } from "@/lib/picks";
-import { buildDigest } from "@/lib/digest";
+import { buildDigest, digestPeriod } from "@/lib/digest";
 import { keepAscii } from "@/lib/text";
 
 const DUR = 4500;
@@ -40,6 +40,7 @@ export function StoriesDigest({
     () => buildDigest(picks, { mode: "weekly", limit: 12 }),
     [picks],
   );
+  const period = useMemo(() => digestPeriod(picks), [picks]);
   const slides = useMemo<Slide[]>(
     () => [
       { type: "intro" },
@@ -183,7 +184,7 @@ export function StoriesDigest({
       className="stories"
       role="dialog"
       aria-modal="true"
-      aria-label="今週のダイジェスト"
+      aria-label={period.title}
       ref={dialogRef}
     >
       <div className="stories-phone" onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
@@ -208,8 +209,8 @@ export function StoriesDigest({
 
         {/* header */}
         <div className="stories-hd">
-          <span className="logo">📡 {meta.title}</span>
-          <span>· 今週のダイジェスト</span>
+          <span className="logo">{meta.title}</span>
+          <span>· {period.title}</span>
           <button
             type="button"
             className="stories-close"
@@ -228,6 +229,7 @@ export function StoriesDigest({
           meta={meta}
           totalCount={picks.length}
           digest={digest}
+          period={period}
         />
 
         {/* tap zones（アクセシブルなボタン） */}
@@ -261,11 +263,13 @@ function StoryCard({
   meta,
   totalCount,
   digest,
+  period,
 }: {
   slide: Slide;
   meta: PicksMeta;
   totalCount: number;
   digest: Pick[];
+  period: ReturnType<typeof digestPeriod>;
 }) {
   if (slide.type === "intro") {
     return (
@@ -273,18 +277,28 @@ function StoryCard({
         <div className="inner">
           <div className="kicker">{meta.title}</div>
           <div className="big">
-            今週の
-            <br />
-            ダイジェスト
+            {period.fresh ? (
+              <>
+                今週の
+                <br />
+                ダイジェスト
+              </>
+            ) : (
+              <>
+                最近の追加
+                <br />
+                （{period.until}まで）
+              </>
+            )}
           </div>
           <p className="sub">
-            蓄積した <b>{totalCount}件</b> から、今週の{" "}
+            蓄積した <b>{totalCount}件</b> から、{period.word}の{" "}
             <b>注目 {digest.length}選</b>。
             <br />
             タップかスワイプで次へ、長押しで一時停止。
           </p>
         </div>
-        <div className="stories-hint">▶ タップでスタート</div>
+        <div className="stories-hint">{"▶︎"} タップでスタート</div>
       </div>
     );
   }
@@ -301,7 +315,7 @@ function StoryCard({
       >
         <div className="inner">
           <div className="kicker">まとめ</div>
-          <div className="big small">今週のジャンル内訳</div>
+          <div className="big small">{period.word}のジャンル内訳</div>
           <div className="statrow">
             {genreKeys.map((g) => (
               <div className="stat" key={g}>

@@ -37,7 +37,7 @@ export function SiteHeader({
     <header className="site-header">
       <div className="hbar">
         <div className="brand">
-          <span className="mark">📡</span>
+          <span className="mark" aria-hidden="true">良</span>
           <h1>{meta.title}</h1>
           <span className="en">Quality Goods Index</span>
         </div>
@@ -46,7 +46,7 @@ export function SiteHeader({
             type="button"
             className="digest-cta"
             onClick={onOpenDigest}
-            aria-label="今週のダイジェストを見る"
+            aria-label="ダイジェストを見る"
           >
             <Sparkles size={14} strokeWidth={2} />
             <span className="digest-cta-label">ダイジェスト</span>

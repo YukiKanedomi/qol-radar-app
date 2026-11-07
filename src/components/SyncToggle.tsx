@@ -16,7 +16,7 @@ export function SyncToggle({
   const live = status === "live";
   const error = status === "error";
   const label = error
-    ? "同期エラー（タップで再接続）"
+    ? "同期停止中（端末内に保存）・タップで再接続"
     : live
       ? "みんなと同期中（タップで停止）"
       : on

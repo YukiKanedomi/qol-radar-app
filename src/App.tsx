@@ -2,6 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Sparkles, ChevronRight } from "lucide-react";
 import type { PicksData } from "@/types";
 import { loadPicks, topSignals } from "@/lib/picks";
+import { digestPeriod } from "@/lib/digest";
 import {
   applyFilters,
   defaultFilterState,
@@ -200,6 +201,7 @@ export default function App() {
     [picks, filters, statuses, favorites, newIds],
   );
   const highlights = useMemo(() => topSignals(picks, 3), [picks]);
+  const period = useMemo(() => digestPeriod(picks), [picks]);
 
   if (error) {
     return (
@@ -243,7 +245,7 @@ export default function App() {
             <Sparkles size={18} strokeWidth={2} />
           </span>
           <span className="digest-banner-txt">
-            <b>今週のダイジェスト</b>
+            <b>{period.title}</b>
             <span>注目の良品を全画面スワイプで振り返る</span>
           </span>
           <ChevronRight size={20} strokeWidth={2} className="digest-banner-arrow" />

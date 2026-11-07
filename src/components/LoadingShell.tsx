@@ -8,7 +8,7 @@ export function LoadingShell() {
       <div className="site-header">
         <div className="hbar">
           <div className="brand">
-            <span className="mark">📡</span>
+            <span className="mark" aria-hidden="true">良</span>
             <h1>QOLレーダー</h1>
           </div>
         </div>

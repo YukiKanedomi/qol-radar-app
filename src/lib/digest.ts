@@ -76,3 +76,26 @@ function dateScore(iso: string): number {
   const n = Number(String(iso).replace(/-/g, ""));
   return Number.isFinite(n) ? n / 10000 : 0;
 }
+
+/**
+ * ダイジェストの呼び名。データ最新の追加日が7日以内なら「今週」、
+ * それより古ければ「最近の追加（M/Dまで）」と言い分ける（収集が止まっても嘘をつかない）。
+ */
+export function digestPeriod(picks: Pick[], now: Date = new Date()) {
+  const latest = picks.reduce((m, p) => (p.dateAdded > m ? p.dateAdded : m), "");
+  const t = Date.parse(latest);
+  const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
+  const fresh = !Number.isFinite(t) || today - t <= 7 * 86400000;
+  const until = Number.isFinite(t)
+    ? `${new Date(t).getUTCMonth() + 1}/${new Date(t).getUTCDate()}`
+    : "";
+  return {
+    fresh,
+    /** 「今週」/「最近」 */
+    word: fresh ? "今週" : "最近",
+    /** 最新の追加日（M/D） */
+    until,
+    /** 見出し用 */
+    title: fresh ? "今週のダイジェスト" : `最近の追加（${until}まで）`,
+  };
+}
