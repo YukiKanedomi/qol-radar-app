@@ -1,0 +1,42 @@
+[
+  {
+    "name": "アイリスオーヤマ 過熱水蒸気エアフライヤー FV-M30A-C",
+    "note": "2026-10-16 見送り。価格.com のお手入れ評価のみで独立した実使用レビュー不足",
+    "sources": [],
+    "firstSeen": "2026-10-16",
+    "lastChecked": "2026-10-16",
+    "tries": 1
+  },
+  {
+    "name": "Xiaomi Tag",
+    "note": "2026-10-16 見送り。出典がメーカー仕様・販売店記事・単一の編集部選定に偏る",
+    "sources": [],
+    "firstSeen": "2026-10-16",
+    "lastChecked": "2026-10-16",
+    "tries": 1
+  },
+  {
+    "name": "KINUJO Hair Dryer Voyage",
+    "note": "2026-10-16 見送り。実機レビューなし、重量の資料が食い違い（290g/363g）",
+    "sources": [],
+    "firstSeen": "2026-10-16",
+    "lastChecked": "2026-10-16",
+    "tries": 1
+  },
+  {
+    "name": "Anker Nano Power Bank MagGo Plus",
+    "note": "2026-10-29 見送り。メーカー発表とニュース記事中心で独立した実使用レビュー未確認",
+    "sources": [],
+    "firstSeen": "2026-10-29",
+    "lastChecked": "2026-10-29",
+    "tries": 1
+  },
+  {
+    "name": "Xiaomi Smart Band 11 Active",
+    "note": "2026-10-29 見送り。メーカー発表とニュース記事中心で独立した実使用レビュー未確認",
+    "sources": [],
+    "firstSeen": "2026-10-29",
+    "lastChecked": "2026-10-29",
+    "tries": 1
+  }
+]
