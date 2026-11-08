@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-11-08",
+    "lastUpdated": "2026-11-09",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -11053,6 +11053,33 @@
         "https://www.gizmodo.jp/2024/07/lpn-stretch-pole-review.html",
         "https://www.lifehacker.jp/article/2411-lht-lpn-stretchpole/",
         "https://www.tyojyu.or.jp/net/kenkou-tyoju/shintai-training/stretchpole.html"
+      ]
+    },
+    {
+      "id": "turk-classic-frying-pan",
+      "name": "Turk（ターク）クラシック 鉄フライパン",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "テフロンの消耗サイクルから卒業したい人の定番。柄まで一枚の鉄を打ち出した継ぎ目なしの鉄フライパン。24cmで約1万円",
+      "points": [
+        "1857年創業のドイツの鍛造メーカー製で、持ち手まで一体のため継ぎ目が傷まない。正しく手入れすれば半永久的に使える、と複数媒体が紹介している",
+        "蓄熱性が高く、肉は表面パリッと中しっとり。使い込むほど油がなじんで扱いやすくなる（個人の体験・媒体評）",
+        "油ならし（シーズニング）と使用後の水分飛ばしが必要で、26cmは約1.7kgと重く価格も高め。鉄フライパン初心者は無印などの廉価品から試す選択肢もある"
+      ],
+      "tags": [
+        "フライパン",
+        "鉄",
+        "長持ち",
+        "ロングセラー",
+        "買い替え"
+      ],
+      "dateAdded": "2026-11-09",
+      "status": "new",
+      "sources": [
+        "https://www.businessinsider.jp/article/285385/",
+        "https://www.bepal.net/gear/cookware/55805",
+        "https://www.timeout.jp/tokyo/ja/ショッピング/turk-iidaya-kappabashi"
       ]
     }
   ]
