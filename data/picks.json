@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-11-09",
+    "lastUpdated": "2026-11-12",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -11080,6 +11080,30 @@
         "https://www.businessinsider.jp/article/285385/",
         "https://www.bepal.net/gear/cookware/55805",
         "https://www.timeout.jp/tokyo/ja/ショッピング/turk-iidaya-kappabashi"
+      ]
+    },
+    {
+      "id": "anker-nano-power-bank-maggo-slim-5000",
+      "name": "Anker Nano Power Bank (5000mAh, MagGo, Slim)",
+      "genre": "gadget",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "厚さ8.6mmでMagSafe対応iPhoneに付けてもポケットに収まる薄型モバイルバッテリー",
+      "points": [
+        "厚さ約8.6mm・約120gで、iPhoneに付けたままでも持ち歩ける",
+        "Qi2対応の15Wワイヤレス充電とパススルー充電（有線20W）に対応",
+        "実測で充電中の端末温度は約36〜38℃と、発熱を抑える制御が評価されている"
+      ],
+      "tags": [
+        "モバイルバッテリー",
+        "MagSafe",
+        "薄型"
+      ],
+      "dateAdded": "2026-11-12",
+      "status": "new",
+      "sources": [
+        "https://nlab.itmedia.co.jp/cont/articles/3522760/",
+        "https://weekly.ascii.jp/elem/000/004/430/4430725/2/"
       ]
     }
   ]
