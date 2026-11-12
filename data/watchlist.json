@@ -18,13 +18,24 @@
   {
     "name": "くらしのマーケット（整理収納アドバイザー依頼）",
     "genre": "service",
-    "note": "評価・口コミがプラットフォーム内掲載中心で、独立した第三者の利用レビュー・専門家推奨が未確認",
+    "note": "評価・口コミがプラットフォーム内掲載中心で、独立した第三者の利用レビュー・専門家推奨が未確認 / 11-13 再確認: 公式マガジン・事業者ページのみで独立したブログ体験談出ず",
     "sources": [
       "https://curama.jp/magazine/730/",
       "https://curama.jp/home-organizer/tokyo/21/"
     ],
     "firstSeen": "2026-11-10",
-    "lastChecked": "2026-11-10",
+    "lastChecked": "2026-11-13",
+    "tries": 2
+  },
+  {
+    "name": "Dropbox 有料プラン（長期利用）",
+    "genre": "service",
+    "note": "長年使う人の実使用評価が出ず、見つかった記事は2017年の比較記事と公式ページのみ",
+    "sources": [
+      "https://gori.me/dropbox/100324"
+    ],
+    "firstSeen": "2026-11-13",
+    "lastChecked": "2026-11-13",
     "tries": 1
   }
 ]
