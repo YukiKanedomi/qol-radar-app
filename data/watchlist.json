@@ -37,12 +37,23 @@
   {
     "name": "ニチバン 足裏アーチ貼るだけプロテクター",
     "genre": "health",
-    "note": "DIMEの体験記1件のみで独立した2件目が未確認",
+    "note": "DIMEの体験記1件のみで独立した2件目が未確認 / 11-16 再確認: 独立した2件目出ず（DIMEのみ）",
     "sources": [
       "https://dime.jp/genre/2130242/"
     ],
     "firstSeen": "2026-11-15",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-16",
+    "tries": 2
+  },
+  {
+    "name": "ニトリ パラソル型物干し（3段・昇降式）",
+    "genre": "housework",
+    "note": "ねとらぼ等の紹介記事とニトリ公式の購入者の声のみで、独立した使用評価が未確認",
+    "sources": [
+      "https://nlab.itmedia.co.jp/research/articles/4052822/"
+    ],
+    "firstSeen": "2026-11-16",
+    "lastChecked": "2026-11-16",
     "tries": 1
   }
 ]
