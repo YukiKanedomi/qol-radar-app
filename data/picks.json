@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-11-12",
+    "lastUpdated": "2026-11-23",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -11104,6 +11104,31 @@
       "sources": [
         "https://nlab.itmedia.co.jp/cont/articles/3522760/",
         "https://weekly.ascii.jp/elem/000/004/430/4430725/2/"
+      ]
+    },
+    {
+      "id": "kajitonya-shitagoshirae-bowl",
+      "name": "家事問屋 下ごしらえボウル（18-8ステンレス）",
+      "genre": "housework",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "注ぎ口と内外の目盛り付き。プラ製ボウルから替えると下ごしらえの速さが変わる、燕三条のステンレスボウル",
+      "points": [
+        "注ぎ口があり、内外に目盛りが付いている。ヨムーノの筆者は「注ぎ口の有無で調理スピードが格段に違った」と評価",
+        "18-8ステンレス製で色・ニオイ移りに強く、フチがすっきりしていて洗いやすく乾きも早い",
+        "9・11・13の3サイズで、重なって収納できる。価格は1,430円（税込）〜と、プラ製より高めなのが難点"
+      ],
+      "tags": [
+        "キッチン",
+        "ステンレス",
+        "燕三条",
+        "買い替え"
+      ],
+      "dateAdded": "2026-11-23",
+      "status": "new",
+      "sources": [
+        "https://www.roomie.jp/2025/01/1383582/",
+        "https://yomuno.jp/posts/108024"
       ]
     }
   ]
