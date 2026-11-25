@@ -1,25 +1,15 @@
 [
   {
-    "name": "VibSpine（背骨まわり整体ツール）",
-    "genre": "health",
-    "note": "理学療法士・大学教授らの共同開発をうたうが、出典は machi-ya 系の紹介記事（Gizmodo/Lifehacker 同一内容）のみ。独立した使用評価が未確認（11/23再確認: 追加の独立レビューなし）",
+    "name": "ワンバンク（旧B/43・プリペイド型家計管理）",
+    "genre": "service",
+    "note": "FP推奨(提供元側)とITmedia資金調達記事のみ。独立した実使用評価が未確認（11/25再確認: アプリストアのレビューのみ）、既存 budget-app と近い（11/26再確認: アプリブのユーザー投稿のみ、独立メディア評価なし）",
     "sources": [
-      "https://www.lifehacker.jp/article/machi-ya-vibspine-start-657787/",
-      "https://www.gizmodo.jp/article/machi-ya-vibspine-review-657787/"
+      "https://blog.sonybank.jp/2022/01/sonybank0131-2.html",
+      "https://www.itmedia.co.jp/news/article/2411/12/1241112094/",
+      "https://okane-kenko.jp/media/b-43/"
     ],
-    "firstSeen": "2026-11-21",
-    "lastChecked": "2026-11-23",
+    "firstSeen": "2026-11-24",
+    "lastChecked": "2026-11-26",
     "tries": 3
-  },
-  {
-    "name": "104lab. 切りたくなるまな板（TPU）",
-    "genre": "housework",
-    "note": "ROOMIE(2025/10)の1件のみ。独立した2本目の実使用レビューが未確認",
-    "sources": [
-      "https://www.roomie.jp/2025/10/1608927/"
-    ],
-    "firstSeen": "2026-11-23",
-    "lastChecked": "2026-11-23",
-    "tries": 1
   }
 ]
