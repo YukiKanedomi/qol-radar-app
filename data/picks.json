@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-11-23",
+    "lastUpdated": "2026-11-27",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -11129,6 +11129,31 @@
       "sources": [
         "https://www.roomie.jp/2025/01/1383582/",
         "https://yomuno.jp/posts/108024"
+      ]
+    },
+    {
+      "id": "pudo-parcel-locker",
+      "name": "PUDOステーション（オープン型宅配ロッカー）",
+      "genre": "service",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "駅やコンビニ、マンション敷地などにある宅配ロッカー。受け取り先に指定すれば再配達も置き配の盗難も避けられ、発送にも使える",
+      "points": [
+        "受け取り先にPUDOを指定すると、暗証番号とサインで自分の荷物のロッカーだけが開く。All Aboutの筆者は、置き配の盗難や雨濡れを避けられ、数日の留守でも安心と評価",
+        "発送にも使える。家電Watchの筆者は、スマホでQRを作ってロッカーに入れるだけで、コンビニ持ち込みや集荷待ちが要らないと紹介",
+        "受け取り期限は納品完了日を含めて3日以内で、設置数は地域差がある。ヤマトの場合はクロネコメンバーズ登録が必要"
+      ],
+      "tags": [
+        "宅配",
+        "再配達",
+        "置き配対策",
+        "メルカリ"
+      ],
+      "dateAdded": "2026-11-27",
+      "status": "new",
+      "sources": [
+        "https://allabout.co.jp/gm/gc/516228/",
+        "https://kaden.watch.impress.co.jp/docs/column/kanhoo/1459311.html"
       ]
     }
   ]
