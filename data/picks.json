@@ -2,7 +2,7 @@
   "meta": {
     "title": "QOLレーダー",
     "description": "買ってよかった・QOL向上・時短・生活効率化アイテムの蓄積データ",
-    "lastUpdated": "2026-11-27",
+    "lastUpdated": "2026-11-28",
     "genres": {
       "gadget": "ガジェット・便利家電",
       "housework": "家事・暮らしの効率化",
@@ -11154,6 +11154,33 @@
       "sources": [
         "https://allabout.co.jp/gm/gc/516228/",
         "https://kaden.watch.impress.co.jp/docs/column/kanhoo/1459311.html"
+      ]
+    },
+    {
+      "id": "triggerpoint-mb1-massage-ball",
+      "name": "トリガーポイント MB1 マッサージボール",
+      "genre": "health",
+      "trust": 2,
+      "priceTier": 1,
+      "blurb": "理学療法士や整形外科医が自宅ケアに挙げる直径6.5cmの筋膜リリースボール。肩や腰のコリにピンポイントで圧をかけられ、カバンにも入る",
+      "points": [
+        "理学療法士のおなすな先生は健康グッズ記事で、コリをピンポイントに狙え、テニスボールより耐久性があると紹介。整形外科医のブログも首・肩の圧迫用に挙げている",
+        "ギズモードの筆者は、ローラーより接地面積が小さく圧が深く入るとし、壁と背中で挟んで肩・腰に使うのが良いと評価。ROOMIEの筆者は座ったままデスクで首肩や足裏に使え、持ち運べる点を評価",
+        "ボールは安定しにくくコントロールにコツが要る。素材が柔らかく爪を立てると傷がつく。価格は約2,500円"
+      ],
+      "tags": [
+        "筋膜リリース",
+        "肩こり",
+        "腰痛",
+        "セルフケア"
+      ],
+      "dateAdded": "2026-11-28",
+      "status": "new",
+      "sources": [
+        "https://onasunablog.com/minaitosonkenkouguzzu7sen/",
+        "https://ortho100p.com/entry/health22-5",
+        "https://www.gizmodo.jp/2025/03/trigger-point-massage-ball.html",
+        "https://www.roomie.jp/2024/04/1205191/"
       ]
     }
   ]
